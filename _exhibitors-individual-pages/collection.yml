@@ -1,0 +1,4 @@
+collections:
+  exhibitors-individual-pages:
+    output: true
+    order: []
