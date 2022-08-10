@@ -2,5 +2,5 @@ collections:
   singapore-pavilion-exhibitors:
     output: true
     order:
-      - Bakery/Bakery.md
+      - Bakery/Singapore Pavilion Exhibitors.md
       - Bakery/.keep
