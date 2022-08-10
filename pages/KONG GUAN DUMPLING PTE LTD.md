@@ -3,10 +3,6 @@ title: KONG GUAN DUMPLING PTE LTD
 permalink: /exhibitors/kong-guan-dumpling
 description: ""
 ---
-
-
-
-
 <head>
 <div class="flex-container">
 	<div class="flex-paragraph">
@@ -22,8 +18,8 @@ description: ""
 <br></br>
 		
 <body>
-		<div class="flex-container">
-			<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-container" style="display: flex; flex-direction: row;">
+			<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block; width: 50%">
 			<h4 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h4>
 			<div class="flex-paragraph">
 			<p style="margin-left: 10px;"><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Bakery</span></p> 
@@ -32,7 +28,7 @@ description: ""
 			<p style="margin-left: 10px; margin-bottom: 10px"><b>Looking for:</b> List of potential business partners</p>
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block; background-color: maroon;">
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block; background-color: maroon; width: 50%">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 		<p style="margin-left: 10px; text-transform: uppercase; color: white;">name</p> 
