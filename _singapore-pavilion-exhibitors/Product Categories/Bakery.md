@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Product Categories
 ---
 <link rel="stylesheet" href="/sgds.css"/>
-<div id="companies-result" style="display: flex; flex-wrap: wrap; padding: 10px">
+<div style="display: flex; flex-wrap: wrap; padding: 10px">
   
   <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px; display: block;">
       <div class="sgds-card-image" style="margin-top: 15px">
