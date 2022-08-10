@@ -4,18 +4,18 @@ permalink: /exhibitors/kong-guan-dumpling
 description: ""
 ---
 <head>
-<div class="flex-container">
 	<div class="flex-paragraph">
 		<p style="text-transform: uppercase">Booth no.</p></div>
-	<div class="flex-image"><img src=https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download/></div>
+<div class="flex-container" style="display: flex; flex-direction: row;">
+	<div class="flex-image" style="width: 40%;"><img src=https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download/></div>
 	<div class="flex-paragraph">
 		<h3 style="text-transform: uppercase; color: black;">KONG GUAN DUMPLING / PAU MFR PTE LTD</h3>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
 	</div>
 </div>
-</head>		
-		
+</head>
+		<br>
 <body>
 		<div class="flex-container" style="display: flex; flex-direction: row;">
 			<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block; width: 50%">
@@ -37,6 +37,7 @@ description: ""
 		</div>
 		</div>
 	</div>
+	<br>
 	<div class="flex-container">
 	<div class="flex-paragraph">
 		<h3 style="text-transform: uppercase">products</h3></div>
