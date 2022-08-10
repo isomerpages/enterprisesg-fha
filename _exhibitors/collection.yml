@@ -1,5 +1,4 @@
 collections:
   exhibitors:
     output: true
-    order:
-      - KONG GUAN DUMPLING PTE LTD.md
+    order: []
