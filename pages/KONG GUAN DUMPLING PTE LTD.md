@@ -15,7 +15,6 @@ description: ""
 	</div>
 </div>
 </head>		
-<br></br>
 		
 <body>
 		<div class="flex-container" style="display: flex; flex-direction: row;">
@@ -38,7 +37,6 @@ description: ""
 		</div>
 		</div>
 	</div>
-	<br></br>
 	<div class="flex-container">
 	<div class="flex-paragraph">
 		<h3 style="text-transform: uppercase">products</h3></div>
