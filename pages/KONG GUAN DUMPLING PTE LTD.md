@@ -16,16 +16,31 @@ description: ""
 		
 <body>
 		<div class="flex-container">
-		<div class="card sgds">
-		<
-		<h5 style="color: black;">General Information</h5>
+			<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+			<h5 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h5>
+			<div class="flex-paragraph">
+			<p style="margin-left: 10px;"><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Bakery</span></p> 
+			<p style="margin-left: 10px;"><b>Certifications:</b><span style="margin-left: 10px; background-color: lightgray;"> Certification 1</span>, <span style="margin-left: 10px; background-color: lightgray;"> Certification 2</span></p>
+			<p style="margin-left: 10px;"><b>Export Markets:</b> Markets</p>
+			<p style="margin-left: 10px; margin-bottom: 10px"><b>Looking for:</b> List of potential business partners</p>
+			</div>
+		</div>
 		
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<h5 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h5>
+		<div class="flex-paragraph">
+		<p style="margin-left: 10px;"><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Bakery</span></p> 
+		<p style="margin-left: 10px;"><b>Certifications:</b><span style="margin-left: 10px; background-color: lightgray;"> Certification 1</span>, <span style="margin-left: 10px; background-color: lightgray;"> Certification 2</span></p>
+		<p style="margin-left: 10px;"><b>Export Markets:</b> Markets</p>
+		<p style="margin-left: 10px; margin-bottom: 10px"><b>Looking for:</b> List of potential business partners</p>
+		</div>
+		</div>
 		
-		<div style="display: flex; flex-wrap: wrap; padding: 10px">
-	<div class="sgds-card-bakery" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
 			<p><small><strong>6L2-01</strong></small></p>
+		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
@@ -44,7 +59,3 @@ description: ""
           <p><a href="#" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
-  
-		
-<div style="flex: 1 1 47%; margin: 10px;"></div></div>
-	</body>
