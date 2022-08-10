@@ -15,10 +15,11 @@ third_nav_title: Product Categories
 <body>
 	<!-- To replicate exhibitors, copy from the <div class> line onwards to </div> after "Visit their page". -->
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
-	<div class="sgds-card-bakery" style="flex: 1 1 47%; margin: 10px; display: block;">
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
 			<p><small><strong>6L2-01</strong></small></p>
+		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
@@ -38,10 +39,11 @@ third_nav_title: Product Categories
       </div>
   </div>
   
-  <div class="sgds-card-bakery" style="flex: 1 1 47%; margin: 10px; display: block;">
+ <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
 			<p><small><strong>6L2-01</strong></small></p>
+		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
@@ -51,10 +53,12 @@ third_nav_title: Product Categories
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the page description. -->
+					<!-- Insert the exhibitor name... -->
           <p><strong>KONG GUAN DUMPLING / PAU MFR PTE LTD</strong></p>
 				</figure>
+				<!--...and description. -->
 				<p><small>Manufacturer of assorted dim sum and steamed buns</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="#" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
