@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Product Categories
 ---
 <link rel="stylesheet" href="/sgds.css"/>
+<p>Meet the Singapore Pavilion Exhibitors specialising in Bakery products.</p>
+
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
   
   <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px; display: block;">
