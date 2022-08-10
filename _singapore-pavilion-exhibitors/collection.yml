@@ -2,4 +2,5 @@ collections:
   singapore-pavilion-exhibitors:
     output: true
     order:
+      - Bakery.md
       - Singapore Pavilion Exhibitors.md
