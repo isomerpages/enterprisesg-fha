@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Product Categories/Beverages.md
-      - Product Categories/Bakery.md
       - Product Categories/.keep
+      - Product Categories/Bakery.md
+      - Product Categories/Beverages.md
