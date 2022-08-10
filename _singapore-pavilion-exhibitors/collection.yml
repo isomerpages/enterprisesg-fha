@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Overview/Overview.md
-      - Overview/.keep
+      - Product Categories/Overview.md
+      - Product Categories/.keep
