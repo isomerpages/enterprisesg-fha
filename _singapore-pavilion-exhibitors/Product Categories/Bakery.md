@@ -10,14 +10,14 @@ third_nav_title: Product Categories
   <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px; display: block;">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="https://d33wubrfki0l68.cloudfront.net/f5c2918860b2dce0c9527a718c5071c0bc504b09/c9b97/images/beex.png" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
-          <p><strong>BeeX</strong></p>
-          <small>BeeX is a spin-off from NUS that develops Hover-capable Autonomous Underwater Vehicles (HAUV).</small>
-          <p><a href="https://beex.sg/" target="_blank"><small>Visit their website</small></a></p>
+          <p><strong>KONG GUAN DUMPLING / PAU MFR PTE LTD</strong></p>
+          <small>Manufacturer of assorted dim sum and steamed buns</small>
+          <p><a href="https://beex.sg/" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
   
@@ -59,5 +59,3 @@ third_nav_title: Product Categories
   
   
 <div style="flex: 1 1 47%; margin: 10px;"></div></div>
-
-
