@@ -2,5 +2,6 @@ collections:
   singapore-pavilion-exhibitors:
     output: true
     order:
+      - Overview.md
       - Overview/Overview.md
       - Overview/.keep
