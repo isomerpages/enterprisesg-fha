@@ -17,7 +17,9 @@ third_nav_title: Product Categories
           </figure>
       </div>
       <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
           <p><strong>KONG GUAN DUMPLING / PAU MFR PTE LTD</strong></p>
+				</figure>
           <small>Manufacturer of assorted dim sum and steamed buns</small>
           <p><a href="https://beex.sg/" target="_blank"><small>Visit their page</small></a></p>
       </div>
