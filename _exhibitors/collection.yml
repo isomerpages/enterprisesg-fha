@@ -1,0 +1,4 @@
+collections:
+  exhibitors:
+    output: true
+    order: []
