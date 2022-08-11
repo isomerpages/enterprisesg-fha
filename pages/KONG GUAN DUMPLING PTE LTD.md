@@ -19,7 +19,7 @@ description: ""
 
 <body>
 		<div class="flex-container" style="display: flex; flex-direction: column;">
-		<div class="flex-container" style="media min-width: 700px; display: flex; flex-direction: row;">
+		<div class="flex-container" style="media min-width: 1000px; display: flex; flex-direction: row;">
 			<div class="card sgds" style="flex: 1 1 70%; display: block;">
 			<h4 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h4>
 			<div class="flex-paragraph">
