@@ -6,9 +6,9 @@ description: ""
 <head>
 	<div class="flex-paragraph">
 		<p style="text-transform: uppercase">6l2-01</p></div>
-<div class="flex-container" style="display: flex; flex-direction: row;">
-	<div class="flex-image" style="width: 40%;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
-	<div class="flex-paragraph">
+<div class="flex-container" style="display: flex; flex-wrap:wrap;">
+	<div class="flex-image" style="width: 30%;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
+	<div class="flex-paragraph" style="width: 70%;">
 		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
