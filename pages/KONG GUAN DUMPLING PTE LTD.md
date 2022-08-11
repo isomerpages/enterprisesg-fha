@@ -5,7 +5,7 @@ description: ""
 ---
 <head>
 	<div class="flex-paragraph">
-		<p style="text-transform: uppercase">Booth no.</p></div>
+		<p style="text-transform: uppercase">6l2-01</p></div>
 <div class="flex-container" style="display: flex; flex-direction: row; align-items:center;">
 	<div class="flex-image" style="width: 40%;"><img src=https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download></div>
 	<div class="flex-paragraph">
@@ -18,7 +18,8 @@ description: ""
 </head>
 
 <body>
-		<div class="flex-container" style="display: flex; flex-direction: row;">
+		<div class="flex-container" style="display: flex; flex-direction: column;">
+		<div class="flex-container" style="media min-width: 700px; display: flex; flex-direction: row;">
 			<div class="card sgds" style="flex: 1 1 70%; display: block;">
 			<h4 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h4>
 			<div class="flex-paragraph">
@@ -36,6 +37,7 @@ description: ""
 		<p style="margin-left: 10px; color: white;">Number</p>
 		<p style="margin-left: 10px; margin-bottom: 10px; color: white;">abc@gmail.com</p>
 		</div>
+			</div>
 		</div>
 	</div>
 	<br>
