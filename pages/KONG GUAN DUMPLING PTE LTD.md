@@ -12,7 +12,6 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
-		<br>
 	</div>
 </div>
 </head>
@@ -36,8 +35,7 @@ description: ""
 			</div>
 		</div>
 	<br>
-	<div class="flex-paragraph">
-		<h4 style="text-transform: uppercase; color: black;"><b>products</b><h4></div>
+		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 	<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1xzjH4a27aF_OPY5bcrYJPUV2KRlcqqxh&export=download"></div>
