@@ -6,10 +6,10 @@ description: ""
 <head>
 	<div class="flex-paragraph">
 		<p style="text-transform: uppercase">6l2-01</p></div>
-<div class="flex-container" style="display: flex; flex-direction: row; align-items:center;">
+<div class="flex-container" style="display: flex; flex-direction: row;">
 	<div class="flex-image" style="width: 40%;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
 	<div class="flex-paragraph">
-		<h3 style="text-transform: uppercase; color: black;">KONG GUAN DUMPLING / PAU MFR PTE LTD</h3>
+		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
 		<br>
@@ -18,10 +18,9 @@ description: ""
 </head>
 
 <body>
-		<div class="flex-container" style="display: flex; flex-direction: column;">
-		<div class="flex-container" style="media min-width: 1000px; display: flex; flex-direction: row;">
-			<div class="card sgds" style="flex: 1 1 70%; display: block;">
-			<h4 style="color: black; margin-top: 10px; margin-left: 10px;">General Information</h4>
+	<h4>General Information</h4>
+		<div class="flex-container" style="display: flex; flex-direction: row;"> 
+			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p style="margin-left: 10px;"><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Cooked Food</span></p> 
 			<p style="margin-left: 10px;"><b>Certifications:</b><span style="margin-left: 10px; background-color: lightgray;">HACCP Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> ISO 22000 Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> Tasty Singapore</span></p>
@@ -29,7 +28,7 @@ description: ""
 			<p style="margin-left: 10px; margin-bottom: 10px"><b>Looking for:</b> Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 45%; padding: 10px; display: block; background-color: maroon;">
+		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-items: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 		<p style="margin-left: 10px; text-transform: uppercase; color: white;">Daniel Ong</p> 
@@ -43,7 +42,7 @@ description: ""
 	<br>
 	<div class="flex-container">
 	<div class="flex-paragraph">
-		<h3 style="text-transform: uppercase">products</h3></div>
+		<h4 style="text-transform: uppercase">products</h4></div>
 		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 	<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1xzjH4a27aF_OPY5bcrYJPUV2KRlcqqxh&export=download"></div>
 	<div class="flex-paragraph">
