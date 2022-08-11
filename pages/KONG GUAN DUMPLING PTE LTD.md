@@ -19,7 +19,7 @@ description: ""
 
 <body>
 	<h4>General Information</h4>
-		<div class="flex-container" style="display: flex; flex-direction: column;"> 
+		<div class="flex-container" style="display: flex; flex-direction: row;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p style="margin-left: 10px;"><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Cooked Food</span></p> 
@@ -28,7 +28,7 @@ description: ""
 			<p style="margin-left: 10px; margin-bottom: 10px"><b>Looking for:</b> Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-items: center;">
+		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;"><b>Daniel Ong</b><br>Sales & Marketing Manager<br>+65 68490822<br>daniel.ong@kongguan.com.sg</p>
