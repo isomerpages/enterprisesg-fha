@@ -12,7 +12,7 @@ description: ""
 		<h3 style="text-transform: uppercase; color: black;">KONG GUAN DUMPLING / PAU MFR PTE LTD</h3>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
-		<p> </p>
+		<br>
 	</div>
 </div>
 </head>
