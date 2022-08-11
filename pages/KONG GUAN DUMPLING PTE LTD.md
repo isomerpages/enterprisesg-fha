@@ -6,8 +6,8 @@ description: ""
 <head>
 	<div class="flex-paragraph">
 		<p style="text-transform: uppercase">Booth no.</p></div>
-<div class="flex-container" style="display: flex; flex-direction: row;">
-	<div class="flex-image" style="width: 40%; align-items: center;"><img src=https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download/></div>
+<div class="flex-container" style="display: flex; flex-direction: row; align-items:center;">
+	<div class="flex-image" style="width: 40%;"><img src=https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download/></div>
 	<div class="flex-paragraph">
 		<h3 style="text-transform: uppercase; color: black;">KONG GUAN DUMPLING / PAU MFR PTE LTD</h3>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
