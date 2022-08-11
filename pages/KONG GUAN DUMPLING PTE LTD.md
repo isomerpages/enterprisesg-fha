@@ -44,6 +44,7 @@ description: ""
 	<div class="flex-container">
 	<div class="flex-paragraph">
 		<h3 style="text-transform: uppercase">products</h3></div>
+		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 	<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1xzjH4a27aF_OPY5bcrYJPUV2KRlcqqxh&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chocolate Fondue Bun</h6>
@@ -51,8 +52,9 @@ description: ""
 
 Come indulge in this gorgeously rich and loving chocolate delight that satisfies any sweet tooth!
 
-Take a Bite. Taste The Delight.</p><br>
+Take a Bite. Taste The Delight.</p></div>
 	</div>
+		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 		<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1vbgDQNjA7vZL2fuGlbaOqosWOsheZAlw&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Salted egg custard bun</h6>
@@ -60,8 +62,9 @@ Take a Bite. Taste The Delight.</p><br>
 
 Enticed with a hot molten salted egg custard filling that oozes out from the visually appealing and unique appearance of the bun, the flowy salted egg custard bun is perfect to pair with a cup of tea. It truly deserves a place as this bun is the most luxurious way to complete a hearty meal.
 
-Take a Bite. Taste The Delight.</p><br>
+Take a Bite. Taste The Delight.</p></div>
 	</div>
+		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 		<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1-t-qvhQ0nwyWlhRvXdTitcFmrT9m-PQo&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
@@ -69,18 +72,20 @@ Take a Bite. Taste The Delight.</p><br>
 
 Fluffy steamed bun with a beautiful mottled pattern of a mushroom, stuffed with tender shiitake mushroom tossed in truffle paste along with mock meat and mixed seasonings makes this a super scrumptious bun.
 
-Take a Bite. Taste The Delight.</p><br>
+Take a Bite. Taste The Delight.</p></div>
 		</div>
+		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 		<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p><br>
+		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
 	</div>
+		<div class="sgds card" style="flex: 1 1 47%; padding: 10px; display: block;">
 		<div class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1Bc9XqVyw__GXvazTphmtB_AffKaDt8pr&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p><br>
+		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
 	</div>
 	</div>
-</div>
+	</div>
 </body>
