@@ -24,7 +24,7 @@ description: ""
 			<p><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Cooked Food</span></p> 
 			<p><b>Certifications:</b><span style="margin-left: 10px; background-color: lightgray;">HACCP Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> ISO 22000 Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> Tasty Singapore</span></p>
 			<p><b>Export Markets:</b> Australia, Indonesia</p>
-			<p><b>Looking for:</b> Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
+			<p style="margin-bottom: 10px;"><b>Looking for:</b> Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
