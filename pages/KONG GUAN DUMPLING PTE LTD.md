@@ -6,7 +6,7 @@ description: ""
 <head>
 	<div class="flex-paragraph">
 		<p style="text-transform: uppercase">6l2-01</p></div>
-<div class="sgds-card" style="display: flex; flex-wrap:wrap;">
+<div style="display: flex; flex-wrap:wrap;">
 	<div class="card-sgds" style="flex: 1 1 30%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 70%; display: block;">
 		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
