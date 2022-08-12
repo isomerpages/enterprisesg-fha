@@ -265,7 +265,7 @@ third_nav_title: Product Categories
 				<!--...and description. -->
 				<p><small>Various types of seasonings and ingredients as well as food enhancers</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="exhibitors/np-foods" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/np-foods" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
@@ -288,7 +288,7 @@ third_nav_title: Product Categories
 				<!--...and description. -->
 				<p><small>Fresh eggs, pasteurized fresh eggs, pasteurized egg products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="exhibitors/n-n-agriculture" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/n-n-agriculture" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
@@ -311,7 +311,7 @@ third_nav_title: Product Categories
 				<!--...and description. -->
 				<p><small>Bakery/Noodles/Food Ingredients/Functional Ingredients</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="exhibitors/par-international-holdings" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/par-international-holdings" target="_blank"><small>Visit their page</small></a></p>
       </div>
 	</div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
