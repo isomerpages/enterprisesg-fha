@@ -21,8 +21,8 @@ description: ""
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category:</b><span style="margin-left: 10px; background-color: yellow;"> Cooked Food</span></p> 
-			<p><b>Certifications:</b><span style="margin-left: 10px; background-color: lightgray;">HACCP Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> ISO 22000 Certified</span>,<span style="margin-left: 10px; background-color: lightgray;"> Tasty Singapore</span></p>
+			<p><b>Product Category:</b><span style="margin-left: 10px; background-color: pink; border-radius: 10 px;">Cooked Food</span></p> 
+			<p><b>Certifications:</b> HACCP Certified, ISO 22000 Certified, Tasty Singapore</p>
 			<p><b>Export Markets:</b> Australia, Indonesia</p>
 			<p style="margin-bottom: 10px;"><b>Looking for:</b> Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
 			</div>
