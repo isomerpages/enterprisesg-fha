@@ -294,24 +294,24 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6K5-03</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6m1-08</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1AVEKojkBsz_n1zSF8-8oHPp5w3ozAyiP&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1aU0Xe93f-omy2MJU3DdsYRWyScbmlPuQ&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>n & n agriculture PTE LTD</strong></p>
+          <p style="text-transform: uppercase;"><strong>par international holdings PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Fresh eggs, pasteurized fresh eggs, pasteurized egg products</small></p>
+				<p><small>Bakery/Noodles/Food Ingredients/Functional Ingredients</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="exhibitors/n-n-agriculture" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="exhibitors/par-international-holdings" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	</body>
