@@ -30,7 +30,7 @@ description: ""
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
-			<p style="padding: 10px; color: white;"><b>Daniel Ong</b><br>Sales & Marketing Manager<br>+65 68490822<br><a href="daniel.ong@kongguan.com.sg" style="color: white;">daniel.ong@kongguan.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b>Daniel Ong</b><br>Sales & Marketing Manager<br>+65 68490822<br><a href="mailto:daniel.ong@kongguan.com.sg" style="color: white;">daniel.ong@kongguan.com.sg</a></p>
 		</div>
 			</div>
 		</div>
