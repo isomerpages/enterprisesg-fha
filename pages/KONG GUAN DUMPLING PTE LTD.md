@@ -8,10 +8,10 @@ description: ""
 		<p style="text-transform: uppercase">6l2-01</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
-	<div class="card-sgds" style="flex: 1 1 60%; display: block;">
+	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 2px">
 		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
-		<p><a href="www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
+		<p><a href="https://www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -30,7 +30,7 @@ description: ""
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
-			<p style="padding: 10px; color: white;"><b>Daniel Ong</b><br>Sales & Marketing Manager<br>+65 68490822<br>daniel.ong@kongguan.com.sg</p>
+			<p style="padding: 10px; color: white;"><b>Daniel Ong</b><br>Sales & Marketing Manager<br>+65 68490822<br><a href="daniel.ong@kongguan.com.sg" style="color: white;">daniel.ong@kongguan.com.sg</a></p>
 		</div>
 			</div>
 		</div>
