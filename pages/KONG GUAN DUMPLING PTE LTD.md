@@ -8,7 +8,7 @@ description: ""
 		<p style="text-transform: uppercase">6l2-01</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
-	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 2px">
+	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4>
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<p><a href="https://www.kongguan.com.sg" target="_blank">www.kongguan.com.sg</a></p>
