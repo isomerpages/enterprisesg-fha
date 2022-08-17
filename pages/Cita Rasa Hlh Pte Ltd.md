@@ -76,7 +76,7 @@ Fried Bee Hoon</h6>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1J6lPNMM2PgBwyjYstHjJdh316qhL1RKo&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chicken Ngoh Hiang</h6>
-		<p>OUR STAR FEATURE: chicken Ngoh Hiang is a traditional must have item during festivals and celebrations. This delicious chicken rolls wrapped in bean curd sheets has a crunchy exterior with a soft and chewy filling. Our ready to eat rolls are convenience and do not need extensive culinary proces </p></div>
+		<p>OUR STAR FEATURE: chicken Ngoh Hiang is a traditional must have item during festivals and celebrations. This delicious chicken rolls wrapped in bean curd sheets has a crunchy exterior with a soft and chewy filling. Our ready to eat rolls are convenience and do not need extensive culinary process </p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1_Z6YR5YMIVVlifT1-AWqzvvybcjXv-e5&export=download"></div>
