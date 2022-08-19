@@ -52,25 +52,25 @@ description: ""
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1MvQrWxZt8suIy1V5efLmpvM6oY-bJwYd&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">The Soup Spoon SG Chicken & Mushroom Ragout</h6>
-		<p>product description</p></div>
+		<p>“Parsley, Sage, Rosemary and Thyme…” as the song goes in Scarborough Fair/ Canticle released by the duo Simon and Garfunkel in 1966. This ragout pays tribute to one of the most influential music groups. Notably rich and creamy, this stew is filled with marinated chunks of chicken that are cooked together with six varieties of mushrooms and the infamous foursome herbs known for their mood-enhancing, cleansing and antioxidant abilities.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1mk1tRxCxFrQ3wDad_Bt40orSI1b6bYR8&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">The Soup Spoon Chilli Crab Sauce with Egg</h6>
+		<p>If you need just one party trick, this is it. Our rich and flavourful chilli crab sauce packs such a punch your guests will want to polish it off to its last bit.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1NRm3ka9LbU0eYysd06K5mFq3GK0_eLJk&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>prodcut description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">The Soup Spoon Black Pepper Crab Sauce</h6>
+		<p>Level up the natural goodness of seafood with this bold and peppery crowd-pleaser. It’s pepper and spice and everything nice</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1_axxy6redu_g173MgcWNFgyW1Qd5664l&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">The Soup Spoon Barramundi Kimchi Jjigae</h6>
+		<p>I am a big fan of kimchi and it made perfect sense to combine it with my favourite Singapore locally farmed barramundi from Kühlbarra into one melting pot of awesome comfort food! Barramundi has a clean taste, is high in omega 3 with nutrient-packed brain food benefits. Together with our housemade Kimchi Soup Stock. We are loving it on its own but we know it’s also souper with rice and noodles! Enjoy the appetising, fiery kimchi heat with the freshest barramundi!</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
