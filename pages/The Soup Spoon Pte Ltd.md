@@ -43,31 +43,31 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1iVNpFyzp7jzeGE0AfHV3xltLYvSvaUQd&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chocolate Fondue Bun</h6>
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->The Soup Spoon Velvety Mushroom Stroganoff</h6>
+		<p>Inspired by the Russian beef stroganoff, this soup is one of my favourite stews that I would always eat with noodles. I wanted to make sure my vegetarian friends who don’t take beef would be able to enjoy this wonderful soup, hence the chunky vegetarian version! Thick and chunky in texture, this soup of blended mushrooms with herbs is a mushroom lover’s dream come true.</p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1MvQrWxZt8suIy1V5efLmpvM6oY-bJwYd&export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">The Soup Spoon SG Chicken & Mushroom Ragout</h6>
 		<p>product description</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Salted egg custard bun</h6>
-		<p>product description</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive."></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1mk1tRxCxFrQ3wDad_Bt40orSI1b6bYR8&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
 		<p>product description</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1NRm3ka9LbU0eYysd06K5mFq3GK0_eLJk&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
 		<p>prodcut description</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1_axxy6redu_g173MgcWNFgyW1Qd5664l&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
 		<p>product description</p></div>
