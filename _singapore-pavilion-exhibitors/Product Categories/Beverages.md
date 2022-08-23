@@ -102,9 +102,9 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>H.W BIRDNEST TRADING PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Trading services company representing Peruvian and Asian health products suppliers</small></p>
+				<p><small>Manufacturer of bottled birdnest products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/actspand" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/hw-birdnest-trading" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
