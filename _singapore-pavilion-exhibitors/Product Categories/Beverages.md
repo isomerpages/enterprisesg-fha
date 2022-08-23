@@ -616,24 +616,24 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k1-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6l3-08</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1JSxoCPtChE4HqmLLgKeCN_NLPLvGQgme&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1AXZ02dDWvIyKi0Hq0tJuYG3ggOVHUKaK&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Unifood International (S) Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Wanin Industries Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Manufacturer of instant organic soya milk</small></p>
+				<p><small>Beverage Manufacturer, OEM, Private Labeling, Functional Carbonated Drinks</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/unifood-international" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/wanin-industries" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 </div>
