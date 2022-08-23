@@ -214,12 +214,12 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>ACTSPAND PTE LTD</strong></p>
+          <p style="text-transform: uppercase;"><strong>Hong Seafood Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Trading services company representing Peruvian and Asian health products suppliers</small></p>
+				<p><small>Frozen Seafood Suppliers</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/actspand" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/hong-seafood" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
