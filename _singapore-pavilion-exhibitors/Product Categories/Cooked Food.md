@@ -217,9 +217,9 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>Lim Kee Food Manufacturing Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Manufacturer of beverages & confectionery in Singapore</small></p>
+				<p><small>Manufacturer in Chinese Pau (filled steamed buns), frozen food, ready to eat meal</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/asia-farm-fnb" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/lim-kee-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
