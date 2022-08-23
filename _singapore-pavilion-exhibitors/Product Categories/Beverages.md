@@ -322,60 +322,83 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1vUs2hE8aemr_CFU3kWSQxgVYmQwCZU6Y&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1HIl6nB9nqgmFWvi87iZMOzQ7TtiU7KNi&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Lim Lam Thye Pte Ltd (Pryce Tea)</strong></p>
+          <p style="text-transform: uppercase;"><strong>Lovearth Water Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>TBC</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/lim-lam-thye" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/lovearth-water" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k3-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6l4-03</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1zhIad7OE2g1QenGAa8bhMxx17y-VCIW0&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1qM8sSOloRy-T3mAuFFz4jWzS57c626XL&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>ACTSPAND PTE LTD</strong></p>
+          <p style="text-transform: uppercase;"><strong>Nuvojoy Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Trading services company representing Peruvian and Asian health products suppliers</small></p>
+				<p><small>Manufacture and sales of health beverages and R&D consultancy</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/actspand" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/nuvojoy" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k3-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6l3-04</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1zhIad7OE2g1QenGAa8bhMxx17y-VCIW0&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1vuUrRFNorwBbPUTrWwLtBXfc97SfDbxf&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>ACTSPAND PTE LTD</strong></p>
+          <p style="text-transform: uppercase;"><strong>Optima-Daribell Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Thousand layer cake and other foodstuff</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/optima-daribell" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+	</div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6l4-06</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1GI7WRpKKrxz412Hhrz5CM-y57kO_Ie9X&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>POINT TO POINT EXPORTS PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Trading services company representing Peruvian and Asian health products suppliers</small></p>
