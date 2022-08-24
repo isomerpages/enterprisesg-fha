@@ -2,4 +2,5 @@ collections:
   about-the-event:
     output: true
     order:
+      - Discover Singapore's F&B Ecosystem.md
       - Overview.md
