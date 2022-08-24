@@ -55,14 +55,10 @@ description: ""
 		<p>Cook with ease, cook with Man Kee Sauce! Man Kee Garlic Sauce that can simply enhance the fragrance of your dishes. It is recommended to be cooked for steamed fish and seafood such as scallop or oyster, also seasoning for barbecue and vegetables. You will be surprised by how it taste like!</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1-t-qvhQ0nwyWlhRvXdTitcFmrT9m-PQo&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1CQfdfnGNKWxDfv_7N2nbwsiSyz-M51Jg&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
-		<p>Truffles are widely regarded as 'Diamonds of the Kitchen', prized for its intoxicatingly earthy aroma and used in the finest cuisines worldwide. You can now savor this exquisite delicacy in Kong Guan’s Truffle Mushroom Bun. 
-
-Fluffy steamed bun with a beautiful mottled pattern of a mushroom, stuffed with tender shiitake mushroom tossed in truffle paste along with mock meat and mixed seasonings makes this a super scrumptious bun.
-
-Take a Bite. Taste The Delight.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Man Kee Salted Fish Paste 260g</h6>
+		<p>An authentic and traditional sauces produce in Hong Kong, Man Kee Salted fish paste, which can make your dishes more flavourful and giving an umami aroma without adding any other seasoning because it has a mix of saltiness and fragrance. It is recommended to be used as flavouring for fried rice, stir-fried beans and vegetables, as well as steamed fish and meat patties.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&export=download"></div>
