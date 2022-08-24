@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Overview.md
-      - Product Categories/Snacks and Confectionery.md
-      - Product Categories/Seafoood.md
-      - Product Categories/Rice and Noodles.md
-      - Product Categories/Oils and Sauces.md
-      - Product Categories/Meat.md
       - Product Categories/.keep
-      - Product Categories/Others.md
       - Product Categories/Bakery.md
       - Product Categories/Beverages.md
       - Product Categories/Cooked Food.md
       - Product Categories/Eggs and Fresh Produce.md
+      - Product Categories/Meat.md
+      - Product Categories/Oils and Sauces.md
+      - Product Categories/Rice and Noodles.md
+      - Product Categories/Seafoood.md
+      - Product Categories/Snacks and Confectionery.md
+      - Product Categories/Others.md
