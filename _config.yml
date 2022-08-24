@@ -3,16 +3,16 @@ url: ""
 favicon: /images/singapore-brand-logo.png
 colors:
   primary-color: "#e7131a"
-  secondary-color: "#414042"
+  secondary-color: "#fb433d"
   media-colors:
     - title: media-color-one
       color: "#d91218"
     - title: media-color-two
-      color: "#fb433d"
-    - title: media-color-three
       color: "#f57262"
-    - title: media-color-four
+    - title: media-color-three
       color: "#fcd6ca"
+    - title: media-color-four
+      color: "#414042"
     - title: media-color-five
       color: "#7f7f7f"
 description: Discover the Singapore Pavilion Exhibitors featured at FHA-F&B 2022!
