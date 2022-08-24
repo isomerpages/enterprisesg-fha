@@ -2,5 +2,5 @@ collections:
   about-the-event:
     output: true
     order:
-      - Discover Other Events.md
       - Overview.md
+      - Discover Other Events.md
