@@ -14,15 +14,15 @@ sections:
       button: Browse here
       url: /singapore-pavilion-exhibitors
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: About FHA-F&B 2022
+          description: Learn more about FHA 2022!
+          url: https://www.fhafnb.com/
         - title: Highlight B
           description: Find out what makes Singapore the d
           url: https://gmail.com
         - title: Why Singapore?
-          description: Find out what makes Singapore
-          url: /privacy/
+          description: Discover local opportunities.
+          url: /why-singapore
   - infobar:
       title: Infobar title
       subtitle: Subtitle
