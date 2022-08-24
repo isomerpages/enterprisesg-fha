@@ -107,5 +107,28 @@ third_nav_title: Product Categories
           <p><a href="/exhibitors/leong-guan-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6l2-12</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1a8lsJknuKzbpCuS3tdQ3WN9qWy5eNKn-&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Hiap Giap Food Manufacture Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacture and distribution of noodles and related products</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/hiap-giap-food" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
 </div>
 </body>
