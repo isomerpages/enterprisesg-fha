@@ -2,7 +2,6 @@ collections:
   singapore-pavilion-exhibitors:
     output: true
     order:
-      - Floorplan.md
       - Overview.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
@@ -15,3 +14,4 @@ collections:
       - Product Categories/Seafood.md
       - Product Categories/Snacks and Confectionery.md
       - Product Categories/Others.md
+      - Floorplan.md
