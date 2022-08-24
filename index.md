@@ -12,10 +12,10 @@ sections:
         Beverage 2022.
       background: /images/hero-banner.png
       button: Browse here
-      url: /singapore-pavilion-exhibitors
+      url: /singapore-pavilion-exhibitors/bakery
       key_highlights:
         - title: About FHA-F&B 2022
-          description: Learn more about the even.
+          description: Learn more about the event.
           url: /about-the-event/overview
         - title: Why Singapore?
           description: Discover local opportunities.
