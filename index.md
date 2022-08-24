@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: FHA-F&B 2022 - Singapore Pavilion Exhibitors
+description: Discover the Singapore Pavilion Exhibitors featured at FHA-F&B 2022!
+image: /images/fha-logo.png
 permalink: /
 notification: ""
 sections:
@@ -36,3 +36,4 @@ sections:
       button: directions
       url: https://www.fhafnb.com/essential-info/venue/
 ---
+
