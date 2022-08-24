@@ -102,9 +102,9 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>Leong Guan Food Manufacturing Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Supplier of sauces, noodles, pastes, and oil</small></p>
+				<p><small>Noodle and beancurd products manufacturer</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/amigo-sg" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/leong-guan-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 </div>
