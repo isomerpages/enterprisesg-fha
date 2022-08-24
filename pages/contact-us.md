@@ -16,13 +16,13 @@ locations:
     title: Enterprise Singapore
 contacts:
   - content:
-      - phone: +65 6898 1800
-      - email: ""
+      - phone: ""
+      - email: foodmfg@enterprisesg.gov.sg
       - other: ""
-    title: Enterprise Infoline
+    title: EnterpriseSG Food Mfg
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: globalbusiness@smfederation.org.sg
       - other: ""
-    title: Careers
+    title: SMF
 ---
