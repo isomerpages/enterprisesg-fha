@@ -15,11 +15,14 @@ sections:
       url: /singapore-pavilion-exhibitors/product-categories
       key_highlights:
         - title: About FHA-F&B 2022
-          description: Learn more about FHA 2022!
-          url: https://www.fhafnb.com/
+          description: Learn more about the even.
+          url: /about-the-event
         - title: Why Singapore?
           description: Discover local opportunities.
           url: /why-singapore
+        - title: What's on in Singapore?
+          description: Explore our F&B ecosystem!
+          url: /
   - infobar:
       title: Singapore's Food Manufacturing Industry
       description: Characterised by diversity, passion, and innovation behind every
