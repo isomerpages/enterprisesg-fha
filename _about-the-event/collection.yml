@@ -1,4 +1,5 @@
 collections:
   about-the-event:
     output: true
-    order: []
+    order:
+      - Overview.md
