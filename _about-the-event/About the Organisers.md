@@ -12,6 +12,8 @@ and internationally. Current membership stands at about 5,000 members comprising
 
 For more information, please visit [SMF](https://www.smfederation.org.sg/). 
 
+![](/images/ESG-Logo-Pantone.png)
+
 ### Enterprise Singapore
 
 *Enterprise Singapore is the Singapore government agency championing enterprise development. It also supports the growth of Singapore as a hub for global trading and startups.*
