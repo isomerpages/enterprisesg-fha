@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Product Categories/Rice and Noodles.md
       - Product Categories/Oils and Sauces.md
       - Product Categories/Meat.md
       - Product Categories/.keep
