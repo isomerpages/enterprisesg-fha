@@ -153,5 +153,143 @@ third_nav_title: Product Categories
           <p><a href="/exhibitors/mei-heong-yuen" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6k3-03</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1_rw5snvg0aZXzPq0BnPsTQZ6RLZeQ7Rw&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>nature 2000 PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Import and distribution of health products, sauces, cooked food</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/nature-2000" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6k2-05</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1nTGiIbSavuDVx9pP1bwu92RyhPK9i92X&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Orient Foods PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Specialise in noodles, sauces, canned products, ready meal kits and snack products</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/orient-foods" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6l3-01</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1-qBKmcEoqASrJZXCwbG2woVrOqPdf0s6&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Prima Food Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer & distributor of ready-to-cook meal sauce kits & cooking sauces</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/prima-food" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6J3-01</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1cPMDE2WTRxU_znCqTU-SNqel1tzLZ59W&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>SYED MOHAMED TRADERS (SINGAPORE) PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Rice, spices, lentils, dairy products and packing / wholesale and export</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/syed-mohamed-traders" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6j3-14</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1wzVkaFC_GSCC_naVZcISPfgwgGBZg_tR&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Tan Seng Kee Foods Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of rice and wheat-based noodle products</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/tan-seng-kee" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>TBC</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1cEYxIlZPv9If3Wrak4PaIPqfO39BUegp&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Vega Foods Corp Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Trading of dairy products, pasta, edible oil, paste, canned meat, margarine, canned fish, snacks, carbonated soft drinks, seasoning, sauces and dressing</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/vega-foods" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
 </div>
 </body>
