@@ -12,27 +12,28 @@ sections:
         Beverage 2022.
       background: /images/hero-banner.png
       button: Browse here
-      url: /singapore-pavilion-exhibitors
+      url: /singapore-pavilion-exhibitors/product-categories
       key_highlights:
         - title: About FHA-F&B 2022
           description: Learn more about FHA 2022!
           url: https://www.fhafnb.com/
-        - title: Highlight B
-          description: Find out what makes Singapore the d
-          url: https://gmail.com
         - title: Why Singapore?
           description: Discover local opportunities.
           url: /why-singapore
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Singapore's Food Manufacturing Industry
+      description: Characterised by diversity, passion, and innovation behind every
+        product and dish, Singapore is a renowned food capital in Asia.
+      button: FIND OUT MORE
+      url: /singapore-pavilion-exhibitors/overview
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
