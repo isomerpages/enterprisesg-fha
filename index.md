@@ -26,12 +26,6 @@ sections:
         product and dish, Singapore is a renowned food capital in Asia.
       button: FIND OUT MORE
       url: /singapore-pavilion-exhibitors/overview
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
