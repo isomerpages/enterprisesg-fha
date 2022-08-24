@@ -30,12 +30,12 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Baker's Oven Patiseries</strong></p>
+          <p style="text-transform: uppercase;"><strong>Baker's Oven Pattisieries</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of frozen dough, bakery & confectionery products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/bakers-oven-patiseries" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/bakers-oven-pattisieries" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
