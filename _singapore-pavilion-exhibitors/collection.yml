@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Product Categories/Snacks and Confectionery.md
       - Product Categories/Seafoood.md
       - Product Categories/Rice and Noodles.md
       - Product Categories/Oils and Sauces.md
