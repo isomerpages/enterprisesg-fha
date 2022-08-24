@@ -61,16 +61,16 @@ description: ""
 		<p>An authentic and traditional sauces produce in Hong Kong, Man Kee Salted fish paste, which can make your dishes more flavourful and giving an umami aroma without adding any other seasoning because it has a mix of saltiness and fragrance. It is recommended to be used as flavouring for fried rice, stir-fried beans and vegetables, as well as steamed fish and meat patties.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=13Z8mQ4hYLBBF_KC78RSlAgJmO1Qwraxz&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Sina Ginger Candy</h6>
+		<p>Sina Ginger Candy from Indonesia is made using all natural ingredients: a simple formula of ginger, cane sugar, and tapioca starch. Ginger has long been known for a wide variety of health benefits: everything from helping with digestion, to a natural breath freshener, to an aphrodisiac. Smooth, chewy texture (slightly thicker and heavier than taffy), with excellent spicy taste that lingers after you've eaten it.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Bc9XqVyw__GXvazTphmtB_AffKaDt8pr&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1xHlT35_56pWMqtn4xnMDaKPOzweqmZyQ&export=downloadd"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Chewy Jiang Xi Rice Stick 400g</h6>
+		<p>Jiang Xi Rice Stick is one of the most popular food in Hong Kong, you can easily find rice stick from restaurants' menu. The ingredient for Chewy Jiang Xi Rice Stick is just as simple as high quality rice and water without any food additive. It is produced through soaking, milling and drying process in order to create a smooth and chewy texture.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
