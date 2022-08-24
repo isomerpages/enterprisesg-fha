@@ -391,42 +391,42 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1t9-gVW49k_yv7ve1gar0WinxUz8weol8&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1PmOM_MKfUpscb2DquFw735qU2Tsi2u1a&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Amigo SG Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>TAI HUA FOOD INDUSTRIES PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Supplier of sauces, noodles, pastes, and oil</small></p>
+				<p><small>Manufacturer & supplier of ready to cook sauces, braising sauce & soy sauce</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/amigo-sg" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/tai-hua-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6j2-11</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6j4-01</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1t9-gVW49k_yv7ve1gar0WinxUz8weol8&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=17AjoJ0CLJS603j6xY5felvv7rNZFiEFK&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Amigo SG Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Thai Sing Foodstuffs Industry Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Supplier of sauces, noodles, pastes, and oil</small></p>
+				<p><small>Maufacturer of wide range of Chinese sauces & Nonya paste products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/amigo-sg" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/thai-sing-foodstuffs" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 </div>
