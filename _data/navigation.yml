@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Why Singapore?
     url: /why-singapore
+  - title: About the Event
+    collection: about-the-event
   - title: Singapore Pavilion Exhibitors
     collection: singapore-pavilion-exhibitors
   - title: Contact Us
