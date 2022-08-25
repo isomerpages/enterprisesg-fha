@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Pavilion Exhibitors
+      title: FHA-F&B Singapore Pavilion Exhibitors
       subtitle: Meet the Singapore Pavilion Exhibitors featured at FHA-Food and
         Beverage 2022.
       background: /images/hero-banner.png
@@ -36,4 +36,3 @@ sections:
       button: directions
       url: https://www.fhafnb.com/essential-info/venue/
 ---
-
