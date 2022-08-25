@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Singapore Pavilion Exhibitors
     collection: singapore-pavilion-exhibitors
+  - title: Why Singapore?
+    url: /why-singapore
