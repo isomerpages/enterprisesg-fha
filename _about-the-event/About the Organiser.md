@@ -3,6 +3,7 @@ title: About the Organiser
 permalink: /about-the-event/organisers
 description: ""
 ---
+## Organised By:
 
 ### Singapore Manufacturing Federation (SMF)
 
@@ -12,6 +13,8 @@ Established since 1932, the SMF represents the interest of the manufacturing com
 and internationally. Current membership stands at about 5,000 members comprising SME, MNCs and Affiliate members.
 
 For more information, please visit [SMF](https://www.smfederation.org.sg/). 
+
+## Supported By:
 
 ![](/images/ESG-Logo-Pantone.png)
 
