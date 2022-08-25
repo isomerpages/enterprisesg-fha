@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - About the Organisers.md
+      - About the Organiser.md
       - Discover Other Events.md
