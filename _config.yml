@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://enterprisesg-fha-staging.netlify.app
 prod: https://enterprisesg-fha-prod.netlify.app
-shareicon: /images/fha-logo.png
+shareicon: /images/FHFB_2022_Logo stand alone.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
