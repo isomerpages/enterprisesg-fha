@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-the-event/overview
 description: ""
 ---
-![](/images/fha-logo.png)
+![](/images/FHFB_2022_with_date.png)
 
 ### About FHA-Food & Beverage
 
@@ -24,4 +24,3 @@ renowned manufacturers and brands hailing from
 
 For more information,
 please visit [FHA-F&B](https://www.fhafnb.com/).
-
