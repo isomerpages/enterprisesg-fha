@@ -75,26 +75,34 @@ description: ""
 			- Packing formats available : 6s / 10s / 15s egg boxes or 30s egg trays</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1-t-qvhQ0nwyWlhRvXdTitcFmrT9m-PQo&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1bQ7ZF1yvXOOjldquJDHibPsty7f0tRFC&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
-		<p>Truffles are widely regarded as 'Diamonds of the Kitchen', prized for its intoxicatingly earthy aroma and used in the finest cuisines worldwide. You can now savor this exquisite delicacy in Kong Guan’s Truffle Mushroom Bun. 
-
-Fluffy steamed bun with a beautiful mottled pattern of a mushroom, stuffed with tender shiitake mushroom tossed in truffle paste along with mock meat and mixed seasonings makes this a super scrumptious bun.
-
-Take a Bite. Taste The Delight.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Egg Story Pasteurized Liquid Egg (Chiller or frozen)</h6>
+		<p>- Made from nutritious and tasty fresh eggs produced in Singapore daily
+			- 100% free from preservatives and artificial colouring
+			- Stringent pasteurization process to ensure Food Safety
+			- Convenient, Ready to use
+			- Labour and Cost Savings
+			- Laying flock not administered any antibiotics
+			- ISO 22000 certified quality control standards
+			- Hygienic & Biosecure Singapore farm facilities for maximum food safety
+			- Packing in pillow bags of various sizes (1kg, 2kg, 5kg) – chilled or frozen</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1_fNi_B6DYAiEwUn8Rzo5rGZ54iQmWQUy&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Bc9XqVyw__GXvazTphmtB_AffKaDt8pr&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Egg story Pasterized Soft Yolk Ramen Egg (Marinated)</h6>
+		<p>- Authentic Japanese recipe. Delectable taste
+			- Made from nutritious and tasty fresh eggs produced in Singapore daily
+			- 100% free from preservatives and artificial colouring
+			- Stringent pasteurization process to ensure Food Safety
+			- Convenient, Ready to eat or use
+			- Labour and Cost Savings
+			- Laying flock not administered any antibiotics
+			- ISO 22000 certified quality control standards
+			- Hygienic & Biosecure Singapore farm facilities for maximum food safety
+			- Marinated or non-marinated depending on preference
+			- Packing in trays of 20 pieces in sauce or boiled water, based on preference</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
