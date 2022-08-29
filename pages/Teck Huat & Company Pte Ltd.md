@@ -1,6 +1,6 @@
 ---
 title: Teck Huat & Company Pte Ltd
-permalink: /exhibitors/teck-huat-company
+permalink: /exhibitors/teck-huat-company/
 description: ""
 ---
 <head>
