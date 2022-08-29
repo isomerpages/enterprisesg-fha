@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Cathy</b><br><!-- designation-->Sales & Marketing Manager<br><!--contact number-->+65 68490822<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:daniel.ong@kongguan.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->daniel.ong@kongguan.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Cathy</b><br><!-- designation-->Manager<br><!--contact number-->+65 91089801<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:cathy.l@vegafoods.com" style="color: white;"><!--...and also include the display email before </a> here-->cathy.l@vegafoods.com</a></p>
 		</div>
 			</div>
 		</div>
@@ -43,34 +43,32 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1FW61-xRus7-_GbtpB1b5J5zT8S1rC-XG&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chocolate Fondue Bun</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Thailand Jasmine Rice and Indian Basmati Rice</h6>
+		<p>Carbe Diem…. Seize the day, energized!! 
+Carbohydrates are essential for your daily activities and our products offer to assist your vital functions in an appetizing way. We bring a wide range of various Thai, Indian and Vietnamese Rice.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1MfcluoVb5YHzUIXAqIhYY20-g2UEYlt1&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Salted egg custard bun</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Canned Fish</h6>
+		<p>Fish so good, you will wish it in every dish… Vega-spree with Omega-3! 
+Our fish is caught fresh from the sea. We offer a wide variety - Pilchards, Sardines, Tuna, and Mackerel in various recipes. Your recipes + our canned fish = Magic! You can even choose to feast directly from the cans of pre-cooked goodness!</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive."></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1i8hkPMLXoCR_qtGkfqmzQgDTlbHMCO6v&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Dairy</h6>
+		<p>V for Vega, V for Vivacity! 
+Dairy is vital for maintenance and well-being of the body. The calcium aids kids in building strong bones & teeth. Other nutrients, such as protein, vitamin D and potassium contribute significantly to overall growth. We offer you and your family a vivacious start to the day with her broad range of dairy products from the best farms around.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1pOjRuHlYTtmmM30hDrmNOa1Uat1ptX5V&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>prodcut description</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>product description</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Confectionary</h6>
+		<p>Crackerjack of all tastes...
+The confectionary range is another RTE (Ready to Eat) category with a selection of delicious varieties like centre filled cream biscuits, corn sticks and wafers - all ideal teatime companions. So snack on….</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
