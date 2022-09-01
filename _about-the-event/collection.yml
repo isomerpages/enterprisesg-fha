@@ -1,0 +1,7 @@
+collections:
+  about-the-event:
+    output: true
+    order:
+      - Overview.md
+      - About the Organiser.md
+      - Discover Other Events.md

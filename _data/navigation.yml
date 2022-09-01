@@ -1,13 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/FHFB_2022_with_date.png
 links:
+  - title: Why Singapore?
+    url: /why-singapore
+  - title: About the Event
+    collection: about-the-event
+  - title: Singapore Pavilion Exhibitors
+    collection: singapore-pavilion-exhibitors
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
