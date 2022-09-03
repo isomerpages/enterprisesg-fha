@@ -46,31 +46,20 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=16LQ7h30C18ScDmlTPYVGXcbyKeDmrsdm&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Bauer Fru Fru Yoghurt</h6>
-		<p>Bauer Fru Fru Yoghurt is a well-known brand in Germany that brought many wonderful childhood memories for the Germans. The source of the dairy comes from the region in Alpine foothills, which emphasizes on pure natural ingredients.
-
-
-
-</p></div>
+		<p>Bauer Fru Fru Yoghurt is a well-known brand in Germany that brought many wonderful childhood memories for the Germans. The source of the dairy comes from the region in Alpine foothills, which emphasizes on pure natural ingredients.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1rfU4UTRhoifkNVkP9HjUhI9y6KL2S9gw&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Fruttose</h6>
-		<p>Fruttose has been our top seller in B2B wholesale as well as for home bakers in our Wheat retail outlets. The chosen fruits by Fruttosé are minimally processed to maximize and maintain the best fruit texture and natural flavours of the fruit. Fruttose can be use for spreads, as well as a bakeable jam with high fruit content.
-
-
-</p></div>
+		<p>Fruttose has been our top seller in B2B wholesale as well as for home bakers in our Wheat retail outlets. The chosen fruits by Fruttosé are minimally processed to maximize and maintain the best fruit texture and natural flavours of the fruit. Fruttose can be use for spreads, as well as a bakeable jam with high fruit content.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1tw-fMunxaamgvhrVCo8BQqwaGXsE5xiM&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Ryoto Ester SP</h6>
-		<p>Ryoto Ester SP is a  product of Mitsubishi Chemical Corporation that has been widely used in Japan and globally since the 1960s in the bakery sector. This versatile gel improvement is tasteless & colorless which has been the trade secret for many pastry chefs & bakers for their wonderful bakes. It helps in retaining product shape & batter stability, moisture of finished products under different storage conditions & aims to increase batter overrun volume by10-20%.
-
-  
-
-</p></div>
+		<p>Ryoto Ester SP is a  product of Mitsubishi Chemical Corporation that has been widely used in Japan and globally since the 1960s in the bakery sector. This versatile gel improvement is tasteless & colorless which has been the trade secret for many pastry chefs & bakers for their wonderful bakes. It helps in retaining product shape & batter stability, moisture of finished products under different storage conditions & aims to increase batter overrun volume by 10-20%.</p></div>
 		</div>
 	</div>
 </body>
