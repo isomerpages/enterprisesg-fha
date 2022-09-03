@@ -1,6 +1,6 @@
 ---
 title: ACTSPAND PTE LTD
-permalink: /exhibitors/actspand
+permalink: /exhibitors/actspand/
 description: ""
 ---
 <head>
@@ -10,12 +10,12 @@ description: ""
 		<p style="text-transform: uppercase">6K3-08</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src=""></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1zhIad7OE2g1QenGAa8bhMxx17y-VCIW0&export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Actspand pte ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Trading services company representing Peruvian and Asian health products suppliers</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://organicandwholesale.com" target="_blank"><!--insert the www website link here (no need for https)-->https://organicandwholesale.com</a></p>
+		<p><a href="https://organicandwholesale.com" target="_blank"><!--insert the www website link here (no need for https)-->organicandwholesale.com</a></p>
 	</div>
 </div>
 </head>
