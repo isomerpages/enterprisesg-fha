@@ -1,6 +1,6 @@
 ---
 title: Chuen Cheong Food Industries Pte Ltd
-permalink: /exhibitors/chuencheong-food-industries
+permalink: /exhibitors/chuencheong-food-industries/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>chuen cheong food industries pte ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer & distributor of superior quality Soya Sauce, Chilli Sauce & other condiments</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.chuencheong.com" target="_blank"><!--insert the www website link here (no need for https)-->www.chuencheong.com</a></p>
+		<p><a href="https://www.chuencheong.com" target="_blank"><!--insert the www website link here (no need for https)-->www.chuencheong.com</a></p>
 	</div>
 </div>
 </head>
@@ -26,9 +26,9 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Oils and Sauces</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> HACCP Certified, "Healthier Choice" Certified, ISO 22000 Certified, ISO 9001 Certified, Halal Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> HACCP Certified, Healthier Choice Certified, ISO 22000 Certified, ISO 9001 Certified, Halal Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Cambodia, Egypt, Indonesia, Malaysia, Nepal, Taiwan Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
