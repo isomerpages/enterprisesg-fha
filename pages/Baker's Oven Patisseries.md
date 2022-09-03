@@ -1,10 +1,8 @@
 ---
 title: Baker's Oven Patisseries
-permalink: /exhibitors/bakers-oven-pattisieries
+permalink: /exhibitors/bakers-oven-pattisieries/
 description: ""
 ---
-
-
 <head>
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
@@ -17,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Baker's Oven Pattisieries</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of frozen dough, bakery & confectionery products</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="[https://www.bakersoven.com.sg](https://www.bakersoven.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->(https://www.bakersoven.com.sg/)</a></p>
+		<p><a href="https://www.bakersoven.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.bakersoven.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -27,7 +25,7 @@ description: ""
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery, Snacks and Confectionery</span></p> 
+			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, ISO 9001 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Cambodia</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers</p>
