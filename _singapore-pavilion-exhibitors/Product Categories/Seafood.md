@@ -1,10 +1,9 @@
 ---
 title: Seafood
-permalink: /singapore-pavilion-exhibitors/seafood
+permalink: /singapore-pavilion-exhibitors/seafood/
 description: ""
 third_nav_title: Product Categories
 ---
-
 <link rel="stylesheet" href="/sgds.css"/>
 <!-- Hi there! This is a comment. These will provide you with instruction guides ok! -->
 
@@ -267,29 +266,6 @@ third_nav_title: Product Categories
 				<p><small>Frozen seafood / Fresh 2 Frozen Seafood</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/exhibitors/the-seafood-company" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-  </div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k3-11</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1m_yIENMiN5Wd0W2vO2qPTCc5-87RsCvY&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Wahyu Brand Pte Ltd</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Manufacturers of pastries and crackers</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/wahyu-brand" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 </div>
