@@ -1,6 +1,6 @@
 ---
 title: Beverages
-permalink: /singapore-pavilion-exhibitors/beverages
+permalink: /singapore-pavilion-exhibitors/beverages/
 description: ""
 third_nav_title: Product Categories
 ---
@@ -202,52 +202,6 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6L4-01</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1-Qs8zfGQxCov-H3vfQv48K3DRqrgStr1&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Hong Seafood Pte Ltd</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Frozen Seafood Suppliers</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/hong-seafood" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-  </div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k3-01</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1AZE9NJpaBejOYe3I-0Al8UNttm0XbUNr&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Jin Food Manufacturing Pte Ltd</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Manufacturing of lion dance meatball</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/jin-food-manufacturing" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-  </div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
 			<p style="text-transform: uppercase;"><small><strong>6K4-05</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
@@ -363,29 +317,6 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6l3-04</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1vuUrRFNorwBbPUTrWwLtBXfc97SfDbxf&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Optima-Daribell Pte Ltd</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Thousand layer cake and other foodstuff</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/optima-daribell" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-	</div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
 			<p style="text-transform: uppercase;"><small><strong>6l4-06</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
@@ -409,29 +340,6 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6j4-03</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1fbuIuEVtqEfIrRB9ZryHSds5aVE5GoVL&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Sheng Aik Trading Pte Ltd</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Confectionery, snacks and cereal milk drinks</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/sheng-aik-trading" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-  </div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
 			<p style="text-transform: uppercase;"><small><strong>6l3-11</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
@@ -450,52 +358,6 @@ third_nav_title: Product Categories
 				<p><small>Wholesaler and exporter of FMCG products, such as beverages, snacks, confectionery, etc.</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/exhibitors/spartan-bizcorp" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-  </div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6f5-01</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1tMN0uwQi-aO027Siq2m3VJkptmW4qJU9&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>SUVAI FOODS PTE LTD</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Manufacturer of Indian foods, tea, and oils</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/suvai-foods" target="_blank"><small>Visit their page</small></a></p>
-      </div>
-	</div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6m3-01</strong></small></p>
-		</div>
-      <div class="sgds-card-image" style="margin-top: 15px">
-          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1ueNzlLhWY8_oD2gPctu-XC5Xs-WFVyM-&export=download" style="object-fit: scale-down; max-width: 100%;
-      max-height: 100%;">
-          </figure>
-      </div>
-      <div class="sgds-card-content">
-				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
-					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>TAN SOON MUI FOOD INDUSTRIES</strong></p>
-				</figure>
-				<!--...and description. -->
-				<p><small>Manufacturer of traditional Asian desserts (jelly products)</small></p>
-				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/tan-soon-mui" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
