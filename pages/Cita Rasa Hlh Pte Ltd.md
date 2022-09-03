@@ -1,6 +1,6 @@
 ---
 title: Cita Rasa Hlh Pte Ltd
-permalink: /exhibitors/cita-rasa-hlh
+permalink: /exhibitors/cita-rasa-hlh/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Cita Rasa Hlh Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of Ngoh Hiang And Traditional Chinese Snacks</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://citarasa.sg/" target="_blank"><!--insert the www website link here (no need for https)-->https://citarasa.sg/</a></p>
+		<p><a href="https://citarasa.sg/" target="_blank"><!--insert the www website link here (no need for https)-->citarasa.sg</a></p>
 	</div>
 </div>
 </head>
