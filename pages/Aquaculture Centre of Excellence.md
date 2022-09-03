@@ -1,6 +1,6 @@
 ---
 title: Aquaculture Centre of Excellence
-permalink: /exhibitors/aquaculture-centres-excellence
+permalink: /exhibitors/aquaculture-centres-excellence/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Aquaculture centre of excellence</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Fresh, tasty, safe and hygiene food fish</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://www.ace-fishmarket.com/" target="_blank"><!--insert the www website link here (no need for https)-->https://www.ace-fishmarket.com/</a></p>
+		<p><a href="https://www.ace-fishmarket.com/" target="_blank"><!--insert the www website link here (no need for https)-->www.ace-fishmarket.com</a></p>
 	</div>
 </div>
 </head>
@@ -28,14 +28,14 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Seafood</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->GAP Certified, SS670:2021 Specifications for Good Aquaculture Practice</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->NA</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, E-Commence, Importers</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, E-Commerce, Importers</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jaime Goh</b><br><!-- designation-->Sales Development Manager<br><!--contact number-->+65 9767 1981<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jaime.goh@ace-sg.com" style="color: white;"><!--...and also include the display email before </a> here-->lhwong@asiafarm.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jaime Goh</b><br><!-- designation-->Sales Development Manager<br><!--contact number-->+65 9767 1981<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jaime.goh@ace-sg.com" style="color: white;"><!--...and also include the display email before </a> here-->jaime.goh@ace-sg.com</a></p>
 		</div>
 			</div>
 		</div>
