@@ -1,5 +1,5 @@
 title: FHA-F&B 2022 - Singapore Pavilion Exhibitors
-url: ""
+url: https://fhafnb-sgpav.com.sg
 favicon: /images/FHFB_2022_Logo stand alone 2.png
 colors:
   primary-color: "#e7131a"
@@ -54,5 +54,5 @@ prod: https://enterprisesg-fha-prod.netlify.app
 shareicon: /images/FHFB_2022_Logo stand alone.png
 is_government: false
 facebook-pixel: ""
-google_analytics: "G-DS26X98J9G"
+google_analytics: G-DS26X98J9G
 linkedin-insights: ""
