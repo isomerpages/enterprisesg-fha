@@ -49,7 +49,7 @@ description: ""
 		<p>Little morsels of savoury delights, made using tender chicken thigh meat and shiitake mushrooms. Served steamed, or deep fried to crisp.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1bj6Ks3khCp8JU-axe2_Y8rkDEHeBS1R0&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="/images/smh-veggie.png"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">SMH Wholemeal Vegetable Pau</h6>
 		<p>Soft, pillowy wholemeal buns stuffed with a chunky flavourful medley of mushrooms, turnips and carrots. No MSG added. 
