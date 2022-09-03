@@ -1,6 +1,6 @@
 ---
 title: Chocoworks Pte Ltd
-permalink: /exhibitors/chocoworks
+permalink: /exhibitors/chocoworks/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Chocoworks pte ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of chocolates, pralines & truffles</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://chocoelf.com" target="_blank"><!--insert the www website link here (no need for https)-->https://chocoelf.com</a></p>
+		<p><a href="https://chocoelf.com" target="_blank"><!--insert the www website link here (no need for https)-->chocoelf.com</a></p>
 	</div>
 </div>
 </head>
@@ -26,7 +26,7 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Snacks and Confectionery</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> HACCP Certified, "Healthier Choice" Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> HACCP Certified, Healthier Choice Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->NA</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, Suppliers in food services</p>
 			</div>
