@@ -1,6 +1,6 @@
 ---
 title: Chew's Agriculture Pte Ltd
-permalink: /exhibitors/chews-agriculture
+permalink: /exhibitors/chews-agriculture/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Chew's Agriculture Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Fresh eggs producer/wholesale poultry, chicken soup</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="[www.chewsegg.com.sg](http://www.chewsegg.com.sg/)" target="_blank"><!--insert the www website link here (no need for https)-->[www.chewsegg.com.sg]</a></p>
+		<p><a href="https://www.chewsegg.com" target="_blank"><!--insert the www website link here (no need for https)-->www.chewsegg.com</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Eggs and Fresh Produce</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
