@@ -1,6 +1,6 @@
 ---
 title: Oishi Manufacturing Pte Ltd
-permalink: /exhibitors/oishi-manufacturing
+permalink: /exhibitors/oishi-manufacturing/
 description: ""
 ---
 <head>
@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Snacks and Confectionery</span></p> 
+			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->FSSC 22000</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Indonesia, Malaysia</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors</p>
@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Kenny Ang</b><br><!-- designation-->Factory Manager<br><!--contact number-->+65 96959230<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:kenny@oishi.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->kenny@oishi.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Joy Lee & Denise O</b><br><!-- designation-->Factory Manager<br><!--contact number-->+65 92777259 / +65 87387753<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:joy@oishi.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->joy@oishi.com.sg</a> OR <a href="mailto:denise@oishi.com.sg" style="color: white;">denise@oishi.com.sg</a></p>
 		</div>
 			</div>
 		</div>
