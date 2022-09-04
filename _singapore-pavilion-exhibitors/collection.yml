@@ -2,6 +2,7 @@ collections:
   singapore-pavilion-exhibitors:
     output: true
     order:
+      - Sponsors.md
       - Overview.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
