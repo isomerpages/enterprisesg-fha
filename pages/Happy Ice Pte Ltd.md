@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Ma Chee Keong Daniel</b><br><!-- designation--> Director<br><!--contact number-->+65 97773533<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:daniel.ma@happyice.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->daniel.ma@happyice.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Daniel Ma</b><br><!-- designation-->CEO<br><!--contact number-->+65 97773533<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:daniel.ma@happyice.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->daniel.ma@happyice.com.sg</a></p>
 		</div>
 			</div>
 		</div>
