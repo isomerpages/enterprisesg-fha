@@ -1,6 +1,6 @@
 ---
 title: TheSeafoodCompany Pte Ltd
-permalink: /exhibitors/the-seafood-company
+permalink: /exhibitors/the-seafood-company/
 description: ""
 ---
 <head>
@@ -46,25 +46,37 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1zSy6IDSYiFIJ1cpG3XVESI7Neg0a6FPL&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Miyagi Oyster</h6>
-		<p>This huge oysters are flash frozen imported from Miyagi Prefecture, Japan, to maintain the freshness of the oyster for raw consumption. Miyagi Prefecture seas are rich in nutrients, and it takes about a year for the oysters to grow to a suitable size. Oysters produced in Miyagi Prefecture are designated as fit for raw consumption. Its sweet, sea fresh, delicious taste will make you want to eat it non-stop.</p></div>
+		<p>Our Miyagi Oyster is raised in the pristine waters of Sanriku Coastline. The water from Oyashio's frigid water and the warm Kuroshio ocean provides a rich amount of nourishment, making the oyster incredibly meaty, milky and tasty.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1Fb1R_mRWFJb6J2tkJzWNunFUU1YciO4w&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="/images/plantbasedmeat.png"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Soft Shell Crab</h6>
-		<p>Soft Shell Crab</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Plant-based Meat</h6>
+		<p>Try our delicious new plant-based chicken meat. It is made from four ingredients (water, soy, oat and yeast extract) and is designed to look, taste and cook like chicken. With its versatility, our plant-based meat is a wonderful complement to any cuisine.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1e0ymC4tu4WxrDr8txaJ7lMX4QubyzVXC&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1XVCNvx_9SEmdjV-o0KRWc5F49EkgeLHu&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Sea Cucumber</h6>
-		<p>Rich in collagen, low in calories and high in protein, Tiger Sea Cucumber (also know as Hu Pi Shen) is a delicacy in many Asian cuisines. Cleaned and processed in Singapore, enjoying Sea cucumber is no longer a chore!</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Blue Swimming Crabmeat</h6>
+		<p>Exclusively uses the freshest crabs and carefully handpicked in the modern processing facility.  Our crabs undergo a stringent selection process to guarantee freshness and quality. Blue swimming crabmeat is known for its rich sweet, succulent and buttery flavor. Our product can be consumed upon opening and is suitable for a wide variety of cuisine.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1lLSF5H1mmop_tfHF_yexV-Zlos6qVdEm&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=14m0ejU8LkArF3hhIppQ_wEiJzamzgGwD&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Red Sea Prawn</h6>
-		<p>Thanks to the Red Sea's high salinity compared with seawater in other parts of the world, the red sea prawns are priced at a premium as they are known for their rich flavour.</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Red Sea Shrimp</h6>
+		<p>Our Red Sea Shrimp's distinct sweetness comes from the natural high salinity waters of the Red Sea. Quality is ensured using state-of-the-art technology to lock in its freshness and texture. Our product is widely used in many top F&B establishments locally and regionally.</p></div>
+	</div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1XVCNvx_9SEmdjV-o0KRWc5F49EkgeLHu&export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Blue Swimming Crabmeat</h6>
+		<p>Exclusively uses the freshest crabs and carefully handpicked in the modern processing facility.  Our crabs undergo a stringent selection process to guarantee freshness and quality. Blue swimming crabmeat is known for its rich sweet, succulent and buttery flavor. Our product can be consumed upon opening and is suitable for a wide variety of cuisine.</p></div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1kfWwmVZVmmjzZ-Hy-UlMx9K0WM0_xReR&export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Red Sea Barramundi</h6>
+		<p>Our Red Sea Barramundi's unique texture and taste comes from the unique environmental conditions, including the high salinity waters of the Red Sea. Quality is ensured using state-of-the-art technology to lock in its freshness and texture. Our product is widely used in many top F&B establishments locally and regionally.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
