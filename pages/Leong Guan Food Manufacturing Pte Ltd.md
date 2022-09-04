@@ -27,7 +27,7 @@ description: ""
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Rice and Noodles</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> Halal Certified, ISO 22000 Certified, HACCP Certified, Healthier Choice Certified</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->East Timor, Hong Kong, Israel, Perth, US</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Asia, Middle East, Australia, Europe and US</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Importers, Suppliers in food services</p>
 			</div>
 		</div>
@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Amanda Wong</b><br><!-- designation-->Brand Executive<br><!--contact number-->+65 97771837<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:marketing@leongguan.com" style="color: white;"><!--...and also include the display email before </a> here-->marketing@leongguan.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Vicki Lui</b><br><!-- designation-->Marketing Executive<br><!--contact number-->+65 97771837<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:marketing@leongguan.com" style="color: white;"><!--...and also include the display email before </a> here-->marketing@leongguan.com</a></p>
 		</div>
 			</div>
 		</div>
@@ -46,7 +46,11 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1mdxEM5STpw8IJOAzdItHiVTIhykJQwfm&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Wholegrain Series</h6>
-		<p>A healthier spin to our local favourites! Enriched with high dietary fibre and formulated with 20% wholegrain, our wholegrain series is vegan friendly, preservative and colouring free. 25% lower in sodium as compared to regular fresh oriental noodles, 2 servings of our wholegrain noodles will cover your required daily wholegrain requirement. Available in wholegrain noodles, Kway Teow and Mee Tai Bak!</p></div>
+		<p>As a healthier spin on your favourite Singaporean noodles, our wholegrain series leads the industry with 20% wholegrain content. Our noodles are authentically formulated, with suitable wholegrain alternatives that do not compromise on the great taste and texture.
+
+This series is developed in partnership with Health Promotion Board (HPB). LG Foods is the pioneer in wholegrain noodles, producing certified healthier choice wholegrain noodles since 2012.
+
+HACCP Certified, ISO 22000 Certified, Halal Certified, "Healthier Choice" Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1OWt1fZTqqi18pcFKfHiMvJ69hVVfwZiw&export=download"></div>
@@ -65,7 +69,11 @@ Beancurd Series</h6>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1vjLMQB7VdtR4lSgOtmj2TGakgK4OSvmx&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Hakata Ramen</h6>
-		<p>Originating from Hakata, a business district of Fukuoka city, this ramen is famous for its smooth Tonkotsu (pork bone) broth with extra-thin noodles and simple toppings. A regional specialty enjoyed by people internationally, its thinner noodles are made with premium quality wheat flour and fresh eggs, easily cooked to your preferred level of doneness.</p></div>
+		<p>Originating from Hakata, a business district of Fukuoka, this ramen is famous for its smooth Tonkotsu broth with extra-thin noodles and simple toppings. 
+
+As a regional specialty enjoyed by people internationally, our ramen is made with premium quality wheat flour and fresh eggs, where you can easily cook to your preferred level of doneness. 
+
+HACCP Certified, ISO 22000 Certified</p></div>
 	</div>
 	</div>
 </body>
