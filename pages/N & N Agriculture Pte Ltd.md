@@ -102,7 +102,7 @@ description: ""
 			- ISO 22000 certified quality control standards
 			- Hygienic & Biosecure Singapore farm facilities for maximum food safety
 			- Marinated or non-marinated depending on preference
-			- Packing in trays of 20 pieces in sauce or boiled water, based on preference</p></div>
+			- Packing in packets of 2 pieces in sauce and trays of 20 pieces in sauce or boiled water (based on preference)</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
