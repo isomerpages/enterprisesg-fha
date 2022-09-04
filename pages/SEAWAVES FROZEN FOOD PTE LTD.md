@@ -39,7 +39,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Nichole Chong</b><br><!-- designation--><!--contact number-->+65 62658883<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:nichole@seawaves.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->nichole@seawaves.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Nichole Chong</b><br><!-- designation-->Key Account Manager<br><!--contact number-->+65 62658883<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:nichole@seawaves.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->nichole@seawaves.com.sg</a></p>
 		</div>
 			</div>
 		</div>
@@ -66,12 +66,6 @@ description: ""
 
 Our Shrimp Gyoza is deliciously filled with the finest shrimp, squid, white cabbage, onions, pollock and tofu. This mixture of ingredients strikes a great balance between savoury and sweet. The delicate yet refreshing flavour is ideally steamed and served as a starter, side dish, or snack.</p></div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="/images/seawaves-fishbites.jpg"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Seawaves Chunky Fish Bites Tempura</h6>
-		<p>Carefully portioned chunks from fish fillets and coated with a light style tempura batter. Easy to cook, healthy to eat, suitable for all ages. Our fish chunks are not only crispy, but also fragrant and flavorful. It can be served as a finger food or as a side to your main meal. Trans fat free, no added preservatives and artificial colorings.</p></div>
-	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood & Frozen Meat)</h6>
