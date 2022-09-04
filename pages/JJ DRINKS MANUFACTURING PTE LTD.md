@@ -1,6 +1,6 @@
 ---
 title: JJ DRINKS MANUFACTURING PTE LTD
-permalink: /exhibitors/jj-drinks-manufacturing
+permalink: /exhibitors/jj-drinks-manufacturing/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>JJ Drinks Manufacturing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Ready-to-drink beverages</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://www.jjdrinks.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->https://www.jjdrinks.com.sg/</a></p>
+		<p><a href="https://www.jjdrinks.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.jjdrinks.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -26,9 +26,9 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certfiied, ISO 9001 Certified, "Healthier Choice" Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certfiied, ISO 9001 Certified, Healthier Choice Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Brunei, Malaysia, Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -55,17 +55,13 @@ description: ""
 JJ O'cha Jasmine Green Tea</h6>
 		<p>JJ O’cha Premium Jasmine Green Tea is a soothing fusion of fragrant jasmine and green tea leaves- it’s highly aromatic flavor will freshen your olfactory senses.
 
-A brew bursting with benefits- this simple, well balanced green tea has a signature delicate floral taste and a smooth finish
-
-</p></div>
+A brew bursting with benefits- this simple, well balanced green tea has a signature delicate floral taste and a smooth finish</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1XPNwDj1G73nL934nSok0Ho8K9PNxkT_n&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">JJ Ice Lemon Tea</h6>
-		<p>JJ Ice Lemon Tea is brewed from premium quality black tea leaves extract to ensure its natural anti-oxidant qualities and strong flavor. Refreshingly light on the palate with mild tangy citrusy sweetness makes it a wholesome drink to be enjoyed by all ages.
-
-</p></div>
+		<p>JJ Ice Lemon Tea is brewed from premium quality black tea leaves extract to ensure its natural anti-oxidant qualities and strong flavor. Refreshingly light on the palate with mild tangy citrusy sweetness makes it a wholesome drink to be enjoyed by all ages.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=171WrvhCdQVyqGSijcWPJer0gmrzFhnaI&export=download"></div>
