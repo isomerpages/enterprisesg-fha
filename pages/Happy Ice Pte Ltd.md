@@ -1,6 +1,6 @@
 ---
 title: Happy Ice Pte Ltd
-permalink: /exhibitors/happy-ice
+permalink: /exhibitors/happy-ice/
 description: ""
 ---
 <head>
@@ -10,12 +10,12 @@ description: ""
 		<p style="text-transform: uppercase">6j2-14</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-				<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=1TFenYz9qtyANuHes_4CMIuO-lFnyH4T4&export=download"></div>
+				<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/happyice.png"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Happy Ice Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Wholesale ice-cream and retail sale beverages</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.happyice.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.happyice.com.sg</a></p>
+		<p><a href="https://www.happyice.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.happyice.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -48,21 +48,14 @@ description: ""
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Frozen Ice Cream Vending Machine</h6>
 		<p>Since the invention of automation mechanism in the late 19th century, vending machines have become a great tool in sales and marketing. Recent growth of Internet-of-Things (IoT) has also reduced the operation cost of vending machines while enhancing consumers’ purchasing experience.
 
-Happy Ice, as South-East Asia’s largest frozen vending machine manufacturer and operator, has designed and developed a sustainable frozen vending machine business model that connects Product Principles, Investors, Operators and Consumers.
-
-
-
-</p></div>
+Happy Ice, as South-East Asia’s largest frozen vending machine manufacturer and operator, has designed and developed a sustainable frozen vending machine business model that connects Product Principles, Investors, Operators and Consumers.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1t8jFhk3uQ145ufjVw6cg5bUkPyp6zqGD&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Frozen Fun Vending Machine</h6>
-		<p>Happy Ice designed its own vending machine - Ice Cream Fun-Vending machine that injects elements of fun into an otherwise boring vending process. We turn a traditional claw crane machine into a fully functional ice cream vending machine. The machine allows customers to buy the ice cream and play games at the same time.
-
-
-</p></div>
+		<p>Happy Ice designed its own vending machine - Ice Cream Fun-Vending machine that injects elements of fun into an otherwise boring vending process. We turn a traditional claw crane machine into a fully functional ice cream vending machine. The machine allows customers to buy the ice cream and play games at the same time.</p></div>
 	</div>
 	</div>
 </body>
