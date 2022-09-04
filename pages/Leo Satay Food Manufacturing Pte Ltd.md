@@ -1,6 +1,6 @@
 ---
 title: Leo Satay Food Manufacturing Pte Ltd
-permalink: /exhibitors/leo-satay-food
+permalink: /exhibitors/leo-satay-food/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Leo Satay Food Manufacturing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Satay manufacturer and distributer</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.LeoFoodstuff.com" target="_blank"><!--insert the www website link here (no need for https)-->www.LeoFoodstuff.com</a></p>
+		<p><a href="http://www.leofoodstuff.com" target="_blank"><!--insert the www website link here (no need for https)-->www.leofoodstuff.com</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Meat</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->ISO 22000 Certified, HACCP Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong, Thailand</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Wholesalers, Importers</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Food Distributors / Online Food Distributors, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
