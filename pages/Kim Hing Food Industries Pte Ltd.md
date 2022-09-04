@@ -45,29 +45,20 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1RN4GeCloY6n1zKxksPpTzH8cmY0GpYos&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Superior Jin Si Guan Yan Bird's Nest (Reduced Sugar) (75g X 6's)</h6>
-		<p>Dragon Brand Superior Jin Si Guan Yan Bird's Nest (Reduced Sugar) is prepared using quality Bird's Nest and refined rock sugar. Our specially developed manufacturing process, which is HACCP certified, is safe and hygienic. The product is vacuum-sealed in a glass bottle and put through an advance process for sterilisation entirely by heat, without any artificial preservatives, colouring, or flavouring.
-
-</p></div>
+		<p>Dragon Brand Superior Jin Si Guan Yan Bird's Nest (Reduced Sugar) is prepared using quality Bird's Nest and refined rock sugar. Our specially developed manufacturing process, which is HACCP certified, is safe and hygienic. The product is vacuum-sealed in a glass bottle and put through an advance process for sterilisation entirely by heat, without any artificial preservatives, colouring, or flavouring.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1v9V-IswlrpcDwxmGab6-W52jRxP5w5AI&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Superior Jin Si Guan Yan Bird's Nest With Rock Sugar (75g X 6's)</h6>
-		<p>Dragon Brand Superior Jin Si Guan Yan Bird's Nest with Rock Sugar is prepared using quality Bird's Nest and refined rock sugar. Our specially developed manufacturing process, which is HACCP certified, is safe and hygienic. The product is vacuum-sealed in a glass bottle and put through an advanced process for sterilisation entirely by heat, without any artificial preservatives, colouring, or flavouring.
-
-
-</p></div>
+		<p>Dragon Brand Superior Jin Si Guan Yan Bird's Nest with Rock Sugar is prepared using quality Bird's Nest and refined rock sugar. Our specially developed manufacturing process, which is HACCP certified, is safe and hygienic. The product is vacuum-sealed in a glass bottle and put through an advanced process for sterilisation entirely by heat, without any artificial preservatives, colouring, or flavouring.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1Ma1pGQ4iAD5oqF3GbZtRop-nD4okMup8&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Superior Jin Si Bird's Nest With Rock Sugar (150g)</h6>
-		<p>Dragon Brand Superior Jin Si Bird's Nest with Rock Sugar is made only from genuine bird's nest and rock sugar. Advanced bottling technology and produced to the strict requirements of HACCP Food Safety system of control, rest assured that every bottle of Dragon Brand Concentrated Bird's Nest is a product of unparalleled quality. It is beneficial to health and ready for consumption. With no artitificial preservatives, colouring or flavouring, it is high in nutritional value and good for complexion, ideal for men and women, young and old.
-
-  
-
-</p></div>
+		<p>Dragon Brand Superior Jin Si Bird's Nest with Rock Sugar is made only from genuine bird's nest and rock sugar. Advanced bottling technology and produced to the strict requirements of HACCP Food Safety system of control, rest assured that every bottle of Dragon Brand Concentrated Bird's Nest is a product of unparalleled quality. It is beneficial to health and ready for consumption. With no artitificial preservatives, colouring or flavouring, it is high in nutritional value and good for complexion, ideal for men and women, young and old.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1oIu0wco5nBc72skZoPSRm0gWFgMvp0NU&export=download"></div>
