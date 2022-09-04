@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Ryan Chong</b><br><!-- designation-->Senior Marketing Executive<br><!--contact number-->+65 68413855<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:ryan.chong@unifood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->ryan.chong@unifood.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jasmine Lim</b><br><!-- designation-->Business Development Manager<br><!--contact number-->+65 9766 7790<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jasmine.lin@unifood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->jasmine.lin@unifood.com.sg</a></p>
 		</div>
 			</div>
 		</div>
