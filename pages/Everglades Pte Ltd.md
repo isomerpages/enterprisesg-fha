@@ -46,9 +46,7 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=11e2sbw0XxsIjh2XdaoyMbqgEQt3zq-yF&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Healthier (NSA and Low GI) Gelato</h6>
-		<p>Our No Sugar Added (NSA) range enables diabetics and customers with special dietary
-
-considerations to enjoy gelato freely. We are the first to introduce low GI certified gelato in the industry with the first certified low GI banana gelato. We are also the first to introduce low GI certified Fior Di Latte soft serve gelato premix in the industry. It is not just a plain flavor but a flavor on its own.</p></div>
+		<p>Our No Sugar Added (NSA) range enables diabetics and customers with special dietary considerations to enjoy gelato freely. We are the first to introduce low GI certified gelato in the industry with the first certified low GI banana gelato. We are also the first to introduce low GI certified Fior Di Latte soft serve gelato premix in the industry. It is not just a plain flavor but a flavor on its own.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1st3NPPKYu7Zga8a7aEF9FCulSc0iDDcb&export=download"></div>
