@@ -27,7 +27,7 @@ description: ""
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Oils and Sauces</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, ISO 22000 Certified</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Brunei, Canada, Indonesia, New Zealand</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->-</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Hospitals, Schools</p>
 			</div>
 		</div>
@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Ng Chin Nyan</b><br><!-- designation-->Director<br><!--contact number-->+65 62845254<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:nya01@singlong.com" style="color: white;"><!--...and also include the display email before </a> here-->nya01@singlong.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Ng Chin Nyan</b><br><!-- designation-->Director<br><!--contact number-->+65 9793 5317 / +65 62845254<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:nya01@singlong.com" style="color: white;"><!--...and also include the display email before </a> here-->nya01@singlong.com</a></p>
 		</div>
 			</div>
 		</div>
