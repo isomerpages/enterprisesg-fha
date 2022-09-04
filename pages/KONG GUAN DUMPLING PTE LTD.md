@@ -1,6 +1,6 @@
 ---
 title: KONG GUAN DUMPLING PTE LTD
-permalink: /exhibitors/kong-guan-dumpling
+permalink: /exhibitors/kong-guan-dumpling/
 description: ""
 ---
 <head>
@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Daniel Ong</b><br><!-- designation-->Sales & Marketing Manager<br><!--contact number-->+65 68490822<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:daniel.ong@kongguan.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->daniel.ong@kongguan.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Daniel Ong</b><br><!-- designation-->Sales & Marketing Manager<br><!--contact number-->+65 67766688 / +65 92974898<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:daniel.ong@kongguan.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->daniel.ong@kongguan.com.sg</a></p>
 		</div>
 			</div>
 		</div>
@@ -46,7 +46,7 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1xzjH4a27aF_OPY5bcrYJPUV2KRlcqqxh&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chocolate Fondue Bun</h6>
-		<p>There is literally no gesture more romantic than molten and rich chocolate treat that makes you warm and fuzzy all over. Kong Guan’s Chocolate Fondue bun boasts a smooth and rich center of molten chocolate encased within a springy bun that is soft but not sticky - A pure decadence that reaches a new depth of chocolatey deliciousness. 
+		<p>There is literally no gesture more romantic than molten and rich chocolate treat that makes you warm and fuzzy all over. Kong Guan’s Chocolate Fondue bun boosts a smooth and rich center of molten chocolate encased within a springy bun that is soft but not sticky - a pure decadence that reaches a new depth of chocolatey deliciousness. 
 
 Come indulge in this gorgeously rich and loving chocolate delight that satisfies any sweet tooth!
 
@@ -58,7 +58,7 @@ Take a Bite. Taste The Delight.</p></div>
 		<h6 style="text-transform: uppercase; color: black;">Salted egg custard bun</h6>
 		<p>Salted Egg Custard Bun also known as Liu Sha Pau, is a delectable treat that has become must-have at dim sum restaurants everywhere. 
 
-Enticed with a hot molten salted egg custard filling that oozes out from the visually appealing and unique appearance of the bun, the flowy salted egg custard bun is perfect to pair with a cup of tea. It truly deserves a place as this bun is the most luxurious way to complete a hearty meal.
+Enticed with a hot molten salted egg custard filling that oozes out from the visually appealing and unique appearance of the bun, the flowy salted egg custard bun is perfect to pair with a cup of tea. It truly deserves a treat as this bun is the most luxurious way to complete a hearty meal.
 
 Take a Bite. Taste The Delight.</p></div>
 	</div>
@@ -76,13 +76,13 @@ Take a Bite. Taste The Delight.</p></div>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
-		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
+		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is a favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Bc9XqVyw__GXvazTphmtB_AffKaDt8pr&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
-		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
+		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavourful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
