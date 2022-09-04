@@ -36,3 +36,5 @@ Visit [EnterpriseSG](https://www.enterprisesg.gov.sg/) for more information.
 
 Established in 1967, the Singapore Food Manufacturers' Association (SFMA) is a professional and active trade association with more than 460 members. Today, SFMA organises more than 60 industry activities annually such as the monthly capabilities workshops, overseas Tasty Singapore tradeshows and supermarket promotions, overseas study and trade missions, networking and business matching sessions. SFMA has also championed several industry initiatives that are aligned to the Food Manufacturing Industry Transformation Map, such as Food
 Innovation Product Award, Singapore Food Gifts Initiative, the Singapore Food Expo and Asia Pacific Food Expo to help food manufacturers innovate, internationalise and create new channels for business growth.
+
+Visit [SFMA](http://www.sfma.org.sg/) for more information.
