@@ -1,6 +1,6 @@
 ---
 title: N & N Agriculture Pte Ltd
-permalink: /exhibitors/n-n-agriculture
+permalink: /exhibitors/n-n-agriculture/
 description: ""
 ---
 <head>
@@ -10,12 +10,12 @@ description: ""
 		<p style="text-transform: uppercase">6K5-03</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1AVEKojkBsz_n1zSF8-8oHPp5w3ozAyiP&export=download"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/nnagri.png"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>N & N Agriculture Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Fresh eggs, pasteurized fresh eggs, pasteurized egg products</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://www.eggstory.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.eggstory.com.sg/</a></p>
+		<p><a href="https://www.eggstory.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.eggstory.com.sg</a></p>
 	</div>
 </div>
 </head>
