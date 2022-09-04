@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Claire</b><br><!-- designation-->Director<br><!--contact number-->+65 92369362<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:clairechng@shdfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->clairechng@shdfood.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Claire</b><br><!-- designation-->Director<br><!--contact number-->+65 9271 8485<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:clairechng@shdfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->clairechng@shdfood.com.sg</a></p>
 		</div>
 			</div>
 		</div>
@@ -45,26 +45,26 @@ description: ""
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1L3r-0pcx7RAMoSpIr3JejDlHSS8N20Tr&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Hainanese Chicken Rice Mix</h6>
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chng Kee's Hainanese Chicken Rice Mix</h6>
 		<p>Prepared using the finest and freshest ingredients. The world-famous Singaporean dish is known for its alluring fragrance that makes this dish irresistible. This ready-to-use mix adds extraordinary flavour and taste to rice in the most convenient way and complements all types of dishes other than the usual steamed chicken.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=189rQn0aYLWCnTwP3mTGAPqTn5hvv-MsD&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Oriental Barbecue Sauce</h6>
+		<h6 style="text-transform: uppercase; color: black;">Chng Kee's Oriental Barbecue Sauce</h6>
 		<p>Fine blend of beans and spices, excellent for marinating, stir-frying, grilling or barbequing.
 • Non-spicy • No trans-fat</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1pO97foqfnyISzkGeQf52xvx3ZQoTOrWN&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Black Pepper Sauce</h6>
+		<h6 style="text-transform: uppercase; color: black;">Chng Kee's Black Pepper Sauce</h6>
 		<p>Perfectly blended using ground black pepper and other spices. It is a ready-to-use aromatic and peppery for stir-frying any seafood (e.g; crab & prawns) and meat (e.g; beef) dishes. It is also excellent as a gravy, dip, salad dressing or pasta sauce.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Y_LXgCxMcROnVejvpd33CkoYOVkEC6fP&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Laksa Paste</h6>
+		<h6 style="text-transform: uppercase; color: black;">Chng Kee's Laksa Paste</h6>
 		<p>An aromatic blend of the finest spices, chillies and shrimps. It is a stir-in paste for preparing the famous Singapore Laksa known for its rich, flavourful spicy gravy which tastes best with rice noodles, meat and seafood.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
