@@ -1,6 +1,6 @@
 ---
 title: THE FISH FARMER PTE LTD
-permalink: /exhibitors/the-fish-farmer
+permalink: /exhibitors/the-fish-farmer/
 description: ""
 ---
 <head>
@@ -43,45 +43,42 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1l6rtROBa7Vtt1ItVnOZXtpm5sOgAd7qH&export=download"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1wnhiCflWy-qiZnZDfkT1kapIuHzUrdbz&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->The Fish Farmer Easy Steam Teochew Style Seabass Fillet, 300G</h6>
-		<p>Seabass is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->The Fish Farmer Barramundi Fillet Teochew Style, 450G</h6>
+		<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 
 
 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients,  Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess & hassle free from preparation.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=109Yn6QkDULKMsvK7Fq11tVbpfiebjvys&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1bEaAwEqWlCTv9ykYUFtDLCxS42vXpji6&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Easy Steam Thai Style Seabass Fillet, 280G</h6>
-		<p>Seabass is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 
+		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Barramundi Fillet Thai Style, 400G</h6>
+		<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 
 
 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients,  Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess & hassle free from preparation.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1bDbkI3IF99mUYh4UYmbfvXB9GnaplpNI&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1GqlySiH4WcfPbBR54bf_1Jzed4FfHff-&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Easy Cook Teriyaki Flavor Mullet Fillet, 140G</h6>
+		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Mullet Fillet Teriyaki Flavor, 280G</h6>
 		<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 
 
 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients,  Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess & hassle free from preparation.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1_fAGpSAxmD8fSGXg1pujZmNkiM_NMcvN&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1oNk7nBijADeKqb9_svI3g1ThOBSYU1pl&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Easy Cook Mala Flavor Mullet Fillet, 160G</h6>
+		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Mullet Fillet Mala Flavor, 320G</h6>
 		<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 
 
 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients,  Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess & hassle free from preparation.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=118R1zjv1tG0Q2u3wTNF71hi7QQpKj_5d&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1JDf0JbYu94iD7WvvT8ZK6cQ5i_Auh_G1&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Mullet Fillet, All Natural, 280G</h6>
-		<p>100% Product of Singapore. Boneless, convenient, quality, and safety assured.
-Our mullets are home-grown on our free-range, sea-water farms, swim freely in as close to the natural environment as possible, free of the use of antibiotics, non-GMO. 
-
-Grey Mullet is a slow grower. It takes about 15 months to raise the fish to 500gram, and about 24 months to 1kilo. Its high oil content and flavor give the fish a nutty rich taste, firm and juicy texture. </p></div>
+		<h6 style="text-transform: uppercase; color: black;">The Fish Farmer Barramundi Crispy Tempura, 250G</h6>
+		<p>The Fish Farmer's Barramundi Crispy Tempura contains 90% real fish that is raised locally without any growth enhancements. Coated with premium quality Japanese-style batter, creating a delicious burst of flavor.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
