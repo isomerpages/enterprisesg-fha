@@ -34,7 +34,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Eileen Loke</b><br><!-- designation-->Graphic Designer<br><!--contact number-->+65 6538 2288<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:eileen@kimhingfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->eileen@kimhingfood.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Eileen Loke</b><br><!-- designation--><!--contact number-->+65 6538 2288<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:eileen@kimhingfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->eileen@kimhingfood.com.sg</a></p>
 		</div>
 			</div>
 		</div>
