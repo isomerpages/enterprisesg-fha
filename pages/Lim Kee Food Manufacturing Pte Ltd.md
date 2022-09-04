@@ -26,7 +26,7 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Food</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->ISO 22000 Certified, Healthier Choice Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->ISO 22000 Certified, Healthier Choice Certified, HACCP Certified, Tasty Singapore Brand Ambassador</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Thailand, UK, Vietnam</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
@@ -53,6 +53,8 @@ description: ""
 		<h6 style="text-transform: uppercase; color: black;">  
 Wholemeal (Steamed Bun) Series</h6>
 		<p>Fortified with new food ingredients and research, enjoy our Wholemeal (Steamed Bun) Series. Scientifically proven to be lower in Glycemic Index, and certified as a Healthier Choice Symbol by Health Promotion Board Singapore, there are 8 different flavours to choose from. Conveniently packed with 4 delightful pieces in a pack.
+
+Healthier Choice Certified
 </p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
