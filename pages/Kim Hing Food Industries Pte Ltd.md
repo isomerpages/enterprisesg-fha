@@ -1,6 +1,6 @@
 ---
 title: Kim Hing Food Industries Pte Ltd
-permalink: /exhibitors/kim-hing-food
+permalink: /exhibitors/kim-hing-food/
 description: ""
 ---
 <head>
@@ -14,8 +14,7 @@ description: ""
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Kim Hing Food Industries Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Bird's Nest, Bottled Food Product, Honey, TCM (Traditional Chinese Medicine), HACCP, HALAL, Exporter, Manufacturer</p>
-		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://dragonbrand.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->https://dragonbrand.com.sg/</a></p>
+		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks--><p><a href="https://dragonbrand.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->dragonbrand.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -26,7 +25,7 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> Halal Certified, HACCP Certified, "Healthier Choice" Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> Halal Certified, HACCP Certified, Healthier Choice Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, China, Hong Kong, Taiwan</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Importers, Suppliers in food services</p>
 			</div>
