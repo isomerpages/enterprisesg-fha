@@ -1,6 +1,6 @@
 ---
 title: U Say Marketing Pte Ltd
-permalink: /exhibitors/u-say-marketing
+permalink: /exhibitors/u-say-marketing/
 description: ""
 ---
 <head>
@@ -10,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase">6L3-05</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=12L2o1fAlpgRt2xalqzWemFp8Gj9B1kbj&export=download"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/usay.png"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>U Say Marketing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Food service and ingredients supplier</p>
