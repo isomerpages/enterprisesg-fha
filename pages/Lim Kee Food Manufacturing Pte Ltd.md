@@ -59,9 +59,7 @@ Wholemeal (Steamed Bun) Series</h6>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1Zw6pfGCFS3VspPAKjwcUSmRlt3YHNvxj&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Classic (Steamed Bun) Series</h6>
-		<p>Enjoy our Classic Steamed Bun Series today. With 5 different flavours, they are conveniently packed with 8 pieces in a pack.
-
-</p></div>
+		<p>Enjoy our Classic Steamed Bun Series today. With 5 different flavours, they are conveniently packed with 8 pieces in a pack.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1hSSsvNdWBnyfVquSi05bv-6wzwQzJumK&export=download"></div>
