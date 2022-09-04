@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jit Seng</b><br><!-- designation-->Marketing Manager<br><!--contact number-->+65 90056998<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jit@leftfield.sg" style="color: white;"><!--...and also include the display email before </a> here-->jit@leftfield.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jit Seng</b><br><!-- designation-->Business Development<br><!--contact number-->+65 90056998<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jit@leofoodstuff.com" style="color: white;"><!--...and also include the display email before </a> here-->jit@leofoodstuff.com</a></p>
 		</div>
 			</div>
 		</div>
