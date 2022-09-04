@@ -1,6 +1,6 @@
 ---
 title: Lim Kee Food Manufacturing Pte Ltd
-permalink: /exhibitors/lim-kee-food
+permalink: /exhibitors/lim-kee-food/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Lim Kee Food Manufacturing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer in Chinese Pau (filled steamed buns), frozen food, ready to eat meal</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.limkee.com" target="_blank"><!--insert the www website link here (no need for https)-->www.limkee.com</a></p>
+		<p><a href="https://limkee.com" target="_blank"><!--insert the www website link here (no need for https)-->www.limkee.com</a></p>
 	</div>
 </div>
 </head>
@@ -26,16 +26,15 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Food</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->ISO 22000 Certified, "Healthier Choice" Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->ISO 22000 Certified, Healthier Choice Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Thailand, UK, Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
-			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Khim Wee</b><br><!-- designation-->Head, Business Developer<br><!--contact number-->+65 96694321<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:khimwee@limkee.com" style="color: white;"><!--...and also include the display email before </a> here-->khimwee@limkee.com</a></p>
+			<!--replace with exhibitor's: --><p style="padding: 10px; color: white;"><b><!-- POC name-->Khim Wee</b><br><!-- designation-->Head, Business Development<br><!--contact number-->+65 96694321<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:khimwee@limkee.com" style="color: white;"><!--...and also include the display email before </a> here-->khimwee@limkee.com</a></p>
 		</div>
 			</div>
 		</div>
