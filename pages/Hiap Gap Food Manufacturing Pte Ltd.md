@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Dorothy Nah</b><br><!-- designation-->General Manager<br><!--contact number-->+65 92367978<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:dotnah@hiapgiapfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->dotnah@hiapgiapfood.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Karen Nah</b><br><!-- designation-->Marketing Manager APAC<br><!--contact number-->+65 92367978<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:karen@hiapgiapfood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->karen@hiapgiapfood.com.sg</a></p>
 		</div>
 			</div>
 		</div>
@@ -67,10 +67,10 @@ Good Gut Noodles, High Fibre Noodles, Wholegrain Noodles, Quinoa Noodles, Gluten
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1n6lg-SF-7SlkV9xeVzs6fmHTzi4utohD&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Traditional Noodles</h6>
-		<p>These are all-time favourites, with recipes that we maintained, tried and tested. We have expanded our range to include a good repertoire of noodles namely La Mian, Japanese Ramen, Sarawak Noodles, Diao Xiao Mian, Mee Hoon Kueh and so on</p></div>
+		<p>These are all-time favourites, with recipes that we maintained, tried and tested. We have expanded our range to include a good repertoire of noodles namely La Mian, Japanese Ramen, Sarawak Noodles, Dao Xiao Mian, Mee Hoon Kueh and so on</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1xol8BvzllbcJSH1tNyYZ-9_VknWo2sH-&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1hUbtoyTcKR4jgp7hvMp1eYQp0tNFONUt&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Dim Sum Skin</h6>
 		<p>This include a wide range of Dim Sum Skin that are versatile to be used for multi-purpose. Some works well for steaming, some for crispy frying, some for boiling. It comes in multiple sizes, thickness, smoothness, chewiness and soft bite.
