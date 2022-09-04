@@ -1,6 +1,6 @@
 ---
 title: Thai Sing Foodstuffs Industry Pte Ltd
-permalink: /exhibitors/thai-sing-foodstuffs
+permalink: /exhibitors/thai-sing-foodstuffs/
 description: ""
 ---
 <head>
@@ -46,7 +46,7 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=132w1HEQujzpKfkYDLBju7cA3VGw7PMoV&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Laksa Paste</h6>
-		<p>A signature spicy coconutty Singaporean dish that's loved by locals. Made with real fresh ingredients that ensure you get a real taste of Singapore!</p></div>
+		<p>A signature spicy coconutty Singaporean dish that's loved by locals. Made with real fresh ingredients that'll ensure you get a real taste of Singapore!</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1JLckp4VBMiM-O-1mXd6gI4bA6OfEMSVu&export=download"></div>
@@ -64,7 +64,7 @@ description: ""
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1eBm3XAzyVhYK-XAj3eOlVaNPwlftYPcs&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chilli Crab Sauce</h6>
-		<p>Sweet and tangy, enjoy Singapore's delicious Chilli Crab easily by simply add the sauce to your cooking.</p></div>
+		<p>Sweet and tangy, enjoy Singapore's delicious Chilli Crab easily by simply adding the sauce to your cooking.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
