@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Raymond Tan</b><br><!-- designation-->Assistant Manager<br><!--contact number-->+65 65506500<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:weikiatraymond.tan@fairpricegroup.sg" style="color: white;"><!--...and also include the display email before </a> here-->weikiatraymond.tan@fairpricegroup.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Raymond Tan</b><br><!-- designation-->Assistant Manager<br><!--contact number-->+65 65506500<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:sales.foodfare@fairpricegroup.sg" style="color: white;"><!--...and also include the display email before </a> here-->sales.foodfare@fairpricegroup.sg</a></p>
 		</div>
 			</div>
 		</div>
