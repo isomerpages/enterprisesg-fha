@@ -64,7 +64,7 @@ description: ""
 		<div class="flex-image" style="display: block;"><img src="/images/kangkang.png"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic </h6>
-		<p>Fresh, tasty and springy, Kang Kang noodles contain no preservative, making it a healthier choice for you and your family. With no washing needed, it is the perfect noodles for home cooking and can be used to cook up to 20 different varieties of noodle dishes. ISO22000 & Halal Certified. Ambassador of Tasty Singapore. Winner of the Singapore Prestige Brand Award 2013.</p></div>
+		<p>Fresh, tasty and springy, Kang Kang is Singapore’s first Pasteurised and award-winning Classic Noodles Range that contains no added preservative yet with an extended shelf life. Needs no washing and parboiling, it is user-friendly from pack to pot in soup, stir fry or salad.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
