@@ -69,7 +69,7 @@ Simply healthier, and totally delicious!</p></div>
 		<p>A Hong Kong style, Cantonese classic. Saucy chicken thigh meat, roasted the traditional way using Canton-style Char Siew sauce, nestled in soft delicate fluffy pau skin.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1bbViY_w97mbbf3YX1PJce5jSWueeB7sq&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1A_Wc_nO61AGMCJZ6kEdWzTNo3U-Ji2Ul&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">SMH Beancurd Prawn Roll</h6>
 		<p>Succulent prawn chunks in squid paste, wrapped in tofu skin. Best served fried, you may also opt to steam or use it in soup/steamboat for a healthier serving. 
