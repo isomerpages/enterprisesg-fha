@@ -5,4 +5,5 @@ description: ""
 ---
 ### Singapore Networking Dinner Sponsors
 
-Our appreciation to the following companies for sponsoring the Singapore Networking Dinner:
+Meet the sponsors for the Singapore Networking Dinner.
+
