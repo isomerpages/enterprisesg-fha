@@ -45,38 +45,42 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1OtG7LeMrxLQQq1XlItEPSKCZAZ6aHNS2&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Traditional Five Spice Meat Roll</h6>
-		<p>OUR STAR FEATURE:
+		<p>Made with premium pork meat that is wrapped in salted bean curd skin, this meat roll has a wonderful combination of flavours and textures that will excite your taste buds. It is seasoned with Chinese Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health, making it a must-have during festivals and celebrations.
 
-Traditional Five Spice Meat roll is a traditional must have item during festivals and celebrations. This delicious pork rolls wrapped in bean curd sheets has a crunchy exterior with a soft and chewy filling. Our ready to eat rolls are convenience and do not need extensive culinary process. For healthy goer, you can opt for air frying or steaming instead of deep frying and had a taste of yummy rolls within 10 minutes.</p></div>
+ISO 22000 Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1HUIMgNMR4DtYQ-9W18tEiSLFEOfshBhG&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Sotong Youtiao</h6>
-		<p>SINGAPORE’S FAVORITE CHOICE:
+		<p>Filled with sumptuous squid paste and sprinkled with aromatic sesame seeds for added fragrant and crunch. Sotong Youtiao is crispy on the outside and light on the inside, enjoy a mouthful of wholesomeness in each bite. 
 
-Squid Paste Dough Fritter (also known as Sotong Youtiao) filled with sumptuous squid paste spread sparingly on dough fritter. This fritter is fried till golden brown resembles the auspicious Chinese Yuan Bao. You just need to heat up using air frying or toaster or any of your preferred cooking equipment to enjoy the fragrance fritter in less than 10 minutes.</p></div>
+ISO 22000 Certified.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1QM-qV5pGpSKR-4ivMZ8bw3W2gLth72Ph&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Teochew Prawn Date</h6>
-		<p>OUR HOT SELLING:
+		<p>Traditional Teochew snack that is packed with flavourful prawn fillings and juicy water chestnuts for extra crunch. Teochew Prawn Dates resembles the auspicious Chinese Yuan Bao (old Chinese currency), making it a must-have during festivities as it signifies prosperity.
 
-Teochew Prawn Dates is a very traditional Teochew delicacy and must have item during important festivals and celebrations. This prawn filling in a piece of bean curd skin highlighted the beauty of ingredients freshness and quality. You just need to heat up using air frying or toaster or any of your preferred cooking equipment to enjoy the dates in less than 10 minutes.</p></div>
+ISO 22000 Certified</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1rBr7dH_Z2aLKEAajEOZQeRLCf7NXNDO0&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Crispy Golden Fish Roe</h6>
-		<p>A twist of fusion creation that consist of shrimp paste and real fish roe, It taste so good when eaten on it's own or goes with any complement sauce along.</p></div>
+		<p>Savour the elevated Ngoh Hiang rolls that take your dining experience to a whole new level with Crispy Golden Fish Roe. Made from only premium ingredients such as Prawn Paste and Tobiko (Fish Roe), each roll is filled with rich flavours. Its irresistible taste make it one of the best-selling items in our online stores on various e-commerce platforms through our consumer brand – Gim’s Heritage by Hock Lian Huat.
+
+ISO 22000 Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1RR6gTfRTlAw5QU74tn--qoJM6EmpHffY&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chilli Sauce</h6>
-		<p>Traditional Recipe of flavourful chilli sauce that can complement all our ready to eat products</p></div>
+		<p>The perfect complement for not just our Signature Traditional Five Spice Rolls, this Chilli sauce goes well with almost anything. The spicy and garlicky taste, with a tinge of sweetness makes it a perfect dip for all occasions. 
+
+ISO 22000 Certified</p></div>
 	</div>
 	</div>
 </body>
