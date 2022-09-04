@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Steven Chew</b><br><!-- designation-->Head of Marketing<br><!--contact number-->+65 98419846<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:steven.chew@youtiaoman.com" style="color: white;"><!--...and also include the display email before </a> here-->steven.chew@youtiaoman.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Angela Yong</b><br><!-- designation-->Head of Marketing<br><!--contact number-->+65 98419846<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:sales@youtiaoman.com" style="color: white;"><!--...and also include the display email before </a> here-->sales@youtiaoman.com</a></p>
 		</div>
 			</div>
 		</div>
