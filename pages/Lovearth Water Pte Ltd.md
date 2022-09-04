@@ -57,8 +57,8 @@ description: ""
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=18v2PkRrkbNUbNjlwZqQEmK1NYUYdzQCo&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Auto-Bottling Solution</h6>
-		<p>A specially designed solution for easy peel pull tab glass bottled water; with its compact design, Lovearth Auto-Bottling Solution is easy to install and operate with minimum manpower making it an ideal bottled water solution for hotels, resorts and commercial kitchen</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Manual Counter Top Bottling Solution</h6>
+		<p>A specially designed solution for easy peel pull tab glass bottled water; with its compact design, Lovearth Manual Counter Top Bottling Solution is easy to install and operate with minimum manpower making it an ideal bottled water solution for hotels, resorts and commercial kitchen</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1nS5phf2SIlbs4rKG-JwYVM9Xmjv5CPVM&export=download"></div>
