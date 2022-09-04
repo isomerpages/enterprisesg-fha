@@ -46,13 +46,14 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1zta6l46-MFmL1JZc93YXcK9Dm2XpxXQK&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Waffle Premix</h6>
-		<p>Premium Tasty Waffle Premix, Easy to use</p></div>
+		<p> Premium Tasty Waffle Premix, In Powder State with 18 months shelf life .come in 6 different ready made flavour : Original , Chocolate , Bamboo Charcoal , Red Velvet , Matcha Green Tea & Purple Potato.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=11gCeTu5jPq3CfHopRcgT84BcYvXfJhiU&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Ready Gelato Premix</h6>
-		<p>Easy to use, All ready</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Artisanal Ice Cream & Gelato Wholesale Supply</h6>
+		<p>Wide range of flavours available , 
+Beside Ready available in Frozen Finish product , Come in handy easy to use Ready Gelato premix & related Ingredients for Ice Cream Maker to manufacture their own Ice Cream and Gelato.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
