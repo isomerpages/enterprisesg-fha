@@ -46,13 +46,13 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1M60HWDhlS_XfCFhMCL5RHldPPTYpHOA0&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Cabbage & Pork Dumplings</h6>
-		<p>Our dumpling fillings are crafted from a selection of fresh pork shoulder, minced and blended with high quality cabbage mixed with the top grade sesame oil and it's skin is made from natural wheat flour, which makes the dumplings not easy to break during the cooking process. The end result is a taste that is fresh and natural, not greasy yet filled with an aromatic juicy and chewy feel! </p></div>
+		<p>One of our top best seller, its filings are crafted from freshest pork shoulder, minced and blended with high quality cabbage, then mixed with the finest grade sesame oil . The dumpling skin is made from natural wheat flour, which makes the dumplings not easy to break during the cooking process. The end result is a taste that is fresh and natural, not greasy yet filled with an aromatic juicy and chewy feel!</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1epKbLUdeKMl49D1uZP8EEIXbRHXKlQGc&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chives & Pork Dumplings</h6>
-		<p>Our dumpling fillings are crafted from a selection of fresh pork shoulder, minced and blended with high quality chives, then mixed with the finest grade sesame oil . The dumpling skin is made from natural wheat flour, which makes the dumplings not easy to break during the cooking process. The end result is a taste that is fresh and natural, not greasy yet filled with an aromatic juicy and chewy feel! </p></div>
+		<p>Another winner from our classic dumplings category with our secret recipe meticulously adjusted to suit local taste. Added with chives which is extremely rich in flavonoid antioxidants that has plenty of health benefits.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1OR5ukC-E0gkQaYZsDh3FrOqb204xBKe9&export=download"></div>
