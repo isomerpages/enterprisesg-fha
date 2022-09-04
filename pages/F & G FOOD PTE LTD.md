@@ -1,6 +1,6 @@
 ---
 title: F & G FOOD PTE LTD
-permalink: /exhibitors/f-g-food
+permalink: /exhibitors/f-g-food/
 description: ""
 ---
 <head>
@@ -43,13 +43,13 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1VRy-31BAhfaebf4Pg9YzONjatrmieopM&export=download"></div>
+	<div class="flex-image" style="display: block;"><img src="/images/fgfood1.png"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Golden Palm</h6>
 		<p>Canned Luncheon Meat and Chinese Sausages</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1EFtCOAVF0X1W77oeof1qIon9qUVziYzR&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="/images/fgfood2.png"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Golden Palm</h6>
 		<p>Salted Egg Fish Skin and Ready to Eat Poultry</p></div>
