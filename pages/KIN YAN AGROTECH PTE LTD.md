@@ -1,6 +1,6 @@
 ---
 title: KIN YAN AGROTECH PTE LTD
-permalink: /exhibitors/kin-yan-agrotech
+permalink: /exhibitors/kin-yan-agrotech/
 description: ""
 ---
 <head>
@@ -26,7 +26,7 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages, Eggs and Fresh Produce</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, ISO 9001 Certified, Tasty Singapore, Healthier Choice Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, ISO 9001 Certified, Healthier Choice Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->China, Malaysia, Vietnam</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Food Distributors / Online Food Distributors, Wholesalers, Importers, Suppliers in food services</p>
 			</div>
