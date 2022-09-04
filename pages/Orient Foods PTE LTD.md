@@ -1,6 +1,6 @@
 ---
 title: Orient Foods PTE LTD
-permalink: /exhibitors/orient-foods
+permalink: /exhibitors/orient-foods/
 description: ""
 ---
 <head>
@@ -10,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase">6K2-05</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1nTGiIbSavuDVx9pP1bwu92RyhPK9i92X&export=download"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/orient.png"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Orient Foods PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Specialise in noodles, sauces, canned products, ready meal kits and snack products</p>
