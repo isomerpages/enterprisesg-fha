@@ -1,6 +1,6 @@
 ---
 title: Maxco Food Industries Pte Ltd
-permalink: /exhibitors/maxco-food-industries
+permalink: /exhibitors/maxco-food-industries/
 description: ""
 ---
 <head>
@@ -10,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase">6J4-04</p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1UslPXfeCvtNTakU86wDJmgD-0T4W8Zz2&export=download"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/maxco.png"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Maxco Food Industries Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Fresh fruits and vegetables in various cuts</p>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Eggs and Fresh Produce</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, ISO 22000 Certified, MESTI</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->China, Japan, Middle East, Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, E-Commence, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, E-Commerce, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">

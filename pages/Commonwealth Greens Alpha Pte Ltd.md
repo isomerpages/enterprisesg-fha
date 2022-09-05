@@ -1,6 +1,6 @@
 ---
 title: Commonwealth Greens Alpha Pte Ltd
-permalink: /exhibitors/commonwealth-greens-alpha
+permalink: /exhibitors/commonwealth-greens-alpha/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Commonwealth Alpha Greens Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Vegetables and farm systems</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="justproduce.sg" target="_blank"><!--insert the www website link here (no need for https)-->justproduce.sg</a></p>
+		<p><a href="https://justproduce.com" target="_blank"><!--insert the www website link here (no need for https)-->justproduce.sg</a></p>
 	</div>
 </div>
 </head>
@@ -68,11 +68,7 @@ Storage: Store sealed between 1-4°C
 
 Country of Origin: Singapore
 
-Shelf-Life: 7 days
-
-
-
-</p></div>
+Shelf-Life: 7 days</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1m20qqshOBwbzgeBi0ANVl3yyl17wosnG&export=download"></div>
@@ -97,10 +93,7 @@ Storage: Store sealed between 1-4°C
 
 Country of Origin: Singapore
 
-Shelf-Life: 6 days
-
-
-</p></div>
+Shelf-Life: 6 days</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1HwSp_9HYSgwH8ZG4Wfa43HWbzv-Wyp6v&export=download"></div>
@@ -126,11 +119,7 @@ Storage: Store sealed between 1-4°C
 
 Country of Origin: Singapore
 
-Shelf-Life: 6 days
-
-  
-
-</p></div>
+Shelf-Life: 6 days</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=11L4QWGEfEdnUmdlNLzAmMx0T8wj_q-wU&export=download"></div>

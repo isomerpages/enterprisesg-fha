@@ -1,6 +1,6 @@
 ---
 title: Unifood International (S) Pte Ltd
-permalink: /exhibitors/unifood-international
+permalink: /exhibitors/unifood-international/
 description: ""
 ---
 <head>
@@ -28,14 +28,14 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, Healthier Choice Certified, ISO 22000 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Brunei, Cambodia, China, Indonesia, Kuwait, Malaysia, Myanmar, New Zealand, Philippines, Qatar, Russia, Timor Leste (East), Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Ryan Chong</b><br><!-- designation-->Senior Marketing Executive<br><!--contact number-->+65 68413855<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:ryan.chong@unifood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->ryan.chong@unifood.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jasmine Lim</b><br><!-- designation-->Business Development Manager<br><!--contact number-->+65 9766 7790<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:jasmine.lin@unifood.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->jasmine.lin@unifood.com.sg</a></p>
 		</div>
 			</div>
 		</div>

@@ -1,6 +1,6 @@
 ---
 title: Cita Rasa Hlh Pte Ltd
-permalink: /exhibitors/cita-rasa-hlh
+permalink: /exhibitors/cita-rasa-hlh/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Cita Rasa Hlh Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of Ngoh Hiang And Traditional Chinese Snacks</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://citarasa.sg/" target="_blank"><!--insert the www website link here (no need for https)-->https://citarasa.sg/</a></p>
+		<p><a href="https://citarasa.sg/" target="_blank"><!--insert the www website link here (no need for https)-->citarasa.sg</a></p>
 	</div>
 </div>
 </head>
@@ -46,43 +46,42 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1Ppv-VGtl4SyRISfO4vWnjfRNZktddf1B&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Crispy Prawn Crackers</h6>
-		<p>OUR SPECIALTY:  Crispy Prawn Crackers is all time favourite snack at all occasion. This crispy with a natural flavour of cracker and prawns are perfect finger meal sharing with love one, friends, colleague and partners. No fuss culinary process – you just need air frying or toast to had a magical experience of our specialty within 5 minutes
+		<p>This Signature Crispy Prawn Cracker is crispy and crunchy. The irresistible light and airy texture will leave you craving for more. This versatile crackers are not only perfect to complete a Ngoh Hiang platter, but they also go great with other local dishes like Rojak, adding extra flavour and crunch.
 
-
-
-</p></div>
+Halal Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1lN4cW0jp6J1CrPQUAjYXqhASy28clpUy&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Fried Bee Hoon</h6>
-		<p>This fragrant and flavourful bee hoon are perfect meal to share with loved one, friends, colleague and partners.
+		<p>This fragrant and flavourful Fried Bee Hoon is perfect for sharing, celebrations or other occasions. Its fuss free preparation and irresistible taste will leave you wanting more. Whether alone or with side dishes, Fried Bee Hoon will satisfy your taste buds.
 
-
-</p></div>
+Halal Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=143GNhMVXZaz_oVOLbcOQzk1J5plEnsk4&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Yam Roll</h6>
-		<p>OUR CLASSIC: Yam Roll is a superb matching of yam, sweet potatoes and vegetables spice with our heritage recipes. This vegetables roll is great choice for both health conscious and vegetarian diet consumer.   You just need to heat up using air frying or toaster or any of your preferred cooking equipment to enjoy the mouth-watering vegetables roll within 5 minutes.
+		<p>Savour the perfect combination of yam, sweet potato and vegetables that is both sweet and savoury. Yam Roll is a meatless snack that is suitable for vegetable lovers. It is a perfect finger food that can be enjoyed by many.
 
-  
-
-</p></div>
+Halal Certified</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1J6lPNMM2PgBwyjYstHjJdh316qhL1RKo&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Chicken Ngoh Hiang</h6>
-		<p>OUR STAR FEATURE: chicken Ngoh Hiang is a traditional must have item during festivals and celebrations. This delicious chicken rolls wrapped in bean curd sheets has a crunchy exterior with a soft and chewy filling. Our ready to eat rolls are convenience and do not need extensive culinary process </p></div>
+		<p>Made with chicken meat wrapped in salted bean curd skin. Chicken Ngoh Hiang has a wonderful combination of flavours and textures that will excite your taste buds. It is seasoned with Traditional Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health. It is a great choice as an appetizer or as a side dish.
+
+Halal Certified</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1_Z6YR5YMIVVlifT1-AWqzvvybcjXv-e5&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Golden Prawn Pancake</h6>
-Similar taste to "Ding Tai Fung" style prawn pancake.Crispy snacks that compliment your meal, fuss free preparation.</p></div>
+Inspired by famous Taiwanese Prawn Pancake, this dish is a must-try. The sweetness from the prawn and the crispy exterior of the bean curd skin make it a great addition to your meal or as an appetizer. 
+
+Halal Certified</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>

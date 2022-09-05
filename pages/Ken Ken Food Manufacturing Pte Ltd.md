@@ -1,6 +1,6 @@
 ---
 title: Ken Ken Food Manufacturing Pte Ltd
-permalink: /exhibitors/ken-ken-food
+permalink: /exhibitors/ken-ken-food/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Ken Ken Food Manufacturing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of seafood - cuttlefish & fish, flour-based snacks & other food snacks</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="http://www.kenken.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->http://www.kenken.com.sg/</a></p>
+		<p><a href="https://www.kenken.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.kenken.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Seafood, Snacks and Confectionery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, ISO 9001 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->China, Hong Kong, Indonesia, Malaysia, Philippines, Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Wholesalers, Importers</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -60,9 +60,7 @@ Ken Ken Sea Scallop 800g</h6>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1o2Sx5y8t5vsLlgJY4WvuwSpvBH3iVHIp&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Ken Ken Shredded Cuttlefish 10g</h6>
-		<p>Ken Ken Shredded Cuttlefish in green and white packaging is the famous and long lasting brand in Singapore and Malaysia. It is our childhood snacks that we grow up with, and it jogs good old times with the catchy tag-line” Chewing Gum of the Orientals”.All our cuttlefish is processed from premium quality raw materials and marinated with selected spices and seasonings. The rooting process brings out the unique flavour of the snack that is simply deliciously additive.We also offer many variety of flavours and styles for our customers, such as\* The Classic (Kensaki剣先)-Whole Piece, Shredded, Rolled Cuttlefish\* The Flavoured-Roasted, Honey Glazed, Lemon Flavoured, Sugared, Red Sliced Cuttlefish\* The Crispy and Savory Cuttlefish\* The Soft and Shredded Cuttlefish.
-
-</p></div>
+		<p>Ken Ken Shredded Cuttlefish in green and white packaging is the famous and long lasting brand in Singapore and Malaysia. It is our childhood snacks that we grow up with, and it jogs good old times with the catchy tag-line” Chewing Gum of the Orientals”.All our cuttlefish is processed from premium quality raw materials and marinated with selected spices and seasonings. The rooting process brings out the unique flavour of the snack that is simply deliciously additive.We also offer many variety of flavours and styles for our customers, such as\* The Classic (Kensaki剣先)-Whole Piece, Shredded, Rolled Cuttlefish\* The Flavoured-Roasted, Honey Glazed, Lemon Flavoured, Sugared, Red Sliced Cuttlefish\* The Crispy and Savory Cuttlefish\* The Soft and Shredded Cuttlefish.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1gSmL-dFowRi-2Q-F2qG56XS1x1XAQaWz&export=download"></div>

@@ -1,6 +1,6 @@
 ---
 title: Cooking Art Industries Pte Ltd
-permalink: /exhibitors/cooking-art-industries
+permalink: /exhibitors/cooking-art-industries/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Cooking Art Industries Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Singapore Heritage Confections</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.cookingart.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.cookingart.com.sg</a></p>
+		<p><a href="https://www.cookingart.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.cookingart.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> HACCP Certified, ISO 22000</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->NA</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -46,21 +46,14 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1vyk8APHMIvuSvSTWQJFjYUritRNSUu0c&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Kueh Lapis</h6>
-		<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.
-
-
-
-</p></div>
+		<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1eQiPoO0G8xsyl74-W6CjXrf2vDF-y4Hj&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Assorted Kuehs</h6>
-		<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.
-
-
-</p></div>
+		<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.</p></div>
 	</div>
 	</div>
 </body>

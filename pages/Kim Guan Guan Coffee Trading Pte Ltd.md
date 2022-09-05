@@ -1,6 +1,6 @@
 ---
 title: Kim Guan Guan Coffee Trading Pte Ltd
-permalink: /exhibitors/kim-guan-guan
+permalink: /exhibitors/kim-guan-guan/
 description: ""
 ---
 <head>
@@ -12,10 +12,8 @@ description: ""
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=1caoifmDnC9n4FGHvQqdBSX2zjn9xCvHC&export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Supplier of coffee powders to beverages outlets</p>
-		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="kimguanguan.com" target="_blank"><!--insert the www website link here (no need for https)-->kimguanguan.com</a></p>
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here--><p>Supplier of coffee powders to beverages outlets</p>
+		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks--><p><a href="http://www.kimguanguan.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->kimguanguan.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -26,9 +24,9 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, ISO 22000 Certified, "Healthier Choice" Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, ISO 22000 Certified, Healthier Choie Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Asia</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Wholesalers, Importers</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services, Ship Chandlers</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -53,17 +51,13 @@ description: ""
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 KGG's range of wholesale traditional coffee powder and tea dust</h6>
-		<p>We use quality ingredients to produce the authentic and robust Singapore Traditional Coffee Powder and Tea Dust that KGG is known for and pride ourselves on our strict quality control standards to ensure consistency.
-
-</p></div>
+		<p>We use quality ingredients to produce the authentic and robust Singapore Traditional Coffee Powder and Tea Dust that KGG is known for and pride ourselves on our strict quality control standards to ensure consistency.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1SFgkji618vI4ZYualir5bAzqMZ0lOW8L&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Kim's Duet Local Steep Coffee</h6>
-		<p>KGG has recently introduced Kim’s Duet, an innovative range of products that’sformulated with consumers’ health benefits as the priority. These local steep coffeesachets combine quality traditional coffee with the convenience of single servings,perfect for those who are looking for a fuss-free way to enjoy an authentic cup oftraditional kopi (coffee) anytime, anywhere.
-
-</p></div>
+		<p>KGG has recently introduced Kim’s Duet, an innovative range of products that’sformulated with consumers’ health benefits as the priority. These local steep coffeesachets combine quality traditional coffee with the convenience of single servings,perfect for those who are looking for a fuss-free way to enjoy an authentic cup oftraditional kopi (coffee) anytime, anywhere.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1dGWyqKu8_TdCyuS8DP819FtOekkbQNQe&export=download"></div>

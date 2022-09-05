@@ -1,6 +1,6 @@
 ---
 title: Oishi Manufacturing Pte Ltd
-permalink: /exhibitors/oishi-manufacturing
+permalink: /exhibitors/oishi-manufacturing/
 description: ""
 ---
 <head>
@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Snacks and Confectionery</span></p> 
+			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->FSSC 22000</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Indonesia, Malaysia</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors</p>
@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Kenny Ang</b><br><!-- designation-->Factory Manager<br><!--contact number-->+65 96959230<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:kenny@oishi.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->kenny@oishi.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Joy Lee & Denise O</b><br><!-- designation-->Factory Manager<br><!--contact number-->+65 92777259 / +65 87387753<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:joy@oishi.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->joy@oishi.com.sg</a> OR <a href="mailto:denise@oishi.com.sg" style="color: white;">denise@oishi.com.sg</a></p>
 		</div>
 			</div>
 		</div>
@@ -46,13 +46,14 @@ description: ""
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1zta6l46-MFmL1JZc93YXcK9Dm2XpxXQK&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Waffle Premix</h6>
-		<p>Premium Tasty Waffle Premix, Easy to use</p></div>
+		<p> Premium Tasty Waffle Premix, In Powder State with 18 months shelf life .come in 6 different ready made flavour : Original , Chocolate , Bamboo Charcoal , Red Velvet , Matcha Green Tea & Purple Potato.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=11gCeTu5jPq3CfHopRcgT84BcYvXfJhiU&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Ready Gelato Premix</h6>
-		<p>Easy to use, All ready</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Artisanal Ice Cream & Gelato Wholesale Supply</h6>
+		<p>Wide range of flavours available , 
+Beside Ready available in Frozen Finish product , Come in handy easy to use Ready Gelato premix & related Ingredients for Ice Cream Maker to manufacture their own Ice Cream and Gelato.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>

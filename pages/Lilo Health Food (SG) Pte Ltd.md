@@ -1,6 +1,6 @@
 ---
 title: Lilo Health Food (SG) Pte Ltd
-permalink: /exhibitors/lilo-health-food
+permalink: /exhibitors/lilo-health-food/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Lilo Health Food (SG) Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Sale of food powder</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://lilo.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->https://lilo.com.sg/</a></p>
+		<p><a href="https://lilo.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->lilo.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -61,18 +61,13 @@ description: ""
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">  
 Lilo Premium Mushroom Powder Bottle 50grams</h6>
-		<p>For that additional punch of earthy rich mushroom flavours to your dishes, look no further. Lilo’s Premium Mushroom Powder is chock-full of the yummy goodness of mushrooms, without the hassle of cooking and blending mushrooms from scratch. This all-natural mushroom powder has been specially created to be added easily into soups and meals. It is made from 100% high-quality Shiitake mushrooms, with no MSG, Preservatives or Salt added.Rich and savory, Lilo’s Premium Mushroom Powder brings a whole new level of rich flavours to ordinary dishes. Not only does it enhances your food wonderfully, it can also be used as a salt substitute for those who are seeking a healthier diet!
-
-
-</p></div>
+		<p>For that additional punch of earthy rich mushroom flavours to your dishes, look no further. Lilo’s Premium Mushroom Powder is chock-full of the yummy goodness of mushrooms, without the hassle of cooking and blending mushrooms from scratch. This all-natural mushroom powder has been specially created to be added easily into soups and meals. It is made from 100% high-quality Shiitake mushrooms, with no MSG, Preservatives or Salt added.Rich and savory, Lilo’s Premium Mushroom Powder brings a whole new level of rich flavours to ordinary dishes. Not only does it enhances your food wonderfully, it can also be used as a salt substitute for those who are seeking a healthier diet!</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1EVBVSA-FYU1Egb5YafUpGmwZU_K0lCOg&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Lilo Premium Scallop Powder Bottle 50 grams</h6>
-		<p>Dried scallops have been used in Asian cooking for a long time and it is every mom’s kitchen secret. You can also show off your cooking prowess and bring the delightful taste of sweet scallops into your dishes with Lilo’s Premium Scallop Powder! Made from 100% premium grade scallops, this scallop powder enhances your food naturally with that wonderful savoury sweetness of the sea while boosting your body with host of nutritional benefits. Health-conscious eaters need not worry, no MSG, Preservatives or Salt have been added. Just pure natural goodness. Savoury-sweet and aromatic, Lilo’s Premium Scallop Powder will astound your taste buds and have your family asking for seconds.
-
-</p></div>
+		<p>Dried scallops have been used in Asian cooking for a long time and it is every mom’s kitchen secret. You can also show off your cooking prowess and bring the delightful taste of sweet scallops into your dishes with Lilo’s Premium Scallop Powder! Made from 100% premium grade scallops, this scallop powder enhances your food naturally with that wonderful savoury sweetness of the sea while boosting your body with host of nutritional benefits. Health-conscious eaters need not worry, no MSG, Preservatives or Salt have been added. Just pure natural goodness. Savoury-sweet and aromatic, Lilo’s Premium Scallop Powder will astound your taste buds and have your family asking for seconds.</p></div>
 		</div>
 	</div>
 </body>

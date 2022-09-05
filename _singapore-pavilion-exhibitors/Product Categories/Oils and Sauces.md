@@ -1,6 +1,6 @@
 ---
 title: Oils and Sauces
-permalink: /singapore-pavilion-exhibitors/oils-sauces
+permalink: /singapore-pavilion-exhibitors/oils-sauces/
 description: ""
 third_nav_title: Product Categories
 ---
@@ -15,6 +15,29 @@ third_nav_title: Product Categories
 <body>
 	<!-- To replicate exhibitors, copy from the <div class> line onwards to </div> after "Visit their page". -->
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>4J3-05</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1fexe4sMuWpZLbAAWwLaAU2FKTThuy13u&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>13 HONEY (S) PTE. LTD.</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Supplying and manufactory of honey products</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/13-honey" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
@@ -87,7 +110,7 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>tbc</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>4J3-03</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -197,6 +220,29 @@ third_nav_title: Product Categories
 				<p><small>Wholesale dry goods supplier - sugar, salt, oil, sauce, thai products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/exhibitors/ken-hong-seng" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong>6l3-10</strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1CVnguN1YLd2VizzseO3n_V-fpmcQDV12&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>maxwill (asia) PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Importer, exporter and stockist of commodities - sugar, rice, oil</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/maxwill-asia" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
@@ -432,24 +478,24 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6j3-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong>6M1-04</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1v1zIJy6qWIhJ7itG5nRpSZzN5jNLRipO&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=14IrcQEwla8OtXvs80HyD-Nn4aZ-ABWee&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>The Soup Spoon Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>VISMARK FOOD INDUSTRIES PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Retail brand / take home soup packs / OEM / Manufacturing</small></p>
+				<p><small>Manufacturer of authentic Asian cooked and raw pastes, premium handmade dim sum & snacks, pre-mixed spices, sauces and desserts, provisional dried food</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/the-soup-spoon" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/vismark-food-industries" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">

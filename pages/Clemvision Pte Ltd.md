@@ -1,6 +1,6 @@
 ---
 title: Clemvision Pte Ltd
-permalink: /exhibitors/clemvision
+permalink: /exhibitors/clemvision/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Clemvision Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Electronics-related industrial design services</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.clemvision.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.clemvision.com.sg</a></p>
+		<p><a href="https://www.clemvision.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.clemvision.com.sg</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Others</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here--> NA</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->NA</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commence</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">

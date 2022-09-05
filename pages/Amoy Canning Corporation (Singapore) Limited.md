@@ -1,6 +1,6 @@
 ---
 title: Amoy Canning Corporation (Singapore) Limited
-permalink: /exhibitors/amoy-canning-corporation
+permalink: /exhibitors/amoy-canning-corporation/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>AMOY CANNING CORPORATION (SINGAPORE) LIMITED</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of canned meat, seafood items, vegetable condiments, sauces & curry mixes and Canned Drinks</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.amocan.com" target="_blank"><!--insert the www website link here (no need for https)-->www.amocan.com</a></p>
+		<p><a href="https://www.amocan.com" target="_blank"><!--insert the www website link here (no need for https)-->www.amocan.com</a></p>
 	</div>
 </div>
 </head>
@@ -25,9 +25,9 @@ description: ""
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Oils and Sauces, Snacks and Confectionary</span></p> 
+			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;">Meats, Oils and Sauces</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, Tasty Singapore, Superbrands Singapore, Golden Brand Award</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Brunei, France, Germany, HongKong, Taiwan, UK</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Brunei, France, Germany, Hong Kong, Taiwan, UK</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Wholesalers, Importers</p>
 			</div>
 		</div>

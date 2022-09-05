@@ -1,6 +1,6 @@
 ---
 title: Meod Pte Ltd
-permalink: /exhibitors/meod
+permalink: /exhibitors/meod/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Meod Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Urban Farming growing solutions, leafy vegetables and fruits vegetables</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.meod.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.meod.com.sg</a></p>
+		<p><a href="https://www.meod.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.meod.com.sg</a></p>
 	</div>
 </div>
 </head>

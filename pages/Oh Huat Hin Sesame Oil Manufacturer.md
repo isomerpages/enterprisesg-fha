@@ -1,6 +1,6 @@
 ---
 title: Oh Huat Hin Sesame Oil Manufacturer
-permalink: /exhibitors/oh-huat-hin
+permalink: /exhibitors/oh-huat-hin/
 description: ""
 ---
 <head>

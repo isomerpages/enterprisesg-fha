@@ -1,6 +1,6 @@
 ---
 title: Mei Heong Yuen Food Industries Pte Ltd
-permalink: /exhibitors/mei-heong-yuen
+permalink: /exhibitors/mei-heong-yuen/
 description: ""
 ---
 <head>
@@ -15,7 +15,7 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Mei Heong Yuen Food Industries Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Producer and distributer of peanuts, noodles, soya sauce</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://www.farmerpeanuts.com/" target="_blank"><!--insert the www website link here (no need for https)-->https://www.farmerpeanuts.com/</a></p>
+		<p><a href="https://www.farmerpeanuts.com/" target="_blank"><!--insert the www website link here (no need for https)-->www.farmerpeanuts.com</a></p>
 	</div>
 </div>
 </head>
@@ -28,7 +28,7 @@ description: ""
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Snacks and Confectionery, Rice and Noodles</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, SFA Local Farm, Packed in SG, ISO 22000 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong, US</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commence, Importers, Suppliers in food services</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
