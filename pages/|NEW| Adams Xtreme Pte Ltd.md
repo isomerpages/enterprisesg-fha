@@ -3,8 +3,6 @@ title: "|NEW| Adams Xtreme Pte Ltd"
 permalink: /adamzxtreme/
 description: ""
 ---
-
-
 <head>
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
@@ -23,7 +21,7 @@ company's vision is HALALAN TOYIBBAN where the whole chain
 from animal feed till the meat products turn into burgers/ sausages/
 kebabs are halal certified.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://13honey.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.adamzxtreme.com</a></p>
+		<p><a href="www.adamzxtreme.com" target="_blank"><!--insert the www website link here (no need for https)-->www.adamzxtreme.com</a></p>
 	</div>
 </div>
 </head>
