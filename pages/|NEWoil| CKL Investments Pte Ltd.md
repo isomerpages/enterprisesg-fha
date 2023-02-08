@@ -37,7 +37,7 @@ salt, starch etc. in the international market.</p>
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Dan Koh</b><br><!-- designation--> Chong Siew Kian (Ms)<br><!--contact number-->+65 6285 6488<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="ckl.acc2@gmail.com" style="color: white;"><!--...and also include the display email before </a> here-->ckl.acc2@gmail.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Chong Siew Kian (Ms)</b><br><!-- designation--></br-><!--contact number-->+65 6285 6488<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="ckl.acc2@gmail.com" style="color: white;"><!--...and also include the display email before </a> here-->ckl.acc2@gmail.com</a></p>
 		</div>
 			</div>
 		</div>
