@@ -51,7 +51,7 @@ company provides OEM services for export and local markets with its
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1o2ggbkCae7EbK7q1U6lGgzYesvuK0LQ0&export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-		<p>Instant 3-in-1 Coffee, Instant Milk Tea, Instant Double Chocolate,
+Instant 3-in-1 Coffee, Instant Milk Tea, Instant Double Chocolate,
 Instant Flavoured Coffee, Hailam Kopi O (Signature local coffee
 beverage of Singapore)
 
