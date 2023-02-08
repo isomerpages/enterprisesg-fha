@@ -20,7 +20,7 @@ of its products in Singapore and overseas. Its flagship brand
 "SAGIKO" is offering more than 30 flavours and choices. The
 company is ISO9001, HACCP, GMP and Halal certified.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://13honey.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.chiakhimlee.com</a></p>
+		<p><a href="www.chiakhimlee.com" target="_blank"><!--insert the www website link here (no need for https)-->www.chiakhimlee.com</a></p>
 	</div>
 </div>
 </head>
