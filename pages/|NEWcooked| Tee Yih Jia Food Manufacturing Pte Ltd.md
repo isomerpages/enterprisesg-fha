@@ -42,7 +42,7 @@ safety is at the core of everything the company does.</p>
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Kowi Jeng Ee</b><br><!-- designation-->Senior Product Manager<br><!--contact number-->+65 6880 9888<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="kowijengee@tyjfood.com" style="color: white;"><!--...and also include the display email before </a> here-->kowijengee@tyjfood.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Kowi Jeng Ee</b><br><!-- designation-->Senior Product Manager<br><!--contact number-->+65 6880 9888<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:kowijengee@tyjfood.com" style="color: white;"><!--...and also include the display email before </a> here-->kowijengee@tyjfood.com</a></p>
 		</div>
 			</div>
 		</div>
