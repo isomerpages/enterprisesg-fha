@@ -42,7 +42,7 @@ products and other snack products.</p>
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Tararat Thongkum (Ms)</b><br><!-- designation-->Director<br><!--contact number-->+65 6264 8888<br><!--contact number-->+66 2960 1888<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="tararat@tonggarden.com" style="color: white;"><!--...and also include the display email before </a> here-->tararat@tonggarden.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Tararat Thongkum (Ms)</b><br><!-- designation-->Director<br><!--contact number-->+65 6264 8888<br><!--contact number-->+66 2960 1888<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:tararat@tonggarden.com" style="color: white;"><!--...and also include the display email before </a> here-->tararat@tonggarden.com</a></p>
 		</div>
 			</div>
 		</div>
