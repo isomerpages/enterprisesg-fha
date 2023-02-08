@@ -39,7 +39,7 @@ fats, sweetened condensed milk, premixes, rice, etc.</p>
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Sophia Chung</b><br><!-- designation-->Senior Product Manager<br><!--contact number-->+65 6779 6800<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="sophiachung@nchoil.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->sophiachung@nchoil.com.sg</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Sophia Chung</b><br><!-- designation-->Senior Product Manager<br><!--contact number-->+65 6779 6800<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:sophiachung@nchoil.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->sophiachung@nchoil.com.sg</a></p>
 		</div>
 			</div>
 		</div>
