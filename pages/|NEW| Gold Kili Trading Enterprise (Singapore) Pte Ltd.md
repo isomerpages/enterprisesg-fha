@@ -19,7 +19,7 @@ beverages and exporting to over 30 countries. Just Gold Kili & Water
 – simply add water to any of its product to enjoy a satisfying quality
 beverage instantly.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://13honey.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.goldkili.com</a></p>
+		<p><a href="www.goldkili.com" target="_blank"><!--insert the www website link here (no need for https)-->www.goldkili.com</a></p>
 	</div>
 </div>
 </head>
