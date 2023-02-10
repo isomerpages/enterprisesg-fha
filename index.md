@@ -13,9 +13,9 @@ sections:
       button: Browse here
       url: /singapore-pavilion-exhibitors/bakery
       key_highlights:
-        - title: About FHA-F&B 2022
-          description: Learn more about the event.
-          url: /about-the-event/overview
+        - title: Enterprise Singapore
+          description: Learn more about EnterpriseSG!
+          url: /about-the-event/organisers
         - title: Why Singapore?
           description: Discover local opportunities.
           url: /why-singapore
