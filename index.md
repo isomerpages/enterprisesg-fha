@@ -7,9 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: FHA-F&B Singapore Pavilion Exhibitors
-      subtitle: Meet the Singapore Pavilion Exhibitors featured at FHA-Food and
-        Beverage 2022.
+      title: Singapore Food Manufacturing
+      subtitle: Find out more about the players in our ecosystem here!
       background: /images/hero-banner.png
       button: Browse here
       url: /singapore-pavilion-exhibitors/bakery
@@ -29,11 +28,4 @@ sections:
         product and dish, Singapore is a renowned food capital in Asia.
       button: FIND OUT MORE
       url: /singapore-pavilion-exhibitors/overview
-  - infobar:
-      title: SHOW INFORMATION
-      subtitle: Getting to the venue
-      description: Find out how to get to Singapore Expo from 5 - 8 September 2022.
-      button: directions
-      url: https://www.fhafnb.com/essential-info/venue/
 ---
-
