@@ -221,7 +221,7 @@ third_nav_title: Product Categories
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/sponsors/kee-song-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
-  </div>
+  </div> [insert next line here]
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
@@ -245,6 +245,7 @@ third_nav_title: Product Categories
           <p><a href="/sponsors/sachi" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
+	
 	
 </div>
 </body>
