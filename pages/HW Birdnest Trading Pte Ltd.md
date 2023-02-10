@@ -6,7 +6,7 @@ description: ""
 <div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase">6k2-01</p></div>
+		<p style="text-transform: uppercase"></p></div>
 			<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?id=1tjUG_fXKKRtholcoV30clvGFFunzdEJ5&amp;export=download"></div>
