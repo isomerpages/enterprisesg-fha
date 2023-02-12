@@ -53,7 +53,7 @@ company is HACCP and Halal certified.</p>
 	<div class="flex-image" style="display: block;"><img src="https://doc-14-3s-docs.googleusercontent.com/docs/securesc/69isnljd6u5lkd2esi0uo09d7a1dfqf2/ljo49kpcd1r9ff2gr7opfifoser23fc0/1676206800000/12105796777324072886/12105796777324072886/1gSMfDFS8iQ63av8Wapg44hFADdmAvztl?e=download&ax=AB85Z1Azyt_RIqxi2nLRSUoDqgUEzjG5GmHEkJkA37u2Y2bSre4zK9yN5SRUWH83R3ueBmswgI9rnNoGOHqsxF4vJgcZt_ShNbrizvNqKWGp1VGCovGNRywBVdj8TtKW5jNetNbt-1q4bUbcc1RGpJEGeS4-dq8lJwXVne2mKVrI6LHKPg8GG5NORvds64Hp4IGJRg9yTsGqA8iv4D8o9-37BDRIdzlYETsOjMOXFWa3QXpYTyzf9KmamPU4RAwmcF6f0cXJLH1MT2Qvmd417NK4MiyZrqnISCWnbnoY071nOkVeLTXcI0LGxDqwBkeOcb7zStnfBDE-pcia03AJkncWtONzKLUWpTzKr63ayDVeOh87k_oQKLL4REenBpxvH4CTIAHULvrARyu_VVvYRt3eepNQVS8IL_qyiO8RvGcG_Q4aNHvIym0fTZPLSuI3F6hYiMMGX6D-ql9G1aTiv0mhnkbm4aLUo6o5ePXCA1YnIZn5nA3vuioNPVINSlLIVbs5eOvUGitT3eNvlRb-67FxrlIAUreMwcf-q52HhoPLG9kjABy4Dgdi7VUJU4uoqL9D0zREOxdF12RkEWueCbovaje7eVIYkpPvIJEaHIHjRX_v1chSiuphvr5lD0HvFpti-SJi72iGBOlMhQzg4olToA_rF5PhPkOVDoI5MuS2uqh_92SORIVHoQ_yolaZ54jDPba07ThJ9viannRAyyGBuZ4ITLaqY9XRcZyfBRYZHxo0MiK6z23ISTZmZW1Fo52hprlQ0w-2B6dNUvMHgIvpQuF2pG3Usj_5ZCLmBBlWtKzx1J6sKs7KjDOjuAIFU53O7u4vC2M1_FVrdtvlVapz7V7zuWR649Mdd92FI4JSKaj9MOOZmprRclROih8-VQ1Fp-2HgCBOg-ryBth9qO-U8NeEvhYAoeHzK-0&uuid=531a7b20-78a8-4fc6-993b-432c828e3276&authuser=0"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-		<p>Walker’s Vitamin C, Walker’s Aquasmart, Walker’s Ginger Beverage,
+Walker’s Vitamin C, Walker’s Aquasmart, Walker’s Ginger Beverage,
 Walker’s Sparkling Soda, Classic Soda
 
 
