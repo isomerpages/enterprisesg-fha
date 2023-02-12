@@ -311,11 +311,9 @@ third_nav_title: Product Categories
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/exhibitors/the-seafood-company" target="_blank"><small>Visit their page</small></a></p>
       </div>
-  </div>[insert next line here]
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+  </div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
-			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -327,14 +325,13 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>testing123</strong></p>
+          <p style="text-transform: uppercase;"><strong>[NEW!] thong siek food industry Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>testing123</small></p>
+				<p><small>Surimi-based seafood and fish products</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/sponsors/sachi" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/thongsiek" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
-	
 </div>
 </body>
