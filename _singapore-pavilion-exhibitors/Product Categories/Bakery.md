@@ -311,7 +311,7 @@ third_nav_title: Product Categories
 				<!--...and description. -->
 				<p><small>Baking ingredients, tools and services</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/you-tiao-man" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/phoonhuat" target="_blank"><small>Visit their page</small></a></p>
       </div>
 	</div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
@@ -322,7 +322,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1htIvFvJv91xJJpySjwmwDZ7A8gCnlRZF&export=downloadd" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/u/0/uc?id=1htIvFvJv91xJJpySjwmwDZ7A8gCnlRZF&export=download" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
