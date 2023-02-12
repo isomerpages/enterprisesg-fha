@@ -30,7 +30,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Baker's Oven Pattisieries</strong></p>
+          <p style="text-transform: uppercase;"><strong>Baker's Oven Patisseries</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of frozen dough, bakery & confectionery products</small></p>
