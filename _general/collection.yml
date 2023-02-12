@@ -1,5 +1,5 @@
 collections:
-  singapore-pavilion-exhibitors:
+  general:
     output: true
     order:
       - Overview.md
