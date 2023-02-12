@@ -412,7 +412,7 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>[NEW!] seabiz trading Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Wholesale of FMCG</small></p>
+				<p><small>Wholesale of FMCG (multiproduct)</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/seabiz" target="_blank"><small>Visit their page</small></a></p>
       </div>
