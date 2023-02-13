@@ -352,7 +352,7 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>Bhavani Stores Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Singapore Networking Dinner Sponsor</small></p>
+				<p><small>Importer and exporter of Indian grocery items and Uncle Saba's poppadoms line</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/sponsors/bhavani-stores" target="_blank"><small>Visit their page</small></a></p>
       </div>
