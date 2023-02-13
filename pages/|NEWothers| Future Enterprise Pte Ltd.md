@@ -51,8 +51,7 @@ organisation’s expectations of striving for excellence.</p>
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1Bs3Ku8uxEc9qzWx1VMfKSaLDvkhSOv_C"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-Potato Chips, Non-dairy Creamer, Foaming Creamer, Whipping Cream,
-Fat Powder)
+Potato Chips, Non-dairy Creamer, Foaming Creamer, Whipping Cream, Fat Powder
 
 
 
