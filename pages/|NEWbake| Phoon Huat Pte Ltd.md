@@ -10,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1e-3QMPce83\_WYJ6xV\_yM-3bGYAwc\_7db"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1e-3QMPce83_WYJ6xV_yM-3bGYAwc_7db"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Phoon Huat Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Phoon Huat was founded in 1947 in Singapore. It has grown into one
