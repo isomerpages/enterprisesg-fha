@@ -681,7 +681,7 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>SINfOOtECH pTE lTD (sACHI)</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Singapore Networking Dinner Sponsor</small></p>
+				<p><small>Soy alchoholic beverages</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/sponsors/sachi" target="_blank"><small>Visit their page</small></a></p>
       </div>
