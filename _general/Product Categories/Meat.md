@@ -213,7 +213,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Kee Song Food Corporation(s) Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Kee Song Food Corporation (s) Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Supplier of chicken in Singapore</small></p>
@@ -243,4 +243,4 @@ third_nav_title: Product Categories
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/adamzxtreme" target="_blank"><small>Visit their page</small></a></p>
       </div>
-</div> 
+</div>
