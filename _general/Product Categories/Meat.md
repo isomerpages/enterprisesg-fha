@@ -216,7 +216,7 @@ third_nav_title: Product Categories
           <p style="text-transform: uppercase;"><strong>Kee Song Food Corporation(s) Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Singapore Networking Dinner Sponsor</small></p>
+				<p><small>Supplier of chicken in Singapore</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/sponsors/kee-song-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
@@ -244,4 +244,3 @@ third_nav_title: Product Categories
           <p><a href="/adamzxtreme" target="_blank"><small>Visit their page</small></a></p>
       </div>
 </div> 
-</body>
