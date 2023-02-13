@@ -2,7 +2,7 @@
 layout: homepage
 title: FHA-F&B 2022 - Singapore Pavilion Exhibitors
 description: Discover the Singapore Pavilion Exhibitors featured at FHA-F&B 2022!
-image: /images/FHFB_2022_Logo stand alone.png
+image: /images/ESG-Logo-Pantone.png
 permalink: /
 notification: ""
 sections:
@@ -29,3 +29,4 @@ sections:
       button: FIND OUT MORE
       url: /singapore-pavilion-exhibitors/overview
 ---
+
