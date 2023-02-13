@@ -160,7 +160,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1AVEKojkBsz_n1zSF8-8oHPp5w3ozAyiP&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/nnagri.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
@@ -183,7 +183,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=12L2o1fAlpgRt2xalqzWemFp8Gj9B1kbj&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/usay.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
