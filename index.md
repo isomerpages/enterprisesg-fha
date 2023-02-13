@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: FHA-F&B 2022 - Singapore Pavilion Exhibitors
+title: Singapore Food Manufacturers
 description: Find out more about Singapore Food Manufacturers' quality offerings!
 image: /images/ESG-Logo-Pantone.png
 permalink: /
@@ -29,5 +29,6 @@ sections:
       button: FIND OUT MORE
       url: /singapore-pavilion-exhibitors/overview
 ---
+
 
 
