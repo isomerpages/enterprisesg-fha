@@ -46,7 +46,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=128-AnSE0L_vnLMc2tyLc4x9iJaznJTU0&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/easternharvest.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
@@ -161,7 +161,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1izI2VyerfgxVpkGpfQHpzBx3w39t-r_c&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/jumain.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
