@@ -3,7 +3,6 @@ title: "|NEWoil| Nomanbhoy & Sons Pte Ltd"
 permalink: /nomanbhoy/
 description: ""
 ---
-
 <head>
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
@@ -11,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://doc-0s-3s-docs.googleusercontent.com/docs/securesc/69isnljd6u5lkd2esi0uo09d7a1dfqf2/c7o2lkn5tnull0mi7vegvjn6ahm96th1/1676208300000/12105796777324072886/12105796777324072886/1342QyjsrDx5aI6XdpF88mw2uMgaE0ad3?e=download&ax=AB85Z1CaVrW4vj8txNAaU1393MS4ECatPJp7BC-tYwT9J-wRrQhjd8FeG99VZGBzHFPuQBDZmJUpUXw6RuZdnxty9CVMIhyufps5iRSGeuoXP75Ea6PmdiVCFUlrkFnSDACtHDKivqtqIxp3AE9HWLD7I0Gj1QRMOh8A_MBqnAJGeOO7vETJucmiiY2wFUpkyLlYNjdVSoXXhkv9e6jMQKR5kjwb_SsxE0GtEWtn95ys4p1yuI6bEsdxlHbpoGJ9bSPtJYGjcF5DAG0f4drrgvxei2i7zokxdGCqX55BiLbjof0fNhr-lOCu-flbopSVAl1v1jQiYUty5-KbTAjSYa3uHndpUYMRNWHM3UvF2AgRWOm9nGjAjNnmcmsqcBCAv6AcQ1KSqIzWMSQRRy9ORHIvfgR7vEX8vq8w-VP30LhvfgLr_JVjJe3_5ay7FAUpyJzFoA_CXxb3S4DbLm2DJWmotnY_lCtT8Pcm5VTJe8u423hc7QE4riCIdu7wlDWoqshq7HgIwM5cjTi9gGHZU6iuhzjyYSTrcj-5Xym-axxzyyOcBqZtWL8RQgGvzzNLTj2kV9tVtJqbAauhbLjIe2SAAKst-hAMoGpaHzA7ok_0RrwZcc6LSG_8fvCdEqF9tuB4SqXK3bDN4O2djDtE8-KYCJBDjNBsHZpWJedzO_hy5R18RtO_aRQOvvtN0rgAsa816VRjn1qLovcpokL2ll6IL-nsIOvb8r84a2gkYhZxbO1ecuq7GTvLYMpSVPeRa7xOwlRHsz9hMWbx1JBD8lnlNhz66OCy6dDD4mzMtGSJxGCN2XroWI_dTldotxF7Sp1i7y0JKTgKeup6sPM2phEZNqU0H9OefyhjoZkrrJtVwIKYC9TZrvv0pSEFCbroTUO1xwbWxtyauKZH9W-hLiFt3wBcRDo7KQ9S8J0&uuid=08a8bff0-44eb-4211-8364-9f786e23ea39&authuser=0"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1342QyjsrDx5aI6XdpF88mw2uMgaE0ad3"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Nomanbhoy & Sons Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Nomanbhoy & Sons has earned the distinction of being one of the
