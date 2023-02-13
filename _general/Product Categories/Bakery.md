@@ -161,7 +161,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1a07AiKGHAc-eBBrEmP-0VfEylnK8z7jE&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/leklim.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
