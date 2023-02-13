@@ -3,7 +3,6 @@ title: "|NEWmeat| Adamz Xtreme Pte Ltd"
 permalink: /adamzxtreme/
 description: ""
 ---
-
 <head>
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
@@ -11,7 +10,7 @@ description: ""
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://doc-0c-3s-docs.googleusercontent.com/docs/securesc/69isnljd6u5lkd2esi0uo09d7a1dfqf2/83bcr4401p4hhlcfcp1q371c1a9d4na9/1676207550000/12105796777324072886/12105796777324072886/11qnE_qgnf2tr4YDcy_5Js75wSdv1bd93?e=download&ax=AB85Z1AuO9wJgwwginrxdEIk0EH2w6JOMuT-St_-VoHGhY09HZAJ7bGsRhwYfpocCpobxD-ME-uxemhXcXd5XcZq5vw786MF0aUZcQcxN3Xqz3kuNKOZ_mxAosTKsUBvMVsiWbi1A5Soo-pSL-NDH7aIZDepFO_z11oyaDIJZLVFKaR3H6KC47ej9JdEUA8ACZWLM8ZfZZIUk3WgliwdVmpgI6fjngljj4zcxIzVnmJAGR4y9iK-EojEzwERa-izSol8L1NsmAEUH3TKk-8-E5_aQMKhZHfe5wLUNePAxt9tpIalTIlbzZwKEdPoKjnYVwTRy0f8K_8zwujRFB-UscDmryBb3w2NeXhv-ChdBxe_cEQxrQ-GoG4SOBlujwH5tGBPnrwHviPI2y6IqqHH74fWD_nroei8MVfTvtSpp52r7ntdFZrAEZySvJ-VOtnNKoNZx27bdV09tVpBpYDZC61aJu2LByCDjMwYUV_g_JNf8OQFSByFUa5zU-uUBmZhUMuRQGCZR8EymEsVs_ZjWBMbfb2syGtBpsWeDXa6JzUyT-tP2rwopNN80lnImgaI_4ayLnh-CMiAPGiqIy_mmoLMxAN8Zd5NdVf4fYzBgZKWQWebxPiHqsbsnHRJPqzT8kO34PhbjROtT_SvbL9Cjvg0ZEcXBlzmCPyCVUIRFEC9WC3a4l-eq-TV4S2kd-lpjXmVTWpNW9GdnmoYH9dSX4YBMagduGVqKXucSM3EYS7ulTY3b1SLaveOdgj-KiEPs-WSDRwBKDPLReK7wuuhSqoFfwn-3MRPSmPtr3zI6gekY77yhUr9fhFCxkQ9SgI71P_eELi6o5by9Fo5dePCg1-6em-X59aPWzFTgbt4qthFVTC71ZgGv4xcPyZzwgUA-BxpBCIqOG-LY06zWCZjMq-nn66mxE3_bfoyGsA&uuid=bb3822c1-7b70-4375-bc9b-92e1673ff25d&authuser=0&nonce=4age3clqpahn8&user=12105796777324072886&hash=fgpvqkd45ositq5ud25ve91ckspq63pa"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=11qnE_qgnf2tr4YDcy_5Js75wSdv1bd93"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Adamz Xtreme Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Adamz Extreme was established in January 2020 primarily to
