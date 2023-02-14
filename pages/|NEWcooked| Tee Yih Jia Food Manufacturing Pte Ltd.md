@@ -40,25 +40,25 @@ description: ""
 			</div>
 		</div>
 	<br>
-		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+	<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1tBxt6C4F7SQOTf8wVTpW5sEgDYQTB6KA"></div>
+  <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&id=1tBxt6C4F7SQOTf8wVTpW5sEgDYQTB6KA"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>--></h6>
-	 </p> </div>
+		<p></p></div>
 	</div>
-	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1e9G3OHyfG5RtwO6ZKcTS3vsxTNT-z2xU"></div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&id=1e9G3OHyfG5RtwO6ZKcTS3vsxTNT-z2xU"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">ALTN by Tee Yih Jia Food Manufacturing</h6>
-		<p>
-<p> We bear a legacy of excellence in quality, innovation and taste. Thoughtfully curating plant-based ingredients, ALTN products are the perfect alternative to international favorites such as lasagne, spaghetti bolognese, fish fillets and our highly raved nuggets. Our Asian delights also includes the satay, shaomai, gyoza and glutinous rice. </p>
-		<p> Relish it, Devour it. Taste it.</p></div>
+		<p>We bear a legacy of excellence in quality, innovation and taste. Thoughtfully curating plant-based ingredients, ALTN products are the perfect alternative to international favorites such as lasagne, spaghetti bolognese, fish fillets and our highly raved nuggets. Our Asian delights also includes the satay, shaomai, gyoza and glutinous rice.</p></div>
 	</div>
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1ZqpJJKUYXxP41PBhaP2Me_qxcKuoQVpN"></div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&id=1ZqpJJKUYXxP41PBhaP2Me_qxcKuoQVpN"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Spring Home Product line</h6>
-		<p> The flagship brand of Tee Yih Jia, Spring Home includes the world-famous Spring Roll Pastry, Roti Paratha, Dim Sum and other Asian specialties. </p> </div>
+		<p>The flagship brand of Tee Yih Jia, Spring Home includes the world-famous Spring Roll Pastry, Roti Paratha, Dim Sum and other Asian specialties.</p></div>
+		</div>
+	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
