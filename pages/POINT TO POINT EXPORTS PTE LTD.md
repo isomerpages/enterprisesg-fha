@@ -3,6 +3,7 @@ title: POINT TO POINT EXPORTS PTE LTD
 permalink: /exhibitors/point-to-point/
 description: ""
 ---
+<head>
 <div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
@@ -14,9 +15,11 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>POINT TO POINT EXPORTS PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Import and export of food and beverages and other products</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a target="_blank" href="http://www.point2pointexports.com/"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
+		<p><a target="_blank" href="http://www.point2pointexports.com"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
 	</div>
 </div>
+	</head>
+	
 <p>
 <div>
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
