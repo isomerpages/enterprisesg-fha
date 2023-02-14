@@ -17,9 +17,8 @@ description: ""
 		<p><a target="_blank" href="http://www.point2pointexports.com/"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
 	</div>
 </div>
-
-
-
+<p>
+<div>
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 			<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
