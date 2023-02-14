@@ -66,6 +66,6 @@ Relish it, Devour it. Taste it.</p></div>
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1ZqpJJKUYXxP41PBhaP2Me_qxcKuoQVpN"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Spring Home Product line</h6>
-		<p> The flagship brand of Tee Yih Jia, Spring Home includes the world-famous Spring Roll Pastry, Roti Paratha, Dim Sum and other Asian specialities </p> </div>
+		<p> The flagship brand of Tee Yih Jia, Spring Home includes the world-famous Spring Roll Pastry, Roti Paratha, Dim Sum and other Asian specialties. </p> </div>
 	</div>
 </body>
