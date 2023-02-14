@@ -45,10 +45,22 @@ salt, starch etc. in the international market.</p>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1zlLzEJM6lXuV1Xyt5kG5k3QvW-vv5Isk"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1QcLj2BU6DB-QYE_rcFcRKiku9ee2i5Ag"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-Cooking Oil, Rice, Sugar, Salt, Starch, Canned and Bottled Beverages
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->King's choice edible oil</h6>
+		<p>The various selection of Kings Choice Edible Oil consists of vegetable, canola, soya bean, sunflower and corn oil with different sizes ranging from 1lt, 2ltr, 5ltr to 20 litres, as well as customised labelling, allowing consumers to have more choices.
 
+Its unique eye-catching packaging and our quality product has built a strong rapport with world-wide customers with a strong presence and recognition over the years.</p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1Gosnjf36bS07qOPPM-oqubGwNW5okGHl"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">  
+**Dahlia Tamarind**</h6>
+		<p>Dahlia Tamarind paste is extracted from the edible fruit of tamarind tree. It is slightly acidic yet balanced by its own natural sweetness of the fruit.
 
-</p></div>
+Tamarind paste is used in many types of Asian dishes, including dips and chutneys.
+
+Dahlia Tamarind is available in various packages (300grams. 1Kg and 6Kg) to cater to different consumers’ needs.</p></div>
+	</div>
+	</div>
