@@ -80,7 +80,7 @@ Lion Dance Brand meatball uses a high percentage of meat in our recipe, hence yo
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1mDW97X4-qvLFhKW6gLxtFwGETk5rxFhF&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Bao Xin Wan - Originali</h6>
+		<h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Bao Xin Wan - Original</h6>
 		<p>Lion Dance Brand Bao Xin Wan （包心丸） series is the latest series from Lion Dance brand. This series consists of savory wrapped meatballs. Each meatball has a special flavour as a centrepiece; and every bite is bursting with our special marinated sauce, and we really mean bursting literally. Hence, please do excercise caution when you eat.
 
 Bao Xin Wan (ORIGINAL) was the first in our series, with our secret recipe, this meatball took the market by storm and everyone always come back for more. It is highly addictive and can be eaten in one too many ways.</p></div>
