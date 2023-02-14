@@ -13,16 +13,9 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1uBmlBDhAYoQQkvIzBid6O71hWzELVv4v"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Tee Yih Jia Food Manufacturing Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Tee Yih Jia (TYJ) is a leading frozen foods manufacturer in
-Singapore, exporting more than 90% of its renowned ‘Spring Home’
-brand products to about 100 countries. Its flagship brand 'Spring
-Home' offers an extensive range of frozen convenience food
-products while its 'ALTN' brand offers plant-based snacks and ready
-meals for anyone who craves a delicious alternative to the ordinary.
-Delivering high-quality and innovative products drive TYJ and food
-safety is at the core of everything the company does.</p>
+		<p>Import and export of food and beverages and other products</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.tyjfood.com" target="_blank"><!--insert the www website link here (no need for https)-->www.tyjfood.com</a></p>
+		<p><a href="https://www.tyjfood.com" target="_blank"><!--insert the www website link here (no need for https)-->www.tyjfood.com</a></p>
 	</div>
 </div>
 </head>
