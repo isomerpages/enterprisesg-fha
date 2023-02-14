@@ -344,12 +344,12 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] litat import and export pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>litat import and export pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>"Ice Cool" brand of can drinks series, kaya, and fruit spreads</small></p>
+				<p><small>"Ice Cool" brand of ready-to-drink canned beverage series</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/litat" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="/exhibitors/litat-import-export" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
