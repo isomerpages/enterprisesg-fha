@@ -48,13 +48,23 @@ company is ISO9001, HACCP, GMP and Halal certified.</p>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1IkZiq05Z2mF2EsYEgmRlvGxwZvUQ-Fsm"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1H66C95m0DgppUSVzH_kn-w16iXAAtnH5"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-		<p>Sagiko Drinks Series
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->SAGIKO FLOAT 250ML</h6>
+		<p>Sagiko Float drinks currently consists of 6 Flavours as Mixed Fruit, Peach, Mango, Lychee, Orange, and Pineapple.  It consists of real fruit bits in each flavour. Selected from high-quality fruits, Sagiko's range of float fruit juice drinks are made from Southeast Asian Nanyang specialty fruits to ensure that the highest quality of materials are provided to meet the consumer groups who like the Nanyang tropical juice drink with a variety of flavours choices.
 
+This series of Float fruit juice drinks with real bits is suitable for consumer groups of all classes who like thick, pure fruit juice and refreshing taste. 
 
-
-
-
-</p></div>
+The variety of rich product choices and eye-catching packaging make this series of fruit juice drinks unique and has its own position globally.</p></div>
+		</div>
+	<div style="display: flex; flex-wrap: wrap;">
+  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1PUgw4G3z2jUinnDwyGNnt-aMe458T46Q"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->SAGIKO CANNED JUICE DRINK 320ML</h6>
+		<p>The various choice of Sagiko canned drink 320ml is made of selected high-quality Nanyang tropical fresh fruits. 
+			
+Our strong and rich flavours target a different group of market segment who like tropical fruit juice. 
+			
+The wide range and choice of flavours makes the range of products stand in a unique position in the market.</p></div>
+		</div>
