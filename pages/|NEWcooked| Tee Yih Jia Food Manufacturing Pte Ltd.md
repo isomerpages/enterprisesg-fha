@@ -62,6 +62,7 @@ safety is at the core of everything the company does.</p>
 		<p>
 <p> We bear a legacy of excellence in quality, innovation and taste. Thoughtfully curating plant-based ingredients, ALTN products are the perfect alternative to international favorites such as lasagne, spaghetti bolognese, fish fillets and our highly raved nuggets. Our Asian delights also includes the satay, shaomai, gyoza and glutinous rice.<p>
 Relish it, Devour it. Taste it.</p></div>
+<p>
 	</div><div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1ZqpJJKUYXxP41PBhaP2Me_qxcKuoQVpN"></div>
 	<div class="flex-paragraph">
