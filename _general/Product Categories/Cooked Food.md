@@ -415,7 +415,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] tee yih jia Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>[NEW!] tee yih jia food manufacturing Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Frozen convenience food products, plant-based snacks and ready meals</small></p>
