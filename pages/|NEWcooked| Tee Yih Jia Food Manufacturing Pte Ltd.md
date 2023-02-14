@@ -33,9 +33,9 @@ safety is at the core of everything the company does.</p>
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Foods</span></p> 
-				<p><b>[TBC]Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO9001 Certified</p>
-			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong</p>
-			<p style="margin-bottom: 10px;"><b>[TBC]Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here--></p> 1 Senoko Road, Tee Yih Jia Building, Singapore 758134
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->BRC Grade AA, Halal Certified</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->90 countries worldwide</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here--></p> 1 Senoko Road, Tee Yih Jia Building, Singapore 758134
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
