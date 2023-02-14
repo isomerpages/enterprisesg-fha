@@ -4,21 +4,28 @@ permalink: /exhibitors/point-to-point/
 description: ""
 ---
 <head>
-<div class="flex-paragraph">
+	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
-			<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/u/0/uc?id=1GI7WRpKKrxz412Hhrz5CM-y57kO_Ie9X&amp;export=download"></div>
-	<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>POINT TO POINT EXPORTS PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Import and export of food and beverages and other products</p>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1GI7WRpKKrxz412Hhrz5CM-y57kO_Ie9X&amp;export=download"></div>
+	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Point to point exports Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<p>Tee Yih Jia (TYJ) is a leading frozen foods manufacturer in
+Singapore, exporting more than 90% of its renowned ‘Spring Home’
+brand products to about 100 countries. Its flagship brand 'Spring
+Home' offers an extensive range of frozen convenience food
+products while its 'ALTN' brand offers plant-based snacks and ready
+meals for anyone who craves a delicious alternative to the ordinary.
+Delivering high-quality and innovative products drive TYJ and food
+safety is at the core of everything the company does.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a target="_blank" href="http://www.point2pointexports.com"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
+		<p><a href="https://www.point2pointexports.com" target="_blank"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
 	</div>
 </div>
-	</head>
+</head>
 	
 <p>
 <div>
