@@ -408,7 +408,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/uc?export=download&id=1uBmlBDhAYoQQkvIzBid6O71hWzELVv4v" style="object-fit: scale-down; max-width: 100%;
+              <img src="https://drive.google.com/uc?export=download&id=1qmpp8yJHKAALmcOwRYvoJSUZlucBz7sc" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
