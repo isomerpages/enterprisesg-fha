@@ -49,9 +49,6 @@ food services, consumer retail, artisan and industrial bakeries.</p>
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
 	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1yJDx1zZPz4kSxaKzj3llr6CUL02io1KV"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-Baking Ingredients, Fats and Oils, Fruits and Nuts, Cheese, Fillings
-and Jams
-
-
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>--> Product categories available</h6>
+Bakery / Beverage / Cheese / Chocolate / Fats & Oils / Filling & Jam / Fruit / Nuts, Seeds & Beans / Grocery / Flour, Flakes & Grains / Non-Food Items
 </p></div>
