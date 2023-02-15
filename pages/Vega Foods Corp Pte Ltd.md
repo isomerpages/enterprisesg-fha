@@ -35,7 +35,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Cathy</b><br><!-- designation-->Manager<br><!--contact number-->+65 91089801<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:cathy.l@vegafoods.com" style="color: white;"><!--...and also include the display email before </a> here-->cathy.l@vegafoods.com</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Cathy Liu</b><br><!-- designation-->Manager<br><!--contact number-->+65 91089801<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:cathy.l@vegafoods.com" style="color: white;"><!--...and also include the display email before </a> here-->cathy.l@vegafoods.com</a></p>
 		</div>
 			</div>
 		</div>
