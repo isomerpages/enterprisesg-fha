@@ -31,9 +31,9 @@ ages and ethnic groups.</p>
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Foods</span></p> 
-				<p><b>[TBC]Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO9001 Certified</p>
-			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong</p>
-			<p style="margin-bottom: 10px;"><b>[TBC]Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->8 Woodlands Link, Singapore 738738</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->MUIS Halal Certified, HACCP Certified, ISO 22000 Certified</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Indonesia, Australia, UAE</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Food Distributors, Importers, Food Service Suppliers, Wholesalers</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->8 Woodlands Link, Singapore 738738</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
