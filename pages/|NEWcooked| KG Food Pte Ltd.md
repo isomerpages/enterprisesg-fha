@@ -47,14 +47,18 @@ ages and ethnic groups.</p>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1iZ5KfY7ZmDj3do1iREJjRL-hF0AHvDTm"></div>
+  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1crmeb8AZ_fZaihhC-nlnaRkKvet3QTLW&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-	Siew Mai, Gyoza, BBQ Chicken Bun, Prawn Har Kao, Vegetable Bun
-
-
-
-
-
-</p></div>
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->SK New York Cheesecake</h6>
+		<p></p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1JlGI4VNF46Bf2o3EDqNmn2IZPnOwSbfL&export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Mini Madeleines</h6>
+		<p></p></div>
+	</div>
+	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
+	</div>
+</body>
