@@ -56,6 +56,4 @@ description: ""
 		<h6 style="text-transform: uppercase; color: black;">ALTN by Tee Yih Jia Food Manufacturing</h6>
 		<p>Thoughtfully curating plant-based ingredients, ALTN products are the perfect alternative to international favorites such as lasagne, spaghetti bolognese, fish fillets and our highly raved nuggets. Our Asian delights also include satay, shaomai, gyoza and glutinous rice.</p> <p><a href="https://www.tastealtn.com" target="_blank"><!--insert the www website link here (no need for https)-->www.tastealtn.com</a> </p></div>
 		</div>
-	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
-	</div>
