@@ -31,7 +31,7 @@ ages and ethnic groups.</p>
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Foods</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->MUIS Halal Certified, HACCP Certified, ISO 22000 Certified</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Indonesia, Australia, UAE</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Food Distributors, Importers, Food Service Suppliers, Wholesalers</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->8 Woodlands Link, Singapore 738738</p>
 			</div>
@@ -48,17 +48,12 @@ ages and ethnic groups.</p>
 		<h4 style="text-transform: uppercase; color: black;"><b>key products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=17doOL_yrPF7dYRp9GADnG7Q1SQJ54iuX"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1iZ5KfY7ZmDj3do1iREJjRL-hF0AHvDTm"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chicken siew mai</h6>
-		<p></p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1nnyGVlHCo7rnVOtH4V_1TMiIE_xcyDYY"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Honey Chicken pau</h6>
-		<p></p></div>
-	</div>
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->KEY PRODUCTS</h6>
+		<p>• Pau (steamed buns) available in different sizes including bite size</p>
+			
+<p>• Assorted Dim Sum</p></div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
 </body>
