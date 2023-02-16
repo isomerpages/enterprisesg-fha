@@ -2,4 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - About the Organiser.md
+      - Supported By.md
