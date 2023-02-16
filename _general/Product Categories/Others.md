@@ -9,7 +9,7 @@ third_nav_title: Product Categories
 
 <head>
 <!-- Insert the page descriptionbetween the <p> tags. -->
-	<p>Meet the Singapore Pavilion Exhibitors with Other product varieties.</p>
+	<p>Meet the Singapore Food Manufacturing companies with Other product varieties.</p>
 </head>
 
 <body>
