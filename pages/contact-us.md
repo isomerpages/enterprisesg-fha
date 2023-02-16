@@ -20,9 +20,4 @@ contacts:
       - email: foodmfg@enterprisesg.gov.sg
       - other: ""
     title: EnterpriseSG Food Mfg
-  - content:
-      - phone: ""
-      - email: globalbusiness@smfederation.org.sg
-      - other: ""
-    title: SMF
 ---
