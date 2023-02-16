@@ -30,9 +30,9 @@ dairy alternatives with a goal to becoming a leading choice in the
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
-				<p><b>[TBC]Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO9001 Certified</p>
-			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong</p>
-			<p style="margin-bottom: 10px;"><b>[TBC]Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->105 Cecil Street, #07-02 The Octagon, Singapore 069534</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, ISO9001 Certified, BRC, KOSHER</p>
+			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Maldives</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->105 Cecil Street, #07-02 The Octagon, Singapore 069534</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -46,16 +46,19 @@ dairy alternatives with a goal to becoming a leading choice in the
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1rgI2U8Q7SodYb_BEX0WKSAGWl83p0xKG"></div>
+  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1gkMwg0YuYIcSorkYYsOxRNzbMaM-3Rmm&export=download"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-		Oat Milk Unsweetened, Almond Milk Unwweetened, Coconut Milk
-Beverage, Oats Milk Flavours (Chocolate, Coffee, Fruits), Vegan
-Mayonnaise, Culinary Coconut Milk, Ghee
-
-
-
-
-
-</p></div>
+		<h6 style="text-transform: uppercase; color: black;">oat milk</h6>
+		<p>ONLY EARTH Oat Milk is a nutritious plant-based beverage with rich oat flavour and creamy texture. It is a good source of Calcium, Vitamin D, B2 and B12 and fortified with many other vitamins and minerals.
+		
+100% Vegan, soya-free, lactose-free, contains no trans-fats, no added sugar & preservatives, cholestrol-free, and guilt-free.</p></div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1_jiqxKT4kWIgUSTV1eEdl8DN0NIyOfz-&export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Almond Milk</h6>
+		<p>ONLY EARTH Almond Milk is a nutritious plant-based beverage that lets you experience a rich almond flavour with a creamy texture. It is also a good source of Fibre, rich in Vitamin E and is fortified with many other vitamins and minerals.
+		
+100% Vegan, gluten-free, soya-free, lactose-free, cholestrol-free and has zero trans-fats, no added sugar or preservatives.</p></div>
+	</div>
