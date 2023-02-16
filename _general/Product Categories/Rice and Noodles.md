@@ -9,7 +9,7 @@ third_nav_title: Product Categories
 
 <head>
 <!-- Insert the page descriptionbetween the <p> tags. -->
-	<p>Meet the Singapore Pavilion Exhibitors specialising in Rice and Noodles.</p>
+	<p>Meet the SingaporeFood Manufacturing companies specialising in Rice and Noodles.</p>
 </head>
 
 <body>
