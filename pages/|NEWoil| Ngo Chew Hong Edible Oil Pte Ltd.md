@@ -47,13 +47,13 @@ fats, sweetened condensed milk, premixes, rice, etc.</p>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1NDPfNiYi37Zzb2FNQzlKnw--ecWXIy1X"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=15W480ijleCNZDDReeeafiopeg4JaBHKq"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Vegetable Cooking Oil</h6>
 		<p>OKI Pure Cooking Oil is an excellent heat-resistant and stable oil. Ideal for various forms of cooking such as stir-frying, and sauteing, and it is also suitable for both deep and shallow frying, due to its high smoke point. It is also a natural source of Vitamin E.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1E2pt454HBYbUIRS_DK4CbxqGg7ppGQ-2"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1yOMCIe8o9Xz09z57LJ3kzQ0eHmcY9ViX"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Sweetened Condensed Milk</h6>
 		<p>OKI Sweetened Condensed Milk is used as a creamer in tea, coffee, and other beverages. It is also used as an ingredient to make desserts, and pastries and serves as a topping for desserts. OKI Sweetened Condensed Milk is a vegetable fat-based milk with a thick and creamy texture.</p></div>
