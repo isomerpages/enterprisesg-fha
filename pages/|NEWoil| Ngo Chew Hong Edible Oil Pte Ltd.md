@@ -30,9 +30,9 @@ fats, sweetened condensed milk, premixes, rice, etc.</p>
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Oils</span></p> 
-				<p><b>[TBC]Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO9001 Certified</p>
-			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Hong Kong</p>
-			<p style="margin-bottom: 10px;"><b>[TBC]Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here--></p> 231 Pandan Loop, Singapore 128418
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified (Oils / Fats / Premixes) , HACCP Certified</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->>100 countries worldwide - Africa, Asia-Pacific, CIS, Europe, Middle East, the Indian subcontinent, etc.</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here--> Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services, and Manufacturer.</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here--></p> 231 Pandan Loop, Singapore 128418
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
@@ -46,12 +46,15 @@ fats, sweetened condensed milk, premixes, rice, etc.</p>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1HzltkqoX7KTVDWuG1MtWWqVRQ5FmACsI"></div>
+  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1NDPfNiYi37Zzb2FNQzlKnw--ecWXIy1X"></div>
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-Vegetable Cooking Oil, Bakery and Confectionary Fats, Savoury
-Premixes, Dairy, Chocolate Malt Drink
-
-
-</p></div>
+		<h6 style="text-transform: uppercase; color: black;">Vegetable Cooking Oil</h6>
+		<p>OKI Pure Cooking Oil is an excellent heat-resistant and stable oil. Ideal for various forms of cooking such as stir-frying, and sauteing, and it is also suitable for both deep and shallow frying, due to its high smoke point. It is also a natural source of Vitamin E.</p></div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1E2pt454HBYbUIRS_DK4CbxqGg7ppGQ-2"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Sweetened Condensed Milk</h6>
+		<p>OKI Sweetened Condensed Milk is used as a creamer in tea, coffee, and other beverages. It is also used as an ingredient to make desserts, and pastries and serves as a topping for desserts. OKI Sweetened Condensed Milk is a vegetable fat-based milk with a thick and creamy texture.</p></div>
+	</div>
