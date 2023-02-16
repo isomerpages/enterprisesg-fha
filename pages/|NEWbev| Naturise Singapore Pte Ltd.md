@@ -47,7 +47,7 @@ dairy alternatives with a goal to becoming a leading choice in the
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1gkMwg0YuYIcSorkYYsOxRNzbMaM-3Rmm&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1NDPfNiYi37Zzb2FNQzlKnw--ecWXIy1X"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">oat milk</h6>
 		<p>ONLY EARTH Oat Milk is a nutritious plant-based beverage with rich oat flavour and creamy texture. It is a good source of Calcium, Vitamin D, B2 and B12 and fortified with many other vitamins and minerals.
@@ -55,7 +55,7 @@ dairy alternatives with a goal to becoming a leading choice in the
 100% Vegan, soya-free, lactose-free, contains no trans-fats, no added sugar & preservatives, cholestrol-free, and guilt-free.</p></div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1_jiqxKT4kWIgUSTV1eEdl8DN0NIyOfz-&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1E2pt454HBYbUIRS_DK4CbxqGg7ppGQ-2"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Almond Milk</h6>
 		<p>ONLY EARTH Almond Milk is a nutritious plant-based beverage that lets you experience a rich almond flavour with a creamy texture. It is also a good source of Fibre, rich in Vitamin E and is fortified with many other vitamins and minerals.
