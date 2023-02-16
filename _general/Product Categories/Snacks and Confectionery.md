@@ -9,7 +9,7 @@ third_nav_title: Product Categories
 
 <head>
 <!-- Insert the page descriptionbetween the <p> tags. -->
-	<p>Meet the Singapore Pavilion Exhibitors specialising in Snacks and Confectionery.</p>
+	<p>Meet the Singapore Food Manufacturing companies specialising in Snacks and Confectionery.</p>
 </head>
 
 <body>
