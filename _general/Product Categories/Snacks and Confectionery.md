@@ -189,7 +189,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] OTG enterprise Pte ltd (tong garden)</strong></p>
+          <p style="text-transform: uppercase;"><strong>OTG enterprise Pte ltd (tong garden)</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Nuts and assorted snack products</small></p>
