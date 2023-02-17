@@ -31,7 +31,7 @@ dairy alternatives with a goal to becoming a leading choice in the
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, ISO9001 Certified, BRC, KOSHER</p>
-			<p><b>[TBC]Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Maldives</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Maldives</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Importers, Suppliers in food services</p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->105 Cecil Street, #07-02 The Octagon, Singapore 069534</p>
 			</div>
 		</div>
