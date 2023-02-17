@@ -8,16 +8,13 @@ locations:
       - 9 Jurong Town Hall Rd
       - Trade Association Hub (iHUB)
       - Singapore 609431
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+    operating_hours: []
     maps_link: ""
     title: SFMA
 contacts:
   - content:
-      - phone: ""
-      - email: foodmfg@enterprisesg.gov.sg
+      - phone: +65 6221 2438
+      - email: enquiries@sfma.org.sg
       - other: ""
-    title: EnterpriseSG Food Mfg
+    title: SFMA
 ---
