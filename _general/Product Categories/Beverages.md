@@ -120,7 +120,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] CHIA KHIM LEE FOOD INDUSTRIES PTE LTD</strong></p>
+          <p style="text-transform: uppercase;"><strong>CHIA KHIM LEE FOOD INDUSTRIES PTE LTD</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>"Sagiko" line of flavoured drinks</small></p>
@@ -141,7 +141,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] Ebenezer Coffee Manufacturer Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Ebenezer Coffee Manufacturer Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Local traditional coffee and tea, gourmet coffee beans, ground coffee and instant beverages</small></p>
@@ -185,7 +185,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] Gold Kili trading enterprise (singapore) pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Gold Kili trading enterprise (singapore) pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Coffee powder and instant beverages</small></p>
@@ -409,7 +409,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] mwd beverages Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>mwd beverages Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of premium functional beverages</small></p>
@@ -430,7 +430,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] naturise Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>naturise Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Plant-based alternatives for beverages</small></p>
@@ -474,7 +474,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] point to point exports Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>point to point exports Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Coffee, coffee creamer, energy drinks</small></p>
@@ -495,7 +495,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] pulau sambu singapore Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>pulau sambu singapore Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Integrated coconut supplier</small></p>
