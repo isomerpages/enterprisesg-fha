@@ -166,7 +166,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] house of seafood Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>house of seafood Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Vacuum packed crabs and sauces in Singaporean flavours</small></p>
@@ -325,7 +325,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] thong siek food industry Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>thong siek food industry Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Surimi-based seafood and fish products</small></p>
