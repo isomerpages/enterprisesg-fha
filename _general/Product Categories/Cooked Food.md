@@ -166,7 +166,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] KG food Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>KG food Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer and distributor of halal certified buns and dim sum</small></p>
@@ -302,7 +302,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] sinstant Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>sinstant Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Ready-to-cook and ready-to-eat Singaporean, Hong Kong, and Asian cuisine</small></p>
@@ -415,7 +415,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] tee yih jia food manufacturing Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>tee yih jia food manufacturing Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Frozen convenience food products, plant-based snacks and ready meals</small></p>
