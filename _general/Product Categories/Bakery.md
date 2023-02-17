@@ -306,7 +306,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW] Phoon Huat Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Phoon Huat Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Baking ingredients, tools and services</small></p>
