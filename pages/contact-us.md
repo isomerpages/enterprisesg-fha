@@ -6,7 +6,7 @@ agency_name: Singapore Food Manufacturers' Association (SFMA)
 locations:
   - address:
       - 9 Jurong Town Hall Rd
-      - Trade Association Hub (iHUB)
+      - "#04-13, Trade Association Hub"
       - Singapore 609431
     operating_hours: []
     maps_link: ""
