@@ -166,7 +166,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] ckl investments Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>ckl investments Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Dry goods supplier and trader - cooking oil, rice, salt, sugar etc. </small></p>
@@ -302,7 +302,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] ngo chew hong edible oil Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>ngo chew hong edible oil Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer and exporter of edible oils and fats</small></p>
@@ -323,7 +323,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] nomanbhoy & sons Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>nomanbhoy & sons Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Various spices and agro-commodities</small></p>
@@ -344,7 +344,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] oh chin hing Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>oh chin hing Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of high-quality sesame oil</small></p>
