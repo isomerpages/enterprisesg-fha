@@ -143,7 +143,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] Future enterprise Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Future enterprise Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Instant beverages, potato chips, non-dairy creamer</small></p>
@@ -164,7 +164,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] green rebel foods Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>green rebel foods Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Whole cut plant-based beef, chicken and cheese</small></p>
@@ -231,7 +231,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] hock seng food Pte ltd (Hosen)</strong></p>
+          <p style="text-transform: uppercase;"><strong>hock seng food Pte ltd (Hosen)</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>FMCG - packaged foods</small></p>
@@ -252,7 +252,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] hua khiang food export (s) Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>hua khiang food export (s) Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Tofu products made from non-GMO soya beans</small></p>
@@ -273,7 +273,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] listen up Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>listen up Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Clean label oat products</small></p>
@@ -409,7 +409,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] seabiz trading Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>seabiz trading Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Wholesale of FMCG (multiproduct)</small></p>
