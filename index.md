@@ -13,9 +13,6 @@ sections:
       button: Browse here
       url: /singapore-pavilion-exhibitors/bakery
       key_highlights:
-        - title: Enterprise Singapore
-          description: Learn more about EnterpriseSG!
-          url: /about-the-event/organisers
         - title: Why Singapore?
           description: Discover local opportunities.
           url: /why-singapore
@@ -29,7 +26,3 @@ sections:
       button: FIND OUT MORE
       url: /singapore-pavilion-exhibitors/overview
 ---
-
-
-
-
