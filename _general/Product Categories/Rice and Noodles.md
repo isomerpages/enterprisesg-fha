@@ -304,7 +304,7 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>[NEW!] tat hui Pte ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>tat hui Pte ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of Singaporean instant noodles</small></p>
