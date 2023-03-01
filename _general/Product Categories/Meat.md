@@ -9,16 +9,16 @@ third_nav_title: Product Categories
 
 <head>
 <!-- Insert the page descriptionbetween the <p> tags. -->
-	<p>Meet the Singapore Pavilion Exhibitors specialising in Meat.</p>
+	<p>Meet the Singapore Food Manufacturing companies specialising in Meat.</p>
 </head>
 
 <body>
-	<!-- To replicate exhibitors, copy from the <div class> line onwards to </div> after "Visit their page". -->
-<div style="display: flex; flex-wrap: wrap; padding: 10px">
+	<!-- To replicate exhibitors, copy from the <div class> line onwards to the second </div> after "Visit their page". -->
+	<div style="display: flex; flex-wrap: wrap; padding: 10px">
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6l1-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -41,12 +41,12 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6j1-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=128-AnSE0L_vnLMc2tyLc4x9iJaznJTU0&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/easternharvest.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
@@ -64,7 +64,7 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6l3-14</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -87,7 +87,7 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6L2-08</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -110,7 +110,7 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6K4-04</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -133,7 +133,7 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6l1-14</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -156,12 +156,12 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6l1-03</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
 						<!-- Insert the image download(!) link between the " marks. -->
-              <img src="https://drive.google.com/u/0/uc?id=1izI2VyerfgxVpkGpfQHpzBx3w39t-r_c&export=download" style="object-fit: scale-down; max-width: 100%;
+              <img src="/images/jumain.png" style="object-fit: scale-down; max-width: 100%;
       max-height: 100%;">
           </figure>
       </div>
@@ -179,7 +179,7 @@ third_nav_title: Product Categories
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>6k3-01</strong></small></p>
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -202,7 +202,6 @@ third_nav_title: Product Categories
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="sgds-card-booth">
 			<!-- Insert the booth number between the <strong> tags. -->
-			<p style="text-transform: uppercase;"><small><strong>SPONSOR</strong></small></p>
 		</div>
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -214,13 +213,34 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Kee Song Food Corporation(s) Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Kee Song Food Corporation (s) Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
-				<p><small>Singapore Networking Dinner Sponsor</small></p>
+				<p><small>Supplier of chicken in Singapore</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
           <p><a href="/sponsors/kee-song-food" target="_blank"><small>Visit their page</small></a></p>
       </div>
-  </div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/uc?export=download&id=11qnE_qgnf2tr4YDcy_5Js75wSdv1bd93" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Adamz Xtreme pte ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Premium Halal GMO-free Bosnian European Beef and Lamb</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/adamzxtreme" target="_blank"><small>Visit their page</small></a></p>
+      </div>
 </div>
-</body>

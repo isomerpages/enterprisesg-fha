@@ -11,7 +11,7 @@ description: ""
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase">6J4-08</p></div>
+		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=13rca52eqY6K7FTYgtWQ9ZV6HbDocgB0k&export=download"></div>

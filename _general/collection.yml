@@ -1,5 +1,5 @@
 collections:
-  singapore-pavilion-exhibitors:
+  general:
     output: true
     order:
       - Overview.md
@@ -14,5 +14,3 @@ collections:
       - Product Categories/Seafood.md
       - Product Categories/Snacks and Confectionery.md
       - Product Categories/Others.md
-      - Floorplan.md
-      - Brochure.md

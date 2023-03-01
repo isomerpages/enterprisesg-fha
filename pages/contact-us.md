@@ -2,27 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Enterprise Singapore
+agency_name: Singapore Food Manufacturers' Association (SFMA)
 locations:
   - address:
-      - 230 Victoria Street
-      - "Bugis Junction Office Tower "
-      - Singapore 188024
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+      - 9 Jurong Town Hall Rd
+      - "#04-13, Trade Association Hub"
+      - Singapore 609431
+    operating_hours: []
     maps_link: ""
-    title: Enterprise Singapore
+    title: SFMA
 contacts:
   - content:
-      - phone: ""
-      - email: foodmfg@enterprisesg.gov.sg
+      - phone: +65 6221 2438
+      - email: enquiries@sfma.org.sg
       - other: ""
-    title: EnterpriseSG Food Mfg
-  - content:
-      - phone: ""
-      - email: globalbusiness@smfederation.org.sg
-      - other: ""
-    title: SMF
+    title: SFMA
 ---

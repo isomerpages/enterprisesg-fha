@@ -7,7 +7,7 @@ description: ""
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase">6k3-07</p></div>
+		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=1H_w2XYxytWs0iYhOutW4OAO9L_KkJw7_&export=download"></div>
@@ -25,7 +25,7 @@ description: ""
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Bakery</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, ISO 22000 Certified</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->NA</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Brunei, China, Taiwan, New Zealand</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, E-Commerce</p>
 			</div>
 		</div>

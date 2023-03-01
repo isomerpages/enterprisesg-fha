@@ -1,0 +1,5 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Supported By.md

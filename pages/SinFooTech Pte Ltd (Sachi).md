@@ -7,7 +7,7 @@ description: ""
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase">Sponsor</p></div>
+		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1Ua6FJRfdGWbh4oTEGd5WJQ50W6GxCupc&export=download"></div>
@@ -34,7 +34,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->JONATHAN NGn</b><br><!-- designation-->CEO<br><!--contact number-->+65 96491818<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:JON@SINFOOTECH.COM" style="color: white;"><!--...and also include the display email before </a> here-->JON@SINFOOTECH.COM</a></p>
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->JONATHAN NG</b><br><!-- designation-->CEO<br><!--contact number-->+65 96491818<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:JON@SINFOOTECH.COM" style="color: white;"><!--...and also include the display email before </a> here-->JON@SINFOOTECH.COM</a></p>
 		</div>
 			</div>
 		</div>

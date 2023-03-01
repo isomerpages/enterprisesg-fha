@@ -7,7 +7,7 @@ description: ""
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase">6J1-03</p></div>
+		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1zgC7L4PipqM2Zj217ADqGUKXQ5G1F92g&export=download"></div>
@@ -26,9 +26,9 @@ description: ""
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Food</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, Tasty Singapore</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, China, Dubai, Japan, Korea, Kuwait</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors</p>
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Japan, Korea, Hong Kong</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Importers</p>
 			</div>
 		</div>
 		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
