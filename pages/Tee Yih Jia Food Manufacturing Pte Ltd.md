@@ -3,11 +3,9 @@ title: Tee Yih Jia Food Manufacturing Pte Ltd
 permalink: /tyj/
 description: ""
 ---
-
 <head>
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
-		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
