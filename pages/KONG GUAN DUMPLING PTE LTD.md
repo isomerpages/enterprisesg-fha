@@ -12,7 +12,7 @@ description: ""
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>KONG GUAN DUMPLING / PAU MANUFACTURER PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of assorted dim sum and steamed buns</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
 		<p><a href="https://www.kongguan.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.kongguan.com.sg</a></p>
