@@ -3,74 +3,86 @@ title: ASIA FARM F&B PTE LTD
 permalink: /exhibitors/asia-farm-fnb/
 description: ""
 ---
-<div class="flex-paragraph">
+
+	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
-		<p style="text-transform: uppercase"></p>
+		<!--insert booth number here!-->
+		<p style="text-transform: uppercase">6l2-01</p></div>
+			<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+				<!--insert DOWNLOAD link of company logo between the " marks!-->
+			<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&amp;export=download"></div>
+	<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>KONG GUAN DUMPLING / PAU MFR PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<p>Manufacturer of assorted dim sum and steamed buns</p>
+		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
+		<p><a target="_blank" href="https://www.kongguan.com.sg"><!--insert the www website link here (no need for https)-->www.kongguan.com.sg</a></p>
 	</div>
-	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
-		<!--insert DOWNLOAD link of company logo between the " marks!-->
-		<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?export=download&amp;id=1e7M6leHwIrqy5FbDkZEWHPDstzenJKRi"></div>
-		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<!--insert the exhibitor's name between the <b> tags here-->
-			<h4 style="text-transform: uppercase; color: black;"><b>Asia Farm F&amp;B Pte Ltd</b></h4>
-			<!--insert the exhibitor's description between the <p> tags here-->
-			<p>At Asia Farm, we pride ourselves on creating delicious and healthy beverages that are made with natural ingredients and real stuff. Our freshly brewed blends are crafted using traditional methods that help to unlock the natural flavors and nutrients of our ingredients. We carefully select the best ingredients that are fresh and of the highest quality, ensuring that our blends are packed with flavor and nutrition.</p>
-			<p>But that's not all. Our commitment to using natural ingredients and real stuff has additional benefits beyond taste and health. By utilizing these ingredients, we're able to reduce our carbon footprint and contribute to a more sustainable future. We believe that it's important to take care of the environment while providing our customers with great-tasting and healthy options.</p>
-			<p>And there's more good news! Using high-quality ingredients and traditional brewing methods can also lead to cost savings, which we pass on to our customers. We believe that everyone should have access to healthy and delicious beverages without breaking the bank.</p>
-			<p>At Asia Farm, we're dedicated to constantly innovating and exploring new ways to create blends that are good for our customers and good for the planet. We believe that by using natural ingredients and real stuff, we can create a healthier and more sustainable future for all.</p>
-			<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-			<!--insert the www website link here (no need for https)-->
-			<p><a target="_blank" href="https://www.asiafarm.com.sg">www.asiafarm.com.sg</a></p>
-		</div>
-	</div>
+</div>
+
 
 
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
-	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
-		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+			<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
-				<!--insert the exhibitor's pdt cat   between the <p> tags here-->
-				<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Beverage</span></p> 
-				<!--insert all the exhibitor's certifications between the </b> and </p> here-->
-				<p><b>Certifications: </b>ISO22000 Certified, HACCP Certified, Halal Certified, Mesti, Healthier Choice Certified</p>
-				<!--insert all the exhibitor's export markets between the </b> and </p> here-->
-				<p><b>Export Markets: </b>Brunei, Malaysia, Indonesia, Vietnam, Japan, Taiwan, Solomon, Mauritius, Maldives, Seychelles, USA</p>
-				<!--insert all the exhibitor's potential business partners between the </b> and </p> here-->
-				<p style="margin-bottom: 10px;"><b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners</p>
-				<!--insert all the exhibitor's address the </b> and </p> here-->
-				<!-- <p><b>Address: </b>105 Cecil Street, #07-02 The Octagon, Singapore 069534</p> -->
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Cooked Food</span></p> 
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, ISO 22000 Certified, Tasty Singapore</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Indonesia</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers, Food Distributors / Online Food Distributors, E-Commerce, Importers, Food Servicers Suppliers</p>
 			</div>
 		</div>
 		<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
-			<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
-			<div class="flex-paragraph">
-				<!--replace with exhibitor's: -->
-				<p style="padding: 10px; color: white;">
-					<b><!-- POC name-->Wong Loke Hsien</b><br><!-- designation-->Business Manager<br><!--contact number-->+65 9664 6781<br>
-					<!-- for linking purposes, insert their email after "mailto:"...-->
-					<!--...and also include the display email before </a> here-->
-					<a style="color: white;" href="mailto:lhwong@asiafarm.com.sg">lhwong@asiafarm.com.sg</a>
-				</p>
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<!--replace with exhibitor's: -->
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Daniel Ong</b><br><!-- designation-->Sales &amp; Marketing Manager<br><!--contact number-->+65 68490822<br><!-- for linking purposes, insert their email after "mailto:"...--><a style="color: white;" href="mailto:daniel.ong@kongguan.com.sg"><!--...and also include the display email before </a> here-->daniel.ong@kongguan.com.sg</a></p>
+		</div>
 			</div>
 		</div>
-	</div>
 	<br>
-	<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
-	<div style="display: flex; flex-wrap: wrap;">
+		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div style="display: block;" class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1xzjH4a27aF_OPY5bcrYJPUV2KRlcqqxh&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Chocolate Fondue Bun</h6>
+		<p>There is literally no gesture more romantic than molten and rich chocolate treat that makes you warm and fuzzy all over. Kong Guan’s Chocolate Fondue bun boasts a smooth and rich center of molten chocolate encased within a springy bun that is soft but not sticky - A pure decadence that reaches a new depth of chocolatey deliciousness. 
+
+Come indulge in this gorgeously rich and loving chocolate delight that satisfies any sweet tooth!
+
+Take a Bite. Taste The Delight.</p></div>
+	</div>
 		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=1iCOyIZ_r4MFFqM7-UQ5P3ZBJIuECQ8xw"></div>
-			<div class="flex-paragraph">
-				<h6 style="text-transform: uppercase; color: black;">Purple Tea Drink</h6>
-				<p>Our purple tea beverage is carefully crafted by steeping and brewing the purple tea leaves to perfection to achieve an optimal balance of taste and health benefits. AsiaFarm Purple tea, being the world's first purple tea variety, offers a unique and exceptional drinking experience that tea enthusiasts should not miss. The tea's distinctive purple color results from its high levels of anthocyanins, potent antioxidants that can safeguard against various health issues. Its smooth and invigorating taste, natural sweetness, and low caffeine content make it a healthy and delicious alternative to traditional tea or coffee. It's worth noting that purple tea shares the same tea plant as green and black tea, but stands out with its abundant polyphenols, antioxidants, and anthocyanins, surpassing its peers in terms of health benefits.</p>
-			</div>
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1vbgDQNjA7vZL2fuGlbaOqosWOsheZAlw&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Salted egg custard bun</h6>
+		<p>Salted Egg Custard Bun also known as Liu Sha Pau, is a delectable treat that has become must-have at dim sum restaurants everywhere. 
+
+Enticed with a hot molten salted egg custard filling that oozes out from the visually appealing and unique appearance of the bun, the flowy salted egg custard bun is perfect to pair with a cup of tea. It truly deserves a place as this bun is the most luxurious way to complete a hearty meal.
+
+Take a Bite. Taste The Delight.</p></div>
+	</div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1-t-qvhQ0nwyWlhRvXdTitcFmrT9m-PQo&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun</h6>
+		<p>Truffles are widely regarded as 'Diamonds of the Kitchen', prized for its intoxicatingly earthy aroma and used in the finest cuisines worldwide. You can now savor this exquisite delicacy in Kong Guan’s Truffle Mushroom Bun. 
+
+Fluffy steamed bun with a beautiful mottled pattern of a mushroom, stuffed with tender shiitake mushroom tossed in truffle paste along with mock meat and mixed seasonings makes this a super scrumptious bun.
+
+Take a Bite. Taste The Delight.</p></div>
 		</div>
 		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=145BWPS38J9e22QqUpMdfxMFQZJ9Ki0OX"></div>
-			<div class="flex-paragraph">
-				<h6 style="text-transform: uppercase; color: black;">AsiaFarm Healthier Choice BIB Beverages</h6>
-				<p>Introducing Asia Farm BIB, the perfect solution for businesses looking to provide fresh and healthy beverages. Our BIB packaging is designed to maintain the freshness of the contents while being environmentally friendly.</p>
-				<p>Our beverages are made with fresh brewed, freshly squeezed, real fruit juice with minimal sugar, providing a healthier beverage option for health-conscious consumers. With the use of an automated dispensing machine, businesses can save time and labor expenses while offering the convenience of easily dispensing delicious and nutritious beverages.</p>
-				<p>Asia Farm BIB is an excellent match for buffets, self-service restaurants, and hotels. With the combination of convenient packaging and dispensing system, along with the flavorful and nutritious beverage choices, it's the perfect alternative for both businesses and customers.</p>
-			</div>
-		</div>
-</div>
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/u/0/uc?id=18bzBl72wfKaLWagD5hXA9RPugMK-TcwM&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">bbq pork Bun</h6>
+		<p>BBQ Pork Bun, also known as 'Char Siew Pau', is one of Kong Guan’s favourite amongst the locals. It is made from oven baked pork seasoned with special barbecue sauce and slow cooked until tender for that delicious smokiness.</p></div>
+	</div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image"><img src="https://drive.google.com/u/0/uc?id=1Bc9XqVyw__GXvazTphmtB_AffKaDt8pr&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Pork siew mai</h6>
+		<p>Filled with turnips, spring onion, garlic and surimi, the colour and texture combination is complemented by the minced pork and flavouful seasonings, making Kong Guan’s Pork Siew Mai a delicious snack that you can serve at any time of the day. Best served steamed or deep-fried with any dipping sauce.</p></div>
+	</div>
+	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
+	</div>
