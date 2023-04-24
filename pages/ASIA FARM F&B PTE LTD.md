@@ -4,7 +4,7 @@ permalink: /exhibitors/asia-farm-fnb/
 description: ""
 ---
 
-<div class="flex-paragraph">
+	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<p style="text-transform: uppercase"></p>
 	</div>
@@ -74,5 +74,5 @@ description: ""
 				<p>Our beverages are made with fresh brewed, freshly squeezed, real fruit juice with minimal sugar, providing a healthier beverage option for health-conscious consumers. With the use of an automated dispensing machine, businesses can save time and labor expenses while offering the convenience of easily dispensing delicious and nutritious beverages.</p>
 				<p>Asia Farm BIB is an excellent match for buffets, self-service restaurants, and hotels. With the combination of convenient packaging and dispensing system, along with the flavorful and nutritious beverage choices, it's the perfect alternative for both businesses and customers.</p>
 			</div>
-		</div></div>
-	
+		</div>
+</div>
