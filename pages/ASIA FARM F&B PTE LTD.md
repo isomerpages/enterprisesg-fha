@@ -3,131 +3,75 @@ title: ASIA FARM F&B PTE LTD
 permalink: /exhibitors/asia-farm-fnb/
 description: ""
 ---
-<head>
+
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
-		<!--insert booth number here!-->
-		<p style="text-transform: uppercase"></p></div>
-			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=1TmEzIZPNmgniDxp-uYBbcZSzJ9kvS2oE&export=download"></div>
-	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>ASIA FARM F&B PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Manufacturer of beverages & confectionery in Singapore</p>
-		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://www.asiafarm.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.asiafarm.com.sg</a></p>
+		<p style="text-transform: uppercase"></p>
 	</div>
-</div>
-</head>
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<!--insert DOWNLOAD link of company logo between the " marks!-->
+		<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?export=download&amp;id=1e7M6leHwIrqy5FbDkZEWHPDstzenJKRi"></div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<!--insert the exhibitor's name between the <b> tags here-->
+			<h4 style="text-transform: uppercase; color: black;"><b>Asia Farm F&amp;B Pte Ltd</b></h4>
+			<!--insert the exhibitor's description between the <p> tags here-->
+			<p>At Asia Farm, we pride ourselves on creating delicious and healthy beverages that are made with natural ingredients and real stuff. Our freshly brewed blends are crafted using traditional methods that help to unlock the natural flavors and nutrients of our ingredients. We carefully select the best ingredients that are fresh and of the highest quality, ensuring that our blends are packed with flavor and nutrition.</p>
+			<p>But that's not all. Our commitment to using natural ingredients and real stuff has additional benefits beyond taste and health. By utilizing these ingredients, we're able to reduce our carbon footprint and contribute to a more sustainable future. We believe that it's important to take care of the environment while providing our customers with great-tasting and healthy options.</p>
+			<p>And there's more good news! Using high-quality ingredients and traditional brewing methods can also lead to cost savings, which we pass on to our customers. We believe that everyone should have access to healthy and delicious beverages without breaking the bank.</p>
+			<p>At Asia Farm, we're dedicated to constantly innovating and exploring new ways to create blends that are good for our customers and good for the planet. We believe that by using natural ingredients and real stuff, we can create a healthier and more sustainable future for all.</p>
+			<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
+			<!--insert the www website link here (no need for https)-->
+			<p><a target="_blank" href="https://www.asiafarm.com.sg">www.asiafarm.com.sg</a></p>
+		</div>
+	</div>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
-		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, HACCP Certified, ISO 22000 Certified, Healthier Choice Certified</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Australia, Guam, Indonesia, Japan, Malaysia, Maldives, Mauritius, New Zealand, Seychelles, Solomon, Vietnam</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
+				<!--insert the exhibitor's pdt cat   between the <p> tags here-->
+				<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Beverage</span></p> 
+				<!--insert all the exhibitor's certifications between the </b> and </p> here-->
+				<p><b>Certifications: </b>ISO22000 Certified, HACCP Certified, Halal Certified, Mesti, Healthier Choice Certified</p>
+				<!--insert all the exhibitor's export markets between the </b> and </p> here-->
+				<p><b>Export Markets: </b>Brunei, Malaysia, Indonesia, Vietnam, Japan, Taiwan, Solomon, Mauritius, Maldives, Seychelles, USA</p>
+				<!--insert all the exhibitor's potential business partners between the </b> and </p> here-->
+				<p style="margin-bottom: 10px;"><b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners</p>
+				<!--insert all the exhibitor's address the </b> and </p> here-->
+				<!-- <p><b>Address: </b>105 Cecil Street, #07-02 The Octagon, Singapore 069534</p> -->
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
-		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
-		<div class="flex-paragraph">
-			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->WONG LOKE HSIEN</b><!-- designation--><br><!--contact number-->+65 68521535<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:lhwong@asiafarm.com.sg" style="color: white;"><!--...and also include the display email before </a> here-->lhwong@asiafarm.com.sg</a></p>
-		</div>
+		<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+			<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+			<div class="flex-paragraph">
+				<!--replace with exhibitor's: -->
+				<p style="padding: 10px; color: white;">
+					<b><!-- POC name-->Wong Loke Hsien</b><br><!-- designation-->Business Manager<br><!--contact number-->+65 9664 6781<br>
+					<!-- for linking purposes, insert their email after "mailto:"...-->
+					<!--...and also include the display email before </a> here-->
+					<a style="color: white;" href="mailto:lhwong@asiafarm.com.sg">lhwong@asiafarm.com.sg</a>
+				</p>
 			</div>
 		</div>
+	</div>
 	<br>
-		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
-<div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1O6bR6Dn8k7gYtwNuFZQDa-egWLZAPAaN&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->ASIAFARM Purple Tea</h6>
-		<p>What is Purple Tea?
-
-Purple tea originates from the Camellia Sinensis plant. The same plant that we get our familiar black and green tea from.
-
-Contains more antioxidants than green tea and less than half the caffeine. The leaves are organically grown and are naturally purple in color as they contain anthocyanins; the same powerful antioxidant found in blueberries.
-
-Health Wellness Ready To Drink
-
-AsiaFarm Purple Tea is 100% Freshly Brewed from Purple Tea Leaves.  We believe by Real Brewing, we retain the goodness from the leaves right into the bottle, benefiting the consumers.
-
-The Growing Market
-
-Ready To Drink Tea Market is expected to witness higher growth owing to the busy and fast-paced lifestyle of the consumers globally, as it is an alternative to carbonated drinks. Due to the rise in diseases globally such as obesity and diabetes, and with proven health benefits which are expected to drive the growth of ready to drink tea market in coming years.
-
-
-
-</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=10wmC86oDu5xHFVf0iS_6fbnBH5odrNXl&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">  
-AsiaFarm Healthy Food Service Solutions</h6>
-		<p>The Healthy Beverage Solutions
-
-\* Freshly Brewed & Squeezed
-
-\* Delicious & Refreshing
-
-\* Fast and clean beverage dispensing
-
-\* Hygienic & Convenient
-
-\* Easy Cleaning & Maintenance
-
-\* Save Cost Save Manpower
-
-\* Made convenient for foodservice setting
-
-\* Ideal for Buffet, Free-Flow and all F&B settings.
-
-
-</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1xzDgNGDLwH7eLwP6BMCYhK7LFGFB3BT7&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">AsiaFarm Cordial & Syrup</h6>
-		<p>\* A household name for top-notch fruit cordial that many of us grew up loving
-
-\* A drink of great memory that brings joyful people together
-
-\* Great for parties, BBQ, Catering, and any event
-
-\* Be creative with AsiaFarm Cordial; mixed and enjoyed Explore our selection of cordials, perfect for creating your favorite non-alcoholic or soft drinks.
-
-  
-
-</p></div>
+	<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+	<div style="display: flex; flex-wrap: wrap;">
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=1iCOyIZ_r4MFFqM7-UQ5P3ZBJIuECQ8xw"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">Purple Tea Drink</h6>
+				<p>Our purple tea beverage is carefully crafted by steeping and brewing the purple tea leaves to perfection to achieve an optimal balance of taste and health benefits. AsiaFarm Purple tea, being the world's first purple tea variety, offers a unique and exceptional drinking experience that tea enthusiasts should not miss. The tea's distinctive purple color results from its high levels of anthocyanins, potent antioxidants that can safeguard against various health issues. Its smooth and invigorating taste, natural sweetness, and low caffeine content make it a healthy and delicious alternative to traditional tea or coffee. It's worth noting that purple tea shares the same tea plant as green and black tea, but stands out with its abundant polyphenols, antioxidants, and anthocyanins, surpassing its peers in terms of health benefits.</p>
+			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1vu9tfJojNC_b5aT00PkxmMno37uraRYp&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">GreenLeaves Fruit Juice</h6>
-		<p>Made with Freshly Squeezed & Brewed
-
-Enjoy the good old days
-
-Traditional with a Modern Twist </p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1vdvKnQH8Uq-ghLNODHydeWht7fPanDSN&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">AsiaFarm Jelly (Ready-To-Consume)</h6>
-* Convenient Jelly for all F&B setting
-
-* Cut jelly into cubes or any shape, add it in your drinks, ice cream, & any dessert
-
-* Be Creative & add colours in your F&B
-
-* Convenient & cost saving</p></div>
-	</div>
-	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
-	</div>
-</body>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=145BWPS38J9e22QqUpMdfxMFQZJ9Ki0OX"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">AsiaFarm Healthier Choice BIB Beverages</h6>
+				<p>Introducing Asia Farm BIB, the perfect solution for businesses looking to provide fresh and healthy beverages. Our BIB packaging is designed to maintain the freshness of the contents while being environmentally friendly.</p>
+				<p>Our beverages are made with fresh brewed, freshly squeezed, real fruit juice with minimal sugar, providing a healthier beverage option for health-conscious consumers. With the use of an automated dispensing machine, businesses can save time and labor expenses while offering the convenience of easily dispensing delicious and nutritious beverages.</p>
+				<p>Asia Farm BIB is an excellent match for buffets, self-service restaurants, and hotels. With the combination of convenient packaging and dispensing system, along with the flavorful and nutritious beverage choices, it's the perfect alternative for both businesses and customers.</p>
+			</div>
+		</div></div>
