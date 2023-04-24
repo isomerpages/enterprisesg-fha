@@ -3,8 +3,7 @@ title: ASIA FARM F&B PTE LTD
 permalink: /exhibitors/asia-farm-fnb/
 description: ""
 ---
-
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<p style="text-transform: uppercase"></p>
 	</div>
@@ -24,7 +23,6 @@ description: ""
 			<p><a target="_blank" href="https://www.asiafarm.com.sg">www.asiafarm.com.sg</a></p>
 		</div>
 	</div>
-
 
 
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
