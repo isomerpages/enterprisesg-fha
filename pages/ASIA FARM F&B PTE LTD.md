@@ -24,9 +24,7 @@ description: ""
 		</div>
 	</div>
 
-
-
-	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
+<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
