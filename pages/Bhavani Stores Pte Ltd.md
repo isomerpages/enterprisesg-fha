@@ -3,56 +3,71 @@ title: Bhavani Stores Pte Ltd
 permalink: /sponsors/bhavani-stores/
 description: ""
 ---
-<head>
+
 	<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
-		<!--insert booth number here!-->
-		<p style="text-transform: uppercase"></p></div>
-			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="/images/unclesabas.png"></div>
-	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Bhavani Stores Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="https://unclesabas.com" target="_blank"><!--insert the www website link here (no need for https)-->unclesabas.com</a></p>
+		<p style="text-transform: uppercase"></p>
 	</div>
-</div>
-</head>
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<!--insert DOWNLOAD link of company logo between the " marks!-->
+		<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?export=download&amp;id=1iSabW_jlM_4A6aDNO-rWcSHbceumeNTh"></div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<!--insert the exhibitor's name between the <b> tags here-->
+			<h4 style="text-transform: uppercase; color: black;"><b>Bhavani Stores Pte Ltd</b></h4>
+			<!--insert the exhibitor's description between the <p> tags here-->
+			<p>We make Uncle Saba's Poppadoms, lentil chips and better-for-you plant based snacks.</p>
+			<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
+			<!--insert the www website link here (no need for https)-->
+			<p><a target="_blank" href="https://www.unclesabas.com">www.unclesabas.com</a></p>
+		</div>
+	</div>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
-		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Snacks and Confectionery</span></p> 
-				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, Halal Certified, BRC, FSSC 22000 Certified, GMP, MESTI</p>
-			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Norway, Israel, Local supermarkets</p>
-			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, E-Commerce, Importers, Suppliers in food services</p>
+				<!--insert the exhibitor's pdt cat   between the <p> tags here-->
+				<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Snacks and Confectionery</span></p>
+				<!--insert all the exhibitor's certifications between the </b> and </p> here-->
+				<p><b>Certifications: </b>BRC Certified, Made with Passion</p>
+				<!--insert all the exhibitor's export markets between the </b> and </p> here-->
+				<p><b>Export Markets: </b>USA, EU, Australia</p>
+				<!--insert all the exhibitor's potential business partners between the </b> and </p> here-->
+				<p style="margin-bottom: 10px;"><b>Looking for: </b>Food Distributors, Wholesalers</p>
+				<!--insert all the exhibitor's address the </b> and </p> here-->
+				<!-- <p><b>Address: </b>105 Cecil Street, #07-02 The Octagon, Singapore 069534</p> -->
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
-		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
-		<div class="flex-paragraph">
-			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Selvaraj Elango</b><br><!-- designation-->Branch Manager<br><!--contact number-->+65 62917866<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:bhavani.stores.1978@gmail.com" style="color: white;"><!--...and also include the display email before </a> here-->bhavani.stores.1978@gmail.com</a></p>
-		</div>
+		<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+			<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+			<div class="flex-paragraph">
+				<!--replace with exhibitor's: -->
+				<p style="padding: 10px; color: white;">
+					<b><!-- POC name-->Sreenivas</b><br><!-- designation-->Managing Director<br><!--contact number-->+65 8725 8977<br>
+					<!-- for linking purposes, insert their email after "mailto:"...-->
+					<!--...and also include the display email before </a> here-->
+					<a style="color: white;" href="mailto:sr@unclesabas.com">sr@unclesabas.com</a>
+				</p>
 			</div>
 		</div>
+	</div>
 	<br>
-		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
-<div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1i5x_KiMihcdLMZnLlWbduNXwmkKz29qZ&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Uncle Saba's Poppadoms Sweet Chilli 30g (Pillow Bag)</h6>
-		<p>Savour the subtle kick of sugar, spice, and all things nice with every mouthful! It’s a beautifully balanced act with the sugar, chilli, cumin and carom topped with paprika for the beautiful red colour!</p></div>
-	</div>
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1JOTPuCLa54fWGkoWd9J8WPbBZlllXX0f&export=download"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Uncle Saba's Poppadoms Tomato 30g (Pillow Bag)</h6>
-		<p>It's a burst of garden-fresh tomato goodness in every bite! Complimented with onion and garlic flavours, and topped with paprika for that luscious deep red color, we put a love and care into each bite too!</p></div>
-	</div>
-	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
-	</div>
-</body>
+	<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+	<div style="display: flex; flex-wrap: wrap;">
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=1EsIrRB6UQymIe03APvihC3jH1BGVRWF8"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">Uncle Saba's Poppadoms - Original</h6>
+				<p>Our #1 best seller in over 25 countries.</p>
+			</div>
+		</div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=1n9sUy9KEdCzwJVItMDCOeZQJs4zqleN_"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">Uncle Saba's Poppadoms - Sweet Chilli</h6>
+				<p>Our top seller in Singapore.</p>
+			</div>
+		</div>
+</div>
