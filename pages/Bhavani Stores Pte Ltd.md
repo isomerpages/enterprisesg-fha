@@ -3,50 +3,36 @@ title: Bhavani Stores Pte Ltd
 permalink: /sponsors/bhavani-stores/
 description: ""
 ---
-<div class="flex-paragraph">
-		<!--hi there! this is a comment and will provide you with instructional guides-->
+
+	<div class="flex-paragraph">
 		<p style="text-transform: uppercase"></p>
 	</div>
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
-		<!--insert DOWNLOAD link of company logo between the " marks!-->
 		<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?export=download&amp;id=1iSabW_jlM_4A6aDNO-rWcSHbceumeNTh"></div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<!--insert the exhibitor's name between the <b> tags here-->
 			<h4 style="text-transform: uppercase; color: black;"><b>Bhavani Stores Pte Ltd</b></h4>
-			<!--insert the exhibitor's description between the <p> tags here-->
 			<p>We make Uncle Saba's Poppadoms, lentil chips and better-for-you plant based snacks.</p>
-			<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-			<!--insert the www website link here (no need for https)-->
 			<p><a target="_blank" href="https://www.unclesabas.com">www.unclesabas.com</a></p>
 		</div>
 	</div>
 
 
 
-<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
+	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
-				<!--insert the exhibitor's pdt cat   between the <p> tags here-->
 				<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Snacks and Confectionery</span></p>
-				<!--insert all the exhibitor's certifications between the </b> and </p> here-->
 				<p><b>Certifications: </b>BRC Certified, Made with Passion</p>
-				<!--insert all the exhibitor's export markets between the </b> and </p> here-->
 				<p><b>Export Markets: </b>USA, EU, Australia</p>
-				<!--insert all the exhibitor's potential business partners between the </b> and </p> here-->
 				<p style="margin-bottom: 10px;"><b>Looking for: </b>Food Distributors, Wholesalers</p>
-				<!--insert all the exhibitor's address the </b> and </p> here-->
-				<!-- <p><b>Address: </b>105 Cecil Street, #07-02 The Octagon, Singapore 069534</p> -->
 			</div>
 		</div>
 		<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
 			<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 			<div class="flex-paragraph">
-				<!--replace with exhibitor's: -->
 				<p style="padding: 10px; color: white;">
-					<b><!-- POC name-->Sreenivas</b><br><!-- designation-->Managing Director<br><!--contact number-->+65 8725 8977<br>
-					<!-- for linking purposes, insert their email after "mailto:"...-->
-					<!--...and also include the display email before </a> here-->
+					<b>Sreenivas</b><br>Managing Director<br>+65 8725 8977<br>
 					<a style="color: white;" href="mailto:sr@unclesabas.com">sr@unclesabas.com</a>
 				</p>
 			</div>
