@@ -4,58 +4,53 @@ permalink: /tathui/
 description: ""
 ---
 
-<head>
 	<div class="flex-paragraph">
-		<!--hi there! this is a comment and will provide you with instructional guides-->
-		<!--insert booth number here!-->
-		<p style="text-transform: uppercase"></p></div>
-			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1__Glp2NhrKGqKXFGEPHRUs2lb5Nikye9"></div>
-	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Tat Hui Foods Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Tat Hui Foods is the leading manufacturer of instant noodles in
-Singapore. The richness and diversity of Singaporean cuisine is the
-inspiration that the company seeks to deliver to the rest of the world.
-Its global brands Koka, Sanwa and Yoodles are well-loved in over 40
-countries around the world.</p>
-		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.kokanoodles.com" target="_blank"><!--insert the www website link here (no need for https)-->www.kokanoodles.com</a></p>
+		<p style="text-transform: uppercase"></p>
 	</div>
-</div>
-</head>
-
-<body>
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds"><img src="https://drive.google.com/uc?export=download&amp;id=1ahPPDScGw_Q1pfmN0aSzZmy_qWBgAjhV"></div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Tat Hui Foods Pte Ltd</b></h4>
+			<p>The Company behind KOKA, Tat Hui Foods P/L, was born in Singapore in 1986 and prides itself on preserving authenticity and staying true to its roots. Over the years it has grown from a local noodle brand with just a few classic flavours, to one that now brings over 100 different products to millions of households across the globe.</p>
+			<p><a target="_blank" href="https://www.kokanoodles.com">www.kokanoodles.com</a></p>
+		</div>
+	</div>
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
-		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
-			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Noodles</span></p> 
-							<p><b></b><!--insert all the exhibitor's certifications between the </b> and </p> here--></p>
-			<p><b></b><!--insert all the exhibitor's export markets between the </b> and </p> here--></p>
-			<p style="margin-bottom: 10px;"><b> </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here--></p><p><b>Address: </b><!--insert all the exhibitor's address the </b> and </p> here-->37 Quality Road, Jurong, Singapore 618808</p>
+				<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Rice and Noodles</span></p> 
+				<p><b>Certifications: </b>HACCP Certified, BRC Certified), Asia Star 2005 Packaging Award, Made with Passion, Healthier Choice Certified, SIFST 2009 Food Product Innovation Award (KOKA Purple Wheat  Noodles), SIFST 2009 Food Product Merit Award (KOKA Black Pepper Non-Fried Noodles), Finalist of IUFoST Global Food Award 2010 (KOKA Purple Wheat Noodles), SIFST Food Product Award 2022-2024 – Winner (KOKA Multigrain Cup - Five Spice Duck)</p>
+				<p><b>Export Markets: </b>Australia, Bhutan, China, Denmark, Dubai, Netherlands, Ghana, India, Iraq, Ireland, Malaysia, Portugal, UK, USA, Spain</p>
+				<p style="margin-bottom: 10px;"><b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers</p>
 			</div>
 		</div>
-		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
-		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
-		<div class="flex-paragraph">
-			<!--replace with exhibitor's: -->
-			<p style="padding: 10px; color: white;"><b><!-- POC name-->Jerrold Lim</b><br><!-- designation-->Business Development Manager<br><!--contact number-->+65 6261 1010<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:thf@pacific.net.sg" style="color: white;"><!--...and also include the display email before </a> here-->thf@pacific.net.sg</a></p>
-		</div>
+		<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+			<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+			<div class="flex-paragraph">
+				<p style="padding: 10px; color: white;">
+					<b>Jerrold Lim</b><br>Business Development Manager<br>+65 6261 1010<br>
+					<a style="color: white;" href="mailto:thf@pacific.net.sg">thf@pacific.net.sg</a>
+				</p>
 			</div>
 		</div>
+	</div>
 	<br>
-		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
-<div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1qiI22evW1CkRpIqTO_r5dsvSvi7gLRmZ"></div>
-	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
-KOKA and SANWA brand instant noodles, Creamy soup instant
-noodles
-
-
-
-
-
-</p></div>
+	<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+	<div style="display: flex; flex-wrap: wrap;">
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=13dQ8MwXLA8CPgG5fDO0qlELXC62cgror"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain Baked Cup Noodles with Oats &amp; Barley</h6>
+				<p>A new addition to our healthier cup series, KOKA Multigrain Cup Noodle with Oats &amp; Barley is boosted with a nutritious mix of whole oats and hulled barley. Like our purple series, it’s baked not fried, and made with all natural ingredients for a perfect balance of taste and texture that’s exceptionally light and wholesome, as opposed to regular instant cup noodles.</p>
+				<p>The New healthier cup comes in 4 new recipes: Mushroom Miso, Spicy Tomato, Green Curry, and Chicken flavour.</p>
+			</div>
+		</div>
+		<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+			<div style="display: block;" class="flex-image"><img src="https://drive.google.com/uc?export=download&amp;id=12gBeOox3PHYrnKr6qlT9QQKBfQKbB78z"></div>
+			<div class="flex-paragraph">
+				<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain Baked Cup Noodles with Purple Corn</h6>
+				<p>A game changer for cup noodles in Singapore and endorsed by the Health Promotion Board, this innovation from KOKA is Singapore’s first Multigrain Cup Noodle that is 100% baked, not fried, free from artificial colouring, preservatives, and flavour enhancers.</p>
+				<p>Unique to this product is the Peruvian purple corn, which contains natural antioxidants due to its high anthocyanin content. The cup noodles come in 3 delectable flavours (Five Spice Duck, Hot Mala Tofu, Pepper Crab) and are housed in eco-friendly cups that are made from sustainable bamboo fibre.</p>
+			</div>
+		</div></div>
