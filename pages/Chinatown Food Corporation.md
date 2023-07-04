@@ -3,8 +3,7 @@ title: Chinatown Food Corporation
 permalink: /chinatown-food/
 description: ""
 ---
-
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 <p style="text-transform: uppercase"></p>
 	</div>
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
@@ -15,9 +14,6 @@ description: ""
 			<p><a target="_blank" href="https://www.chinatownfood.com.sg">www.chinatownfood.com.sg</a></p>
 		</div>
 	</div>
-
-
-
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
