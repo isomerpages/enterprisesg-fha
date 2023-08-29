@@ -25,7 +25,7 @@ beverage instantly.</p>
 
 
 <h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
-		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
 			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;">Beverages</span></p> 
@@ -39,9 +39,9 @@ beverage instantly.</p>
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;"><b>Eric Ting</b><br><!-- designation-->Business Development Manager<br><!--contact number-->+65 6854 2775<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:query@goldkili.com" style="color: white;"><!--...and also include the display email before </a> here-->query@goldkili.com</a></p>
-		</div>
+					</div>
 			</div>
-		</div>
+</div>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
