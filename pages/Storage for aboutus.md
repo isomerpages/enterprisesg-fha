@@ -29,4 +29,4 @@ Find out more at [SAFEF](https://safef.org.sg/).
 Established since 1932, the SMF represents the interest of the manufacturing community in Singapore, driving its competitiveness and sustainable growth through serving industry-specific needs. Supported by 10 industry groups and its Associated Services, the SMF enhances the competitiveness of the industry by encouraging capacity development and capability building, innovation and productivity. The SMF provides opportunities for companies to collaborate, network, and grow and expand both locally
 and internationally. Current membership stands at about 5,000 members comprising SME, MNCs and Affiliate members.
 
-For more information, please visit [SMF](https://www.smfederation.org.sg/). 
+For more information, please visit [SMF](https://www.smfederation.org.sg/).

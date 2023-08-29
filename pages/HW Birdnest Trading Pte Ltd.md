@@ -1,6 +1,6 @@
 ---
 title: HW Birdnest Trading Pte Ltd
-permalink: /exhibitors/hw-birdnest-trading/
+permalink: /hw-birdnest-trading/
 description: ""
 ---
 <div class="flex-paragraph">
@@ -15,7 +15,7 @@ description: ""
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks--><p><a target="_blank" href="https://www.hockhuatonic.com/hockhua-tonic-en/"><!--insert the www website link here (no need for https)-->www.hockhuatonic.com/hockhua-tonic-en/</a></p>
 	</div>
 </div>
-<body>
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 			<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
@@ -50,7 +50,7 @@ description: ""
 GOLDEN COW Special Grade Imperial Golden Bird's Nest</h6>
 		<p>GOLDEN COW SPECIAL GRADE IMPERIAL GOLDEN BIRD’S NEST is prepared from quality imperial golden bird's nest and rock sugar solution, formulated according to traditional recipes, suitable to be taken by people of all ages.
 
-This product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings & preservatives. It is available in a box of 6 small bottles (6x75gm) and single big bottle (150gm).
+This product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings &amp; preservatives. It is available in a box of 6 small bottles (6x75gm) and single big bottle (150gm).
 
 There are 3 flavours to choose from: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.</p>
 		</div>
@@ -61,7 +61,7 @@ There are 3 flavours to choose from: classic rock sugar taste, traditional ginse
 		<h6 style="text-transform: uppercase; color: black;">Ready-to-eat Cave Bird's Nest Beverage</h6>
 		<p>H.W BIRDNEST TRADING PTE LTD produces a series of ready-to-drink bottled bird’s nest beverage using 100% genuine bird’s nest. Customer can customise their products using different types of raw bird’s nest material, namely Cave Bird’s Nest and Imperial Bird’s Nest.
 
-The product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings & preservatives.
+The product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings &amp; preservatives.
 
 There are 3 flavour options: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.</p></div>
 		</div>

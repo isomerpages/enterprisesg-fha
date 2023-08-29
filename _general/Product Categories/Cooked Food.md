@@ -76,12 +76,12 @@ third_nav_title: Product Categories
       <div class="sgds-card-content">
 				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
 					<!-- Insert the exhibitor name... -->
-          <p style="text-transform: uppercase;"><strong>Kong Guan Dumpling/Pau Mfr Pte Ltd</strong></p>
+          <p style="text-transform: uppercase;"><strong>Kong Guan Dumpling/Pau Manufacturer Pte Ltd</strong></p>
 				</figure>
 				<!--...and description. -->
 				<p><small>Manufacturer of assorted dim sum and steamed buns</small></p>
 				<!--Insert the exhibitor Isomer page link between the href="".-->
-          <p><a href="/exhibitors/kong-guan-dumpling" target="_blank"><small>Visit their page</small></a></p>
+          <p><a href="kong-guan-dumpling" target="_blank"><small>Visit their page</small></a></p>
       </div>
   </div>
 	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">

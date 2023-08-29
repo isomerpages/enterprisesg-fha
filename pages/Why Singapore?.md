@@ -1,6 +1,6 @@
 ---
 title: Why Singapore?
-permalink: /why-singapore
+permalink: /why-singapore/
 description: ""
 ---
 Singapore is Southeast Asia’s smallest country, located off the southern tip of the Malay Peninsula. As home to a population of 5.45 million people (Department of Statistics), **Singapore has grown into an economic powerhouse despite its size.** It is one of the world’s most competitive economies (International Institute for Management Development (IMD) World Competitiveness Rankings 2021, IMD) and the second most innovative country in Asia (Global Innovation Index 2021, Cornell University, INSEAD, and WIPO).

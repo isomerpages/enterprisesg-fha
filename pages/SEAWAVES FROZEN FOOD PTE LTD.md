@@ -1,20 +1,19 @@
 ---
 title: SEAWAVES FROZEN FOOD PTE LTD
-permalink: /exhibitors/seawaves-frozen-food/
+permalink: /seawaves-frozen-food/
 description: ""
 ---
-<head>
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
-		<p style="text-transform: uppercase"><head>
-	<div class="flex-paragraph">
+		<p style="text-transform: uppercase">
+	</p><div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=13rca52eqY6K7FTYgtWQ9ZV6HbDocgB0k&export=download"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=13rca52eqY6K7FTYgtWQ9ZV6HbDocgB0k&amp;export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>SEAWAVES FROZEN FOOD PTE LTD</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Manufacturer of frozen seafood, importer, distributor and logistics services</p>
@@ -22,14 +21,14 @@ description: ""
 		<p><a href="https://www.seawaves.com.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.seawaves.com.sg</a></p>
 	</div>
 </div>
-</head>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Seafood</span></p> 
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Seafood</span></p> 
 				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->HACCP Certified, ISO 22000 Certified, Tasty Singapore</p>
 			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->Singapore</p>
 			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, E-Commerce, Suppliers in food services</p>
@@ -47,13 +46,13 @@ description: ""
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
   <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Gd-bjLUlEvoEhj-ZYH9d-8DN4I-jbiUl&export=download"></div>
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1Gd-bjLUlEvoEhj-ZYH9d-8DN4I-jbiUl&amp;export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Signature Series ( Cuttlefish Balls, Prawn Balls, Cheese Cuttlefish Balls, Otah Cuttlefish Balls )</h6>
 		<p>Manufactured in Singapore with fresh premium quality cuttlefish meat, we are the leading brand for our range of cuttlefish balls in Singapore. Available in all leading supermarkets, our best-sellers includes our cuttlefish balls, prawn balls, cheese cuttlefish balls and otah cuttlefish balls.</p></div>
 	</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
-		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1aHifLWJ3QGswPqiNODpGYiMV-ZsrME-a&export=download"></div>
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1aHifLWJ3QGswPqiNODpGYiMV-ZsrME-a&amp;export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">Seawaves CuttleFish Paste</h6>
 		<p>Similar to our best seller cuttlefish balls, our tasty and delicious cuttlefish paste are best for your steamboat needs. Suitable to serve with yong tau foo ingredients, you tiao or to even squeeze them in your steamboat. Suitable for flavouring and as filling for dim sum and dumplings.</p></div>
@@ -68,9 +67,9 @@ Our Shrimp Gyoza is deliciously filled with the finest shrimp, squid, white cabb
 		</div>
 		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 	<div class="flex-paragraph">
-		<h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood & Frozen Meat)</h6>
+		<h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood &amp; Frozen Meat)</h6>
 		<p>We distribute an extensive range of frozen seafood (fish, shrimp, prawn, crabmeat, mussels, jelly fish, octopus, sea cucumber, crayfish, oysters, scallops and shark fins). We also have a large range of frozen meat from fish, shrimp, beef, deer, lamb , chicken and duck meat providing our customers a full range of products.</p></div>
 	</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
 	</div>
-</body>
+</div>

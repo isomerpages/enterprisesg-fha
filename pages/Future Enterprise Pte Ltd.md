@@ -1,17 +1,15 @@
 ---
 title: Future Enterprise Pte Ltd
-permalink: /futureenterprise/
+permalink: /future-enterprise/
 description: ""
 ---
-
-<head>
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=15lUpGQAWwHhAqCYTPvoT4rUs97ELFjP_"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=15lUpGQAWwHhAqCYTPvoT4rUs97ELFjP_"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Future Enterprise Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Food Empire Holdings is a global branding and manufacturing
@@ -24,14 +22,14 @@ organisation’s expectations of striving for excellence.</p>
 		<p><a href="www.foodempire.com" target="_blank"><!--insert the www website link here (no need for https)-->www.foodempire.com</a></p>
 	</div>
 </div>
-</head>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Others (Multiproduct)</span></p> 
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Others (Multiproduct)</span></p> 
 				<p><b></b><!--insert all the exhibitor's certifications between the </b> and </p> here--></p>
 			<p><b></b><!--insert all the exhibitor's export markets between the </b> and </p> here--></p>
 			<p style="margin-bottom: 10px;"><b> </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here--></p>
@@ -49,8 +47,8 @@ organisation’s expectations of striving for excellence.</p>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1Bs3Ku8uxEc9qzWx1VMfKSaLDvkhSOv_C"></div>
+&nbsp; <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1Bs3Ku8uxEc9qzWx1VMfKSaLDvkhSOv_C"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
 Potato Chips, Non-dairy Creamer, Foaming Creamer, Whipping Cream, Fat Powder
@@ -59,4 +57,4 @@ Potato Chips, Non-dairy Creamer, Foaming Creamer, Whipping Cream, Fat Powder
 
 
 
-</p></div>
+<p></p></div></div></div>

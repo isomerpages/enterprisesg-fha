@@ -3,18 +3,16 @@ title: Nomanbhoy & Sons Pte Ltd
 permalink: /nomanbhoy/
 description: ""
 ---
-
-<head>
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1342QyjsrDx5aI6XdpF88mw2uMgaE0ad3"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1342QyjsrDx5aI6XdpF88mw2uMgaE0ad3"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Nomanbhoy & Sons Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
-		<p>Nomanbhoy & Sons has earned the distinction of being one of the
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Nomanbhoy &amp; Sons Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<p>Nomanbhoy &amp; Sons has earned the distinction of being one of the
 most reputable and oldest establishments in the spices and agro
 commodities industry in Singapore, having being in the business for
 more than a century. Through 5 generations of leadership, the
@@ -25,14 +23,14 @@ across 5 continents. It is a brand name in the spice industry.</p>
 		<p><a href="www.nomanbhoy.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.nomanbhoy.sg</a></p>
 	</div>
 </div>
-</head>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Spices</span></p> 
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Spices</span></p> 
 								<p><b></b><!--insert all the exhibitor's certifications between the </b> and </p> here--></p>
 			<p><b></b><!--insert all the exhibitor's export markets between the </b> and </p> here--></p>
 			<p style="margin-bottom: 10px;"><b> </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here--></p>
@@ -50,8 +48,8 @@ across 5 continents. It is a brand name in the spice industry.</p>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=10PbHPeh-HORubOYQpov5NEyhI7lN7ihC"></div>
+&nbsp; <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=10PbHPeh-HORubOYQpov5NEyhI7lN7ihC"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
 		Cloves, Peppers, Desiccated Coconuts, Almond and Walnuts
@@ -60,4 +58,4 @@ across 5 continents. It is a brand name in the spice industry.</p>
 
 
 
-</p></div>
+<p></p></div></div></div>
