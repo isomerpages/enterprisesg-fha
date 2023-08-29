@@ -19,7 +19,7 @@ FSSC22000 system. The company is also a consolidator for Soy
 Sauces, Sesame Oil and Noodles functioning as a 1-stop solution
 for your daily grocery essentials.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="http://www.huakhiang.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.huakhiang.com.sg</a></p>
+		<p><a href="https://www.huakhiang.com.sg" target="_blank"><!--insert the www website link here (no need for https)-->www.huakhiang.com.sg</a></p>
 	</div>
 </div>
 
