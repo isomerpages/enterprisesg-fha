@@ -3,34 +3,32 @@ title: Gold Kili Trading Enterprise (Singapore) Pte Ltd
 permalink: /goldkili/
 description: ""
 ---
-
-<head>
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
-			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&id=1vdhRNz7PrywXTE8SyyxljjRzpEB0xj4j"></div>
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1vdhRNz7PrywXTE8SyyxljjRzpEB0xj4j"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
 		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Gold Kili Trading Enterprise (Singapore) Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Established in 1985, Gold Kili is a manufacturer and distributor of
 coffee powder. It also manufactures a wide range of instant
-beverages and exporting to over 30 countries. Just Gold Kili & Water
+beverages and exporting to over 30 countries. Just Gold Kili &amp; Water
 – simply add water to any of its product to enjoy a satisfying quality
 beverage instantly.</p>
 		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks-->
-		<p><a href="www.goldkili.com" target="_blank"><!--insert the www website link here (no need for https)-->www.goldkili.com</a></p>
+		<p><a href="https://www.goldkili.com" target="_blank"><!--insert the www website link here (no need for https)-->www.goldkili.com</a></p>
 	</div>
 </div>
-</head>
 
-<body>
+
+
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
-			<p><b>Product Category: </b><span style=" background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Beverages</span></p> 
 							<p><b></b><!--insert all the exhibitor's certifications between the </b> and </p> here--></p>
 			<p><b></b><!--insert all the exhibitor's export markets between the </b> and </p> here--></p>
 			<p style="margin-bottom: 10px;"><b> </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here--></p>
@@ -48,8 +46,8 @@ beverage instantly.</p>
 	<br>
 		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
 <div style="display: flex; flex-wrap: wrap;">
-  <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
-	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&id=1-Ud-CBZJm7rZ6wrHksbmKEQZw_9UY2Ka"></div>
+&nbsp; <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?export=download&amp;id=1-Ud-CBZJm7rZ6wrHksbmKEQZw_9UY2Ka"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
 	Instant Ginger Turmeric Drink, Instant Ginger Drink (No Sugar
@@ -59,4 +57,4 @@ Added), Ginger Latte series
 
 
 
-</p></div>
+<p></p></div></div></div>
