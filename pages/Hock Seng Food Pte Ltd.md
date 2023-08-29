@@ -51,5 +51,4 @@ Select, Highway, LaDiva, Sincero &amp; Calbuco.</p>
 		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Key Products</h6>
 <p>Hosen Canned Fruits and Vegetables, Highway Bread Spread and
 Meat, LaDiva Olive Oil range, Sincero Chocolates range
-</p>
-	</div></div></div>
+</p></div></div></div>
