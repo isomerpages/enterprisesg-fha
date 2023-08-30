@@ -68,4 +68,3 @@ UNISOY GOLD Nutritious Soy Matcha</h6>
 Discover the goodness of UNISOY cold beancurd mix made from 100% de-skinned non-GMO soybeans with lower in sugar and naturally cholesterol free. Perfect for people who enjoy the nutritional soy benefits in a delicious and convenient way.&nbsp;
 		<p></p></div>
 	</div>
-	
