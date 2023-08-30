@@ -20,7 +20,7 @@ description: ""
 
 
 
-	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
+<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
 			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
 			<div class="flex-paragraph">
