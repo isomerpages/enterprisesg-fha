@@ -3,8 +3,7 @@ title: POINT TO POINT EXPORTS PTE LTD
 permalink: /exhibitors/point-to-point/
 description: ""
 ---
-<head>
-	<div class="flex-paragraph">
+<div class="flex-paragraph">
 		<!--hi there! this is a comment and will provide you with instructional guides-->
 		<!--insert booth number here!-->
 		<p style="text-transform: uppercase"></p></div>
@@ -12,7 +11,7 @@ description: ""
 				<!--insert DOWNLOAD link of company logo between the " marks!-->
 			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/u/0/uc?id=1GI7WRpKKrxz412Hhrz5CM-y57kO_Ie9X&amp;export=download"></div>
 	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
-		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Point to point exports Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Tee Yih Jia</b></h4><!--insert the exhibitor's description between the <p> tags here-->
 		<p>Tee Yih Jia (TYJ) is a leading frozen foods manufacturer in
 Singapore, exporting more than 90% of its renowned ‘Spring Home’
 brand products to about 100 countries. Its flagship brand 'Spring
@@ -25,10 +24,10 @@ safety is at the core of everything the company does.</p>
 		<p><a href="https://www.point2pointexports.com" target="_blank"><!--insert the www website link here (no need for https)-->www.point2pointexports.com</a></p>
 	</div>
 </div>
-</head>
+
 	
 <p>
-<div>
+</p><div>
 	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
 		<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 			<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
@@ -73,4 +72,4 @@ Already popular in most Asian countries and South America, we are looking for ex
 		<p>Naturally milky, rich creamy &amp; more mouth feel, this non dairy creamer makes your coffee creamier without any strange odor or taste. In fact it is suitable for all beverages, giving you more satisfaction with every cup you drink.</p></div>
 		</div>
 	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
-	</div>
+	</div></div>
