@@ -3,6 +3,7 @@ title: Unifood International (S) Pte Ltd
 permalink: /unifood-international/
 description: ""
 ---
+<div>
 <div class="flex-paragraph">
 		<p style="text-transform: uppercase"></p></div>
 			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
@@ -55,7 +56,7 @@ UNISOY GOLD Nutritious Soy Matcha</h6>
 </div>
 
 
-		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
 		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1c6qJcEKX1l40Gp2d1Lt2Cs56jm6zj6j2&amp;export=download"></div>
 	<div class="flex-paragraph">
 		<h6 style="text-transform: uppercase; color: black;">UNISOY Nutritious Soya Milk Powder "No Cane Sugar"</h6>
@@ -67,4 +68,4 @@ UNISOY GOLD Nutritious Soy Matcha</h6>
 		<h6 style="text-transform: uppercase; color: black;">UNISOY Instant Cold Bean Curd Mix</h6>
 Discover the goodness of UNISOY cold beancurd mix made from 100% de-skinned non-GMO soybeans with lower in sugar and naturally cholesterol free. Perfect for people who enjoy the nutritional soy benefits in a delicious and convenient way.&nbsp;
 		<p></p></div>
-	</div>
+	</div></div>
