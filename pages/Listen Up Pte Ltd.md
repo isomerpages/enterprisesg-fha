@@ -19,7 +19,7 @@ description: ""
 		</div>
 	
 	
-		<h4 style="text-transform: uppercase; color: black;">
+<h4 style="text-transform: uppercase; color: black;">
 			<b>General Information</b>
 		</h4>
 		<div style="display: flex; flex-wrap: wrap;" class="flex-container">
