@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d170ljyht7ns7d.amplifyapp.com/
-prod: https://master.d170ljyht7ns7d.amplifyapp.com/
+staging: https://staging.dfp3zudlnpk76.amplifyapp.com/
+prod: https://master.dfp3zudlnpk76.amplifyapp.com/
 shareicon: /images/New SFMA Logo.jpg
 is_government: false
 facebook-pixel: ""
