@@ -24,5 +24,5 @@ Singapore is the location of choice for many businesses, serving as headquarters
 With one of the highest standards of living in the world, **Singapore is internationally regarded for its high levels of safety, world-class healthcare, and top-notch education.** Integral to the Singapore lifestyle is our hawker culture, the communal culinary and dining experience which serves as an embodiment of Singapore’s dynamic multicultural society. Singapore’s hawker culture was the country’s first inscription on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2020.
 
 #### Singapore in a Snapshot (2021)
-![](/images/Singapore-Stat-1.png)
-![](/images/Singapore-Stat-2.png)
+![](/images/singapore-stat-1.png)
+![](/images/singapore-stat-2.png)
