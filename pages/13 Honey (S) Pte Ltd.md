@@ -24,7 +24,6 @@ description: ""
 </p> 
 </div> 
 <p>
-</div> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
