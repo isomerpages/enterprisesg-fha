@@ -7,9 +7,8 @@ description: ""
 		<p>Within the Singapore Pavilion, visitors can explore a captivating range of products that seamlessly fuse tradition with innovation, including sauces, ready-to-eat/ready-to-cook options, delectable snacks, beverages and many more.</p>
 		<p>Join us at the Singapore Pavilion, where our companies look forward to forging collaborations, establishing distribution channels, and building valuable partnerships in the global food industry.</p>
 		<p>Download the Singapore Pavillion Map <a target="_blank" href="https://drive.google.com/file/d/1EF0GuhKd2rhIrOfzKgOMLWmj6tJ2P7oP/view?usp=sharing">here</a>.</p>
-	
-
-		<div style="display: flex; flex-wrap: wrap; padding: 10px">
+<p>
+		</p><div style="display: flex; flex-wrap: wrap; padding: 10px">
 			<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 				<div class="sgds-card-booth">
 					<p style="text-transform: uppercase;">
@@ -1064,4 +1063,4 @@ description: ""
 				</div>
 			</div>
 		</div>
-	
+		<p></p>
