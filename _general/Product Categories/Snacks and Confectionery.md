@@ -4,7 +4,6 @@ permalink: /singapore-pavilion-exhibitors/snacks-confectionery/
 description: ""
 third_nav_title: Product Categories
 ---
-
 <p>Meet the Singapore Food Manufacturing companies specialising in Snacks and Confectionery.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 
