@@ -6,5 +6,7 @@ links:
     collection: about-us
   - title: Products
     collection: general
+  - title: Events
+    collection: events
   - title: Contact Us
     url: /contact-us/
