@@ -1,6 +1,6 @@
 title: Singapore Food Manufacturers
 url: https://www.sgfoodmakers.sg
-favicon: /images/New SFMA Logo.jpg
+favicon: /images/new sfma logo.jpg
 colors:
   primary-color: "#e7131a"
   secondary-color: "#fb433d"
@@ -49,9 +49,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://enterprisesg-fha-staging.netlify.app
-prod: https://enterprisesg-fha-prod.netlify.app
-shareicon: /images/New SFMA Logo.jpg
+staging: https://staging.dfp3zudlnpk76.amplifyapp.com/
+prod: https://master.dfp3zudlnpk76.amplifyapp.com/
+shareicon: /images/new sfma logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: G-DS26X98J9G

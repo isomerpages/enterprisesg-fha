@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapore-pavilion-exhibitors/overview
+permalink: /singapore-pavilion-exhibitors/overview/
 description: ""
 ---
 ### Singapore's Food Manufacturing Industry
