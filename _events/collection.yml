@@ -1,0 +1,5 @@
+collections:
+  events:
+    output: true
+    order:
+      - Anuga 2023.md

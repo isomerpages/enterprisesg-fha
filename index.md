@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Food Manufacturers
 description: Find out more about Singapore Food Manufacturers' quality offerings!
-image: /images/New SFMA Logo.jpg
+image: /images/new sfma logo.jpg
 permalink: /
 notification: ""
 sections:
