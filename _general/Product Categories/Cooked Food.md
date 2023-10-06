@@ -4,708 +4,517 @@ permalink: /singapore-pavilion-exhibitors/cooked-food/
 description: ""
 third_nav_title: Product Categories
 ---
+<link rel="stylesheet" href="/sgds.css"/>
+<!-- Hi there! This is a comment. These will provide you with instruction guides ok! -->
 
-<p>Meet the Singapore Food Manufacturing companies specialising in Cooked Food.
-</p> 
-<div style="display: flex; flex-wrap: wrap; padding: 10px"> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1pFmUpJrbQOI4Zg0redQ4fKry5I38VZ2a&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Chuan Hong Seng Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Shrimp Roll Snack.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/chuan-hong-seng"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=14zpVQvDDuFun4ftAZOLJxoq2gFgqIuXG&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Cita Rasa HLH Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/cita-rasa-hlh"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1n4DR1tJOIjk_1nyC1Praqm5DZEj1C8-D&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Eastern Harvest Foods (Singapore) Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Frozen meat, seafood, japanese and korean cuisine, processed item.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/eastern-harvest-foods"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=17XR3cXDIC1PGqiVE8OJ1z9AfH_A_Yqsj&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Fragrance Foodstuff Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of bak kwa and other food products - including flosses, pastries, salted egg and truffle snacks, and ready to cook frozen food items.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/fragrance-foodstuff"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1jnGGsQt0fehGFaosVCLcluyEHAiUe7Uu&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Hock Lian Huat Foodstuff Inudstry Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/hock-lian-huat"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1p_-Ho-ni4CtkHIOoahj5FGM8RTmFqssW&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Hock Seng Food Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of canned food and chocolate.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/hock-seng-food"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1bWopWtDwgtFrI45KhNXKHyRhZZ-2qdFU&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Hotbake Innovations Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of healthier choice sandwiches.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/hotbake-innovations"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1DFD7mwTH8wm31O8Q9nu179ffBbAfQ88J&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Hua Khiang Food Export (S) Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of tofu products.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/hua-khiang"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1AZE9NJpaBejOYe3I-0Al8UNttm0XbUNr&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Jin Food Manufacturing Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of meatballs.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/jin-food-manufacturing"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1id8S3d1yTDdH327Jt9x9AgRbNyxUv2om&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>JR Foods Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturing of food and catering.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/jr-foods"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1QqKlew6pOaHt4BpCqC28nN3OnMxZdgkz&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>KG Food Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer and distributor of halal certified buns and dim sum.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/kgfood"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Kong Guan Dumpling Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of assorted dim sum and steamed buns.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/kong-guan-dumpling"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1drG1fOMMkdqVvgXw91S_WQnPWcthn3C2&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Lim Kee Food Manufacturing Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer in Chinese Pau (filled steamed buns), frozen food, ready to eat meal.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/lim-kee-food"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1fufMrZlhg1h_pRkWPjkzIyuVqXUqsn80&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Mega Packers Associate Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Importer and exporter of raw frozen meat, cooked processed frozen meat and canned food.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/mega-packers-associate"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1qYx3rwSC1JQq3JGKtCtvmmmzhd3kcR5Q&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Mr Popiah Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Pastry and Ready to Eat frozen products.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/mr-popiah"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1wgAZnixU243GIHzL-ksohhqnGzxvJicF&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Pondok Abang
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Import and manufacturing of halal frozen food.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/pondok-abang"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1ObktMMsTeObXUJEdmd7sndGKCcpkiGfE&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Red Lips Foods Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Kueh Pie Tee (Tee Cups).
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/red-lips-foods"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1EGTmNqDfmVsRDTnsfDtbqg0Ciownf6hy&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>RM Food Manufacturing Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Specialises in retort, frozen-ready meals and plant-based ready to eat meals.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/rm-food-manufacturing"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1koU8PtfYv47-RVO-bJSx20nt0UMhzh-M&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Sin Li Hin Frozen Food Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer and supplier of ready to cook frozen food and meal.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/sin-li-hin"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1A24ox4uMmxwtwkHL9rtO3ZGBZ2pdKbLJ&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Sin Mui Heng Foods Industries Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of dim sum.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/sin-mui-heng"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1VIVUIHIXvAZ4OPYo8hSRhF7if8LMtwyu&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Sinstant Singapore Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Ready-to-cook and ready-to-eat Singaporean, Hong Kong, and Asian cuisine.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/sinstant"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/smhintl.png"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>SMH Food International Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of assorted dim sum.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/smh-food-international"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1mQRsHA64iezgWc-6SPFF8kR4zJPLwpBW&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>SPW Food Industries Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Frozen japanese mochi, glutinous rice balls and shark fin.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/spw-food-industries"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1GdRxMift7GGzJa8Ir79Af7CmkTEokw5X&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Suvai Foods Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of Indian food products.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/suvai-foods"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1qmpp8yJHKAALmcOwRYvoJSUZlucBz7sc&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Tee Yih Jia Food Manufacturing Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Frozen convenience food products, plant-based snacks and ready meals.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/tee-yih-jia"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1v1zIJy6qWIhJ7itG5nRpSZzN5jNLRipO&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>The Soup Spoon Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of take home soup packs.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/the-soup-spoon"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=14IrcQEwla8OtXvs80HyD-Nn4aZ-ABWee&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Vismark Food Industries Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of authentic Asian cooked and raw pastes, premium handmade dim sum &amp; snacks, pre-mixed spices, sauces and desserts, provisional dried food.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/vismark-food-industries"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
-<div style="margin-top: 15px" class="sgds-card-image"> 
-<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image"> 
-<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1l37gCey4Is6CF9J9mfiBCymXqDxekVAh&amp;export=download"> 
-</figure> 
-</div> 
-<div class="sgds-card-content"> 
-<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content"> 
-<p style="text-transform: uppercase;">
-<strong>Xin Jia Fu Food Pte Ltd
-</strong>
-</p> 
-</figure> 
-<p> 
-<small>Manufacturer of dumplings, steamed buns and fresh-made noodles.
-</small> 
-</p> 
-<p> 
-<a target="_blank" href="/xin-jia-fu"> 
-<small>Visit their page
-</small> 
-</a> 
-</p> 
-</div> 
-</div> 
+<head>
+<!-- Insert the page descriptionbetween the <p> tags. -->
+	<p>Meet the Singapore Food Manufacturing companies specialising in Cooked Food.</p>
+</head>
+
+<body>
+	<!-- To replicate exhibitors, copy from the <div class> line onwards to the second </div> after "Visit their page". -->
+<div style="display: flex; flex-wrap: wrap; padding: 10px">
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1pFmUpJrbQOI4Zg0redQ4fKry5I38VZ2a&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Chuan Hong Seng Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacture of Shrimp Roll Snack</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/chuan-hong-seng" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=14zpVQvDDuFun4ftAZOLJxoq2gFgqIuXG&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Cita Rasa Hlh Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of Ngoh Hiang And Traditional Chinese Snacks</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/cita-rasa-hlh" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Kong Guan Dumpling/Pau Manufacturer Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of assorted dim sum and steamed buns</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="kong-guan-dumpling" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1jnGGsQt0fehGFaosVCLcluyEHAiUe7Uu&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Hock Lian Huat Foodstuff Industry Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of Ngoh Hiang And Traditional Chinese Snacks</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/hock-lian-huat" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1bWopWtDwgtFrI45KhNXKHyRhZZ-2qdFU&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Hotbake Innovations Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of healthier choice sandwiches</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/hotbake-innovations" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+	</div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1AZE9NJpaBejOYe3I-0Al8UNttm0XbUNr&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Jin Food Manufacturing Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturing of lion dance meatball</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/jin-food-manufacturing" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/uc?export=download&id=1QqKlew6pOaHt4BpCqC28nN3OnMxZdgkz" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>KG food Pte ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer and distributor of halal certified buns and dim sum</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/kgfood" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=190Vgao_YBthQjF1izB8D4qXnPv7cFQBD&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Lim Kee Food Manufacturing Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer in Chinese Pau (filled steamed buns), frozen food, ready to eat meal</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/lim-kee-food" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1id8S3d1yTDdH327Jt9x9AgRbNyxUv2om&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>JR FOODS PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturing of food and catering</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/jr-foods" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1zgC7L4PipqM2Zj217ADqGUKXQ5G1F92g&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Mr Popiah Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of popiah, pastry wraps, kueh pie tee, and RTE wraps</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/mr-popiah" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+	</div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1wgAZnixU243GIHzL-ksohhqnGzxvJicF&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Pondok Abang</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Import and manufacturing of halal frozen food</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/pondok-abang" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1EGTmNqDfmVsRDTnsfDtbqg0Ciownf6hy&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>RM Food Manufacturing Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Ready to eat meal solutions</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/rm-food-manufacturing" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/uc?export=download&id=1VIVUIHIXvAZ4OPYo8hSRhF7if8LMtwyu" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>sinstant Pte ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Ready-to-cook and ready-to-eat Singaporean, Hong Kong, and Asian cuisine</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/sinstant" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1koU8PtfYv47-RVO-bJSx20nt0UMhzh-M&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>SIN LI-HIN FROZEN FOOD PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer & supplier of "ready to cook" frozen food, meal or finger items</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/sin-li-hin" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="/images/smh.png" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Sin Mui Heng Food Industries Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of dim sum</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/sin-mui-heng" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="/images/smhintl.png" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>SMH Food International Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of dim sum</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/smh-food-international" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1mQRsHA64iezgWc-6SPFF8kR4zJPLwpBW&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>SPW Food Industries Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Frozen japanese mochi, glutinous rice balls and shark fin</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/spw-food-industries" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/uc?export=download&id=1qmpp8yJHKAALmcOwRYvoJSUZlucBz7sc" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>tee yih jia food manufacturing Pte ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Frozen convenience food products, plant-based snacks and ready meals</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/tyj" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1v1zIJy6qWIhJ7itG5nRpSZzN5jNLRipO&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>The Soup Spoon Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Retail brand / take home soup packs / OEM / Manufacturing</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/the-soup-spoon" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=14IrcQEwla8OtXvs80HyD-Nn4aZ-ABWee&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>VISMARK FOOD INDUSTRIES PTE LTD</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of authentic Asian cooked and raw pastes, premium handmade dim sum & snacks, pre-mixed spices, sauces and desserts, provisional dried food</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/vismark-food-industries" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+		
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1l37gCey4Is6CF9J9mfiBCymXqDxekVAh&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>Xin Jia Fu Food Pte Ltd</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Manufacturer of dumplings, steamed buns, and fresh-made noodles</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/xinjiafu-food" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+  </div>
+	<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="sgds-card-booth">
+			<!-- Insert the booth number between the <strong> tags. -->
+			<p style="text-transform: uppercase;"><small><strong></strong></small></p>
+		</div>
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+						<!-- Insert the image download(!) link between the " marks. -->
+              <img src="https://drive.google.com/u/0/uc?id=1wKNgNZe_4D2ciR7U3TEaMWTK9orFPaZc&export=download" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;">
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+				<figure class="sgds-content" style="display: flex;justify-content: center;flex-direction: column;">
+					<!-- Insert the exhibitor name... -->
+          <p style="text-transform: uppercase;"><strong>you tiao man</strong></p>
+				</figure>
+				<!--...and description. -->
+				<p><small>Halal Youtiao and kueh supplier</small></p>
+				<!--Insert the exhibitor Isomer page link between the href="".-->
+          <p><a href="/exhibitors/you-tiao-man" target="_blank"><small>Visit their page</small></a></p>
+      </div>
+	</div>
 </div>
+</body>

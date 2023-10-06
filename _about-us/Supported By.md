@@ -7,7 +7,7 @@ description: ""
 
 ## Supported By:
 
-![](/images/new%20sfma%20logo.jpg)
+![](/images/New%20SFMA%20Logo.jpg)
 
 ### Singapore Food Manufacturers' Association (SFMA)
 
@@ -18,7 +18,7 @@ Visit [SFMA](http://www.sfma.org.sg/) for more information.
 
 
 
-![](/images/esg-logo-pantone.png)
+![](/images/ESG-Logo-Pantone.png)
 
 ### Enterprise Singapore
 

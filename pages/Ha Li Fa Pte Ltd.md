@@ -3,100 +3,73 @@ title: Ha Li Fa Pte Ltd
 permalink: /ha-li-fa/
 description: ""
 ---
-<div class="flex-paragraph"> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;"> 
-<img src="https://drive.google.com/u/0/uc?id=17Qz9y20b8dXXAK4e9_CEp6POg-l2LDPL&amp;export=download"> 
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>Ha Li Fa Pte Ltd
-</b>
-</h4> 
-<p>Ha Li Fa exports its products to 20 countries. The company has a daily production capacity of more than 500,000 fish balls, achieved through its investment in automation and technology. Ha Li Fa has also digitalised its customer orders and inventory system by implementing an electronic ordering system, improving efficiency and reducing waste. The company integrated its production, inventory, and sales system to enhance operational efficiency, making it more responsive to customer needs. Ha Li Fa remains committed to innovation and excellence in the seafood industry, addressing global food supply chain challenges, and contributing to food security challenges.
-</p> 
-<p>Ha Li Fa has received ISO 22000 and HACCP certifications, demonstrating its commitment to food safety and quality. It has formed a HACCP team to monitor critical process points and ensure consistency in product quality. Additionally, the company has obtained Singapore Halal Certification, expanding its customer base to the Muslim community.
-</p> 
-<p>
-<a href="https://www.halifa-bobo.com" target="_blank">www.halifa-bobo.com
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;"> 
-<b>General Information
-</b> 
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p> 
-<b>Product Category: 
-</b> 
-<span style="background-color: pink; border-radius: 10px;">Seafood
-</span> 
-</p> 
-<p> 
-<b>Certifications: 
-</b>FSSC 22000 Certified, Halal Certified, bizSAFE Level 3 Certified, Tasty Singapore 
-</p> 
-<p> 
-<b>Export Markets: 
-</b>Europe, Canada, US, China, Southeast Asia, Middle East 
-</p> 
-<p style="margin-bottom: 10px;"> 
-<b>Looking for: 
-</b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer 
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;"> 
-<b>Welson Woon
-</b> 
-<br>Business Development Manager
-<br>+65 9450 6779
-<br> 
-<a href="mailto:welsonwoon@halifa-bobo.com" style="color: white;">welsonwoon@halifa-bobo.com
-</a> 
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
-<h4 style="text-transform: uppercase; color: black;"> 
-<b>Products
-</b> 
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;"> 
-<img src="https://drive.google.com/u/0/uc?id=110C7KdCdHkolgCeLL2uGNNBxuKW3J5Kw&amp;export=download"> 
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Premium White Fish Ball
-</h6> 
-<p>Our Premium White Fish Ball, crafted from the finest threadfin bream surimi. Savor the exceptional texture and taste that only the highest grade surimi can deliver. These fish balls boast a delightful bounciness and an exquisite, pure whiteness that sets them apart. It's no wonder that our Premium White Fish Balls are considered our best export product. Elevate your dining experience with the pinnacle of seafood perfection.
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;"> 
-<img src="https://drive.google.com/u/0/uc?id=1I6vYRu6OVtci0SjMaTcJX3luTg4vpz8I&amp;export=download"> 
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Plant Based Vegetable Roll
-</h6> 
-<p>Our newly launched Plant-Based Vegetable Roll, a true culinary breakthrough that stands as the crown jewel of our product range.
-</p> 
-<p>Our commitment to innovation shines through in every bite of this remarkable roll, which boasts an exceptional texture and taste that's simply unparalleled. What sets it apart is its ability to capture the authentic taste of traditional fish rolls while incorporating a delightful blend of fresh vegetables. It's the perfect harmony of flavors and textures.
-</p> 
-<p>This isn't just another plant-based option; it's a delicious innovation that sets a new standard in the market. Embrace the extraordinary and elevate your plant-based dining experience with our Plant-Based Vegetable Roll. It's a taste sensation you won't find anywhere else.
-</p> 
-</div> 
-</div> 
+<div class="flex-paragraph">
+		<!--hi there! this is a comment and will provide you with instructional guides-->
+		<!--insert booth number here!-->
+		<p style="text-transform: uppercase"></p></div>
+			<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+				<!--insert DOWNLOAD link of company logo between the " marks!-->
+			<div class="card sgds" style="flex: 1 1 40%; display: block;"><img src="https://drive.google.com/uc?id=1rYEvlW1qLpsBuGgXYU78thTAcnWaUWZR&amp;export=download"></div>
+	<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px">
+		<h4 style="text-transform: uppercase; color: black;"><!--insert the exhibitor's name between the <b> tags here--><b>Ha Li Fa Pte Ltd</b></h4><!--insert the exhibitor's description between the <p> tags here-->
+		<p>Meat / Poultry (Processed), Ready Meal / Ready-To-Eat, Seafood (Processed), Surimi Based Product, HACCP, HALAL, Exporter, Manufacturer</p>
+		<!--insert the exhibitor's website link, making sure there is "https:// www." present please. make sure the entire https link goes in between the " marks--><p><a href="http://www.bobo.sg/" target="_blank"><!--insert the www website link here (no need for https)-->www.bobo.sg</a></p>
+	</div>
 </div>
+
+
+
+	<h4 style="text-transform: uppercase; color: black;"><b>General Information</b></h4>
+		<div class="flex-container" style="display: flex; flex-wrap: wrap;">
+			<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch">
+			<div class="flex-paragraph">
+			<p><b>Product Category: </b><span style="background-color: pink; border-radius: 10 px;"><!--insert the exhibitor's pdt cat between the <p> tags here-->Seafood</span></p> 
+				<p><b>Certifications: </b><!--insert all the exhibitor's certifications between the </b> and </p> here-->Halal Certified, ISO 22000 Certified, EU Certified, Healthier Choice Certified, Tssty Singapore Ambassador</p>
+			<p><b>Export Markets: </b><!--insert all the exhibitor's export markets between the </b> and </p> here-->East Asia, Middle East, North America, Southeast Asia and South Pacific</p>
+			<p style="margin-bottom: 10px;"><b>Looking for: </b><!--insert all the exhibitor's potential business partners between the </b> and </p> here-->Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, Importers, Suppliers in food services</p>
+			</div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<!--replace with exhibitor's: -->
+			<p style="padding: 10px; color: white;"><b><!-- POC name-->Welson Woon</b><br><!-- designation-->Business Development Manager<br><!--contact number-->+65 9450 6779<br><!-- for linking purposes, insert their email after "mailto:"...--><a href="mailto:welsonwoon@halifa-bobo.com" style="color: white;"><!--...and also include the display email before </a> here-->welsonwoon@halifa-bobo.com</a></p>
+		</div>
+			</div>
+		</div>
+	<br>
+		<h4 style="text-transform: uppercase; color: black;"><b>products</b></h4>
+<div style="display: flex; flex-wrap: wrap;">
+&nbsp; <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"><!--insert the exhibitor's DOWNLOAD image for product between the " marks here-->
+	<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=19S2uXUcO0u5bdfvXbJ7AWlq8afkw7DHK&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;"><!--insert product name before </h6> and product description after <p>-->Bobo Fish Ball</h6>
+		<p>BoBo Signature Bouncy fresh fishball! Classic Singaporeans' favourite. Perfect companion for all kinds of dishes!</p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1wvUOS8YySx0uYgo02Mxr7DYnGIa86XMx&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">  
+Bobo Premium Fried Fish Ball</h6>
+		<p>Classic favourite snack fried fishball. Easy to prepare! Suitable for steaming/frying/air frying. Suitable with all kinds of dishes, even in curry!</p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/u/0/uc?id=1cEqcmPk1-NrDsMujtxkxeq839tZJbyEV&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Bobo Cheese Tofu</h6>
+		<p>Easy to prepare! Rich in cheese, suitable for steaming, frying, air frying and boiling. Perfect companion for all dishes, such as noodles and pasta! Freshly made in Singapore with premium ingredients.</p></div>
+		</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1yOR4ogSVM_okCeUfqLizv0KHVTO4NC0T&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Bobo Fish Ball with Fish Roe</h6>
+		<p>Fish ball packed with real fish roe with oozing tasty fish roe on every bite! Easy to prepare, perfect companion for soup dishes.</p></div>
+	</div>
+		<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;">
+		<div class="flex-image" style="display: block;"><img src="https://drive.google.com/uc?id=1B7qwOFkcEnsrmUZCQiDozy-jbSS5DhXY&amp;export=download"></div>
+	<div class="flex-paragraph">
+		<h6 style="text-transform: uppercase; color: black;">Bobo Chicken Cheese Meat Ball</h6>
+		<p>Easy to prepare! Suitable for steaming/frying/air frying. Perfect companion for all kinds of dishes. Hot bursting cheese when bitten! Caution of hot cheese oozing out!</p></div>
+	</div>
+	<!--don't delete these 2 tags. double check how the layout looks on the right too and lemme know if there are any problems! thank u so much for ur hardwork!-->
+	</div>
