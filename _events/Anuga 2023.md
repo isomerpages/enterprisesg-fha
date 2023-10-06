@@ -84,7 +84,7 @@ description: ""
 						<small>Manufacturer of Sesame Oil.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/cheeseng-oil-factory">
+						<a target="_blank" href="/chee-seng/">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -111,7 +111,7 @@ description: ""
 						<small>Specialises in fruit and vegetable crisps snacks.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/cheung-wo-food">
+						<a target="_blank" href="/cheung-wo/">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -165,7 +165,7 @@ description: ""
 						<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/chung-hwa-food">
+						<a target="_blank" href="/chung-hwa/">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -354,7 +354,7 @@ description: ""
 						<small>Manufacturer of canned food and chocolate.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/hock-seng-food">
+						<a target="_blank" href="/hock-seng">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -381,7 +381,7 @@ description: ""
 						<small>Manufacturer of tofu products.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/hua-khiang-food">
+						<a target="_blank" href="/hua-khiang">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -435,7 +435,7 @@ description: ""
 						<small>Manufacturer of food powders (ikan bilis/ mushroom/ scallop/ white bait/ kombu).</small>
 					</p>
 					<p>
-						<a target="_blank" href="/lilo-health-food">
+						<a target="_blank" href="/lilo-health">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -624,7 +624,7 @@ description: ""
 						<small>Manufacturer of sauces and condiments.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/ongs-food-industries">
+						<a target="_blank" href="/ongs-food">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -651,7 +651,7 @@ description: ""
 						<small>Manufacturer of nuts and assorted snack products.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/tong-garden">
+						<a target="_blank" href="/otg-enterprise">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -678,7 +678,7 @@ description: ""
 						<small>Baking ingredients, tools and services.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/phoonhuat">
+						<a target="_blank" href="/phoon-huat">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -732,7 +732,7 @@ description: ""
 						<small>Manufacturer of Kueh Pie Tee (Tee Cups).</small>
 					</p>
 					<p>
-						<a target="_blank" href="/red-lips-foods">
+						<a target="_blank" href="/red-lips">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -840,7 +840,7 @@ description: ""
 						<small>Manufacturer of soy sauce and condiments, trading of commodity.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/tai-hua-food">
+						<a target="_blank" href="/tai-hua">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -921,7 +921,7 @@ description: ""
 						<small>Manufacturer of instant noodles.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/tat-hui-foods">
+						<a target="_blank" href="/tat-hui">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -1029,7 +1029,7 @@ description: ""
 						<small>Manufacturer of delectable corn snacks, wafer rolls, chocolate sweets and variety of delicious biscuit and cookie products.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/win-win-food">
+						<a target="_blank" href="/win-win">
 							<small>Visit their page</small>
 						</a>
 					</p>
@@ -1056,7 +1056,7 @@ description: ""
 						<small>Manufacturer and supplier of Halal You Tiao and Otah.</small>
 					</p>
 					<p>
-						<a target="_blank" href="/you-tiao-man">
+						<a target="_blank" href="/you-tiao">
 							<small>Visit their page</small>
 						</a>
 					</p>
