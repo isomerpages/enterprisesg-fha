@@ -1,10 +1,10 @@
 ---
 title: Cooked Food
-permalink: /singapore-pavilion-exhibitors/cooked-food/
+permalink: /product-categories/cooked-food/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
-
 <p>Meet the Singapore Food Manufacturing companies specialising in Cooked Food.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 

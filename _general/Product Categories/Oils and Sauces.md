@@ -1,10 +1,10 @@
 ---
 title: Oils and Sauces
-permalink: /singapore-pavilion-exhibitors/oils-sauces/
+permalink: /product-categories/oils-sauces/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
-
 <p>Meet the Singapore Food Manufacturing companies specialising in Oils and Sauces.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 

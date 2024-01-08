@@ -1,10 +1,10 @@
 ---
 title: Bakery
-permalink: /singapore-pavilion-exhibitors/bakery/
+permalink: /product-categories/bakery/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
-
 <p>Meet the Singapore Food Manufacturing companies specialising in Bakery products.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 

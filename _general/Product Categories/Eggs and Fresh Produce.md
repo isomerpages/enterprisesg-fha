@@ -1,8 +1,9 @@
 ---
 title: Eggs and Fresh Produce
-permalink: /singapore-pavilion-exhibitors/eggs-fresh-produce/
+permalink: /product-categories/eggs-fresh-produce/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
 <p>Meet the Singapore Food Manufacturing companies specialising in Eggs and Fresh Produce.
 </p> 

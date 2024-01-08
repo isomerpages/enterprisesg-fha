@@ -1,10 +1,10 @@
 ---
 title: Others
-permalink: /singapore-pavilion-exhibitors/others/
+permalink: /product-categories/others/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
-
 <p>Meet the Singapore Food Manufacturing companies with Other product varieties.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 

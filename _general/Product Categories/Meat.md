@@ -1,10 +1,10 @@
 ---
 title: Meat
-permalink: /singapore-pavilion-exhibitors/meat/
+permalink: /product-categories/meat/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
-
 <p>Meet the Singapore Food Manufacturing companies specialising in Meat.
 </p> 
 <div style="display: flex; flex-wrap: wrap; padding: 10px"> 

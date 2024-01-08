@@ -1,8 +1,9 @@
 ---
 title: Rice and Noodles
-permalink: /singapore-pavilion-exhibitors/rice-noodles/
+permalink: /product-categories/rice-noodles/
 description: ""
 third_nav_title: Product Categories
+variant: markdown
 ---
 <p>Meet the Singapore Food Manufacturing companies specialising in Rice and Noodles.
 </p> 
