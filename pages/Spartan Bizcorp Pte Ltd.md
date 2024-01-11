@@ -4,107 +4,69 @@ permalink: /spartan-bizcorp/
 description: ""
 variant: markdown
 ---
-<div class="flex-paragraph"> 
-<p style="text-transform: uppercase">
-</p>
-</div> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ftjXtnK18Gg-4wOfQfGckLzw3m4O6XcT&amp;export=download">
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="https://drive.google.com/u/0/uc?id=1H1w7BgbxlEwIsRG6kX3tw0Jin3zhjY4J&amp;export=download">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Spartan Bizcorp Pte Ltd</b></h4>
+			<p>Trader of branded FMCG products.</p>
+			<p><a target="_blank" href="https://www.spartanbizcorp.com">www.spartanbizcorp.com</a></p>
+		</div>
+	</div>
+</div>
+
 <h4 style="text-transform: uppercase; color: black;">
-<b>SPARTAN BIZCORP PTE LTD
-</b>
-</h4> 
-<p>Wholesaler and exporter of FMCG products, such as beverages, snacks, confectionery, etc.
-</p> 
-<p>
-<a href="https://spartanbizcorp.com/" target="_blank">spartanbizcorp.com
-</a>
-</p> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>General Information
-</b>
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p>
-<b>Product Category: 
-</b>
-<span style="background-color: pink; border-radius: 10 px;">Beverages
-</span>
-</p> 
-<p>
-<b>Certifications: 
-</b> NA
-</p> 
-<p>
-<b>Export Markets: 
-</b>Bangladesh, Brunei, Hong Kong, Iraq, Saudi Arabia, UAE, US
-</p> 
-<p style="margin-bottom: 10px;">
-<b>Looking for: 
-</b>Importers, Food distributors
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;">
-<b>NITIN
-</b>
-<br>DIRECTOR
-<br>+65 69095417
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
+			</p>
+			<p>
+				<b>Export Markets: </b>Bahrain, Brunei, Guinea, Hong Kong, Bangladesh, U.A.E, Usa, Saudi Arabia, Ghana, Iraq, Malaysia, Lebanon
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Importers
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Nitin Khanchandani</b>
+				<br>Director<br>+65 8278 2792<br>
+				<a style="color: white;" href="mailto:nitin@spartanbizcorp.com">nitin@spartanbizcorp.com</a>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
-<a href="mailto:NITIN@SPARTANBIZCORP.COM" style="color: white;">NITIN@SPARTANBIZCORP.COM
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>products
-</b>
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1kjwogh0bh5tC8a1b8c3RawkrHqkjXHTr&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">OVALTINE CHOCOLATE POWDER
-</h6> 
-<p>Ovaltine is a delicious and nutrtious malted chocolate drink that contains calcium and vitamins A, B, D and E.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1E_86kJOG58zlJkNq0uaB78UUi5CrEK1F&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">NESCAFE ORIGINAL COFFEE
-</h6> 
-<p>NESCAFÉ Original - From full-bodied and smoky to rich and creamy, our range has everything for your perfect coffee moment.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1bPhvHytC9jACiAmOt151YC5m1S66328K&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">COFFEEMATE CREAMER
-</h6> 
-<p>The No.1 non-dairy creamer. Richer and creamier now with new improved formula. Comes in 3 variety of packs, an economic pouch pack for more savings, a plastic cannister and a new convenient stick pack
-</p>
-</div> 
-</div> 
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=1vSHW6u4-7-diVbSobCzr3U__zi9JJG1U&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Ovaltine Chocolate 400G</h6>
+			<p>Chocolate Malt Drink</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=1N7mZJDi2LX3fWkRXqbr1MmNjDTecQbOe&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Nescafe Original 200G</h6>
+			<p>Instant Coffee</p>
+		</div>
+	</div>
 </div>
