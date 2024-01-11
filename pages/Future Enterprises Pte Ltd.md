@@ -4,4 +4,72 @@ permalink: /future-enterprises/
 description: ""
 variant: markdown
 ---
-<p></p><p>	</p><p>		</p><p>			</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://drive.google.com/u/0/uc?id=15lUpGQAWwHhAqCYTPvoT4rUs97ELFjP_&amp;export=download"></div><p>		</p><p>		</p><p>			</p><h4><strong>Future Enterprises Pte Ltd</strong></h4><p>			</p><p>POTATO CHIPS specialist manufacture with modern, state-of-the-art technology alongside stringent standard of food safety accreditation system to adhering our company's ideal of striving for excellence.</p><p>			</p><p><a href="https://www.foodempire.com" rel="noopener noreferrer nofollow" target="_blank">www.foodempire.com</a></p><p>		</p><p>	</p><h4>	<strong>General Information</strong></h4><p>	</p><p>		</p><p>			</p><p>				<strong>Product Category: </strong>				Snacks and Confectionery			</p><p>			</p><p>				<strong>Certifications: </strong>Halal Certified, HACCP Certified, FSSC 22000 Certified, GMP Certified, BRC Certified			</p><p>			</p><p>				<strong>Export Markets: </strong>China, Hong Kong, Taiwan, Indonesia, Philippines, Thailand, Australia, New Zealand, Middle East, Africa			</p><p>			</p><p>				<strong>Looking for: </strong>Retailers, Wholesalers, E-commerce, Importers, B2B Partners			</p><p>		</p><p>	</p><p>	</p><p>		</p><h4>CONTACT</h4><p>		</p><p>			</p><p>				<strong>Goo Yok Peng</strong>				<br>Sales &amp; Marketing Manager<br>+60149111206<br>				<a href="mailto:yokpeng@foodexcellence.com.my" rel="noopener noreferrer nofollow" target="_blank">yokpeng@foodexcellence.com.my</a>			</p><p>		</p><p>	</p><p><br></p><h4>	<strong>Products</strong></h4><p>	</p><p>		</p><p>			</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://drive.google.com/u/0/uc?id=1VWnzlVCO7ZqwC4OVTfVuFO_9nDi0Sv1e&amp;export=download"></div><p>		</p><p>		</p><p>			</p><h6>Chizzpa Chips</h6><p>			</p><p>Potato Crisps</p><p>		</p><p>	</p><p>	</p><p>		</p><p>			</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="https://drive.google.com/u/0/uc?id=1vsExWzMEMOWYLyiGjj_JAkmZgnM8hv1h&amp;export=download"></div><p>		</p><p>		</p><p>			</p><h6>Chizzpa Chips</h6><p>			</p><p>Potato Crisps</p><p>		</p><p>	</p>
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="https://drive.google.com/u/0/uc?id=15lUpGQAWwHhAqCYTPvoT4rUs97ELFjP_&amp;export=download">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Future Enterprises Pte Ltd</b></h4>
+			<p>POTATO CHIPS specialist manufacture with modern, state-of-the-art technology alongside stringent standard of food safety accreditation system to adhering our company's ideal of striving for excellence.</p>
+			<p><a target="_blank" href="https://www.foodempire.com">www.foodempire.com</a></p>
+		</div>
+	</div>
+</div>
+
+<h4 style="text-transform: uppercase; color: black;">
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
+			</p>
+			<p>
+				<b>Certifications: </b>Halal Certified, HACCP Certified, FSSC 22000 Certified, GMP Certified, BRC Certified
+			</p>
+			<p>
+				<b>Export Markets: </b>China, Hong Kong, Taiwan, Indonesia, Philippines, Thailand, Australia, New Zealand, Middle East, Africa
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Retailers, Wholesalers, E-commerce, Importers, B2B Partners
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Goo Yok Peng</b>
+				<br>Sales &amp; Marketing Manager<br>+60149111206<br>
+				<a style="color: white;" href="mailto:yokpeng@foodexcellence.com.my">yokpeng@foodexcellence.com.my</a>
+			</p>
+		</div>
+	</div>
+</div>
+<br>
+<h4 style="text-transform: uppercase; color: black;">
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=1VWnzlVCO7ZqwC4OVTfVuFO_9nDi0Sv1e&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
+			<p>Potato Crisps</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=1vsExWzMEMOWYLyiGjj_JAkmZgnM8hv1h&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
+			<p>Potato Crisps</p>
+		</div>
+	</div>
+</div>
