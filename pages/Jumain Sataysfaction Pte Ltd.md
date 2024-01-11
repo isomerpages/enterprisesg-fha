@@ -1,98 +1,77 @@
---- 
-title: Jumain Sataysfaction Pte Ltd 
-permalink: /jumain-sataysfaction/ 
+---
+title: Jumain Sataysfaction Pte Ltd
+permalink: /jumain-sataysfaction/
 description: ""
---- 
-<div class="flex-paragraph"> 
-<p style="text-transform: uppercase">
-</p>
-</div> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/jumain.png">
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
+variant: markdown
+---
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="https://drive.google.com/u/0/uc?id=1aHTBHS-FGbwRVr5EHkaWM8euT2llgn66&amp;export=download">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Jumain Sataysfaction Pte Ltd</b></h4>
+			<p>Jumain Sataysfaction is a renowned name in the world of halal satay and sauces. Our journey began in 1910 when Haji Abdul Rahman introduced satay to the streets of Singapore, and his legacy lives on in our commitment to quality and heritage. Since then, we have expanded our range to include innovative satay products, always keeping our traditional recipes at the core.</p>
+			<p>Our mission is to preserve the Singapore Satay Heritage, offering satay made from only the finest meats, using fresh herbs and spices. We've garnered numerous awards, reflecting our dedication to excellence. With a focus on community and partnerships with leading F&amp;B brands, we are committed to delivering a satay experience that transcends generations.</p>
+			<p>At Jumain Sataysfaction, we believe in ""Savoring Tradition, Inspiring Innovation"". Join us on a journey of culinary discovery and savour the timeless flavours of our heritage.</p>
+			<p><a target="_blank" href="https://jspl.asli.asia">jspl.asli.asia</a></p>
+		</div>
+	</div>
+</div>
+
 <h4 style="text-transform: uppercase; color: black;">
-<b>Jumain Sataysfaction Pte Ltd
-</b>
-</h4> 
-<p>Satay and satay sauce manufacturer
-</p> 
-<p>
-<a href="https://jspl.asli.asia/" target="_blank">www.asli.asia
-</a>
-</p> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>General Information
-</b>
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p>
-<b>Product Category: 
-</b>
-<span style="background-color: pink; border-radius: 10 px;">Meat
-</span>
-</p> 
-<p>
-<b>Certifications: 
-</b>Halal Certified, HACCP Certified, Healthier Choice Certified, ISO 22000 Certified, Tasty Singapore
-</p> 
-<p>
-<b>Export Markets: 
-</b>Australia, Brunei, Hong Kong, Korea, Middle East, Taiwan, Thailand, UAE, Vietnam
-</p> 
-<p style="margin-bottom: 10px;">
-<b>Looking for: 
-</b>Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, Importers, Suppliers in food services
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;">
-<b>Jad Dzuraed
-</b>
-<br>Program Manager
-<br>+65 91148080
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces, Seafood</span>
+			</p>
+			<p>
+				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000:2018 Certified, FSSC Certified, Healthier Choice Certified, Tasty Singapore
+			</p>
+			<p>
+				<b>Export Markets: </b>Hong Kong, Cambodia, Myanmar, UAE, Qatar, Brunei
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Samsiah Suliman</b>
+				<br>Director<br>+65 8161 6611<br>
+				<a style="color: white;" href="mailto:samsiah@asli.asia">samsiah@asli.asia</a>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
-<a href="mailto:jad@asli.asia" style="color: white;">jad@asli.asia
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>products
-</b>
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1cvbLnUSfTEQRE-BM_Hdf7VEqo1sExcAV&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Satay
-</h6> 
-<p>Delicious and authentic halal satay locally manufactured by Singapore’s Leading Satay Manufacturer accompanied by Satay Sauce made with our family recipe that has lasted generations since 1910.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=17Div86_0x2hs2zbKSFhaVWvWAAD3-vbi&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;"> Sauces
-</h6> 
-<p>Delicious and authentic halal Satay Sauce locally manufactured by Singapore’s Leading Satay Manufacturer, using our family recipe that has lasted generations. 
-</p>
-</div> 
-</div> 
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=18gYUCQ4Fc9Xi-HVxlw00o2awVZfwO6yv&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Traditional Satay</h6>
+			<p>Satay marinated using only quality meat, fresh herbs and spices with no preservatives, coloring or MSG. Skewered or non skewered. Serve as appetizer, side dish or main dish. Available in Raw Frozen and Cooked Frozen pack for B2B and B2C.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="https://drive.google.com/u/0/uc?id=1-V8TOYn6n8vEvwpGVUGRGYFI-tg8clHI&amp;export=download">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Traditional Satay Sauce</h6>
+			<p>A harmonised flavour and fragrance of peanut, herbs and spices sauce. Now packed in a quick and ready to eat shelf stable sachet pack. Versatile as a dip or salad dressing. Also available in Cooked Frozen pack for B2B and B2C.</p>
+		</div>
+	</div>
 </div>
