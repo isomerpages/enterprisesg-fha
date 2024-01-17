@@ -7,7 +7,7 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1wyXQsBJjzBbAAevzhQFSHh8tZ1RE7GLh&amp;export=download">
+			<img src="/images/segomo_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Segomo Pte Ltd</b></h4>
@@ -49,25 +49,21 @@ description: ""
 </h4>
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<!-- 
-		<div class="flex-image" style="display: block;">
-			<img src="">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/segomo_product_01.jpg">
 		</div>
-		-->
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Vegetable Oil</h6>
-			<!-- <p></p> -->
+			<p>RBD Palm Olein is a refined, bleached and deodorized liquid palm fraction, naturally rich in Vitamin E suitable for cooking and deep frying.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<!-- 
-		<div class="flex-image" style="display: block;">
-			<img src="">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/segomo_product_02.jpg">
 		</div>
-		-->
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Vegetable Shortening</h6>
-			<!-- <p></p> -->
+			<p>Is a multipurpose palm-based shortening which made of non-hydrogenated vegetable oil. It functions to shorten the dough and tenderize the bakery products.</p>
 		</div>
 	</div>
 </div>
