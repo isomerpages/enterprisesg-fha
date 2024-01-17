@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1w0tR8ew3q2uhFip_47I5SzDJSxSYXN1G&amp;export=download">
+			<img src="/images/tan_seng_kee_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tan Seng Kee Foods Pte Ltd</b></h4>
@@ -57,7 +57,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1Dc7O5itpH1UpNtfK9uUF4kcLdGMiXl_v&amp;export=download">
+			<img src="/images/tan_seng_kee_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series (Microwaveable Noodle Box Char Kway Teow &amp; Express Meal Kit Laksa)</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=13aRbl0ECl9giWCI3fVlmO91UpubjCBTq&amp;export=download">
+			<img src="/images/tan_seng_kee_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Range</h6>
