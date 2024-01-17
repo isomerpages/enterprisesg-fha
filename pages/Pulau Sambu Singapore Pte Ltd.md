@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1KcfjOL0wVMU0y-hfhpvILKV4XbG3AgoD&amp;export=download">
+			<img src="/images/pulau_sambu_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Pulau Sambu Singapore Pte Ltd</b></h4>
@@ -28,7 +28,7 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>FSSC 22000 Certified, Halal Certified, Kosher Certified
+				<b>Certifications: </b>FSSC 22000 Certified, Halal Certified, Kosher Certified"
 			</p>
 			<p>
 				<b>Export Markets: </b>Australia, New Zealand, China, Japan, South Korea, Philippines, Malaysia, Brunei, Myanmar, Nepal, India, Hong kong, Taiwan, UAE, Oman, Bahrain, Israel, Cyprus, Turkey, Russia, Ukraine, Belarus, Finland, Estonia, Sweden, Norway, Denmark, Poland, Hungary, Switzerland, Netherland, Belgium, France, Luxembourg, Spain, United Kingdom, Nigeria, Uganda, Kenya, Tanzania, South Africa, Madagascar, Maldives, Seychelles, Guyana, Suriname, Colombia, Trinidad &amp; Tobago, United States, Canada
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1ZPxaKifFmQkj-9ycnDU96LGtUCEoXde4&amp;export=download">
+			<img src="/images/pulau_sambu_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kara Coco Coconut Water</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1YVRkQyf8lcH4mS4W3FZGJF-GYSZUUkY5&amp;export=download">
+			<img src="/images/pulau_sambu_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kara Coco Coconut Milk Drink</h6>
