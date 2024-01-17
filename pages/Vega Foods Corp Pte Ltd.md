@@ -7,11 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1LchV90EBUTeLx7k1IaHGz7RIBOmezdzq&amp;export=download">
+			<img src="/images/vega_foods_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Vega Foods Corp Pte Ltd</b></h4>
-			<p>Trading of dairy products, pasta, edible oil, paste, canned meat, margarine, canned fish, snacks, carbonated soft drinks, seasoning, sauces and dressing.</p>
+			<p>Vega Foods is a Singapore based company offers six brands, VEGA, PAVANI, OKAKI, AFRIKING, QUICK CHEF and SUPERSAVERS, that comprise over 35 pre-packed food and beverage products in more than 45 countries in Africa, Middle East &amp; Southeast Asia. Main product categories include Canned Vegetables/ Fish &amp; Meat, Rice, Pasta, Edible Oils &amp; Fats, Dairy Products, Confectioneries &amp; Snacks, Tomato Paste and Instant Foods.</p>
 			<p><a target="_blank" href="https://www.vegafoods.com">www.vegafoods.com</a></p>
 		</div>
 	</div>
@@ -58,7 +58,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1raw-jOwKQWlPhwhEU3ZeuhCJDYOo82na&amp;export=download">
+			<img src="/images/vega_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Vega Crunchy Popcorn</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1adfErRxrOLblP3aQVNUa7eqjvBvqqAY6&amp;export=download">
+			<img src="/images/vega_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Vega Corn Stick</h6>
