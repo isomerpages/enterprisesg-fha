@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1mQ1ld4iaGiIX7Q6oKR718j24VPJQ6DDg&amp;export=download">
+			<img src="/images/kin_yan_agrotech_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kin Yan Agrotech Pte Ltd</b></h4>
@@ -53,7 +53,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=12B-73N7FpGIMyVt_wNVreeCoR4jlR1iu&amp;export=download">
+			<img src="/images/kin_yan_agrotech_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">22 Complete Nutrimix (Chia Seed)</h6>
@@ -62,7 +62,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1k_rHKJLDGv1DIkvL8ZvjsmZ1vh33DL7N&amp;export=download">
+			<img src="/images/kin_yan_agrotech_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">22+ Complete Nutrimix (Organic Avocado)</h6>
