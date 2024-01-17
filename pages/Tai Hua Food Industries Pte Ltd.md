@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1w6X1lWdYzTdvs3FdGbh3zvugIaR7ppMU&amp;export=download">
+			<img src="/images/tai_hua_food_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tai Hua Food Industries Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1GBRF5BI0saZYvViJBPwxLaMxIJ7jG2f-&amp;export=download">
+			<img src="/images/tai_hua_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Tai Hua Dark Soy Sauce</h6>
@@ -65,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1mamyjnpb-RPWDz2eqJbhN-jdLjUB9hGV&amp;export=download">
+			<img src="/images/tai_hua_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Tai Hua Light Soy Sauce Reduced Salt</h6>
