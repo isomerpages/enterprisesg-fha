@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1H1w7BgbxlEwIsRG6kX3tw0Jin3zhjY4J&amp;export=download">
+			<img src="/images/spartan_bizcorp_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Spartan Bizcorp Pte Ltd</b></h4>
@@ -53,7 +53,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1vSHW6u4-7-diVbSobCzr3U__zi9JJG1U&amp;export=download">
+			<img src="/images/spartan_bizcorp_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Ovaltine Chocolate 400G</h6>
@@ -62,7 +62,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1N7mZJDi2LX3fWkRXqbr1MmNjDTecQbOe&amp;export=download">
+			<img src="/images/spartan_bizcorp_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nescafe Original 200G</h6>
