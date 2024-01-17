@@ -4,7 +4,6 @@ permalink: /ken-hong-seng/
 description: ""
 variant: markdown
 ---
-
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
