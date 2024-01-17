@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1jnIQJAsmna4IhQ4OajmiJts_ZFnoMFzi&amp;export=download">
+			<img src="/images/tiger_foods_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tiger Foods Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1t4qUDrJsx3NEfOF7uUiX8rpxv7NsoXKk&amp;export=download">
+			<img src="/images/tiger_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">The Tea Story Teas</h6>
@@ -65,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1bxE1Aqwq8947FpfnT1Dgr9t9fuMn1p0L&amp;export=download">
+			<img src="/images/tiger_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">The Tea Story Superfoods</h6>
