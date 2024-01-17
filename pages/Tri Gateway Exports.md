@@ -7,11 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1QRr66sfAJ-FaN6ZBY3kZDIPZ9OjEI2D6&amp;export=download">
+			<img src="/images/tri_gateway_exports_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tri Gateway Exports</b></h4>
-			<p>Supplier of snacks and powdered beverages (coffee, tea, cocoa).</p>
+			<p>Established in 1997, Tri Gateway Exports, family-owned business based in Singapore started as a trading company exporting various products globally. In 2005, we diversified introducing our own brand of products - Perfect Choice. Perfect Choice manufactures food and beverage items including potato chips, biscuits, cookies as well as dairy products.</p>
 			<p><a target="_blank" href="https://www.perfectchoice.com.sg">www.perfectchoice.com.sg</a></p>
 		</div>
 	</div>
@@ -58,7 +58,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1GbgmaVdz_eMG1pd-VFsJGhBvxVCF8cyz&amp;export=download">
+			<img src="/images/tri_gateway_exports_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Potato Chips</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1ZdqKtLBAdIgVJ7_7_X-mCM3f0iUdWnlB&amp;export=download">
+			<img src="/images/tri_gateway_exports_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cheese Flavoured Snack (New Product)</h6>
