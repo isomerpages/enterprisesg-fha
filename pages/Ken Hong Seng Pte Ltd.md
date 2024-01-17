@@ -4,10 +4,11 @@ permalink: /ken-hong-seng/
 description: ""
 variant: markdown
 ---
+
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1N4hGOdd67hLrt9GuJTa_y-O1tOdfhd4V&amp;export=download">
+			<img src="/images/ken_hong_seng_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ken Hong Seng Pte Ltd</b></h4>
@@ -56,7 +57,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1qlFfByMVue1ntWQTttPjCOt5YGqAc29O&amp;export=download">
+			<img src="/images/ken_hong_seng_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Three Eagles Brand Tamarind &amp; Three Tuk Tuk Tamarind</h6>
@@ -65,7 +66,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1FOP3qFrJUYhqHd-ijMlNT5gBONGR2Wct&amp;export=download">
+			<img src="/images/ken_hong_seng_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">RoRa Lime Flavoured Juice</h6>
