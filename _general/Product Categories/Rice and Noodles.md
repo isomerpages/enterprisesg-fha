@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Product Categories
 variant: markdown
 ---
+<p>Meet the SingaporeFood Manufacturing companies specialising in Rice and Noodles.</p>
+
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -94,7 +96,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=17NFANBacocUdUievXOyRhgPwXnPQeTmp&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/goldkili_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -157,7 +159,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1DFD7mwTH8wm31O8Q9nu179ffBbAfQ88J&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hua_khiang_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -178,7 +180,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1C-Wm5_Ux3B8gfgl_0i07VMmYgqp6muXb&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leong_guan_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -262,7 +264,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=11FITasVL_wSwvbnNG-OhODszy_-8Cl_m&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ngo_chew_hong_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -388,7 +390,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1Gl5rIzzqOhvnWztQQRs_tPe13sEMgql4&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tai_thong_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -409,7 +411,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1w0tR8ew3q2uhFip_47I5SzDJSxSYXN1G&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tan_seng_kee_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -430,7 +432,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1MyiNq3SjxA9xp1lNP7ooqqwm5M7N9CWV&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tat_hui_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
