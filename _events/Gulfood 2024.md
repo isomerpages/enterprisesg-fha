@@ -760,7 +760,7 @@ description: ""
 			<small>Manufacturer of instant noodles.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tat-hui-foods">
+			<a target="_blank" href="/tat-hui">
 				<small>Visit their page</small>
 			</a>
 		</p>
