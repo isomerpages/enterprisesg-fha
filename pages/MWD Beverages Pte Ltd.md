@@ -4,11 +4,10 @@ permalink: /mwd-beverages/
 description: ""
 variant: markdown
 ---
-
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=14WrsKEoxlt-BSdXdt979CnXvh7DivCkM&amp;export=download">
+			<img src="/images/mwd_beverages_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>MWD Beverages Pte Ltd</b></h4>
@@ -57,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=11CbEYnC5worSRXXc7fPpvVnhZxfdUhLl&amp;export=download">
+			<img src="/images/mwd_beverages_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Walker's Vitamin C</h6>
@@ -66,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1_iq986CEmdENbLY-uL0oRW5W9lvoCptA&amp;export=download">
+			<img src="/images/mwd_beverages_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Walker's Vita-Boost</h6>
