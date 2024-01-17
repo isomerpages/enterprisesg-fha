@@ -4,11 +4,10 @@ permalink: /ngo-chew-hong/
 description: ""
 variant: markdown
 ---
-
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=11FITasVL_wSwvbnNG-OhODszy_-8Cl_m&amp;export=download">
+			<img src="/images/ngo_chew_hong_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ngo Chew Hong Edible Oil Pte Ltd</b></h4>
@@ -57,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1DgsstZ2qRhd2-4_XKG6kHcsor-zvh1zV&amp;export=download">
+			<img src="/images/ngo_chew_hong_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Vegetable Cooking Oil</h6>
@@ -66,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1DPsuMCi7zVNrdLHtfhtgTRV3YMQH5wGn&amp;export=download">
+			<img src="/images/ngo_chew_hong_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Bakery, Confectionery &amp; Other Specialty Fats</h6>
