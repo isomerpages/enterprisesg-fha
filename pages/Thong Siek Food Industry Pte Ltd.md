@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1sreF7qQE3J9qHnGXZwM4tXbRHcy4Sfnj&amp;export=download">
+			<img src="/images/thongsiek_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Thong Siek Food Industry Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1DFHtZZMm8zSdjKM0_n2Ga2M49lgpa9WQ&amp;export=download">
+			<img src="/images/thongsiek_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Disney DoDo Kiddos Fish Nugget</h6>
@@ -65,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1FGRpz9_7_68A6XBiswK4zU5Qzo3OrDk_&amp;export=download">
+			<img src="/images/thongsiek_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">DoDo Chicken Cheese Meatball</h6>
