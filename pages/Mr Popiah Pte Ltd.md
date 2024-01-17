@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="https://drive.google.com/u/0/uc?id=1qYx3rwSC1JQq3JGKtCtvmmmzhd3kcR5Q&amp;export=download">
+			<img src="/images/mr_popiah_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Mr Popiah Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=15izZ-7U6E460hZXDtS6xB2Opqcvm7YeY&amp;export=download">
+			<img src="/images/mr_popiah_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Mr Popiah Ready to Eat Wraps</h6>
@@ -65,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="https://drive.google.com/u/0/uc?id=1Y9nw5T6-vdw7I3mTLlAd1qFEW4SxK0MI&amp;export=download">
+			<img src="/images/mr_popiah_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Mr Popiah Tortilla / Peking Duck Pastry</h6>
