@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Product Categories
 variant: markdown
 ---
-	<p>Meet the Singapore Food Manufacturing companies specialising in Meat.</p>
+<p>Meet the Singapore Food Manufacturing companies specialising in Meat.</p>
 
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 
@@ -138,7 +138,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -149,7 +149,7 @@ variant: markdown
 			<small>Manufacturer of canned food and chocolate.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hock-seng-food">
+			<a target="_blank" href="/hock-seng">
 				<small>Visit their page</small>
 			</a>
 		</p>
