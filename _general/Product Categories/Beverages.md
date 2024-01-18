@@ -600,7 +600,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ptp_exports_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/point_to_point_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -611,7 +611,7 @@ variant: markdown
 			<small>Wholesale trading of a variety of food and beverage products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ptp-exports">
+			<a target="_blank" href="/point-to-point">
 				<small>Visit their page</small>
 			</a>
 		</p>
