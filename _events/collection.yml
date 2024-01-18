@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Gulfood 2024.md
       - Anuga 2023.md
