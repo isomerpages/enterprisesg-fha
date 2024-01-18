@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/goldkili_logo.png">
+			<img src="/images/gold_kili_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Gold Kili Trading Enterprise (Singapore) Pte Ltd</b></h4>
@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/goldkili_product_01.png">
+			<img src="/images/gold_kili_product_01.png">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">"Oat-k" Dairy-free &amp; Plant-based Oat Beverages Series</h6>
@@ -72,7 +72,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/goldkili_product_02.png">
+			<img src="/images/gold_kili_product_02.png">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gold Kili Instant Ginger Turmeric Drink</h6>
