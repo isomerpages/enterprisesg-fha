@@ -88,7 +88,7 @@ description: ""
 			<small>Manufacturer of instant coffee and tea.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/goldkili">
+			<a target="_blank" href="/gold-kili">
 				<small>Visit their page</small>
 			</a>
 		</p>
