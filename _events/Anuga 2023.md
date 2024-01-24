@@ -722,7 +722,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1FN8KCUFI4uUJWEBJ6LpAktDT6_YL8297&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/point_to_point_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -750,7 +750,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1ObktMMsTeObXUJEdmd7sndGKCcpkiGfE&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/red_lips_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -761,7 +761,7 @@ variant: markdown
 			<small>Manufacturer of Kueh Pie Tee (Tee Cups).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/red-lips-foods">
+			<a target="_blank" href="/red-lips">
 				<small>Visit their page</small>
 			</a>
 		</p>
