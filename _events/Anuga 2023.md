@@ -666,7 +666,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1eReM4Og11QfYJy4fHvlZwsqjEWbt2nBk&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/otg_enterprise_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -677,7 +677,7 @@ variant: markdown
 			<small>Manufacturer of nuts and assorted snack products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tong-garden">
+			<a target="_blank" href="/otg-enterprise">
 				<small>Visit their page</small>
 			</a>
 		</p>
