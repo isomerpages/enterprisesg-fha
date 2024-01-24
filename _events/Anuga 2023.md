@@ -526,7 +526,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1qYx3rwSC1JQq3JGKtCtvmmmzhd3kcR5Q&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mr_popiah_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -554,7 +554,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=14WrsKEoxlt-BSdXdt979CnXvh7DivCkM&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mwd_beverages_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -582,7 +582,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1WNYl7oN6tD7XpncE12HklI2mMYBtSKYK&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ngo_chew_hong_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -610,7 +610,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1FhrFQGpq8O51kJGgC-58dH6-r1qtielw&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/oh_chin_hing_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -638,7 +638,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1hmHsra-ZBKZuPl-5FwksoeqQ_R5ZDNW-&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ongs_food_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -649,7 +649,7 @@ variant: markdown
 			<small>Manufacturer of sauces and condiments.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ongs-food-industries">
+			<a target="_blank" href="/ongs-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
