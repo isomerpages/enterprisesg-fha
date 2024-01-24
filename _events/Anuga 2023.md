@@ -329,7 +329,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=17Qz9y20b8dXXAK4e9_CEp6POg-l2LDPL&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ha_li_fa_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -357,7 +357,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1p_-Ho-ni4CtkHIOoahj5FGM8RTmFqssW&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -385,7 +385,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1DFD7mwTH8wm31O8Q9nu179ffBbAfQ88J&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hua_khiang_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -413,7 +413,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1C-Wm5_Ux3B8gfgl_0i07VMmYgqp6muXb&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leong_guan_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -441,7 +441,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1s8HY_I_fDwNhTIZxq_iwY6pQwiN8yeTp&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/lilo_health_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -452,7 +452,7 @@ variant: markdown
 			<small>Manufacturer of food powders (ikan bilis/ mushroom/ scallop/ white bait/ kombu).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/lilo-health-food">
+			<a target="_blank" href="/lilo-health">
 				<small>Visit their page</small>
 			</a>
 		</p>
