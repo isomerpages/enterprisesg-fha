@@ -1,13 +1,13 @@
 ---
 title: Gulfood 2024
-permalink: /events/gulfood2023/
+permalink: /events/gulfood2024/
 variant: markdown
 description: ""
 ---
 <p>Singapore Food Manufacturers’ Association and Enterprise Singapore are proud to lead 31 Singapore companies to exhibit under the Singapore pavilion at Gulfood 2024, one of the world's premier food and beverage trade exhibitions.</p>
 <p>Within the Singapore Pavilion, visitors can explore a captivating range of products that seamlessly fuse tradition with innovation, including sauces, ready-to-eat/ready-to-cook options, delectable snacks, beverages and many more.</p>
 <p>Join us at the Singapore Pavilion, where our companies look forward to forging collaborations, establishing distribution channels, and building valuable partnerships in the global food industry.</p>
-<!-- <p>Download the Singapore Pavillion Map <a href="https://drive.google.com/file/d/1EF0GuhKd2rhIrOfzKgOMLWmj6tJ2P7oP/view?usp=sharing" target="_blank">here</a>.</p> -->
+<p>Download the Singapore Pavillion Map <a target="_blank" href="https://drive.google.com/file/d/1ayXbytQLM3cqrbObqa_8wR0WT3y-Esz6/view?usp=sharing">here</a>.</p>
 
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 
