@@ -59,7 +59,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/gold_kili_product_01.png">
+			<img src="/images/gold_kili_product_02.png">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">"Oat-k" Dairy-free &amp; Plant-based Oat Beverages Series</h6>
@@ -72,7 +72,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/gold_kili_product_02.png">
+			<img src="/images/gold_kili_product_01.png">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gold Kili Instant Ginger Turmeric Drink</h6>
