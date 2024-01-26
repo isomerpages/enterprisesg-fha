@@ -862,7 +862,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1w6X1lWdYzTdvs3FdGbh3zvugIaR7ppMU&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tai_hua_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -890,7 +890,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1w0tR8ew3q2uhFip_47I5SzDJSxSYXN1G&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tan_seng_kee_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -918,7 +918,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=19b3V5CjDc_5EUCYrbKlHIBUHxviDEpjY&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tan_soon_mui_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -946,7 +946,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1L5FaSsjFZKTUv4wZ4tNkwC_Ob9Q8kX6Z&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tat_hui_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -957,7 +957,7 @@ variant: markdown
 			<small>Manufacturer of instant noodles.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tat-hui-foods">
+			<a target="_blank" href="/tat-hui">
 				<small>Visit their page</small>
 			</a>
 		</p>
