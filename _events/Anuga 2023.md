@@ -396,7 +396,7 @@ variant: markdown
 			<small>Manufacturer of tofu products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hua-khiang-food">
+			<a target="_blank" href="/hua-khiang">
 				<small>Visit their page</small>
 			</a>
 		</p>
