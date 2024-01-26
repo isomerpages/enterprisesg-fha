@@ -368,7 +368,7 @@ variant: markdown
 			<small>Manufacturer of canned food and chocolate.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hock-seng-food">
+			<a target="_blank" href="/hock-seng">
 				<small>Visit their page</small>
 			</a>
 		</p>
