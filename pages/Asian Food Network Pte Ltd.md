@@ -1,17 +1,18 @@
---- 
-title: Asian Food Network Pte Ltd 
-permalink: /exhibitors/asian-food-network/ 
+---
+title: Asian Food Network Pte Ltd
+permalink: /asian-food-network/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1w3GmKldKHWoGVBdwcmbsqg9YJe2vd46A&export=download">
+<img src="https://drive.google.com/u/0/uc?id=1w3GmKldKHWoGVBdwcmbsqg9YJe2vd46A&amp;export=download">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -26,9 +27,9 @@ description: ""
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Beverages, Others
+<span style="background-color: pink; border-radius: 10 px;">Beverages, Others
 </span>
 </p> 
 <p>
@@ -80,7 +81,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1y9RLpRxbC7hS0Bdf1eFX_NpxBNlXQpTV&export=download">
+<img src="https://drive.google.com/u/0/uc?id=1y9RLpRxbC7hS0Bdf1eFX_NpxBNlXQpTV&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Bare Coco Dark Chocolate Coconut Milk
@@ -91,7 +92,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1w4N0elWtG5RQSgDI1QqJU64J3bx_JIK8&export=download">
+<img src="https://drive.google.com/u/0/uc?id=1w4N0elWtG5RQSgDI1QqJU64J3bx_JIK8&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Bare Coco Coffee Coconut Milk
@@ -102,14 +103,13 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=15xzECN3LHTrMSI5PFqZGADt6NC-1Jk03&export=download">
+<img src="https://drive.google.com/u/0/uc?id=15xzECN3LHTrMSI5PFqZGADt6NC-1Jk03&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Bare Coco Pandan Coconut Water
 </h6> 
-<p>Ready for a legendary Mashup? What happens when you mix coconut water with an amazing Southeast-Asian flavour? You get one outrageously delicious & refreshing drink! Keep yourself hydrated with our pandan infused coconut water! Hand-picked in Bentre, the coconut capital of Vietnam, experience #pandanXcoco today!
+<p>Ready for a legendary Mashup? What happens when you mix coconut water with an amazing Southeast-Asian flavour? You get one outrageously delicious &amp; refreshing drink! Keep yourself hydrated with our pandan infused coconut water! Hand-picked in Bentre, the coconut capital of Vietnam, experience #pandanXcoco today!
 </p>
 </div> 
 </div> 
-</div> 
-</body>
+</div>

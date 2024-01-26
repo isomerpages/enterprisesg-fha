@@ -12,7 +12,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1nxuSNYy7RIagfwu5e7FjvvXfN05qKB-a&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/bhavani_stores_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -33,7 +33,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1973sh8e-MdcELtajlvDB5BpEDu92S0AR&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/cheung_wo_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -44,7 +44,7 @@ variant: markdown
 			<small>Specialises in fruit and vegetable crisps snacks.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cheung-wo-food">
+			<a target="_blank" href="/cheung-wo">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -96,7 +96,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1hl5nkkP0_-1IC7x_kL2CUNjuTuiFb4d-&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/dieumot_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -117,7 +117,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1Ly48Az9R0O4gjusNJg-RmSiIjMUVWwKk&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/eatnuf_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -537,7 +537,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1ObktMMsTeObXUJEdmd7sndGKCcpkiGfE&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/red_lips_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -548,7 +548,7 @@ variant: markdown
 			<small>Manufacturer of Kueh Pie Tee (Tee Cups).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/red-lips-foods">
+			<a target="_blank" href="/red-lips">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -600,7 +600,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1A24ox4uMmxwtwkHL9rtO3ZGBZ2pdKbLJ&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/sin_mui_heng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -747,7 +747,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1Bw7xatvOotuoPoE_zGPI5akRcz7eARIU&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/treasure_orbit_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -831,7 +831,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1X2jYOxOhMOphxN5ofcRw8R-u-sroupow&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/win_win_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -842,7 +842,7 @@ variant: markdown
 			<small>Manufacturer of delectable corn snacks, wafer rolls, chocolate sweets and variety of delicious biscuit and cookie products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/win-win-food">
+			<a target="_blank" href="/win-win">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -852,7 +852,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1vUNpnwkMMfmvmbWrsynw74UKSRWrpzmI&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/you_tiao_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -863,7 +863,7 @@ variant: markdown
 			<small>Manufacturer and supplier of Halal You Tiao and Otah.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/you-tiao-man">
+			<a target="_blank" href="/you-tiao">
 				<small>Visit their page</small>
 			</a>
 		</p>

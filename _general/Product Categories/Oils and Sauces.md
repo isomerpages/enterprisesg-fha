@@ -96,7 +96,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1aaW6ohX69gaNfSE6DnIn0okitWpMgTzd&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/chee_seng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -107,7 +107,7 @@ variant: markdown
 			<small>Manufacturer of Sesame Oil.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cheeseng-oil-factory">
+			<a target="_blank" href="/chee-seng">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -180,7 +180,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1VHyKbU35nlwYZA1BEkb-DIlami6WvJBB&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/chung_hwa_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -191,7 +191,7 @@ variant: markdown
 			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chung-hwa-food">
+			<a target="_blank" href="/chung-hwa">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -222,7 +222,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1hl5nkkP0_-1IC7x_kL2CUNjuTuiFb4d-&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/dieumot_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -264,7 +264,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1nV8VQ8TutTKit33NEkdCwGtNYY8ZyebY&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/eatnuf_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -537,7 +537,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1hmHsra-ZBKZuPl-5FwksoeqQ_R5ZDNW-&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ongs_food_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -548,7 +548,7 @@ variant: markdown
 			<small>Manufacturer of sauces and condiments.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ongs-food-industries">
+			<a target="_blank" href="/ongs-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -726,7 +726,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tMN0uwQi-aO027Siq2m3VJkptmW4qJU9&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/suvai_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -810,7 +810,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1cEYxIlZPv9If3Wrak4PaIPqfO39BUegp&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/vega_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
