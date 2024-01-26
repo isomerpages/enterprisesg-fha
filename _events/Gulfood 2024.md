@@ -407,7 +407,7 @@ description: ""
 	<div class="sgds-card-booth">
 		<p style="text-transform: uppercase;">
 			<small>
-				<strong>Booth No: R-18</strong>
+				<strong>Booth No: R-I8</strong>
 			</small>
 		</p>
 	</div>
