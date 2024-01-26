@@ -26,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, Halal Certified, Healthier Choice Certified
