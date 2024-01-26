@@ -35,7 +35,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1INuu-UNqTDnn4jwK9iDddAZcOMfZUkw4&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/alpha_colloids_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -245,7 +245,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1s8HY_I_fDwNhTIZxq_iwY6pQwiN8yeTp&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/lilo_health_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -256,7 +256,7 @@ variant: markdown
 			<small>Manufacturer of food powders (ikan bilis/ mushroom/ scallop/ white bait/ kombu).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/lilo-health-food">
+			<a target="_blank" href="/lilo-health">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -392,7 +392,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1zeU8as2GNMNjs-iAjh5Xn19_SX9a9ZGz&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/seasons_overseas_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -413,7 +413,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tMN0uwQi-aO027Siq2m3VJkptmW4qJU9&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/suvai_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
