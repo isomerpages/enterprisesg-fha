@@ -1058,7 +1058,7 @@ variant: markdown
 	</div>
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1X2jYOxOhMOphxN5ofcRw8R-u-sroupow&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/win_win_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1069,7 +1069,7 @@ variant: markdown
 			<small>Manufacturer of delectable corn snacks, wafer rolls, chocolate sweets and variety of delicious biscuit and cookie products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/win-win-food">
+			<a target="_blank" href="/win-win">
 				<small>Visit their page</small>
 			</a>
 		</p>
