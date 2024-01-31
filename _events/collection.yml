@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - FHA 2024.md
       - Gulfood 2024.md
       - Anuga 2023.md
