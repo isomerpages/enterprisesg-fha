@@ -4,129 +4,69 @@ permalink: /cita-rasa-hlh/
 description: ""
 variant: markdown
 ---
-<div class="flex-paragraph"> 
-<p style="text-transform: uppercase">
-</p>
-</div> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=14zpVQvDDuFun4ftAZOLJxoq2gFgqIuXG&amp;export=download">
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Cita Rasa HLH Pte Ltd</b></h4>
+			<p>Cita Rasa, a distinguished subsidiary of the renowned Hock Lian Huat established in 1928, stands as a prominent purveyor of traditional Chinese snack foods. Specializing in the production of Ngoh Hiang, Prawn Crackers, meat, and seafood rolls, Hock Lian Huat has garnered a stellar reputation for delivering delectable and authentic culinary experiences. As a Halal Certified brand, Cita Rasa takes pride in introducing these esteemed Chinese delicacies to a broader audience, particularly catering to the discerning preferences of Muslim consumers.</p>
+			<p><a target="_blank" href="https://www.citarasa.sg">www.citarasa.sg</a></p>
+		</div>
+	</div>
+</div>
+
 <h4 style="text-transform: uppercase; color: black;">
-<b>Cita Rasa Hlh Pte Ltd
-</b>
-</h4> 
-<p>Manufacturer of Ngoh Hiang And Traditional Chinese Snacks
-</p> 
-<p>
-<a href="https://citarasa.sg/" target="_blank">citarasa.sg
-</a>
-</p> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>General Information
-</b>
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p>
-<b>Product Category: 
-</b>
-<span style="background-color: pink; border-radius: 10 px;">Cooked Food
-</span>
-</p> 
-<p>
-<b>Certifications: 
-</b> Halal Certified
-</p> 
-<p>
-<b>Export Markets: 
-</b>Malaysia
-</p> 
-<p style="margin-bottom: 10px;">
-<b>Looking for: 
-</b>Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Importers, Suppliers in food services
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;">
-<b>Yeap Jing Wen
-</b>
-<br>R&amp;D Assistant Manager
-<br>+65 6493 7284
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Meat, Seafood, Snacks and Confectionery</span>
+			</p>
+			<p>
+				<b>Certifications: </b>Halal Certified, ISO 220000 Certified
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Daniel Tan</b>
+				<br>Business Development Manager<br>+65 9820 7841<br>
+				<a style="color: white;" href="mailto:danieltan@hlhfoods.com">danieltan@hlhfoods.com</a>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
-<a href="mailto:enquiry.citarasa@gmail.com" style="color: white;">enquiry.citarasa@gmail.com
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>products
-</b>
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Ppv-VGtl4SyRISfO4vWnjfRNZktddf1B&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Crispy Prawn Crackers
-</h6> 
-<p>This Signature Crispy Prawn Cracker is crispy and crunchy. The irresistible light and airy texture will leave you craving for more. This versatile crackers are not only perfect to complete a Ngoh Hiang platter, but they also go great with other local dishes like Rojak, adding extra flavour and crunch. Halal Certified
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1lN4cW0jp6J1CrPQUAjYXqhASy28clpUy&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;"> Fried Bee Hoon
-</h6> 
-<p>This fragrant and flavourful Fried Bee Hoon is perfect for sharing, celebrations or other occasions. Its fuss free preparation and irresistible taste will leave you wanting more. Whether alone or with side dishes, Fried Bee Hoon will satisfy your taste buds. Halal Certified
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=143GNhMVXZaz_oVOLbcOQzk1J5plEnsk4&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Yam Roll
-</h6> 
-<p>Savour the perfect combination of yam, sweet potato and vegetables that is both sweet and savoury. Yam Roll is a meatless snack that is suitable for vegetable lovers. It is a perfect finger food that can be enjoyed by many. Halal Certified
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1J6lPNMM2PgBwyjYstHjJdh316qhL1RKo&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Chicken Ngoh Hiang
-</h6> 
-<p>Made with chicken meat wrapped in salted bean curd skin. Chicken Ngoh Hiang has a wonderful combination of flavours and textures that will excite your taste buds. It is seasoned with Traditional Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health. It is a great choice as an appetizer or as a side dish. Halal Certified
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1_Z6YR5YMIVVlifT1-AWqzvvybcjXv-e5&amp;export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Golden Prawn Pancake
-</h6> Inspired by famous Taiwanese Prawn Pancake, this dish is a must-try. The sweetness from the prawn and the crispy exterior of the bean curd skin make it a great addition to your meal or as an appetizer. Halal Certified
-<p>
-</p>
-</div> 
-</div> 
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_01.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Crispy Prawn Cracker</h6>
+			<p>A hawker favourite, Crispy Prawn Crackers are made with fresh prawns and delectable spices, before being deep fried. Best enjoyed right after deep fried, perfectly paired with our Flavoury Spice Sauce. *Also try our prawn crackers in ready-to-eat version - Spicy Nori Prawn Cracker Snack (no frying required).</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Chicken Ngoh Hiang Roll</h6>
+			<p>Made from chicken meat wrapped in salted beancurd skin. This sausage-like roll has a wonderful combination of flavours and texture that excite your taste buds. It is a great choice as an appetizer. It is seasoned with Chinese Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health.</p>
+		</div>
+	</div>
 </div>
