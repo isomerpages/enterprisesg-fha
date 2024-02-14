@@ -7,13 +7,13 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/red_lips_logo.jpg">
+			<img src="/images/Red%20Lips/red_lips_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Red Lips Foods Pte Ltd</b></h4>
 			<p>For over 20 years, Red Lips Foods has been Singapore's leading manufacturer of traditional Peranakan Kueh Pie Tee cups.</p>
 			<p>We believe in choosing only the best ingredients and blending tradition with technology and innovation.</p>
-			<p>Our slogan of ""Building Trust Through Quality"" underlies our dedication to serving up delicacies of impeccable quality.</p>
+			<p>Our slogan of "Building Trust Through Quality" underlies our dedication to serving up delicacies of impeccable quality.</p>
 			<p><a target="_blank" href="https://www.redlipsfoods.com">www.redlipsfoods.com</a></p>
 		</div>
 	</div>
@@ -33,10 +33,10 @@ variant: markdown
 				<b>Certifications: </b>Halal Certified, ISO22000:2018 Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Brunei, Hong Kong, Malaysia, Taiwan, UAE
+				<b>Export Markets: </b>Australia, Hong Kong, Macau, Malaysia, Taiwan, Dubai, United Kingdom
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -58,7 +58,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/red_lips_product_01.jpg">
+			<img src="/images/Red%20Lips/red_lips_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kueh Pie Tee Cups</h6>
@@ -68,10 +68,10 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/red_lips_product_02.jpg">
+			<img src="/images/Red%20Lips/red_lips_product_02.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Gourmet Shells by Red Lips Foods</h6>
+			<h6 style="text-transform: uppercase; color: black;">Gourmet Shells</h6>
 			<p>Gourmet Shells (by Red Lips Foods) are beautifully formed to help you create the perfect canape.</p>
 			<p>Heart, Diamond and Star Shells are elegantly inspired by geometric patterns and when paired with any sweet, savoury or tangy filling, embody the spirit of elevated creativity.</p>
 			<p>Inspired by floral shaps and available in regular and mini sizes, the 5-petal Sakura and 8-petal Rosette Shells are delicately crafted to accentuate flavours of any cuisine.</p>
