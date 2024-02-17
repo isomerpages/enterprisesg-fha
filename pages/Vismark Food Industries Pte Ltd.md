@@ -60,7 +60,7 @@ variant: markdown
 <b>Steve Tan
 </b>
 <br>Director
-<br>+65 94776677
+<br>+65 6552 2161
 <br>
 <a href="mailto:steve.tan@vismark.com.sg" style="color: white;">steve.tan@vismark.com.sg
 </a>
