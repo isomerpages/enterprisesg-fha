@@ -4,7 +4,7 @@ permalink: /events/gulfood2024/
 variant: markdown
 description: ""
 ---
-<p>Singapore Food Manufacturers’ Association and Enterprise Singapore are proud to lead 31 Singapore companies to exhibit under the Singapore pavilion at Gulfood 2024, one of the world's premier food and beverage trade exhibitions.</p>
+<p>Singapore Food Manufacturers’ Association and Enterprise Singapore are proud to lead 32 Singapore companies to exhibit under the Singapore pavilion at Gulfood 2024, one of the world's premier food and beverage trade exhibitions.</p>
 <p>Within the Singapore Pavilion, visitors can explore a captivating range of products that seamlessly fuse tradition with innovation, including sauces, ready-to-eat/ready-to-cook options, delectable snacks, beverages and many more.</p>
 <p>Join us at the Singapore Pavilion, where our companies look forward to forging collaborations, establishing distribution channels, and building valuable partnerships in the global food industry.</p>
 <p>Download the Singapore Pavillion Map <a target="_blank" href="https://drive.google.com/file/d/1ayXbytQLM3cqrbObqa_8wR0WT3y-Esz6/view?usp=sharing">here</a>.</p>
@@ -873,6 +873,34 @@ description: ""
 		</p>
 		<p>
 			<a target="_blank" href="/vega-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div class="sgds-card-booth">
+		<p style="text-transform: uppercase;">
+			<small>
+				<strong>A-027g</strong>
+			</small>
+		</p>
+	</div>
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/you_tiao_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>You Tiao Man Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and supplier of Halal You Tiao and Otah.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/you-tiao">
 				<small>Visit their page</small>
 			</a>
 		</p>
