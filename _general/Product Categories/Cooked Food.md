@@ -54,39 +54,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=14zpVQvDDuFun4ftAZOLJxoq2gFgqIuXG&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/FG%20Food%20Industries/fg_food_industries_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Cita Rasa HLH Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>FG Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.</small>
+			<small>Manufacturer of frozen ready-meal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cita-rasa-hlh">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1n4DR1tJOIjk_1nyC1Praqm5DZEj1C8-D&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Eastern Harvest Foods (Singapore) Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Frozen meat, seafood, japanese and korean cuisine, processed item.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/eastern-harvest-foods">
+			<a target="_blank" href="/fg-food-industries">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -108,6 +87,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/fragrance-foodstuff">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Hen Tick Foods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier of chilled and frozen food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/hen-tick-foods">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -285,12 +285,12 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1BS5PBeFb-bycOKs4xO1UJQC0BdZylZUc&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kong%20Guan%20Dumpling/kong_guan_dumpling_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Kong Guan Dumpling Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Kong Guan Dumpling/Pau Mfr Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Manufacturer of assorted dim sum and steamed buns.</small>
@@ -306,7 +306,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1drG1fOMMkdqVvgXw91S_WQnPWcthn3C2&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lim%20Kee%20Food/lim_kee_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -314,7 +314,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Lim Kee Food Manufacturing Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer in Chinese Pau (filled steamed buns), frozen food, ready to eat meal.</small>
+			<small>Food Manufacturer and Distributor (Oriental Steamed Buns).</small>
 		</p>
 		<p>
 			<a target="_blank" href="/lim-kee-food">
@@ -369,7 +369,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1wgAZnixU243GIHzL-ksohhqnGzxvJicF&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Pondok%20Abang/pondok_abang_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -390,7 +390,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/red_lips_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Red%20Lips/red_lips_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -411,7 +411,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1EGTmNqDfmVsRDTnsfDtbqg0Ciownf6hy&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -419,7 +419,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>RM Food Manufacturing Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialises in retort, frozen-ready meals and plant-based ready to eat meals.</small>
+			<small>Specialises in retort, frozen-ready meals.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/rm-food-manufacturing">

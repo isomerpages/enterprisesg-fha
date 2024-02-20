@@ -1,120 +1,76 @@
---- 
-title: RM Food Manufacturing Pte Ltd 
-permalink: /rm-food-manufacturing/ 
+---
+title: RM Food Manufacturing Pte Ltd
+permalink: /rm-food-manufacturing/
 description: ""
---- 
-<div class="flex-paragraph"> 
-<p style="text-transform: uppercase">
-</p>
-</div> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1EGTmNqDfmVsRDTnsfDtbqg0Ciownf6hy&amp;export=download">
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
+variant: markdown
+---
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_logo.png">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>RM Food Manufacturing Pte Ltd</b></h4>
+			<p>RM Food Manufacturing Ptd Ltd is a subsidiary of Select Group, with more than 30 years of experience in the F&amp;B industry.</p>
+			<p>Taste Asia, home brand of RM Food Manufacturing embodies the visionary move of convenience food in Singapore. Taste Asia believes in "Bring Restaurant Home", bringing restaurant quality, Ready-To-Eat meals with no added preservatives, wherever customers maybe be.</p>
+			<p><a target="_blank" href="https://www.readymealstasteasia.com">www.readymealstasteasia.com</a></p>
+		</div>
+	</div>
+</div>
+
 <h4 style="text-transform: uppercase; color: black;">
-<b>RM Food Manufacturing Pte Ltd
-</b>
-</h4> 
-<p>Specialists in retort and frozen-ready meals, with a specialty in plant-based ready to eat meals.
-</p> 
-<p>
-<a href="https://tasteasia.com.sg/" target="_blank">tasteasia.com.sg
-</a>
-</p> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>General Information
-</b>
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p>
-<b>Product Category: 
-</b>
-<span style="background-color: pink; border-radius: 10 px;">Cooked Food
-</span>
-</p> 
-<p>
-<b>Certifications: 
-</b>Halal Certified, HACCP, FSSC22000 Certified
-</p> 
-<p>
-<b>Export Markets: 
-</b>Philippines, USA 
-</p> 
-<p style="margin-bottom: 10px;">
-<b>Looking for: 
-</b>Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Brokers / Agents, Wholesalers, Importers
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;">
-<b>Delphine Lim
-</b>
-<br>Business Development Executive
-<br>+65 92780132
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
+			</p>
+			<p>
+				<b>Certifications: </b>Halal Certified, HACCP Certified, FSSC 22000 Certified
+			</p>
+			<p>
+				<b>Export Markets: </b>UAE, Philiphines, USA, Canada
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Delphine Lim</b>
+				<br>Senior Business Development Executive<br>+65 9278 0132<br>
+				<a style="color: white;" href="mailto:delphine_lim@select.com.sg">delphine_lim@select.com.sg</a>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
-<a href="mailto:delphine_lim@select.com.sg" style="color: white;">delphine_lim@select.com.sg
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>products
-</b>
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=16l2LRoeO8Fl5jS0ZVgvidW-wx7-SfOPi&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Singapore Curry Chicken
-</h6> 
-<p>Succulent chunks of steamed chicken doused in a creamy coconut gravy, infused with distinctly Asian spices. Complemented by the tender-soft potatoes simmered in the gravy, every bite is packed full of flavour.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1XC3QWeywQ1gycsMpPES3WGowEEwIi_zk&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Yang Zhou Fried Rice with Grilled Chicken
-</h6> 
-<p>A classic Chinese-style egg fried rice paired with tender grilled chicken. A taste that reminds you of home, the egg fried rice is stir-fried to perfection with mixed vegetables, shrimp and crabstick. Fragrant, nostalgic and a scrumptious meal for anyone.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1Ir5JSo7pU8mPe-s20nExBB8eERfz3AR8">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Plant-based cuisine options
-</h6> 
-<p>
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=16QIch0IYoAf25-EbDqoRBuSCwJBMRLZb">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Other cuisine options
-</h6> 
-<p>
-</p>
-</div> 
-</div> 
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_product_01.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Tomyum and Kimchi Rice</h6>
+			<p>Now you can try Taste Asia's various fried rice cuisines anytime, anywhere, and EVERYDAY! Pair them with proteins and vegetables for your perfect meal.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Singapore Curry Chicken with Rice</h6>
+			<p>Skip the queue because we know every minute counts! Indulge in your favorite Curry Chicken Rice, ready in a flash. This dish is packed conveniently in single portions, containing everything you need for a complete meal!</p>
+		</div>
+	</div>
 </div>

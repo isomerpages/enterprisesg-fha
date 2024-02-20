@@ -69,7 +69,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Double Pagoda Ginger Oil</h6>
-			<p>"Experience the true essence of ginger with the Double Pagoda Ginger Oil, crafted through a natural extraction process. This culinary gem is tailor-made for stir-frying and marinating, infusing your dishes with the authentic taste of ginger. A seamless substitute for fresh ginger, this oil streamlines your meal preparation, making it a go-to choice for family dinners or restaurant creations.</p>
+			<p>Experience the true essence of ginger with the Double Pagoda Ginger Oil, crafted through a natural extraction process. This culinary gem is tailor-made for stir-frying and marinating, infusing your dishes with the authentic taste of ginger. A seamless substitute for fresh ginger, this oil streamlines your meal preparation, making it a go-to choice for family dinners or restaurant creations.</p>
 			<p>The Double Pagoda collection extends beyond Ginger Oil to include an array of condiment oils, including Garlic, Shallot, Szechuan Pepper, Chilli, and Spicy Sesame Oil. Elevate your culinary creations with this range of exquisite oils, each designed to redefine the art of flavor enhancement.</p>
 		</div>
 	</div>

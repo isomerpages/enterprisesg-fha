@@ -100,7 +100,28 @@ variant: markdown
 		</p>
 	</div>
 </div>
-					
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hen%20Tick%20Foods/hen_tick_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Hen Tick Foods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier of chilled and frozen food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/hen-tick-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
@@ -142,7 +163,7 @@ variant: markdown
 		</p>
 	</div>
 </div>
-					
+				
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
@@ -154,16 +175,37 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>N &amp; N Agriculture Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Producer of fresh eggs, pasteurized fresh eggs, pasteurized egg products.<small>
-		</small></small></p><small><small>
+			<small>Producer of fresh eggs, pasteurized fresh eggs, pasteurized egg products.</small>
+		</p>
 		<p>
 			<a target="_blank" href="/n-n-agriculture">
 				<small>Visit their page</small>
 			</a>
 		</p>
-	</small></small></div><small><small>
-</small></small></div><small><small>
-					
+	</div>
+</div>
+				
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Nosh%20Produce/nosh_produce_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Nosh Produce Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Indoor vertical farm, specialised in growing uniquely flavourful Edible Flowers and Speciality Greens of the highest quality.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/nosh-produce">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
@@ -175,14 +217,14 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>U Say Marketing Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Food service and ingredients supplier.<small>
-		</small></small></p><small><small>
+			<small>Food service and ingredients supplier.</small>
+		</p>
 		<p>
 			<a target="_blank" href="/u-say-marketing">
 				<small>Visit their page</small>
 			</a>
 		</p>
-	</small></small></div><small><small>
-</small></small></div><small><small>
+	</div>
+</div>
 
-</small></small></small></small></div>
+</div>

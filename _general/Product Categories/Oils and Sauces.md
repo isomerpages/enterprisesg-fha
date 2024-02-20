@@ -159,7 +159,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1br24EEkjesMk6INrQZ65TO0qSOmsXmFD&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -170,7 +170,7 @@ variant: markdown
 			<small>Manufacturer and distributor of superior quality Soya Sauce, Chilli Sauce and other condiments.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chuencheong-food-industries">
+			<a target="_blank" href="/chuen-cheong-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -222,6 +222,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Craft%20Union/craft_union_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Craft Union Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of a wide range of food products and beverages.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/craft-union">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/dieumot_logo.png">
 		</figure>
 	</div>
@@ -243,7 +264,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1n4DR1tJOIjk_1nyC1Praqm5DZEj1C8-D&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Double%20Chin/double_chin_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Double Chin Food Services Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Importer of seafood related items.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/double-chin">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -251,7 +293,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Eastern Harvest Foods (Singapore) Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Frozen meat, seafood, japanese and korean cuisine, processed item.</small>
+			<small>Importer and distributor frozen meat, seafood, japanese and korean cuisine, processed item.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/eastern-harvest-foods">
@@ -612,6 +654,48 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/prima-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ruby%20Innfotry/ruby_innfotry_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ruby Innfotry Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor for Mamee Food Service products for Singapore.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ruby-innfotry">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/San%20Sesan/san_sesan_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>San Sesan Global Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of Heng's of seasoning, condiments and paste.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/san-sesan">
 				<small>Visit their page</small>
 			</a>
 		</p>

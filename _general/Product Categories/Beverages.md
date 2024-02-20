@@ -180,6 +180,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Craft%20Union/craft_union_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Craft Union Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of a wide range of food products and beverages.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/craft-union">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/dieumot_logo.png">
 		</figure>
 	</div>
@@ -222,7 +243,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1HpWrsgDbFpIkYxdDJXWxpu_GPbP_ogl6&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ebenezer%20Coffee/ebenezer_coffee_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -233,7 +254,7 @@ variant: markdown
 			<small>Local traditional coffee and tea, gourmet coffee beans, ground coffee and instant beverages.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ebenezercoffee">
+			<a target="_blank" href="/ebenezer-coffee">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -243,7 +264,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1ex8jdmGfXB5gUpapPGAv3zn4_DRaA4Gz&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Faesol/faesol_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -251,10 +272,31 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Faesol Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Groceries (e.g. cereals, sugar, edible oils, sauces and dairy products).</small>
+			<small>Manufacturer of  low sugar and low caloric products.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/faesol">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+	
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Flostate/flostate_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Flostate Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Wellness brand with healthy beverages that promote natural energy and mental clarity.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/flostate">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -285,6 +327,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gourmet%20Supplies/gourmet_supplies_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Gourmet Supplies Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacture and distribution of beverages.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/gourmet-supplies">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/happyice.png">
 		</figure>
 	</div>
@@ -306,7 +369,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/honeyland.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Honey%20Land%20International/honey_land_international_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -453,7 +516,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1vUs2hE8aemr_CFU3kWSQxgVYmQwCZU6Y&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lim%20Lam%20Thye/lim_lam_thye_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -528,6 +591,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/lovearth-water">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mushan%20Food/mushan_food_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Mushan Food Industries Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and Distributor for instant &amp; canned beverages and snacks.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/mushan-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
