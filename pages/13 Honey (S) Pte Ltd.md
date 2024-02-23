@@ -78,7 +78,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1AGm8E--_YBvZ64whehDT22xLO6EpGaRV&amp;export=download">
+<img src="/images/13_honey_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Series Honey 250g
@@ -89,7 +89,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1S95xe2T5RSD0DPYDHlI8-ftY7_2aYyCE&amp;export=download">
+<img src="/images/13_honey_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Honey Series 850g
@@ -100,7 +100,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1emlHkkjLbKvUSX1FUoYuFogW25r7LuQa&amp;export=download">
+<img src="/images/13_honey_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Series Honey 1.5kg
@@ -111,7 +111,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1oSZVQbDsuRNMGwO3TcoB9kQ9f1zRJdew&amp;export=download">
+<img src="/images/13_honey_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Honeycomb
@@ -122,7 +122,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1y9y9lKid6w_aQ1MtAUb5-EjIlMxR5gCv&amp;export=download">
+<img src="/images/13_honey_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Gift Sets
