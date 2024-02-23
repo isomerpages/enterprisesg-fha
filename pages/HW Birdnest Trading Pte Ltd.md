@@ -1,15 +1,16 @@
---- 
-title: HW Birdnest Trading Pte Ltd 
-permalink: /hw-birdnest-trading/ 
+---
+title: HW Birdnest Trading Pte Ltd
+permalink: /hw-birdnest-trading/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="https://drive.google.com/uc?id=1tjUG_fXKKRtholcoV30clvGFFunzdEJ5&amp;export=download">
+<img src="/images/hw_birdnest_logo.JPG/">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1jhtZ0fSkZM-m8rc_ypmMX8mJmNlxHOp9&export=download">
+<img src="/images/hw_birdnest_product1.png/">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ready-to-eat Bottled Bird's Nest (Made in Singapore)
@@ -86,29 +87,29 @@ description: ""
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1WVng3ZLFn9Vd568USJ6T3OYvGRgRldDy&export=download">
+<img src="https://drive.google.com/uc?id=1WVng3ZLFn9Vd568USJ6T3OYvGRgRldDy&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> GOLDEN COW Special Grade Imperial Golden Bird's Nest
 </h6> 
-<p>GOLDEN COW SPECIAL GRADE IMPERIAL GOLDEN BIRD’S NEST is prepared from quality imperial golden bird's nest and rock sugar solution, formulated according to traditional recipes, suitable to be taken by people of all ages. This product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings & preservatives. It is available in a box of 6 small bottles (6x75gm) and single big bottle (150gm). There are 3 flavours to choose from: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.
+<p>GOLDEN COW SPECIAL GRADE IMPERIAL GOLDEN BIRD’S NEST is prepared from quality imperial golden bird's nest and rock sugar solution, formulated according to traditional recipes, suitable to be taken by people of all ages. This product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings &amp; preservatives. It is available in a box of 6 small bottles (6x75gm) and single big bottle (150gm). There are 3 flavours to choose from: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.
 </p> 
 </div> 
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1vRHLNgXi7MeFQCm-DaOTo9isOl--b3A1&export=download">
+<img src="https://drive.google.com/uc?id=1vRHLNgXi7MeFQCm-DaOTo9isOl--b3A1&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ready-to-eat Cave Bird's Nest Beverage
 </h6> 
-<p>H.W BIRDNEST TRADING PTE LTD produces a series of ready-to-drink bottled bird’s nest beverage using 100% genuine bird’s nest. Customer can customise their products using different types of raw bird’s nest material, namely Cave Bird’s Nest and Imperial Bird’s Nest. The product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings & preservatives. There are 3 flavour options: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.
+<p>H.W BIRDNEST TRADING PTE LTD produces a series of ready-to-drink bottled bird’s nest beverage using 100% genuine bird’s nest. Customer can customise their products using different types of raw bird’s nest material, namely Cave Bird’s Nest and Imperial Bird’s Nest. The product is manufactured in an ISO22000 and HACCP certified factory in Singapore, with no added artificial colourings &amp; preservatives. There are 3 flavour options: classic rock sugar taste, traditional ginseng flavour, and healthier low sugar option.
 </p>
 </div> 
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1PyyNdV59IZyIeAMSA9h2K3u05YlmeI1h&export=download">
+<img src="https://drive.google.com/uc?id=1PyyNdV59IZyIeAMSA9h2K3u05YlmeI1h&amp;export=download">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Concentrated Bottled Bird's Nest
