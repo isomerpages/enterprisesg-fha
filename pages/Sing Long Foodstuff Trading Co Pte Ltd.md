@@ -1,15 +1,16 @@
---- 
-title: Sing Long Foodstuff Trading Co Pte Ltd 
-permalink: /sing-long-foodstuff/ 
+---
+title: Sing Long Foodstuff Trading Co Pte Ltd
+permalink: /sing-long-foodstuff/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1H6LJY-6in47xrPJ9_aR98BtEKe1ySTxw&amp;export=download">
+<img src="/images/sing_long_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1jWMh7nyru5G96NB-fT3toLNT_qzSQuiR&export=download">
+<img src="/images/sing_long_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sing Long Black Pepper Sauce
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=18uoY1fUSt4NjfEOR6qXKTWYdcFHY79ZX&export=download">
+<img src="/images/sing_long_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sing Long Meat Curry Sauce
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1wFVIrxq41s0tK03CFUrCqHxnEIxt9Dwf&export=download">
+<img src="/images/sing_long_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sing Long Hainanese Chicken Rice Mix
@@ -108,12 +109,12 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=174uTokDbxCUb_etKulRWZa-j0-nTmx26&export=download">
+<img src="/images/sing_long_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sing Long Chilli Crab Sauce
 </h6> 
-<p>A specially prepared “Sing Long Chilli Crab Sauce” for the food connoisseur in you. It complements crab dishes as well as any seafood variety such as crayfish, lobsters, prawns, mussels & clams that you could ever think of! A truly rich authentic taste from our homeland, Singapore. This is especially for the overseas Singapore traveller who misses the local dishes, definitely have to give it a try! The sauce can be served with rice or mantou (oriental steamed bun), providing you the ultimate in convenience!
+<p>A specially prepared “Sing Long Chilli Crab Sauce” for the food connoisseur in you. It complements crab dishes as well as any seafood variety such as crayfish, lobsters, prawns, mussels &amp; clams that you could ever think of! A truly rich authentic taste from our homeland, Singapore. This is especially for the overseas Singapore traveller who misses the local dishes, definitely have to give it a try! The sauce can be served with rice or mantou (oriental steamed bun), providing you the ultimate in convenience!
 </p>
 </div> 
 </div> 
