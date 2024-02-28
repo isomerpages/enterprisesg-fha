@@ -1,15 +1,16 @@
---- 
-title: Optima Daribell Pte Ltd 
-permalink: /optima-daribell/ 
+---
+title: Optima Daribell Pte Ltd
+permalink: /optima-daribell/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1vuUrRFNorwBbPUTrWwLtBXfc97SfDbxf&amp;export=download">
+<img src="/images/optima_daribell_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1S0i3newFmECgSz6o0_ImHdeOoutJipOl&export=download">
+<img src="/images/optima_daribell_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Daribell Shrimp Roll 
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1GzUlBhv6juP2G3HM_BUL3qj6ayFxJl5D&export=download">
+<img src="/images/optima_daribell_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Daribell Thousand Layer Cake
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=13JwoLwUiW_PNqBlBuBxjnmbC6XYztLAD&export=download">
+<img src="/images/optima_daribell_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Daribell Coconut Palm Sugar
@@ -108,12 +109,12 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1vcvHIZOGjTTYAyJzy2qm8TTJnJb0XVm-&export=download">
+<img src="/images/optima_daribell_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Daribell Instant Ginger Drink
 </h6> 
-<p>Pure & natural, No Coloring, No flavoring, No Preservative.
+<p>Pure &amp; natural, No Coloring, No flavoring, No Preservative.
 </p>
 </div> 
 </div> 
