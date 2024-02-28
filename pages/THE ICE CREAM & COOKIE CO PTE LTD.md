@@ -1,15 +1,16 @@
---- 
-title: THE ICE CREAM & COOKIE CO PTE LTD 
-permalink: /ice-cream-cookie/ 
+---
+title: THE ICE CREAM & COOKIE CO PTE LTD
+permalink: /ice-cream-cookie/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1tRMh6_bqm5x5XsDgVwGGZcqhIB78ug7n&amp;export=download">
+<img src="/images/ice_cream_cookie_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -81,7 +82,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1_wZDpW9Hmpy9qQiM_-DabnzlzctA5aF8&export=download">
+<img src="/images/ice_cream_cookie_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Vegan Dark Chocolate
@@ -92,18 +93,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1jpZB80SdDm5aqhWqzciLJS2gijiNTOls&export=download">
+<img src="/images/ice_cream_cookie_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Onde Onde
 </h6> 
-<p>A fragrant, dairy-free pandan coconut ice cream with chewy mochi bits, desiccated coconut, and gula melaka swirl mixed through. Made using a refreshing coconut milk base and infused with 100% all-natural pandan extract for a truly authentic & nostalgic Singapore heritage inspired treat. Made with pride and passion in Singapore.
+<p>A fragrant, dairy-free pandan coconut ice cream with chewy mochi bits, desiccated coconut, and gula melaka swirl mixed through. Made using a refreshing coconut milk base and infused with 100% all-natural pandan extract for a truly authentic &amp; nostalgic Singapore heritage inspired treat. Made with pride and passion in Singapore.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1hdJ3t95zZT-u2Nx5p8dByMOrZU_SRjfU&export=download">
+<img src="/images/ice_cream_cookie_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Calamansi Sorbet 
@@ -114,7 +115,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1TtGEL4Fkqp7fpo8sO--3qw7CTUi7mmyq&export=download">
+<img src="/images/ice_cream_cookie_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Banana Caramel 
@@ -125,7 +126,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1igjjGG6u46Kl6ZcMzquavU1mOm1qq_jh&export=download">
+<img src="/images/ice_cream_cookie_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Espresso Chocolate
