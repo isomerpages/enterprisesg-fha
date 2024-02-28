@@ -1,15 +1,16 @@
---- 
-title: Seng Hua Hng Foodstuff Pte Ltd (Camel Nuts) 
-permalink: /seng-hua-hng/ 
+---
+title: Seng Hua Hng Foodstuff Pte Ltd (Camel Nuts)
+permalink: /seng-hua-hng/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1PgSBQtIN-_VeyD0aWoFOGAe9DtI6zxB9&amp;export=download">
+<img src="/images/camel_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=10iSXOIsm9KzBnPwj2fKRCwVxxRTVaAw7&export=download">
+<img src="/images/camel_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Natural Baked Cashews
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ynEekleS0Fxf5bHry0AC_qTq1uEP_r9A&export=download">
+<img src="/images/camel_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Natural Baked Almonds
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1XOfzOBkD5eL8AY--QyBym8igcdtL8pYo&export=download">
+<img src="/images/camel_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Natural Baked Walnuts
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=19WXheKZ7i4wn2rSb7q1DUSwJ8MCNtFAo&export=download">
+<img src="/images/camel_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Natural Baked Macadamias
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=15Z7AA2C2KjbMyTfzzxya06ol6r_gxCvM&export=download">
+<img src="/images/camel_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Natural Baked Ruby Mix
