@@ -1,15 +1,16 @@
---- 
-title: SinFooTech Pte Ltd (Sachi) 
-permalink: /sachi/ 
+---
+title: SinFooTech Pte Ltd (Sachi)
+permalink: /sachi/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Ua6FJRfdGWbh4oTEGd5WJQ50W6GxCupc&amp;export=download">
+<img src="/images/sinfootech_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -73,7 +74,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1TSuV2TYt1o9lDvd57esaPANXXSsLpmYX&export=download">
+<img src="/images/sinfootech_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SACHI SOY WINE
@@ -84,7 +85,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1l97akfRdgUxLGAU6fqle_jFYgLUaBt8y&export=download">
+<img src="/images/sinfootech_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SACHI SOY WINE FLAVOURED
