@@ -1,8 +1,9 @@
---- 
-title: SEAWAVES FROZEN FOOD PTE LTD 
-permalink: /seawaves-frozen-food/ 
+---
+title: SEAWAVES FROZEN FOOD PTE LTD
+permalink: /seawaves-frozen-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase"> 
 </p>
@@ -12,7 +13,7 @@ description: ""
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=13rca52eqY6K7FTYgtWQ9ZV6HbDocgB0k&export=download">
+<img src="/images/seawaves_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -78,18 +79,18 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Gd-bjLUlEvoEhj-ZYH9d-8DN4I-jbiUl&export=download">
+<img src="/images/seawaves_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Signature Series ( Cuttlefish Balls, Prawn Balls, Cheese Cuttlefish Balls, Otah Cuttlefish Balls )
 </h6> 
 <p>Manufactured in Singapore with fresh premium quality cuttlefish meat, we are the leading brand for our range of cuttlefish balls in Singapore. Available in all leading supermarkets, our best-sellers includes our cuttlefish balls, prawn balls, cheese cuttlefish balls and otah cuttlefish balls.
 </p>
-</div> 
-</div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1aHifLWJ3QGswPqiNODpGYiMV-ZsrME-a&export=download">
+</div> 
+</div> 
+<img src="</images/seawaves_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Seawaves CuttleFish Paste
@@ -111,7 +112,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood & Frozen Meat)
+<h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood &amp; Frozen Meat)
 </h6> 
 <p>We distribute an extensive range of frozen seafood (fish, shrimp, prawn, crabmeat, mussels, jelly fish, octopus, sea cucumber, crayfish, oysters, scallops and shark fins). We also have a large range of frozen meat from fish, shrimp, beef, deer, lamb , chicken and duck meat providing our customers a full range of products.
 </p>
