@@ -1,17 +1,18 @@
---- 
-title: PURE EDDICTION PTE LTD 
-permalink: /pure-eddiction/ 
+---
+title: PURE EDDICTION PTE LTD
+permalink: /pure-eddiction/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1htIvFvJv91xJJpySjwmwDZ7A8gCnlRZF&export=download">
+<img src="/images/pure_eddiction_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -26,9 +27,9 @@ description: ""
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Bakery
+<span style="background-color: pink; border-radius: 10 px;">Bakery
 </span>
 </p> 
 <p>
@@ -80,10 +81,10 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1IHuPMcu7Wt7Eybnw_gE36KM6_YvpD2eG&export=download">
+<img src="/images/pure_eddiction_product1.jpeg">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Matcha With Chestnuts & Green Tea Sable
+<h6 style="text-transform: uppercase; color: black;">Matcha With Chestnuts &amp; Green Tea Sable
 </h6> 
 <p>Japanese matcha green tea mousse with chestnut bavarois with a layer of matcha sable.
 </p>
@@ -91,7 +92,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=14272jwoZHIRrcEIrXGI85lOFNc4AB_5L&export=download">
+<img src="/images/pure_eddiction_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Red Velvet Sable
@@ -102,14 +103,13 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1gLqNa5jlvShGDRpa4byV1RH5VX_G-SdP&export=download">
+<img src="/images/pure_eddiction_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lychee Mousse With Raspberry Compote
 </h6> 
-<p>Elegantly layered lychee mousse and raspberry compote. Decorated with white chocolate curls & raspberry.
+<p>Elegantly layered lychee mousse and raspberry compote. Decorated with white chocolate curls &amp; raspberry.
 </p>
 </div> 
 </div> 
-</div> 
-</body>
+</div>
