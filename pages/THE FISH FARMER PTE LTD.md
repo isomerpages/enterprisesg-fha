@@ -1,15 +1,16 @@
---- 
-title: THE FISH FARMER PTE LTD 
-permalink: /the-fish-farmer/ 
+---
+title: THE FISH FARMER PTE LTD
+permalink: /the-fish-farmer/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1ib4PM_p1Gg96klJqC01f6M5lFj-ETN9Q&amp;export=download">
+<img src="/images/the_fish_farmer_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,51 +76,51 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1wnhiCflWy-qiZnZDfkT1kapIuHzUrdbz&export=download">
+<img src="/images/the_fish_farmer_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Fish Farmer Barramundi Fillet Teochew Style, 450G
 </h6> 
-<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess & hassle free from preparation.
+<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed &amp; frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess &amp; hassle free from preparation.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1bEaAwEqWlCTv9ykYUFtDLCxS42vXpji6&export=download">
+<img src="/images/the_fish_farmer_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Fish Farmer Barramundi Fillet Thai Style, 400G
 </h6> 
-<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess & hassle free from preparation.
+<p>Barramundi is a premium white fish with a sweet, buttery, delicate, and moist flavor profile that has been compared to red snapper, dover sole, and other premium white fish. 100% Made in Singapore, Singapore Good Agricultural Practice (SG GAP) Certified Seabass Fish, Local Seawater Farmed Seabass with no hormones, no antibiotics, Only 8 hours from harvest to packed &amp; frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 12mins, No mess &amp; hassle free from preparation.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1GqlySiH4WcfPbBR54bf_1Jzed4FfHff-&export=download">
+<img src="/images/the_fish_farmer_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Fish Farmer Mullet Fillet Teriyaki Flavor, 280G
 </h6> 
-<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess & hassle free from preparation.
+<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed &amp; frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess &amp; hassle free from preparation.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1oNk7nBijADeKqb9_svI3g1ThOBSYU1pl&export=download">
+<img src="/images/the_fish_farmer_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Fish Farmer Mullet Fillet Mala Flavor, 320G
 </h6> 
-<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed & frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess & hassle free from preparation.
+<p>The Grey Mullet has grey meat with a medium to firm texture and has a rich, distinctive favor with meat that is succulent and flakes easily after cooking. 100% Made in Singapore, Local Seawater Farmed Grey Mullet with no hormones, no antibiotics, Only 8 hours from harvest to packed &amp; frozen, Freeze from Fresh with individual vacuum packed locks in taste and nutrients, Sauce with no preservatives, no msg, Ready to cook just in 8mins, No mess &amp; hassle free from preparation.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1JDf0JbYu94iD7WvvT8ZK6cQ5i_Auh_G1&export=download">
+<img src="/images/the_fish_farmer_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Fish Farmer Barramundi Crispy Tempura, 250G
