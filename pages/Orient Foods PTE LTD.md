@@ -1,8 +1,9 @@
---- 
-title: Orient Foods PTE LTD 
-permalink: /orient-foods/ 
+---
+title: Orient Foods PTE LTD
+permalink: /orient-foods/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1EFrSFdXUvBZ8nqegTQytdm9vqFL_AXTY&export=download">
+<img src="/images/orient_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Orient Udon
@@ -86,18 +87,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Iw9zXs55-Akuf7zsTC8o_eBrpwItv4BI&export=download">
+<img src="/images/orient_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">TOPP instant rice congee
 </h6> 
-<p>Topp rice congee is made from 100% Thai jasmine rice and is the perfect meal for any occasion, Its comes in 3 delicious flavours: Seafood, Chicken & Mushroom and Vegetable (suitable for vegans). Topp rice congee is healthier low-calorie alternative, low in fat and the best part - only take 3 minutes to prepare!
+<p>Topp rice congee is made from 100% Thai jasmine rice and is the perfect meal for any occasion, Its comes in 3 delicious flavours: Seafood, Chicken &amp; Mushroom and Vegetable (suitable for vegans). Topp rice congee is healthier low-calorie alternative, low in fat and the best part - only take 3 minutes to prepare!
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1BTtP306WDl66iOIQxw4fs_T2SoADn2mF&export=download">
+<img src="/images/orient_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">TOPP instant Macaroni
