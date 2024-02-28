@@ -1,15 +1,16 @@
---- 
-title: Par International Holdings Pte Ltd 
-permalink: /par-international-holdings/ 
+---
+title: Par International Holdings Pte Ltd
+permalink: /par-international-holdings/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1aU0Xe93f-omy2MJU3DdsYRWyScbmlPuQ&amp;export=download">
+<img src="/images/par_international_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1b84Ss5nHkeLaCYc8GEaS-l58_mJ5AkhH&export=download">
+<img src="/images/par_international_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">French Flour and Mixes
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1kF5Zi9lRwWXK3zPeC2pgHeCGmKIgAW_x&export=download">
+<img src="/images/par_international_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Rice Flour, Glutinous Rice Flour, Tapioca Starch, Tapioca Pearl
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=19lzIcMi_2XzzLaOYarwxXRYkEM-yADcX&export=download">
+<img src="/images/par_international_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Thai Street Food Premixes and Gluten Free Premixes
 </h6> 
-<p>A selection of Thai street food premixes for various street food applications for industrial use or home use: Crispy Flour : Making deep drying batter for vegetables, meat and seafood for light and long lasting crispiness Thai Coconut Milk Custard Premix (Kanom Tuay) Thai Coconut Pudding Premix (Kanom Krok): Making traditional or royal style Thai coconut pancake Thai Fried Banana Premix (Kuay Tod): All sorts of fried fritters, banana, sweet potato, taro, yam, etc. Thai Seafood Pancake Premix (Hoy Tod) : Making both Crispy type and Soft crispy type fried seafood pancake. Also suitable for deep frying batter for seafood A range of Gluten Free bakery mixes: Brownie, Chocolate muffin, Pound cake, Pancake & Waffle.
+<p>A selection of Thai street food premixes for various street food applications for industrial use or home use: Crispy Flour : Making deep drying batter for vegetables, meat and seafood for light and long lasting crispiness Thai Coconut Milk Custard Premix (Kanom Tuay) Thai Coconut Pudding Premix (Kanom Krok): Making traditional or royal style Thai coconut pancake Thai Fried Banana Premix (Kuay Tod): All sorts of fried fritters, banana, sweet potato, taro, yam, etc. Thai Seafood Pancake Premix (Hoy Tod) : Making both Crispy type and Soft crispy type fried seafood pancake. Also suitable for deep frying batter for seafood A range of Gluten Free bakery mixes: Brownie, Chocolate muffin, Pound cake, Pancake &amp; Waffle.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=16uqDeAJQxircIzo4NmpYhKkutgAklkzK&export=download">
+<img src="/images/par_international_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Couplet Pearl Sugar, Couplet Chocolate Pearl Sugar
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1vCqLR_eCs93gg1CDOyOxF7xRCB0V1Y37&export=download">
+<img src="/images/par_international_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">PAR Brand Wheat Flour
