@@ -1,15 +1,16 @@
---- 
-title: Park Food Manufacturing Pte Ltd 
-permalink: /park-food-manufacturing/ 
+---
+title: Park Food Manufacturing Pte Ltd
+permalink: /park-food-manufacturing/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1EywJXU6MOnznNPFWHB4jtqLLrXGAVJpg&amp;export=download">
+<img src="/images/park_food_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -74,7 +75,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1n2QGBjMj3PIfhSVJW6c5X2JIZTagZvv7&export=download">
+<img src="/images/park_food_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Premium Taiwan Gong Wan - Shiitake Mushroom
@@ -85,7 +86,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1I7I4pXPvHuSHFVs8KEirL2J3Q58gDmaj&export=download">
+<img src="/images/park_food_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Handmade Chao Shan Beef Ball - Original
@@ -96,7 +97,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=148KV63E8NmhjrSTHuBmW2Lu6cH2MdVuW&export=download">
+<img src="/images/park_food_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Pork Ball
@@ -107,7 +108,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1lrnQdvN6fLGrlCG0636g7KhjUyqFYoap&export=download">
+<img src="/images/park_food_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Mushroom Pork Ball
@@ -118,7 +119,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1mDW97X4-qvLFhKW6gLxtFwGETk5rxFhF&export=download">
+<img src="/images/park_food_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lion Dance Brand, Bao Xin Wan - Original
