@@ -1,15 +1,16 @@
---- 
-title: SEAH'S SPICES FOOD INDUSTRIES PTE LTD 
-permalink: /seahs-spices/ 
+---
+title: SEAH'S SPICES FOOD INDUSTRIES PTE LTD
+permalink: /seahs-spices/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1TB0vaTIchfibF_9c_qUORh3a0hHwu9C8&amp;export=download">
+<img src="/images/seah_spices_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ANW_74RSxHNRCmneocGTjvebd66-GTLQ&export=download">
+<img src="/images/seah_spices_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SINGAPORE BAK KUET TEH SPICES
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1klI_0u8nkjyhaw-Yo-OBLHYAgOOc3pvZ&export=download">
+<img src="/images/seah_spices_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">EMPEROR HERBS CHICKEN SPICES
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=18KnaG3N-gXB4Qao0Wy9sdAXnCh5Y5EhY&export=download">
+<img src="/images/seah_spices_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">HERBAL CHICKEN SOUP SPICES
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=16A6C8b3-bUqQzSvZ5R-PRLxQMH89my9H&export=download">
+<img src="/images/seah_spices_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BLACK PEPPER CRAB SPICES
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=16xXNe2eFQgieWu8mZ-ByDN_mnlnpHxM2&export=download">
+<img src="/images/seah_spices_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SINGAPORE CHICKEN CURRY SPICES
