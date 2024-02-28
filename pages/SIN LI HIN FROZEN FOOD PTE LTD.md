@@ -1,15 +1,16 @@
---- 
-title: SIN LI HIN FROZEN FOOD PTE LTD 
-permalink: /sin-li-hin/ 
+---
+title: SIN LI HIN FROZEN FOOD PTE LTD
+permalink: /sin-li-hin/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1koU8PtfYv47-RVO-bJSx20nt0UMhzh-M&amp;export=download">
+<img src="/images/sin_li_hin_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1vunXymny8n-kTu3ws4uUEmurVY5yHXHy&export=download">
+<img src="/images/sin_li_hin_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nanyang Taste Middle Wing (Kampung)
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1AO9rDaPjuSzp4aIYhUisjUSILKH0JrNx&export=download">
+<img src="/images/sin_li_hin_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">MEXican Spicy Cutlet
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1MXPVOXwLs3uiQ57kL1PgrgInGWE9-tYj&export=download">
+<img src="/images/sin_li_hin_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Crispy Fish N Chip
@@ -108,18 +109,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1jbIFPj7vXEyhGtBUk-Klby4xJmwzOqJ0&export=download">
+<img src="/images/sin_li_hin_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Buttery Pepper Popcorn Chicken
 </h6> 
-<p>Buttery Pepper Chicken Popcorn are insanely delicious! They’re bursting with bright & zippy, buttery-flavor and then coated with crispy coating. Marinated in seasoned butter n pepper for the juiciest pops. It makes a batch of these crazy-good chicken popcorn at home for a great snack or as a side side for a great meal.
+<p>Buttery Pepper Chicken Popcorn are insanely delicious! They’re bursting with bright &amp; zippy, buttery-flavor and then coated with crispy coating. Marinated in seasoned butter n pepper for the juiciest pops. It makes a batch of these crazy-good chicken popcorn at home for a great snack or as a side side for a great meal.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=154V3phY7h6dRJUtME5lyRllb5M-JP9Zd&export=download">
+<img src="/images/sin_li_hin_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Roasted chicken Leg Meat
