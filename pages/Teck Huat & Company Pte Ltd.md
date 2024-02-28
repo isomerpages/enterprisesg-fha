@@ -114,17 +114,6 @@ variant: markdown
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">beau-tea milk tea with collagen
 </h6> 
-<p>prodcut description
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/teck_huat_product5.jpeg">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Pork siew mai
-</h6> 
 <p>product description
 </p>
 </div> 
