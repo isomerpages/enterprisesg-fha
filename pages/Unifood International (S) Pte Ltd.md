@@ -1,8 +1,9 @@
---- 
-title: Unifood International (S) Pte Ltd 
-permalink: /unifood-international/ 
+---
+title: Unifood International (S) Pte Ltd
+permalink: /unifood-international/
 description: ""
---- 
+variant: markdown
+---
 <div> 
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
@@ -10,7 +11,7 @@ description: ""
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1JSxoCPtChE4HqmLLgKeCN_NLPLvGQgme&export=download">
+<img src="/images/unifood_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -74,7 +75,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1uPzrwscDpLY5POcMMxZXVyF5kyYEK1uF&export=download">
+<img src="/images/unifood_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">UNISOY Nutritious Black Soy Milk Powder
@@ -85,7 +86,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1B-7r2JN5xgFwa8yLQuzBtPK_i6RIU5Qk&export=download">
+<img src="/images/unifood_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> UNISOY GOLD Nutritious Soy Matcha
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1c6qJcEKX1l40Gp2d1Lt2Cs56jm6zj6j2&export=download">
+<img src="/images/unifood_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">UNISOY Nutritious Soya Milk Powder "No Cane Sugar"
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1TB7lBtrxc4Cod6dinYaP84OSQKvQr9vX&export=download">
+<img src="/images/unifood_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">UNISOY Instant Cold Bean Curd Mix
