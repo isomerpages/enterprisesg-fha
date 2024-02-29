@@ -1,15 +1,16 @@
---- 
-title: UGENE LABORATORY SERVICES PTE LTD 
-permalink: /ugene-laboratory-services/ 
+---
+title: UGENE LABORATORY SERVICES PTE LTD
+permalink: /ugene-laboratory-services/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=19Brnubo912vSuRJCWYqqQyalzB9RE4oo&amp;export=download">
+<img src="/images/ugene_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1R0movmsTDtnhM50Sk6dELqvLmc-W176P&export=download">
+<img src="/images/ugene_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Microbiological Testing, Chemical Testing, Environmental Testing and Monitoring
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1gbm5uC_3PGHOq_7r6vnHbQqn6yVjDetw&export=download">
+<img src="/images/ugene_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Food Safety Audit
