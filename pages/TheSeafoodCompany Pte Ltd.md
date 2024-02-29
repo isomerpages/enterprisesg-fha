@@ -1,15 +1,16 @@
---- 
-title: TheSeafoodCompany Pte Ltd 
-permalink: /the-seafood-company/ 
+---
+title: TheSeafoodCompany Pte Ltd
+permalink: /the-seafood-company/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1tdpvlbcwlAlOehgMmWiYLvSYtsWRx8mF&amp;export=download">
+<img src="/images/seafood_company_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1zSy6IDSYiFIJ1cpG3XVESI7Neg0a6FPL&export=download">
+<img src="/images/seafood_company_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Miyagi Oyster
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1XVCNvx_9SEmdjV-o0KRWc5F49EkgeLHu&export=download">
+<img src="/images/seafood_company_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Blue Swimming Crabmeat
@@ -108,35 +109,13 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=14m0ejU8LkArF3hhIppQ_wEiJzamzgGwD&export=download">
+<img src="/images/seafood_company_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Red Sea Shrimp
 </h6> 
-<p>Our Red Sea Shrimp's distinct sweetness comes from the natural high salinity waters of the Red Sea. Quality is ensured using state-of-the-art technology to lock in its freshness and texture. Our product is widely used in many top F&B establishments locally and regionally.
+<p>Our Red Sea Shrimp's distinct sweetness comes from the natural high salinity waters of the Red Sea. Quality is ensured using state-of-the-art technology to lock in its freshness and texture. Our product is widely used in many top F&amp;B establishments locally and regionally.
 </p>
 </div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1XVCNvx_9SEmdjV-o0KRWc5F49EkgeLHu&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Blue Swimming Crabmeat
-</h6> 
-<p>Exclusively uses the freshest crabs and carefully handpicked in the modern processing facility. Our crabs undergo a stringent selection process to guarantee freshness and quality. Blue swimming crabmeat is known for its rich sweet, succulent and buttery flavor. Our product can be consumed upon opening and is suitable for a wide variety of cuisine.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1kfWwmVZVmmjzZ-Hy-UlMx9K0WM0_xReR&export=download">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Red Sea Barramundi
-</h6> 
-<p>Our Red Sea Barramundi's unique texture and taste comes from the unique environmental conditions, including the high salinity waters of the Red Sea. Quality is ensured using state-of-the-art technology to lock in its freshness and texture. Our product is widely used in many top F&B establishments locally and regionally.
-</p>
-</div> 
-</div> 
-</div>
+
+</div></div>
