@@ -1,15 +1,16 @@
---- 
-title: SRI VINAYAKA EXPORTS PTE LTD 
-permalink: /sri-vinayaka/ 
+---
+title: SRI VINAYAKA EXPORTS PTE LTD
+permalink: /sri-vinayaka/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1yoP_bO9uMbPlOSFNWKbkUWNX5N4Pa-xX&amp;export=download">
+<img src="/images/svex_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1fpmEru-rB4sa2UE0kREeDCwvUgqh_lQd&export=download">
+<img src="/images/svex_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">GILDA TOMATO PASTE
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=106Vul0LeC9WQMU21Q1ZELpPlCjQbLJQl&export=download">
+<img src="/images/svex_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">RASA SESAME OIL
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=17ADzsukrkaQeDdzJoJz77C7DliI_k_MG&export=download">
+<img src="/images/svex_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">RASA PEANUT OIL
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1tpJ61mOTHAUI-3cA3rnlRqplVHlJzQ4P&export=download">
+<img src="/images/svex_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">RASA COCONUT OIL
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1KQg5y_sUE2BHPfo57UVME2p0oiui_q5a&export=download">
+<img src="/images/svex_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">KAJONA SUNFLOWER OIL
