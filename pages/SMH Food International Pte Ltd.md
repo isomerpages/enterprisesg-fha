@@ -1,8 +1,9 @@
---- 
-title: SMH Food International Pte Ltd 
-permalink: /smh-food-international/ 
+---
+title: SMH Food International Pte Ltd
+permalink: /smh-food-international/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1FHGI1r7AfzbMdhkcrYyHVOXBWtc7JLiM&export=download">
+<img src="/images/smh_international_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SMH Chilli Crab Pau 
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1NQvkjyks2P1H9vvIR7ALAc6uDAP3gLps&export=download">
+<img src="/images/smh_international_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SMH Wholemeal Molten Milo Lava Pau
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=11XMvLcT0HE3Jw9hiFSZNIFdQ6um1uReq&export=download">
+<img src="/images/smh_international_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SMH Meat Free Hong Kong Char Siew Pau
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1M-8NRzpoyy6C5BlrV5ADrRG7QAopV1hS&export=download">
+<img src="/images/smh_international_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SMH Charcoal Salted Egg Custard Pau
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Bgdzol_deSQOHVt_jT1E_Tk9qlIGfO8v&export=download">
+<img src="/images/smh_international_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SMH Meat Free Purple Rice Loh Mai Kai
