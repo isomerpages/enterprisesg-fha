@@ -1,15 +1,16 @@
---- 
-title: Wanin Industries Pte Ltd 
-permalink: /wanin-industries/ 
+---
+title: Wanin Industries Pte Ltd
+permalink: /wanin-industries/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1AXZ02dDWvIyKi0Hq0tJuYG3ggOVHUKaK&amp;export=download">
+<img src="/images/wanin_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1qksLm7eR2M_7-BZ1k8TYMqzF1a_lvMYe&export=download">
+<img src="/images/wanin_product1.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Fruitty Sparkling Drink
@@ -86,34 +87,34 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1ztp-tR19BxgbucfILbWgRMd54VTmCO8E&export=download">
+<img src="/images/wanin_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Boozt Sports Beverage
 </h6> 
-<p>Pere Ocean's Boozt Isotonic Drink is the epitome of a tasty yet healthy drink! Not only does it contains essential vitamins such as vitamin B6 & vitamin B12, it also contains less sugar. Is it too true to be good? Do not worry. Our Boozt Isotonic Drink has been awarded as a Healthier Choice by the Health Promotion Board of Singapore.
+<p>Pere Ocean's Boozt Isotonic Drink is the epitome of a tasty yet healthy drink! Not only does it contains essential vitamins such as vitamin B6 &amp; vitamin B12, it also contains less sugar. Is it too true to be good? Do not worry. Our Boozt Isotonic Drink has been awarded as a Healthier Choice by the Health Promotion Board of Singapore.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1rU0WoAvHjKcQiRJrBWKCVqDxFtNKAyya&export=download">
+<img src="/images/wanin_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">FRUITTY VITAMINISED DRINK
 </h6> 
-<p>Fruitty Vitaminised Drink is the epitome of tasty yet healthy drink! Not only does it contains essential vitamins such as vitamin B6 & vitamin B12, it also contains less sugar. Is it too true to be good? Do not worry. Our Fruitty Vitaminised Drink has been awarded as a Healthier Choice by the Health Promotion Board of Singapore.
+<p>Fruitty Vitaminised Drink is the epitome of tasty yet healthy drink! Not only does it contains essential vitamins such as vitamin B6 &amp; vitamin B12, it also contains less sugar. Is it too true to be good? Do not worry. Our Fruitty Vitaminised Drink has been awarded as a Healthier Choice by the Health Promotion Board of Singapore.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=19C2kwpd84y5QeeZt5IUlBNC8kcdYfhFr&export=download">
+<img src="/images/wanin_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Pere Ocean Natural Mineral Water
 </h6> 
-<p>Natural mineral waters are the heart of our business. Our natural source of mineral water is tucked away in the lush greenery of Ulu Tiram, Malaysia. Every drop of Pere Ocean Natural Mineral Water is drawn from a 300 feet deep spring producing all-natural & fresh mineral water retaining its natural mineral composition.
+<p>Natural mineral waters are the heart of our business. Our natural source of mineral water is tucked away in the lush greenery of Ulu Tiram, Malaysia. Every drop of Pere Ocean Natural Mineral Water is drawn from a 300 feet deep spring producing all-natural &amp; fresh mineral water retaining its natural mineral composition.
 </p>
 </div> 
 </div> 

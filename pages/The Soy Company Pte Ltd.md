@@ -1,15 +1,16 @@
---- 
-title: The Soy Company Pte Ltd 
-permalink: /the-soy-company/ 
+---
+title: The Soy Company Pte Ltd
+permalink: /the-soy-company/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1BzEI_OoeLbnNKZrigHokqh8LZE9wgCTB&amp;export=download">
+<img src="/images/soy_company_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ryP9ZyPKmtCQJ4W7JDKM5m5EbPL7SIhJ&export=download">
+<img src="/images/soy_company_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">LeSoy Fresh Soy Milk
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1g5UtWkFlZ4PCE5orIyjEwdJWKO0r2qXq&export=download">
+<img src="/images/soy_company_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Mr Bean Soy Granola Bar
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1y2T6Q3nbcyj9R5OXmWpgGhslibd65KJp&export=download">
+<img src="/images/soy_company_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Mr Bean Crispy Soy Skin 

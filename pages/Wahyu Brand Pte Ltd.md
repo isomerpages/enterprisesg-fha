@@ -1,15 +1,16 @@
---- 
-title: Wahyu Brand Pte Ltd 
-permalink: /wahyu-brand/ 
+---
+title: Wahyu Brand Pte Ltd
+permalink: /wahyu-brand/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1m_yIENMiN5Wd0W2vO2qPTCc5-87RsCvY&amp;export=download">
+<img src="/images/wahyu_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=15jlvVd7gLBx_gqZ7o1LNDrI4uZeUbn2b&export=download">
+<img src="/images/wahyu_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sambal Belacan Power
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1nyEeAKqBsaFFyNu7NpyPRA4b7KSdOwze&export=download">
+<img src="/images/wahyu_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lemak Cili Padi paste
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=15K1hcGinSUgUqOQwnS4OUs0rR9VAApwo&export=download">
+<img src="/images/wahyu_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Bulu Ayam Salted Fish

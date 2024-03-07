@@ -1,8 +1,9 @@
---- 
-title: U Say Marketing Pte Ltd 
-permalink: /u-say-marketing/ 
+---
+title: U Say Marketing Pte Ltd
+permalink: /u-say-marketing/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1CzWloQ_ogfaAWB5oPgnzqf66iVWnqerx&export=download">
+<img src="/images/usay_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Fresh Cut Fruits
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1OM2j8K4LcvVHvNpseag4Ulp6EvEs5wiJ&export=download">
+<img src="/images/usay_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Indoor Hydroponic Vegetable Salads
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1IV5T00rivIQllUEXfm_p6eANka4JCVnT&export=download">
+<img src="/images/usay_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Peeled Roots Vegetables
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1sVDlKW3ZpidPZK8EE0ODLkl7dZde4kgw&export=download">
+<img src="/images/usay_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Fresh cut fruits in Snack packs

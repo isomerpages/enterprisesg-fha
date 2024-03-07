@@ -1,15 +1,16 @@
---- 
-title: Thai Sing Foodstuffs Industry Pte Ltd 
-permalink: /thai-sing-foodstuffs/ 
+---
+title: Thai Sing Foodstuffs Industry Pte Ltd
+permalink: /thai-sing-foodstuffs/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=17AjoJ0CLJS603j6xY5felvv7rNZFiEFK&amp;export=download">
+<img src="/images/thai_sing_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=132w1HEQujzpKfkYDLBju7cA3VGw7PMoV&export=download">
+<img src="/images/thai_sing_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Laksa Paste
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1JLckp4VBMiM-O-1mXd6gI4bA6OfEMSVu&export=download">
+<img src="/images/thai_sing_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Hainanese Chicken Rice
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1SXUraHyoybpHVnTCASC4R0Owwow7FlUD&export=download">
+<img src="/images/thai_sing_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nonya Curry Paste
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1eBm3XAzyVhYK-XAj3eOlVaNPwlftYPcs&export=download">
+<img src="/images/thai_sing_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chilli Crab Sauce

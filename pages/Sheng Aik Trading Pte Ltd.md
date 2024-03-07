@@ -1,15 +1,16 @@
---- 
-title: Sheng Aik Trading Pte Ltd 
-permalink: /sheng-aik-trading/ 
+---
+title: Sheng Aik Trading Pte Ltd
+permalink: /sheng-aik-trading/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1fbuIuEVtqEfIrRB9ZryHSds5aVE5GoVL&amp;export=download">
+<img src="/images/sheng_aik_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1SnqnNrsb1TXWvhUx7SUcARZ3iNRlF9N3&export=download">
+<img src="/images/sheng_aik_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BONZ CORNTWIZ Baked Corn Snacks
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1HVdGhXAu-Npq9s56GGKnwBOlF2x82haB&export=download">
+<img src="/images/sheng_aik_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BONZ Cereal Milk Drink
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=12wcioRZI4l4zvIO0RZDoibXt1nKD98Dp&export=download">
+<img src="/images/sheng_aik_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BONZ Cookie Snack
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1WqdwCh9ANTTcwXHdvxAD-e2-08sNxGPD&export=download">
+<img src="/images/sheng_aik_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BONZ Chocolate Coated Coffee Bean
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Mf_CaN4pCSfcEHZuKfja2bahAhaVOfFp&export=download">
+<img src="/images/sheng_aik_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BONZ Creme Praline Chocolate

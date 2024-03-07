@@ -1,15 +1,16 @@
---- 
-title: 13 Honey (S) Pte Ltd 
-permalink: /13-honey/ 
+---
+title: 13 Honey (S) Pte Ltd
+permalink: /13-honey/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1fexe4sMuWpZLbAAWwLaAU2FKTThuy13u&amp;export=download">
+<img src="/images/13_honey_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -24,7 +25,7 @@ description: ""
 </p> 
 </div> 
 <p>
-</div> 
+</p></div> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -59,7 +60,7 @@ description: ""
 <p style="padding: 10px; color: white;">
 <b>Tan Yan Ling
 </b>
-<br>>R&D Manager
+<br>&gt;R&amp;D Manager
 <br>+65 91912668
 <br>
 <a href="mailto:tan.yanling@13honey.sg" style="color: white;">tan.yanling@13honey.sg
@@ -73,11 +74,11 @@ description: ""
 <b>products
 </b>
 </h4>
-</p> 
+<p></p> 
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1AGm8E--_YBvZ64whehDT22xLO6EpGaRV&export=download">
+<img src="/images/13_honey_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Series Honey 250g
@@ -88,7 +89,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1S95xe2T5RSD0DPYDHlI8-ftY7_2aYyCE&export=download">
+<img src="/images/13_honey_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Honey Series 850g
@@ -99,7 +100,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1emlHkkjLbKvUSX1FUoYuFogW25r7LuQa&export=download">
+<img src="/images/13_honey_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Exclusive Series Honey 1.5kg
@@ -110,7 +111,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1oSZVQbDsuRNMGwO3TcoB9kQ9f1zRJdew&export=download">
+<img src="/images/13_honey_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Honeycomb
@@ -121,7 +122,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1y9y9lKid6w_aQ1MtAUb5-EjIlMxR5gCv&export=download">
+<img src="/images/13_honey_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">13 Honey Gift Sets

@@ -1,15 +1,16 @@
---- 
-title: SPW Food Industries Pte Ltd 
-permalink: /spw-food-industries/ 
+---
+title: SPW Food Industries Pte Ltd
+permalink: /spw-food-industries/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1mQRsHA64iezgWc-6SPFF8kR4zJPLwpBW&amp;export=download">
+<img src="/images/spw_food_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=15xFU5DHgNU5m0C_6x00F8Ba0KqPF6JoE&export=download">
+<img src="/images/spw_food_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Glutinous Rice Ball
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Y8yh1HQVAwdjEmIoWp-xGsejSzEh9KHa&export=download">
+<img src="/images/spw_food_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Shark Fin Soup

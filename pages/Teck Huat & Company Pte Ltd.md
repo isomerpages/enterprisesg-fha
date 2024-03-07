@@ -1,15 +1,16 @@
---- 
-title: Teck Huat & Company Pte Ltd 
-permalink: /teck-huat-company/ 
+---
+title: Teck Huat & Company Pte Ltd
+permalink: /teck-huat-company/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1Zah7gEeEZo8X_5RtXab5wG39qJgSSQWh&amp;export=download">
+<img src="/images/teck_huat_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1tul87E4hwdA5QvfE4L5qg1EdqGTu8GwS&export=download">
+<img src="/images/teck_huat_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lifeguard Sweetened Condensed Milk
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1xvYaZfvmHgDLbXuI9FANMBooRvMsqPsH&export=download">
+<img src="/images/teck_huat_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lifeguard Power Pack Multigrain Milk
@@ -97,10 +98,10 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.">
+<img src="/images/teck_huat_product3.png">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">truffle mushroom bun
+<h6 style="text-transform: uppercase; color: black;">nuts about you multigrain milk
 </h6> 
 <p>product description
 </p>
@@ -108,21 +109,10 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive">
+<img src="/images/teck_huat_product4.png">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">bbq pork Bun
-</h6> 
-<p>prodcut description
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="https://drive">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Pork siew mai
+<h6 style="text-transform: uppercase; color: black;">beau-tea milk tea with collagen
 </h6> 
 <p>product description
 </p>

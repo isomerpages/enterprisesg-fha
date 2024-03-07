@@ -1,15 +1,16 @@
---- 
-title: Seriously Keto Pte Ltd 
-permalink: /seriously-keto/ 
+---
+title: Seriously Keto Pte Ltd
+permalink: /seriously-keto/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=10SgQnrwYsOsK82DA4z_rdEDcZcuXeD1I&amp;export=download">
+<img src="/images/seriously_keto_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1crmeb8AZ_fZaihhC-nlnaRkKvet3QTLW&export=download">
+<img src="/images/seriously_keto_product1.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">SK New York Cheesecake
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1JlGI4VNF46Bf2o3EDqNmn2IZPnOwSbfL&export=download">
+<img src="/images/seriously_keto_product2.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Mini Madeleines

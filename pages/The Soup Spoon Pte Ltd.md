@@ -1,15 +1,16 @@
---- 
-title: The Soup Spoon Pte Ltd 
-permalink: /the-soup-spoon/ 
+---
+title: The Soup Spoon Pte Ltd
+permalink: /the-soup-spoon/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1v1zIJy6qWIhJ7itG5nRpSZzN5jNLRipO&amp;export=download">
+<img src="/images/soup_spoon_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1iVNpFyzp7jzeGE0AfHV3xltLYvSvaUQd&export=download">
+<img src="/images/soup_spoon_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Soup Spoon Velvety Mushroom Stroganoff
@@ -86,10 +87,10 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1MvQrWxZt8suIy1V5efLmpvM6oY-bJwYd&export=download">
+<img src="/images/soup_spoon_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">The Soup Spoon SG Chicken & Mushroom Ragout
+<h6 style="text-transform: uppercase; color: black;">The Soup Spoon SG Chicken &amp; Mushroom Ragout
 </h6> 
 <p>“Parsley, Sage, Rosemary and Thyme…” as the song goes in Scarborough Fair/ Canticle released by the duo Simon and Garfunkel in 1966. This ragout pays tribute to one of the most influential music groups. Notably rich and creamy, this stew is filled with marinated chunks of chicken that are cooked together with six varieties of mushrooms and the infamous foursome herbs known for their mood-enhancing, cleansing and antioxidant abilities.
 </p>
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1mk1tRxCxFrQ3wDad_Bt40orSI1b6bYR8&export=download">
+<img src="/images/soup_spoon_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Soup Spoon Chilli Crab Sauce with Egg
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1NRm3ka9LbU0eYysd06K5mFq3GK0_eLJk&export=download">
+<img src="/images/soup_spoon_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Soup Spoon Black Pepper Crab Sauce
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1_axxy6redu_g173MgcWNFgyW1Qd5664l&export=download">
+<img src="/images/soup_spoon_product5.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Soup Spoon Barramundi Kimchi Jjigae

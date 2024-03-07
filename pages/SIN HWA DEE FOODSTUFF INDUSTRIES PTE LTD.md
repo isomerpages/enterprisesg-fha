@@ -1,15 +1,16 @@
---- 
-title: SIN HWA DEE FOODSTUFF INDUSTRIES PTE LTD 
-permalink: /sin-hwa-dee/ 
+---
+title: SIN HWA DEE FOODSTUFF INDUSTRIES PTE LTD
+permalink: /sin-hwa-dee/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1CiykwJKNBws9fhcnFuNv8iTe3EiYbiTh&amp;export=download">
+<img src="/images/shd_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1L3r-0pcx7RAMoSpIr3JejDlHSS8N20Tr&export=download">
+<img src="/images/shd_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chng Kee's Hainanese Chicken Rice Mix
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=189rQn0aYLWCnTwP3mTGAPqTn5hvv-MsD&export=download">
+<img src="/images/shd_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chng Kee's Oriental Barbecue Sauce
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1pO97foqfnyISzkGeQf52xvx3ZQoTOrWN&export=download">
+<img src="/images/shd_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chng Kee's Black Pepper Sauce
 </h6> 
-<p>Perfectly blended using ground black pepper and other spices. It is a ready-to-use aromatic and peppery for stir-frying any seafood (e.g; crab & prawns) and meat (e.g; beef) dishes. It is also excellent as a gravy, dip, salad dressing or pasta sauce.
+<p>Perfectly blended using ground black pepper and other spices. It is a ready-to-use aromatic and peppery for stir-frying any seafood (e.g; crab &amp; prawns) and meat (e.g; beef) dishes. It is also excellent as a gravy, dip, salad dressing or pasta sauce.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Y_LXgCxMcROnVejvpd33CkoYOVkEC6fP&export=download">
+<img src="/images/shd_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chng Kee's Laksa Paste

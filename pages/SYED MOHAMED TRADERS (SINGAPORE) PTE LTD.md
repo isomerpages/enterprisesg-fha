@@ -1,15 +1,16 @@
---- 
-title: SYED MOHAMED TRADERS (SINGAPORE) PTE LTD 
-permalink: /syed-mohamed-traders/ 
+---
+title: SYED MOHAMED TRADERS (SINGAPORE) PTE LTD
+permalink: /syed-mohamed-traders/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1cPMDE2WTRxU_znCqTU-SNqel1tzLZ59W&amp;export=download">
+<img src="/images/syed_mohamed_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1bShNgudHfXVvOhUStN8RnCPzDCiVNxoP&export=download">
+<img src="/images/syed_mohamed_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Anarkali Super Extra Long Classic Basmati Rice
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ASpPfczr6GwLfHo2rgEQ9omXDgLdbA7Z&export=download">
+<img src="/images/syed_mohamed_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Syed Deglet Nour Selected Pitted Tunisian Dates
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=156vkWJYh2SBYHStqaC2cMOa0LpQ99wJY&export=download">
+<img src="/images/syed_mohamed_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Syed Arabian Jewel Premium Fard Dates
 </h6> 
-<p>These dates are little Jewels of health wrapped with the goodness of nutrition. They are carefully sourced from the sacred treasures of Mother nature, efficiently cleaned with steamed water & well-dried before being thoughtfully packed, keeping the nutritious value intact. Their pearl-like appearance is distinguished with a glossy and naturally waxy outer skin covering its satin-smooth surface. An exquisite gift for your loved ones to relish and a delightful snack for you to savour. Syed Tunisia Arabian Jewel Fard Dates are hygienically packed fresh in Singapore, using zip lock pouches with Modern Technology. This product has attained Healthier Choice Symbol.
+<p>These dates are little Jewels of health wrapped with the goodness of nutrition. They are carefully sourced from the sacred treasures of Mother nature, efficiently cleaned with steamed water &amp; well-dried before being thoughtfully packed, keeping the nutritious value intact. Their pearl-like appearance is distinguished with a glossy and naturally waxy outer skin covering its satin-smooth surface. An exquisite gift for your loved ones to relish and a delightful snack for you to savour. Syed Tunisia Arabian Jewel Fard Dates are hygienically packed fresh in Singapore, using zip lock pouches with Modern Technology. This product has attained Healthier Choice Symbol.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1kg9lOPHrpyjxVO-AZ8sxi5UWDpr1Jloz&export=download">
+<img src="/images/syed_mohamed_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Anarkali Super Basmati Premium Rice
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1fU2_uQr05Avdhci_W_ZS3D6-Ar3uePqh&export=download">
+<img src="/images/syed_mohamed_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Anarkali Gold Whole Wheat Atta Flour
