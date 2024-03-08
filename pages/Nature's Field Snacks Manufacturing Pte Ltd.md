@@ -1,15 +1,16 @@
---- 
-title: Nature's Field Snacks Manufacturing Pte Ltd 
-permalink: /natures-field-snacks/ 
+---
+title: Nature's Field Snacks Manufacturing Pte Ltd
+permalink: /natures-field-snacks/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1JCrLq0d54UlCHlwteAzNQkGtsmVYuZO6&amp;export=download">
+<img src="/images/nature_field_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ljicCf_Mwf4vlkmxnsRHic7gR_JEFy2m&export=download">
+<img src="/images/nature_field_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Abalone Macadamia Nuts
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1yFBZ1jT6kI7dxIRpQEgP8vgQsMo95jxC&export=download">
+<img src="/images/nature_field_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Cocoa Cashews
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1FEr9Zd_XIbE0AvC83pFUN2lx4fwoQ8lv&export=download">
+<img src="/images/nature_field_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Honey Pecans
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1C1RZVLUHzbFqkjXYQNfujnEvSFn1yNC4&export=download">
+<img src="/images/nature_field_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Baked Garlic Cashew
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1xmMhdfTa2o9Nu2Dm80zxMfM0M2VSlt-2&export=download">
+<img src="/images/nature_field_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Honey Macadamia
