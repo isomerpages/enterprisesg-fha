@@ -1,15 +1,16 @@
---- 
-title: Lovearth Water Pte Ltd 
-permalink: /lovearth-water/ 
+---
+title: Lovearth Water Pte Ltd
+permalink: /lovearth-water/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1HIl6nB9nqgmFWvi87iZMOzQ7TtiU7KNi&amp;export=download">
+<img src="/images/lovearth_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1JPUB4_6DH3SKwJyeoyy8qTn5l7_doPh8&export=download">
+<img src="/images/lovearth_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Oxygenated Premium Drinking Water
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1bs8TtdtnCuDnUU5fL_lVOEI2RPyMkj6c&export=download">
+<img src="/images/lovearth_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nano-Artesian® Alkaline Water
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=18v2PkRrkbNUbNjlwZqQEmK1NYUYdzQCo&export=download">
+<img src="/images/lovearth_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Manual Counter Top Bottling Solution
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1nS5phf2SIlbs4rKG-JwYVM9Xmjv5CPVM&export=download">
+<img src="/images/lovearth_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lovearth Water Dispenser
