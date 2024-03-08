@@ -1,15 +1,16 @@
---- 
-title: Oishi Manufacturing Pte Ltd 
-permalink: /oishi-manufacturing/ 
+---
+title: Oishi Manufacturing Pte Ltd
+permalink: /oishi-manufacturing/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1oMqykPhUzJYvUXz2xdDYPwKGtPW-Bc7e&amp;export=download">
+<img src="/images/oishi_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -77,23 +78,23 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1zta6l46-MFmL1JZc93YXcK9Dm2XpxXQK&export=download">
+<img src="/images/oishi_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Waffle Premix
 </h6> 
-<p> Premium Tasty Waffle Premix, In Powder State with 18 months shelf life .come in 6 different ready made flavour : Original , Chocolate , Bamboo Charcoal , Red Velvet , Matcha Green Tea & Purple Potato.
+<p> Premium Tasty Waffle Premix, In Powder State with 18 months shelf life .come in 6 different ready made flavour : Original , Chocolate , Bamboo Charcoal , Red Velvet , Matcha Green Tea &amp; Purple Potato.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=11gCeTu5jPq3CfHopRcgT84BcYvXfJhiU&export=download">
+<img src="/images/oishi_product2.jpeg">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Artisanal Ice Cream & Gelato Wholesale Supply
+<h6 style="text-transform: uppercase; color: black;">Artisanal Ice Cream &amp; Gelato Wholesale Supply
 </h6> 
-<p>Wide range of flavours available , Beside Ready available in Frozen Finish product , Come in handy easy to use Ready Gelato premix & related Ingredients for Ice Cream Maker to manufacture their own Ice Cream and Gelato.
+<p>Wide range of flavours available , Beside Ready available in Frozen Finish product , Come in handy easy to use Ready Gelato premix &amp; related Ingredients for Ice Cream Maker to manufacture their own Ice Cream and Gelato.
 </p>
 </div> 
 </div> 
