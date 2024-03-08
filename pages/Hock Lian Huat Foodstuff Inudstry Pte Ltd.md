@@ -1,15 +1,16 @@
---- 
-title: Hock Lian Huat Foodstuff Inudstry Pte Ltd 
-permalink: /hock-lian-huat/ 
+---
+title: Hock Lian Huat Foodstuff Inudstry Pte Ltd
+permalink: /hock-lian-huat/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1jnGGsQt0fehGFaosVCLcluyEHAiUe7Uu&amp;export=download">
+<img src="/images/hlh_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1OtG7LeMrxLQQq1XlItEPSKCZAZ6aHNS2&export=download">
+<img src="/images/hlh_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Traditional Five Spice Meat Roll
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1HUIMgNMR4DtYQ-9W18tEiSLFEOfshBhG&export=download">
+<img src="/images/hlh_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Sotong Youtiao
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1QM-qV5pGpSKR-4ivMZ8bw3W2gLth72Ph&export=download">
+<img src="/images/hlh_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Teochew Prawn Date
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1rBr7dH_Z2aLKEAajEOZQeRLCf7NXNDO0&export=download">
+<img src="/images/hlh_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Crispy Golden Fish Roe
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1RR6gTfRTlAw5QU74tn--qoJM6EmpHffY&export=download">
+<img src="/images/hlh_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chilli Sauce
