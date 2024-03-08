@@ -1,15 +1,16 @@
---- 
-title: Kim Hing Food Industries Pte Ltd 
-permalink: /kim-hing-food/ 
+---
+title: Kim Hing Food Industries Pte Ltd
+permalink: /kim-hing-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1xz3NM-BHdkBLOP4n9rzn-15xzdMPJGfx&amp;export=download">
+<img src="/images/kim_hing_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -74,7 +75,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1RN4GeCloY6n1zKxksPpTzH8cmY0GpYos&export=download">
+<img src="/images/kim_hing_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Superior Jin Si Guan Yan Bird's Nest (Reduced Sugar) (75g X 6's)
@@ -85,7 +86,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1v9V-IswlrpcDwxmGab6-W52jRxP5w5AI&export=download">
+<img src="/images/kim_hing_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Superior Jin Si Guan Yan Bird's Nest With Rock Sugar (75g X 6's)
@@ -96,7 +97,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Ma1pGQ4iAD5oqF3GbZtRop-nD4okMup8&export=download">
+<img src="/images/kim_hing_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Superior Jin Si Bird's Nest With Rock Sugar (150g)
@@ -107,7 +108,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1oIu0wco5nBc72skZoPSRm0gWFgMvp0NU&export=download">
+<img src="/images/kim_hing_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Superior Jin Si Yan Concentrated Bird's Nest With Rock Sugar (150g)
@@ -118,7 +119,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1acRxOS-yCwbfry65z9yNVy4Z1p_GqBiS&export=download">
+<img src="/images/kim_hing_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Royal Concentrated Bird's Nest With Rock Sugar (150G)
