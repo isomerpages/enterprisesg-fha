@@ -1,15 +1,16 @@
---- 
-title: Oh Huat Hin Sesame Oil Manufacturer 
-permalink: /oh-huat-hin/ 
+---
+title: Oh Huat Hin Sesame Oil Manufacturer
+permalink: /oh-huat-hin/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Vnx5EokkGdf4mU95Wu365-9rCR22LyC1&amp;export=download">
+<img src="/images/oh_huat_hin_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1_PnHmc9sQy4OXpEhqnih_ikoZ1UiUlKu&export=download">
+<img src="/images/oh_huat_hin_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Double Happiness 100% Pure Fragrance Sesame Oil 750ML
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1vaWmwpd8uydgdrb4xxavjMtjb1rZ1h8q&export=download">
+<img src="/images/oh_huat_hin_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Pure Sesame Oil 150ML
