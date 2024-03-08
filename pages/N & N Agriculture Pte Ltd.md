@@ -1,8 +1,9 @@
---- 
-title: N & N Agriculture Pte Ltd 
-permalink: /n-n-agriculture/ 
+---
+title: N & N Agriculture Pte Ltd
+permalink: /n-n-agriculture/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,45 +76,45 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1JDKFsIkNMVicg9kP3VLVmX1HVZR8a7E7&export=download">
+<img src="/images/nn_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">N&N Fresh Shell Eggs
+<h6 style="text-transform: uppercase; color: black;">N&amp;N Fresh Shell Eggs
 </h6> 
-<p>- Grade AA Freshness - Supreme Taste and Nutrition - Specially-formulated feed of corn, soya and multigrain enriched with essential vitamins & minerals - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic & Biosecure Singapore farm facilities for maximum food safety - Available in various size (40g – 70g) - Freshly produced in Singapore - Packing formats (6s, 10s, 15s, 30s)
+<p>- Grade AA Freshness - Supreme Taste and Nutrition - Specially-formulated feed of corn, soya and multigrain enriched with essential vitamins &amp; minerals - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic &amp; Biosecure Singapore farm facilities for maximum food safety - Available in various size (40g – 70g) - Freshly produced in Singapore - Packing formats (6s, 10s, 15s, 30s)
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1ajJO_M2aoeJOGUSOuVo-jWlIRwHXDpy5&export=download">
+<img src="/images/nn_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Egg Story Pasteurized Fresh Shell Egg
 </h6> 
-<p>- Stringently Pasteurized to kill Salmonella and Bird Flu Virus that may be present inside and outside the eggs - Food safety assured for raw and runny-egg recipes - Ideal for individuals with lower immunity - Reduced risk of egg-related cross contamination in food preparation areas - 1st and only Pasteurized Fresh Shell Eggs produced by Singapore farm - Grade AA Freshness - Supreme Taste and Nutrition - Specially -formulated feed of corn, soya and multigrain enriched with essential vitamins & minerals - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic & Biosecure Singapore farm facilities for maximum food safety - Available in various size (50g – 60g) - Packing formats available : 6s / 10s / 15s egg boxes or 30s egg trays
+<p>- Stringently Pasteurized to kill Salmonella and Bird Flu Virus that may be present inside and outside the eggs - Food safety assured for raw and runny-egg recipes - Ideal for individuals with lower immunity - Reduced risk of egg-related cross contamination in food preparation areas - 1st and only Pasteurized Fresh Shell Eggs produced by Singapore farm - Grade AA Freshness - Supreme Taste and Nutrition - Specially -formulated feed of corn, soya and multigrain enriched with essential vitamins &amp; minerals - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic &amp; Biosecure Singapore farm facilities for maximum food safety - Available in various size (50g – 60g) - Packing formats available : 6s / 10s / 15s egg boxes or 30s egg trays
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1bQ7ZF1yvXOOjldquJDHibPsty7f0tRFC&export=download">
+<img src="/images/nn_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Egg Story Pasteurized Liquid Egg (Chiller or frozen)
 </h6> 
-<p>- Made from nutritious and tasty fresh eggs produced in Singapore daily - 100% free from preservatives and artificial colouring - Stringent pasteurization process to ensure Food Safety - Convenient, Ready to use - Labour and Cost Savings - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic & Biosecure Singapore farm facilities for maximum food safety - Packing in pillow bags of various sizes (1kg, 2kg, 5kg) – chilled or frozen
+<p>- Made from nutritious and tasty fresh eggs produced in Singapore daily - 100% free from preservatives and artificial colouring - Stringent pasteurization process to ensure Food Safety - Convenient, Ready to use - Labour and Cost Savings - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic &amp; Biosecure Singapore farm facilities for maximum food safety - Packing in pillow bags of various sizes (1kg, 2kg, 5kg) – chilled or frozen
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1_fNi_B6DYAiEwUn8Rzo5rGZ54iQmWQUy&export=download">
+<img src="/images/nn_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Egg story Pasterized Soft Yolk Ramen Egg (Marinated)
 </h6> 
-<p>- Authentic Japanese recipe. Delectable taste - Made from nutritious and tasty fresh eggs produced in Singapore daily - 100% free from preservatives and artificial colouring - Stringent pasteurization process to ensure Food Safety - Convenient, Ready to eat or use - Labour and Cost Savings - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic & Biosecure Singapore farm facilities for maximum food safety - Marinated or non-marinated depending on preference - Packing in packets of 2 pieces in sauce and trays of 20 pieces in sauce or boiled water (based on preference)
+<p>- Authentic Japanese recipe. Delectable taste - Made from nutritious and tasty fresh eggs produced in Singapore daily - 100% free from preservatives and artificial colouring - Stringent pasteurization process to ensure Food Safety - Convenient, Ready to eat or use - Labour and Cost Savings - Laying flock not administered any antibiotics - ISO 22000 certified quality control standards - Hygienic &amp; Biosecure Singapore farm facilities for maximum food safety - Marinated or non-marinated depending on preference - Packing in packets of 2 pieces in sauce and trays of 20 pieces in sauce or boiled water (based on preference)
 </p>
 </div> 
 </div> 
