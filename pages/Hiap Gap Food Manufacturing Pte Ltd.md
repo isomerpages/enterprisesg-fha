@@ -1,15 +1,16 @@
---- 
-title: Hiap Gap Food Manufacturing Pte Ltd 
-permalink: /hiap-giap-food/ 
+---
+title: Hiap Gap Food Manufacturing Pte Ltd
+permalink: /hiap-giap-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1a8lsJknuKzbpCuS3tdQ3WN9qWy5eNKn-&amp;export=download">
+<img src="/images/hiap_giap_logo.JPG">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1pymCnGp4dU0VBXRNXRTiySh8SRiVYHtx&export=download">
+<img src="/images/hiap_giap_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">The Noodle Factory Chilli Crab Ramen
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1lbgqjHR5gTeip16sqq34iXg37LdyyMdV&export=download">
+<img src="/images/hiap_giap_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> The Noodle Factory Laksa Ramen
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1ngab_mFRewajC_h0z2fdO4VruGtIZ1Zy&export=download">
+<img src="/images/hiap_giap_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nutritious Noodles
 </h6> 
-<p>A range of nutritious noodle options leading our product range. We believe you are what you eat, our nutritious noodle are tasty, high nutrition benefits and sustainable. With the focus on food technology, our range of noodles comes with low GI, high fibre, support healthy gut, support heart health. Good Gut Noodles, High Fibre Noodles, Wholegrain Noodles, Quinoa Noodles, Gluten Free Noodles….
+<p>A range of nutritious noodle options leading our product range. We believe you are what you eat, our nutritious noodle are tasty, high nutrition benefits and sustainable. With the focus on food technology, our range of noodles comes with low GI, high fibre, support healthy gut, support heart health. E.g. Good Gut Noodles, High Fibre Noodles, Wholegrain Noodles, Quinoa Noodles, Gluten Free Noodles 
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1n6lg-SF-7SlkV9xeVzs6fmHTzi4utohD&export=download">
+<img src="/images/hiap_giap_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Traditional Noodles
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1hUbtoyTcKR4jgp7hvMp1eYQp0tNFONUt&export=download">
+<img src="/images/hiap_giap_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Dim Sum Skin
