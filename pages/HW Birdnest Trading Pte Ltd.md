@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="/images/hw_birdnest_logo">
+<img src="/images/hw_birdnest_logo.jpg">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="/images/hw_birdnest_product1.png/">
+<img src="/images/hw_birdnest_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ready-to-eat Bottled Bird's Nest (Made in Singapore)
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1WVng3ZLFn9Vd568USJ6T3OYvGRgRldDy&amp;export=download">
+<img src="/images/hw_birdnest_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> GOLDEN COW Special Grade Imperial Golden Bird's Nest
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1vRHLNgXi7MeFQCm-DaOTo9isOl--b3A1&amp;export=download">
+<img src="/images/hw_birdnest_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ready-to-eat Cave Bird's Nest Beverage
@@ -109,7 +109,7 @@ variant: markdown
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?id=1PyyNdV59IZyIeAMSA9h2K3u05YlmeI1h&amp;export=download">
+<img src="/images/hw_birdnest_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Concentrated Bottled Bird's Nest
