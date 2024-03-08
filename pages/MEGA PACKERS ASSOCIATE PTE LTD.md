@@ -1,15 +1,16 @@
---- 
-title: MEGA PACKERS ASSOCIATE PTE LTD 
-permalink: /mega-packers-associate/ 
+---
+title: MEGA PACKERS ASSOCIATE PTE LTD
+permalink: /mega-packers-associate/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1fufMrZlhg1h_pRkWPjkzIyuVqXUqsn80&amp;export=download">
+<img src="/images/mega_packer_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -71,7 +72,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1TcwS7wuAmQMdZHfZCLBloCbk40u_Dzg1&export=download">
+<img src="/images/mega_packer_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">READY TO EAT POULTRY PRODUCTS
@@ -82,7 +83,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1R5J2CAkg_acdCoC2iBpl7CtplEiRqP5r&export=download">
+<img src="/images/mega_packer_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Beef, Lamb, Mutton, Poultry
