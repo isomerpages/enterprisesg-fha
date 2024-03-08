@@ -1,15 +1,16 @@
---- 
-title: Mei Heong Yuen Food Industries Pte Ltd 
-permalink: /mei-heong-yuen/ 
+---
+title: Mei Heong Yuen Food Industries Pte Ltd
+permalink: /mei-heong-yuen/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1w6GVtTm2TiM8_9te33krQ2z37quIRDER&amp;export=download">
+<img src="/images/mhy_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1fb9ko4tX0V7TblZxOo2cJ8ko7HZvAnwV&export=download">
+<img src="/images/mhy_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Roasted/Garlic/Shandong Peanuts
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=183SCFpINMaejYR6jsPM6D0JB_8fEKpdb&export=download">
+<img src="/images/mhy_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Farmer Brand Ban Mee Original/Seaweed/Brown rice/pumpkin/purple potato/Beetroot
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1zLMSleWaAfx6nYelU73bIJD10rcD8daR&export=download">
+<img src="/images/mhy_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Farmer Brand Family series Mee Sua/Knife Sliced noodle
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1FzhEmUOVWxpAKeoTtYfH6RQASZ81cvg_&export=download">
+<img src="/images/mhy_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Farmer Brand Knife Sliced Noodle (Scallion oil/Spicy Mala)
