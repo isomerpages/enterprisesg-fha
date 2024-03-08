@@ -1,15 +1,16 @@
---- 
-title: Meod Pte Ltd 
-permalink: /meod/ 
+---
+title: Meod Pte Ltd
+permalink: /meod/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1MU5c9gj9acAM2pjIJRTXkGZ7hukH8Vh8&amp;export=download">
+<img src="/images/meod_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1bFNwyDbeFHEtjKpq2lz8KVwhUVv6Gsd7&export=download">
+<img src="/images/meod_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Leafy Me - Red Pak Choy
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1CLCKZ5ffzXZYmnJWnreftYDVGFtRxtGJ&export=download">
+<img src="/images/meod_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Quinoa Salad
