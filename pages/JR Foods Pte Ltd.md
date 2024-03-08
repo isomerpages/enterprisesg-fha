@@ -1,15 +1,16 @@
---- 
-title: JR Foods Pte Ltd 
-permalink: /jr-foods/ 
+---
+title: JR Foods Pte Ltd
+permalink: /jr-foods/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1id8S3d1yTDdH327Jt9x9AgRbNyxUv2om&amp;export=download">
+<img src="/images/jr_foods_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Pe0QiXHcgalCzMgv3NYjyMER-MtLLyzu&export=download">
+<img src="/images/jr_foods_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHEF-IN-BOX / Ready-to-eat Meals
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1ynWoQhaCRFHHVw0SDGgXRi-SrLN_GtbP&export=download">
+<img src="/images/jr_foods_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> CHEF-IN-BOX PLANT-BASED READY-TO-EAT-MEALS
