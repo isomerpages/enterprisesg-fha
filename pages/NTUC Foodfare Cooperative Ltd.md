@@ -1,15 +1,16 @@
---- 
-title: NTUC Foodfare Cooperative Ltd 
-permalink: /ntuc-foodfare/ 
+---
+title: NTUC Foodfare Cooperative Ltd
+permalink: /ntuc-foodfare/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1t4mHbkkQ1DXDmD-l90SS9FG35ABAzUFY&amp;export=download">
+<img src="/images/ntuc_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1QW68STdPmN56jQ5733ik8LBwcsebZvDq&export=download">
+<img src="/images/ntuc_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chef's Finest Rosemary Chicken
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1QqS4I6ulK5xJkz2bo3bSdM3oyPh9E22v&export=download">
+<img src="/images/ntuc_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chef's Finest Wholemeal Spaghetti Chicken Bolognese
@@ -97,12 +98,12 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1-7a7Mxg0YRRryiWCntzhq-j_CCE3e4uo&export=download">
+<img src="/images/ntuc_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chef's Finest Braised Soy Chicken
 </h6> 
-<p>Low GI Braised Soy Chicken with Chicken Rice & Cabbage and Carrots Frozen Ready-to-Eat Meal
+<p>Low GI Braised Soy Chicken with Chicken Rice &amp; Cabbage and Carrots Frozen Ready-to-Eat Meal
 </p>
 </div> 
 </div> 
