@@ -1,8 +1,9 @@
---- 
-title: Homes Favourite Pte Ltd 
-permalink: /homes-favourite/ 
+---
+title: Homes Favourite Pte Ltd
+permalink: /homes-favourite/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1cgtPXhCA78uIY8zddi4De4UsfflDmCz0&export=download">
+<img src="/images/home_s_favourite_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Snap Snap
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1UW5nk2O-kyyJmwJfrx0_hIIlar49xdtp&export=download">
+<img src="/images/home_s_favourite_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Snow Skin 100% Durian Mooncake
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=13r8vCV6RFJ5Hac8m8cFXP_IpucUEcvJv&export=download">
+<img src="/images/home_s_favourite_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Home's Favourite Cookies Bags and Boxes
