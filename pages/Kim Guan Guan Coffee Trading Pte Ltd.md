@@ -7,12 +7,12 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/kim_guan_guan_logo.png">
+			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4>
 			<p>Kim Guan Guan Coffee (KGG) has its humble beginning in 1988, supplying quality Singapore traditional coffee powder to local coffeeshops. Today, we are an integrated company that imports, roasts, packs and supplies traditional ground coffee to more than 1,000 food &amp; beverage operators in Singapore.</p>
-			<p>KGG has recently introduced Kim's Duet, a product range formulated with consumers' health benefits as the priority. The Singapore steep coffee and tea combine quality traditional taste with the convenience of single servings, perfect for those who are looking for a fuss-free way to enjoy an authentic cup of traditional coffee and tea anytime, anywhere.</p>
+			<p>KGG has recently introduced Kim's Duet, a product range formulated with consumers' health benefits as the priority. The Singapore steep coffee and tea bags combined quality traditional taste with the convenience of single servings, perfect for those who are looking for a fuss-free way to enjoy an authentic cup of traditional coffee and tea anytime, anywhere.</p>
 			<p><a target="_blank" href="https://www.kimguanguan.com.sg">www.kimguanguan.com.sg</a></p>
 		</div>
 	</div>
@@ -43,9 +43,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Nataline Chui</b>
-				<br>Marketing Manager<br>+65 9362 0951<br>
-				<a style="color: white;" href="mailto:nataline@kimguanguan.com">nataline@kimguanguan.com</a>
+				<b>Karen Chua</b>
+				<br>Marketing Director<br>+65 6281 5055 / +65 8125 3159<br>
+				<a style="color: white;" href="mailto:karen@kimguanguan.com">karen@kimguanguan.com</a>
 			</p>
 		</div>
 	</div>
@@ -57,21 +57,22 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/kim_guan_guan_product_01.jpg">
+			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Singapore Steep Coffee</h6>
-			<p>Kim's Duet is a Singaporean brand by Kim Guan Guan Coffee, a leading purveyor of Singapore Traditional Coffee established since 1988. The Kim's Duet team focuses on roasting Robusta beans in small batches at their ISO-22000 Certified local roastery to achieve the distinctive bittersweet roast that Singaporeans know and love. The caramelised coffee beans are then ground, packed and sealed within the same day to lock in the freshness and the aroma. All recipes are designed with your well-being in mind through quality ingredients and a lower sugar formula without compromising on the taste. These single-serve bags are perfect for those who are looking for an easy fuss-free way to enjoy an authentic cup of Singapore Traditional Coffee wherever they are.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kim Guan Guan Singapore Traditional Coffee Power and Tea Dust</h6>
+			<p>Singapore Traditional Coffee is a uniquely Singaporean product with a long history and culture. It is first roasted with caramelised sugar and margarine, and then brewed using a traditional ""hand-pulling"" method, which allows the brew to achieve a silky-smooth consistency.</p>
+			<p>The unique Singapore kopi is made from Robusta beans, which contain a higher dosage of caffeine. Singapore Coffee's own uniquely aromatic and full-bodied taste is also what differs it from International Gourmet Coffee which is brewed using Arabica coffee.</p>
+			<p>KGG's vision is to produce top quality traditional coffee through continuous improvement in the manufacturing process with the mission to preserve and share the unique culture of traditional coffee in Singapore to one and all.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/kim_guan_guan_product_02.jpg">
+			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Oat Milk Kopi-C Kosong and Oat Milk Hot Cocoa</h6>
-			<p>Oat Milk Kopi-C Kosong<br>The first of its kind in the market, Kim's Duet Oat Milk Kopi-C Kosong merges the best of both worlds – the rich aroma and robust taste of Singaporean coffee and the guilt-free creaminess of oat milk without any added sugar. Conveniently packed in a single-serve filter bag, this delicious concoction is made of 100% pure ground coffee and oat milk powder with no artificial flavouring. Coffee aficionados can now get to enjoy their favourite vegan-friendly local coffee in just 3 minutes from the comfort of their own home.</p>
-			<p>Oat Milk Hot Cocoa<br>Your favourite cup of warm hot cocoa  is a guilty pleasure no more – Kim's Duet Oat Milk Hot Cocoa is made with 12%  quality cocoa and minimal sugar. This vegan-friendly chocolatey goodness is suitable for the young and the young at heart! With no artificial flavouring and no palm oil, parents can opt for this healthier alternative as a stepping stone to introducing non-dairy milk options to their little ones.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Singapore Steep Coffee</h6>
+			<p>Kim's Duet is a Singaporean brand by Kim Guan Guan Coffee, a leading purveyor of Singapore Traditional Coffee established since 1988. The Kim's Duet team focuses on roasting Robusta beans in small batches at their ISO-22000 Certified local roastery to achieve the distinctive bittersweet roast that Singaporeans know and love. The caramelised coffee beans are then ground, packed and sealed within the same day to lock in the freshness and the aroma. All recipes are designed with your well-being in mind through quality ingredients and a lower sugar formula without compromising on the taste. These single-serve bags are perfect for those who are looking for an easy fuss-free way to enjoy an authentic cup of Singapore Traditional Coffee wherever they are.</p>
 		</div>
 	</div>
 </div>
