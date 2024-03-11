@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/prima_food_logo.png">
+			<img src="/images/Prima%20Food/prima_food_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Prima Food Pte Ltd</b></h4>
@@ -26,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces, Rice and Noodles</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified
@@ -43,9 +43,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Gina Lau</b>
-				<br>Asst. Business Development Manager<br>+65 9738 9040<br>
-				<a style="color: white;" href="mailto:gina.lau@prima.com.sg">gina.lau@prima.com.sg</a>
+				<b>Low Fatt Mun</b>
+				<br>Franchise Development Manager<br>+65 9747 9796<br>
+				<a style="color: white;" href="mailto:fmlow@prima.com.sg">fmlow@prima.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -57,7 +57,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/prima_food_product_01.jpg">
+			<img src="/images/Prima%20Food/prima_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Prima Taste LaMian</h6>
@@ -66,7 +66,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/prima_food_product_02.jpg">
+			<img src="/images/Prima%20Food/prima_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Prima Taste Complete Sauce</h6>
