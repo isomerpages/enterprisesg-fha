@@ -7,11 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/tat_hui_logo.png">
+			<img src="/images/Tat%20Hui/tat_hui_logo.jpg">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tat Hui Foods Pte Ltd</b></h4>
-			<p>Manufacturer of instant noodles.</p>
+			<p>A Singaporean brand that began in 1986, KOKA aims to preserve the authenticity and richness of Singaporean flavors through its wide range of products and deliver this experience to its customers around the world.</p>
 			<p><a target="_blank" href="https://www.kokanoodles.com">www.kokanoodles.com</a></p>
 		</div>
 	</div>
@@ -28,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Rice and Noodles</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, BRC Certified
+				<b>Certifications: </b>Halal Certified, HACCP Certified, BRC Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>UK, Ireland, Portugal, India, China, UAE, Qatar, Oman, Kuwait, Australia
+				<b>Export Markets: </b>Europe, Middle East, China, South East Asia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Jerrold Lim</b>
-				<br>Manager<br>+65 9658 7686<br>
+				<br>Manager<br>+65 6261 1010<br>
 				<a style="color: white;" href="mailto:jerroldlim@tathui.com">jerroldlim@tathui.com</a>
 			</p>
 		</div>
@@ -56,20 +56,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tat_hui_product_01.jpg">
+			<img src="/images/Tat%20Hui/tat_hui_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain with Oats &amp; Barley</h6>
-			<!-- <p>Description...</p> -->
+			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain With Purple Corn</h6>
+			<p>Awakening your senses while boosting immunity with each delicious bite, this antioxidant-rich noodle, made with the unique purple corn grain, is the epitome of taste meets wellness in the truest sense.<br>- 100% Baked, Not Fried<br>- Rich In Anthocanins<br>- Low in Fat</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tat_hui_product_02.jpg">
+			<img src="/images/Tat%20Hui/tat_hui_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Spicy Broad Noodle</h6>
-			<!-- <p>Description...</p> -->
+			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain With Oats &amp; Barley</h6>
+			<p>From our celebrated kitchen to your table, KOKA serves up ever more healthier, delicious recipes like no other. This low-fat, multigrain noodle is fortified with the goodness of wholegrain oats and barley for your guilt-free enjoyment.<br>- 100% Baked, Not Fried<br>- Source of Protein<br>- Low in Fat</p>
 		</div>
 	</div>
 </div>
