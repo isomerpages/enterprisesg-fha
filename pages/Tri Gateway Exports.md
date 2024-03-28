@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/tri_gateway_exports_logo.png">
+			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tri Gateway Exports</b></h4>
@@ -27,17 +27,7 @@ variant: markdown
 				<b>Product Category: </b>
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
-			<!--
-			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, Healthier Choice Certified
-			</p>
-			<p>
-				<b>Export Markets: </b>South East Asia, Europe
-			</p>
-			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
-			</p>
-			-->
+			
 		</div>
 	</div>
 	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
@@ -58,7 +48,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tri_gateway_exports_product_01.jpg">
+			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Potato Chips</h6>
@@ -67,7 +57,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tri_gateway_exports_product_02.jpg">
+			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cheese Flavoured Snack (New Product)</h6>
