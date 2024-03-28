@@ -27,7 +27,6 @@ variant: markdown
 				<b>Product Category: </b>
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
-			
 		</div>
 	</div>
 	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
