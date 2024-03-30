@@ -27,7 +27,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Meat, Oils and Sauces, Rice and Noodles, Seafood, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Seafood, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, Bizsafe Level 3, ASC Certified, MSC Certified
