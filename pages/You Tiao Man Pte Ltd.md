@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/you_tiao_logo.png">
+			<img src="/images/You%20Tiao%20Man/you_tiao_man_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>You Tiao Man Pte Ltd</b></h4>
@@ -43,9 +43,13 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Audrey Chew / Steven Chew</b>
-				<br>Director<br>(Audrey Chew) +65 9299 6251 / (Steven Chew) +65 9841 9846<br>
-				<a style="color: white;" href="mailto:audrey.chew@youtiaoman.com">audrey.chew@youtiaoman.com</a><br>
+				<b>Audrey Chew</b>
+				<br>Director<br>+65 9299 6251<br>
+				<a style="color: white;" href="mailto:audrey.chew@youtiaoman.com">audrey.chew@youtiaoman.com</a>
+			</p>
+			<p style="padding: 10px; color: white;">
+				<b>Steven Chew</b>
+				<br>Director<br>+65 9841 9846<br>
 				<a style="color: white;" href="mailto:steven.chew@youtiaoman.com">steven.chew@youtiaoman.com</a>
 			</p>
 		</div>
@@ -58,20 +62,21 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/you_tiao_product_01.jpg">
+			<img src="/images/You%20Tiao%20Man/you_tiao_man_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Traditional You Tiao, Wholegrain You Tiao, Charcoal You Tiao</h6>
+			<h6 style="text-transform: uppercase; color: black;">Traditional You Tiao, Wholegrain You Tiao, Charcoal You Tiao, Otah Charcoal You Tiao, Sotong You Tiao</h6>
 			<p>Tradition made convenient - You Tiao is a favorite and staple to many Asians all over the world. The product is highly versatile and can be used in a wide variety of cuisines like European, Western and Asian. You Tiao offers an exciting alternative to buns, bread sticks, french loaves, noodles and rice.</p>
+			<p>Tradition made tasty- Otah Charcoal You Tiao and Sotong You Tiao is deliciously crunchy, moist and aromatic. Generously filled with otah (spicy mackerel) or sotong (cuttlefish) paste, our products are endorsed by chefs and consumers internationally! A well loved item loved by Asians all over the world!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/you_tiao_product_02.jpg">
+			<img src="/images/You%20Tiao%20Man/you_tiao_man_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Otah Charcoal You Tiao, Sotong You Tiao</h6>
-			<p>Tradition made tasty - Otah Charcoal You Tiao and Sotong You Tiao is deliciously crunchy, moist and aromatic. Generously filled with otah (spicy mackerel) or sotong (cuttlefish) paste, our products are endorsed by chefs and consumers internationally! A well loved item loved by Asians all over the world!</p>
+			<h6 style="text-transform: uppercase; color: black;">You Tiao Chips</h6>
+			<p>Tradition made relevant - You Tiao Chips is the first in the world! A fully fried dough product that is catered for the food service industry, You Tiao Chips are a cost effiicient way to enjoy this traditional favourite. Ideal for Porridge/ Congee, Salad, Soup, Yu Sheng topping оr as a stand-alone snack (plain or flavoured), the  this product is ready to use, delicious and crunchy!</p>
 		</div>
 	</div>
 </div>
