@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>KOSHER Certified, HALAL Certified, Certified Vegan, SHC Certified , SMETA Certified, U.S FDA Certified, ISO 22000:2005 Certified, ISO9001:2000 Certified, HACCP Certified, FSSC 22000 Certified
