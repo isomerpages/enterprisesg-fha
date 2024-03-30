@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/suvai_foods_logo.png">
+			<img src="/images/Suvai%20Foods/suvai_foods_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Suvai Foods Pte Ltd</b></h4>
@@ -25,16 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Cooked Food</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Cooked Food, Oils and Sauces, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, ISO 22000 Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>Japan, China, Australia, Middle East
+				<b>Export Markets: </b>Vietnam, Indonesia, Japan, South Korea, Taiwan
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -42,8 +42,8 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Shahul Hameed Wavoo</b>
-				<br>Director<br>+65 9448 4000<br>
+				<b>Shahul Hameed</b>
+				<br>Founder, Director<br>+65 9448 4000<br>
 				<a style="color: white;" href="mailto:suvaifoodspteltd@gmail.com">suvaifoodspteltd@gmail.com</a>
 			</p>
 		</div>
@@ -56,20 +56,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/suvai_foods_product_01.jpg">
+			<img src="/images/Suvai%20Foods/suvai_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Suvai Quinoa &amp; Brown Rice Dosa Batter</h6>
-			<p>This is the first time in the world that Thosai/Dosa batter has been created using a combination of Quinoa and brown rice. This unique batter has received accreditation from the Health Promotion Board as a "Healthier Choice" product.</p>
+			<h6 style="text-transform: uppercase; color: black;">Quinoa &amp; Brown Rice Dosa Batter</h6>
+			<p>Quinoa &amp; Brown Rice Idli &amp; Dosa (Thosai) batter is naturally Low in Saturated Fat and Gluten Free. Traditionally Stone Ground, 0% preservative and 100% Natural.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/suvai_foods_product_02.jpg">
+			<img src="/images/Suvai%20Foods/suvai_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Suvai Masala Chai Premix Tea</h6>
-			<p>Suvai Masala Chai Premix Tea is crafted by combining premium tea extract sourced from the scenic hills of Assam with a delightful blend of aromatic and nutritious Indian spices.</p>
+			<h6 style="text-transform: uppercase; color: black;">Premix 3in1 Masala Chai</h6>
+			<p>Premix 3in1 Masala Chai is an instant Karak Tea with Spices such as Cloves, Cinnnamom, Cardamom &amp; Black pepper.</p>
 		</div>
 	</div>
 </div>
