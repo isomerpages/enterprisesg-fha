@@ -209,7 +209,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Eatnuf Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Singapore Brand of Premium Nut and Seed butters.</small>
+			<small>Singapore Brand of Premium Nut and Seed paste.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/eatnuf">
