@@ -35,7 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Snacks and Confectionery, Rice and Noodles
+<span style="background-color: pink; border-radius: 10 px;">Oils and Sauces, Rice and Noodles, Snacks and Confectionery
 </span>
 </p> 
 <p>
