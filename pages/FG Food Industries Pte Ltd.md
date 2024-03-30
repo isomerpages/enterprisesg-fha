@@ -29,7 +29,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Cooked Food</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, Halal Certified, Tasty Singapore
