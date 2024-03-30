@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1tILGxwsAVFu-zuBlCbVKKVj-aBhmvaaD&amp;export=download">
+<img src="/images/leo_satay_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1B8M75tBUYTaPDiB9ww14aDabzEQyh-_1&amp;export=download">
+<img src="/images/leo_satay_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Traditional Singapore Hainanese Satay (Pork/Chicken/Beef)
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1vTI1XBzjTuB6lHKclhgK03PL0meGRJ9A&amp;export=download">
+<img src="/images/leo_satay_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Unskewered Singapore Hainanese Satay (Pork/Chicken/Beef)
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1qcvIYB7YdDAq0S1s-toZt9RkiKHyyesY&amp;export=download">
+<img src="/images/leo_satay_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Coffee Pork Soft Bones
@@ -109,7 +109,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Crsip0Du5dGVBzcq3kkUsZ4PXd5e8UOw&amp;export=download">
+<img src="/images/leo_satay_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Kung Pao Chicken
@@ -120,7 +120,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1g02dYdrZq4dZiSPs29wLWVpMehPnjeU-&amp;export=download">
+<img src="/images/leo_satay_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Teochew Bat Kut Teh
