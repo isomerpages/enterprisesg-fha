@@ -1,8 +1,9 @@
---- 
-title: Green Rebel Foods Pte Ltd 
-permalink: /green-rebel-foods/ 
+---
+title: Green Rebel Foods Pte Ltd
+permalink: /green-rebel-foods/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -17,7 +18,7 @@ description: ""
 </b>
 </h4> 
 <p>Green Rebel is a Southeast Asian food reach startup specialises in 
-<p>whole cut plant-based beef, chicken, and cheese. Made of natural ingredients that pairs perfectly with delicious authentic Asian flavors. Its mission is to democratize plant-based food and a flexitarian diet by offering innovative products that are not only tasty and healthy, but proudly celebrate Asian cuisines.
+</p><p>whole cut plant-based beef, chicken, and cheese. Made of natural ingredients that pairs perfectly with delicious authentic Asian flavors. Its mission is to democratize plant-based food and a flexitarian diet by offering innovative products that are not only tasty and healthy, but proudly celebrate Asian cuisines.
 </p> 
 <p>
 <a href="www.greenrebelfoods.com" target="_blank">www.greenrebelfoods.com
@@ -25,7 +26,7 @@ description: ""
 </p> 
 </div> 
 </div>
-</p> 
+<p></p> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -36,7 +37,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Others (Plant-based food)
+<span style="background-color: pink; border-radius: 10 px;">Cooked Food, Others
 </span>
 </p> 
 <p>
@@ -81,7 +82,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1DSAoTqfxcfhvVqdrkfc4oXiTaiY3yEq8">
+<img src="https://drive.google.com/uc?export=download&amp;id=1DSAoTqfxcfhvVqdrkfc4oXiTaiY3yEq8">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
