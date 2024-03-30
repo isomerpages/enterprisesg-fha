@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>HACCP Certified
