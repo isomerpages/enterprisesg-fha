@@ -31,7 +31,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Cooked Food
+<span style="background-color: pink; border-radius: 10 px;">Cooked Food, Meat
 </span>
 </p> 
 <p>
