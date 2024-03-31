@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Rice and Noodles, Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Rice and Noodles, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Member of GPC / OATA / SPFL and MRF
