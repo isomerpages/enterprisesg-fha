@@ -27,7 +27,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, ISO22000:2018 Certified
