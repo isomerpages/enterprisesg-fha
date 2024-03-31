@@ -59,7 +59,6 @@ variant: markdown
 <p style="padding: 10px; color: white;">
 <b>Rachel Lee
 </b>
-<br>NA
 <br>+65 6596158822
 <br>
 <a href="mailto:rachel@parkfood.com" style="color: white;">rachel@parkfood.com
