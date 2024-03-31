@@ -26,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Rice and Noodles</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Rice and Noodles</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, Halal Certified, Tasty Singapore
