@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Seafood, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Seafood</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified, BRC Certified
