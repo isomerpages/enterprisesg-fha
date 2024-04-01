@@ -1,15 +1,16 @@
---- 
-title: Hock Lian Huat Foodstuff Inudstry Pte Ltd 
-permalink: /hock-lian-huat/ 
+---
+title: Hock Lian Huat Foodstuff Inudstry Pte Ltd
+permalink: /hock-lian-huat/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1jnGGsQt0fehGFaosVCLcluyEHAiUe7Uu&amp;export=download">
+<img src="/images/hlh_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,18 +76,18 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1OtG7LeMrxLQQq1XlItEPSKCZAZ6aHNS2&export=download">
+<img src="/images/hlh_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Traditional Five Spice Meat Roll
 </h6> 
-<p>Made with premium pork meat that is wrapped in salted bean curd skin, this meat roll has a wonderful combination of flavours and textures that will excite your taste buds. It is seasoned with Chinese Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health, making it a must-have during festivals and celebrations. ISO 22000 Certified
+<p>Made with premium pork meat that is wrapped in salted bean curd skin, this meat roll has a wonderful combination of flavours and textures that will excite your taste buds. It is seasoned with Chinese Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health, making it a must-have during festivals and celebrations. ISO 22000 Certified.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1HUIMgNMR4DtYQ-9W18tEiSLFEOfshBhG&export=download">
+<img src="/images/hlh_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Sotong Youtiao
@@ -97,34 +98,34 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1QM-qV5pGpSKR-4ivMZ8bw3W2gLth72Ph&export=download">
+<img src="/images/hlh_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Teochew Prawn Date
 </h6> 
-<p>Traditional Teochew snack that is packed with flavourful prawn fillings and juicy water chestnuts for extra crunch. Teochew Prawn Dates resembles the auspicious Chinese Yuan Bao (old Chinese currency), making it a must-have during festivities as it signifies prosperity. ISO 22000 Certified
+<p>Traditional Teochew snack that is packed with flavourful prawn fillings and juicy water chestnuts for extra crunch. Teochew Prawn Dates resembles the auspicious Chinese Yuan Bao (old Chinese currency), making it a must-have during festivities as it signifies prosperity. ISO 22000 Certified.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1rBr7dH_Z2aLKEAajEOZQeRLCf7NXNDO0&export=download">
+<img src="/images/hlh_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Crispy Golden Fish Roe
 </h6> 
-<p>Savour the elevated Ngoh Hiang rolls that take your dining experience to a whole new level with Crispy Golden Fish Roe. Made from only premium ingredients such as Prawn Paste and Tobiko (Fish Roe), each roll is filled with rich flavours. Its irresistible taste make it one of the best-selling items in our online stores on various e-commerce platforms through our consumer brand – Gim’s Heritage by Hock Lian Huat. ISO 22000 Certified
+<p>Savour the elevated Ngoh Hiang rolls that take your dining experience to a whole new level with Crispy Golden Fish Roe. Made from only premium ingredients such as Prawn Paste and Tobiko (Fish Roe), each roll is filled with rich flavours. Its irresistible taste make it one of the best-selling items in our online stores on various e-commerce platforms through our consumer brand – Gim’s Heritage by Hock Lian Huat. ISO 22000 Certified.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1RR6gTfRTlAw5QU74tn--qoJM6EmpHffY&export=download">
+<img src="/images/hlh_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chilli Sauce
 </h6> 
-<p>The perfect complement for not just our Signature Traditional Five Spice Rolls, this Chilli sauce goes well with almost anything. The spicy and garlicky taste, with a tinge of sweetness makes it a perfect dip for all occasions. ISO 22000 Certified
+<p>The perfect complement for not just our Signature Traditional Five Spice Rolls, this Chilli sauce goes well with almost anything. The spicy and garlicky taste, with a tinge of sweetness makes it a perfect dip for all occasions. ISO 22000 Certified.
 </p>
 </div> 
 </div> 

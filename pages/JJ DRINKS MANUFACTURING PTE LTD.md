@@ -1,15 +1,16 @@
---- 
-title: JJ DRINKS MANUFACTURING PTE LTD 
-permalink: /jj-drinks-manufacturing/ 
+---
+title: JJ DRINKS MANUFACTURING PTE LTD
+permalink: /jj-drinks-manufacturing/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=13r-d7I2gcikV_BC5SDRvUGbuG-4GGTvy&amp;export=download">
+<img src="/images/jj_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1-ckt6-jKrLF167zZnkeXjhiKErVvWr-0&export=download">
+<img src="/images/jj_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Jia Jia Herbal Tea Original
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Myn2qtnyIJqobvEDY2_cz3LDYp0TkEmQ&export=download">
+<img src="/images/jj_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> JJ O'cha Jasmine Green Tea
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1XPNwDj1G73nL934nSok0Ho8K9PNxkT_n&export=download">
+<img src="/images/jj_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">JJ Ice Lemon Tea
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=171WrvhCdQVyqGSijcWPJer0gmrzFhnaI&export=download">
+<img src="/images/jj_product4.JPG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ethiopia Yirgacheffe Grade 1 Washed Kochere (200g/bag)
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1dQcmwZcIwwLsIa6kj9jt7pWT4I5s5xAY&export=download">
+<img src="/images/jj_product5.JPG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Master Roaster's Executive Blend/ 100% Arabica

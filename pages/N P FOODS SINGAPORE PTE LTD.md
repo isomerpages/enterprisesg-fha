@@ -1,15 +1,16 @@
---- 
-title: N P FOODS SINGAPORE PTE LTD 
-permalink: /np-foods/ 
+---
+title: N P FOODS SINGAPORE PTE LTD
+permalink: /np-foods/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1-V7EacqqU3gLZTNpp3xH8XSRmVQF3PYt&amp;export=download">
+<img src="/images/np_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=127bZ6BQficXc7RZ1g2m-rAo_zGNVDvyC&export=download">
+<img src="/images/np_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Aftermeats
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Ihj8q0KIkhbIveEsx7OEWWEII3mbedtY&export=download">
+<img src="/images/np_product2.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Seasoning

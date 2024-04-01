@@ -35,7 +35,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1p1dMu_3xZxvKM7wqmEjCFoZeFQbbpMd0&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/blue_ocean_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -47,27 +47,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/blue-ocean-aquaculture">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Cita Rasa HLH Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/cita-rasa-hlh">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -110,6 +89,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/eastern-harvest-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ee%20Hui%20Food/ee_hui_food_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ee Hui Food Manufacture Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of fish balls, fish cake and yong tau foo.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ee-hui-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -182,6 +182,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hougang%20Otah/hougang_otah_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Hougang Otah International Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturing of otah otah.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/hougang-otah">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1hIOQ43dKYZC4mu7P6U9lBzLnXhgkQNee&amp;export=download">
 		</figure>
 	</div>
@@ -203,7 +224,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1cGWT1genlcr4rI2QslaYUaLU4chsssAJ&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/JCS%20Shrimps/jcs_shrimps_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -215,27 +236,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/jcs-shrimps">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-	
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/jumain_sataysfaction_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Jumain Sataysfaction Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of Satay and Satay sauce.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/jumain-sataysfaction">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -299,6 +299,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/seawaves-frozen-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sin%20Li%20Hin/sin_li_hin_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Sin Li Hin Frozen Food Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and supplier of ready to cook frozen food and meal.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/sin-li-hin">
 				<small>Visit their page</small>
 			</a>
 		</p>

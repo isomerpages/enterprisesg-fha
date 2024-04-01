@@ -58,6 +58,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ee%20Hui%20Food/ee_hui_food_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ee Hui Food Manufacture Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of fish balls, fish cake and yong tau foo.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ee-hui-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1QnpK-pD_4QP7Cm1NIGMAn-K2sKRQVKUg&amp;export=download">
 		</figure>
 	</div>
@@ -209,7 +230,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/usay.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/U%20Say%20Marketing/u_say_marketing_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">

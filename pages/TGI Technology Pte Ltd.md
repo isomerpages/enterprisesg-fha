@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/tgi_technology_logo.jpg">
+			<img src="/images/TGI%20Technology/tgi_technology_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>TGI Technology Pte Ltd</b></h4>
@@ -28,7 +28,10 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>US, France, Bahamas, Mexico, Philippine, Guyana, Wallis, Vietnam, Cameroon, Malaysia
+				<b>Certifications: </b>ISO 22000 Certified
+			</p>
+			<p>
+				<b>Export Markets: </b>United States, France, United Kingdom, The Bahamas, Guyana, French Guiana, Réunion, Wallis and Futuna, Mexico, Zambia, Philippines, Vietnam, Spain, Egypt
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -53,26 +56,22 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tgi_technology_product_01.jpg">
+			<img src="/images/TGI%20Technology/tgi_technology_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fruit Flavored Sparkling Drink</h6>
+			<h6 style="text-transform: uppercase; color: black;">Finely Sparkling Water With A Subtle Blend Of Fruit Aroma</h6>
+			<p>Transparency and Purity: Elisha takes pride in its innovative transparent can packaging, allowing consumers to see the clarity and purity of the beverage within. This transparency symbolizes our commitment to using only the finest natural fruit flavors and high-quality ingredients.</p>
+			<p>Natural Fruit Flavors: Our carbonated drinks are infused with authentic, natural fruit flavors, providing a refreshing and genuine taste experience. We prioritize real fruit essence over artificial additives, ensuring a more authentic and wholesome flavor profile.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tgi_technology_product_02.jpg">
+			<img src="/images/TGI%20Technology/tgi_technology_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fruit Flavored Sparkling Drink</h6>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/tgi_technology_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fruit Flavored Sparkling Drink</h6>
+			<h6 style="text-transform: uppercase; color: black;">Finely Sparkling Water With A Subtle Blend Of Fruit Aroma</h6>
+			<p>Transparency and Purity: Elisha takes pride in its innovative transparent can packaging, allowing consumers to see the clarity and purity of the beverage within. This transparency symbolizes our commitment to using only the finest natural fruit flavors and high-quality ingredients.</p>
+			<p>Natural Fruit Flavors: Our carbonated drinks are infused with authentic, natural fruit flavors, providing a refreshing and genuine taste experience. We prioritize real fruit essence over artificial additives, ensuring a more authentic and wholesome flavor profile.</p>
 		</div>
 	</div>
 </div>

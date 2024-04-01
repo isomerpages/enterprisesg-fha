@@ -1,15 +1,16 @@
---- 
-title: Jin Food Manufacturing Pte Ltd 
-permalink: /jin-food-manufacturing/ 
+---
+title: Jin Food Manufacturing Pte Ltd
+permalink: /jin-food-manufacturing/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1AZE9NJpaBejOYe3I-0Al8UNttm0XbUNr&amp;export=download">
+<img src="/images/jin_food_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -34,7 +35,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Cooked Food
+<span style="background-color: pink; border-radius: 10 px;">Beverages
 </span>
 </p>
 <p>
@@ -58,7 +59,6 @@ description: ""
 <p style="padding: 10px; color: white;">
 <b>Rachel Lee
 </b>
-<br>NA
 <br>+65 6596158822
 <br>
 <a href="mailto:rachel@parkfood.com" style="color: white;">rachel@parkfood.com
@@ -75,7 +75,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Q8ywukW_D9bTlyJOMKdNXNd6I1M1Z23G&export=download">
+<img src="/images/jin_food_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Tropics, Natural Lime Juice (100% Pure)
@@ -86,7 +86,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1JzCFDkdFGIlmPxxeDZFMFCeY-mOym5Z4&export=download">
+<img src="/images/jin_food_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Tropics, Natural Lime Juice (Sugar Added)

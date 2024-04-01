@@ -1,15 +1,16 @@
---- 
-title: Leo Satay Food Manufacturing Pte Ltd 
-permalink: /leo-satay-food/ 
+---
+title: Leo Satay Food Manufacturing Pte Ltd
+permalink: /leo-satay-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1tILGxwsAVFu-zuBlCbVKKVj-aBhmvaaD&amp;export=download">
+<img src="/images/leo_satay_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -34,7 +35,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Meat
+<span style="background-color: pink; border-radius: 10 px;">Cooked Food, Meat
 </span>
 </p> 
 <p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1B8M75tBUYTaPDiB9ww14aDabzEQyh-_1&export=download">
+<img src="/images/leo_satay_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Traditional Singapore Hainanese Satay (Pork/Chicken/Beef)
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1vTI1XBzjTuB6lHKclhgK03PL0meGRJ9A&export=download">
+<img src="/images/leo_satay_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Unskewered Singapore Hainanese Satay (Pork/Chicken/Beef)
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1qcvIYB7YdDAq0S1s-toZt9RkiKHyyesY&export=download">
+<img src="/images/leo_satay_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Coffee Pork Soft Bones
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Crsip0Du5dGVBzcq3kkUsZ4PXd5e8UOw&export=download">
+<img src="/images/leo_satay_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Kung Pao Chicken
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1g02dYdrZq4dZiSPs29wLWVpMehPnjeU-&export=download">
+<img src="/images/leo_satay_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Teochew Bat Kut Teh

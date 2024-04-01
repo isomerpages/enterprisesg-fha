@@ -159,6 +159,48 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/chuan_hong_seng_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Chuan Hong Seng Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of Shrimp Roll Snack.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/chuan-hong-seng">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chung%20Hwa/chung_hwa_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Chung Hwa Food Industries Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/chung-hwa">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/coffeehock_logo.png">
 		</figure>
 	</div>
@@ -192,6 +234,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/craft-union">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Davis%20Commodities/davis_commodities_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Davis Commodities Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>A Singapore agri-commodity company with a reach not only to the Asia but to the rest of the world.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/davis-commodities">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -407,28 +470,28 @@ variant: markdown
 		</p>
 	</div>
 </div>
-	
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tjUG_fXKKRtholcoV30clvGFFunzdEJ5&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/jin_food_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>HW Birdnest Trading Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Jin Food Manufacturing Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of bottled birdnest products.</small>
+			<small>Specialise in fruit juices.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/hw-birdnest-trading">
+			<a target="_blank" href="/jin-food-manufacturing">
 				<small>Visit their page</small>
 			</a>
 		</p>
 	</div>
 </div>
-		
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
@@ -449,11 +512,32 @@ variant: markdown
 		</p>
 	</div>
 </div>
-			
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/kim_guan_guan_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kaimay%20Trading/kaimay_trading_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Kaimay Trading Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of beverage, snacks and confectionery.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/kaimay-trading">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -471,27 +555,6 @@ variant: markdown
 	</div>
 </div>
 				
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1xz3NM-BHdkBLOP4n9rzn-15xzdMPJGfx&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Kim Hing Food Industries Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer and exporter of Bird's Nest, Bottled Food Product, Honey and TCM (Traditional Chinese Medicine).</small>
-		</p>
-		<p>
-			<a target="_blank" href="/kim-hing-food">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-					
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
@@ -642,6 +705,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/nature2000_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Nature 2000 Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Importer and distributor of health products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/nature-2000">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1nLamPDEuR8J-U7AF4r90IG36iEOs4_v_&amp;export=download">
 		</figure>
 	</div>
@@ -663,28 +747,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ngo_chew_hong_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Ngo Chew Hong Edible Oil Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer and exporter of all types of edible oils and fats products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/ngo-chew-hong">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1qM8sSOloRy-T3mAuFFz4jWzS57c626XL&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/nuvojoy_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -768,28 +831,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/seasons_overseas_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Seasons Overseas Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Trading company dealing in commodities like Rice, Pulses, Sugar , Wheat and other agro-based products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/seasons-overseas">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1fbuIuEVtqEfIrRB9ZryHSds5aVE5GoVL&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sheng%20Aik%20Trading/sheng_aik_trading_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -801,6 +843,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/sheng-aik-trading">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Simplymade/simplymade_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Simplymade Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Plant-based dairy alternative.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/simplymade">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -852,7 +915,49 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/suvai_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Spectrum%20Ingredients/spectrum_ingredients_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Spectrum Ingredients Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier of high quality and innovative ingredients to the South-East Asian food and beverage industry.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/spectrum-ingredients">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Super%20Bean%20International/super_bean_international_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Super Bean International Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of soya bean based food &amp; beverage.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/super-bean-international">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Suvai%20Foods/suvai_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -860,7 +965,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Suvai Foods Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of Indian food products.</small>
+			<small>Manufacturer of tasty and healthy Indian food products.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/suvai-foods">
@@ -873,7 +978,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tan_soon_mui_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Swift%20Health%20Food/swift_health_food_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Swift Health Food (Singapore) Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialise in gourmet tea, manuka honey and confectionery.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/swift-health-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tan%20Soon%20Mui/tan_soon_mui_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -915,7 +1041,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tgi_technology_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/TGI%20Technology/tgi_technology_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -923,7 +1049,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>TGI Technology Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialises in mineral water and fruit flavored sparkling drink.</small>
+			<small>Trading company specialises in mineral water and fruit flavored sparkling drink.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/tgi-technology">
@@ -1020,7 +1146,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tri_gateway_exports_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1041,7 +1167,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1JSxoCPtChE4HqmLLgKeCN_NLPLvGQgme&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Unifood%20International/unifood_international_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -1049,7 +1175,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Unifood International (S) Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of instant organic soya milk.</small>
+			<small>Manufactuer and Distributor of instant Soy Milk Powder.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/unifood-international">
@@ -1083,7 +1209,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1AXZ02dDWvIyKi0Hq0tJuYG3ggOVHUKaK&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vintage%20Venture/vintage_venture_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Vintage Venture Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialise in beverage,  snacks and confectionery.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/vintage-venture">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Wanin%20Industries/wanin_industries_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">

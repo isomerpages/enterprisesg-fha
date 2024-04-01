@@ -75,18 +75,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chung%20Hwa/chung_hwa_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Cita Rasa HLH Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Chung Hwa Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.</small>
+			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/cita-rasa-hlh">
+			<a target="_blank" href="/chung-hwa">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -138,6 +138,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ee%20Hui%20Food/ee_hui_food_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ee Hui Food Manufacture Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of fish balls, fish cake and yong tau foo.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ee-hui-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/F%20G%20Food/f_g_food_logo.jpg">
 		</figure>
 	</div>
@@ -159,7 +180,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=17XR3cXDIC1PGqiVE8OJ1z9AfH_A_Yqsj&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Fragrance%20Foodstuff/fragrance_foodstuff_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -302,11 +323,11 @@ variant: markdown
 		</p>
 	</div>
 </div>
-	
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tILGxwsAVFu-zuBlCbVKKVj-aBhmvaaD&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leo_satay_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -323,11 +344,11 @@ variant: markdown
 		</p>
 	</div>
 </div>
-			
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1fufMrZlhg1h_pRkWPjkzIyuVqXUqsn80&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mega_packer_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -344,22 +365,43 @@ variant: markdown
 		</p>
 	</div>
 </div>
-			
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1EywJXU6MOnznNPFWHB4jtqLLrXGAVJpg&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sin%20Li%20Hin/sin_li_hin_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Park Food Manufacturing Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Sin Li Hin Frozen Food Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of lion dance brand meatballs.</small>
+			<small>Manufacturer and supplier of ready to cook frozen food and meal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/park-food-manufacturing">
+			<a target="_blank" href="/sin-li-hin">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/The%20Kebabsmith/the_kebabsmith_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>The Kebabsmith Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of frozen kebabs &amp; snacks.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/the-kebabsmith">
 				<small>Visit their page</small>
 			</a>
 		</p>

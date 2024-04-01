@@ -1,15 +1,16 @@
---- 
-title: Maxwill (Asia) Pte Ltd 
-permalink: /maxwill-asia/ 
+---
+title: Maxwill (Asia) Pte Ltd
+permalink: /maxwill-asia/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1CVnguN1YLd2VizzseO3n_V-fpmcQDV12&amp;export=download">
+<img src="/images/maxwill_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1cbb8LXfUCYTiPlMT-CJ63cC19jpGnZ41&export=download">
+<img src="/images/maxwill_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">TAFFY LOW GI NATURAL RAW SUGAR
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1I0asOfEnIG2I4aqTTx2Oo0i7WZWLUynw&export=download">
+<img src="/images/maxwill_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> TAFFY LOW GI NATURAL RAW SUGAR STICKS
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1fOcFLdJc82GnQ7AJeij-4TrKP3r-v6K2&export=download">
+<img src="/images/maxwill_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lin Natural Brown Sugar
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1HJ1MuZFYzGl2wkDgcMtfGoANVdr8yVBK&export=download">
+<img src="/images/maxwill_product4.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lin Caster Sugar
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1nPrF-MY44wD0JymZ9CbF0TrYZORkD7Vz&export=download">
+<img src="/images/maxwill_product5.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lin Icing Sugar

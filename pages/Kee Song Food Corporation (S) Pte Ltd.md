@@ -1,15 +1,16 @@
---- 
-title: Kee Song Food Corporation (S) Pte Ltd 
-permalink: /kee-song-food/ 
+---
+title: Kee Song Food Corporation (S) Pte Ltd
+permalink: /kee-song-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1EwikUzVOYIgTokbhz6wzEY4TF6wPMi8m&amp;export=download">
+<img src="/images/kee_song_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -73,7 +74,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1Lork1-_PEbf1Ubqhpp_QD09FOLwEE9Nw&export=download">
+<img src="/images/kee_song_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lacto Whole Chicken
@@ -84,12 +85,12 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1XK0Kw4CyViEdT0AiY9cOjknVIrqe6zmp&export=download">
+<img src="/images/kee_song_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">KS Cajun Boneless Chicken Leg
 </h6> 
-<p>Kee Song Group’s “Ready to Cook” product Scrumptious boneless chicken leg marinated to perfection with Garlic Powder, Onion Powder, Spices & Herbs. The Cajun Chicken Leg coated with a bold aroma flavour and has a subtle earthiness that comes from the garlic powder, onion powder, and herbs.
+<p>Kee Song Group’s “Ready to Cook” product Scrumptious boneless chicken leg marinated to perfection with Garlic Powder, Onion Powder, Spices &amp; Herbs. The Cajun Chicken Leg coated with a bold aroma flavour and has a subtle earthiness that comes from the garlic powder, onion powder, and herbs.
 </p>
 </div> 
 </div> 

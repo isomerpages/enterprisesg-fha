@@ -1,15 +1,16 @@
---- 
-title: LACTO ASIA PTE LTD 
-permalink: /lacto-asia/ 
+---
+title: LACTO ASIA PTE LTD
+permalink: /lacto-asia/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1KfQXSlveSdb5r-c8f3eptkHTXaho36Q6&amp;export=download">
+<img src="/images/lacto_asia_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=10onD31KqR4vAeSTlF28DuAFeHmvHJHpu&export=download">
+<img src="/images/lacto_asia_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Foodtech Cheese
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=17cGewEb9eU8Mgz5TSHsuqpCM64yhCQDm&export=download">
+<img src="/images/lacto_asia_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Fruits Cream Cheese
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1AWFjdHLSJEuRHsJDH0LPzGPVx1GRQEDY&export=download">
+<img src="/images/lacto_asia_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Choosy Cheese
 </h6> 
-<p>Choosing from Shredded Mozzarella, Shredded Cheddar , Shredded Gouda, Shredded Mix (Mozzarella & Gouda), Parmesan Powder and some natural cheese in diced form, the diversity of Choosy natural cheese is ideal for your applications in bakery, meat, seafood and other food services. They are ready-to-use for your convenience.
+<p>Choosing from Shredded Mozzarella, Shredded Cheddar , Shredded Gouda, Shredded Mix (Mozzarella &amp; Gouda), Parmesan Powder and some natural cheese in diced form, the diversity of Choosy natural cheese is ideal for your applications in bakery, meat, seafood and other food services. They are ready-to-use for your convenience.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1LgQwvsOV3dD3wb0PyI3-CvpxG7AqfDae&export=download">
+<img src="/images/lacto_asia_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Shredded Processed Cheese
@@ -119,7 +120,8 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1OH-QiGh1-xZYwyYINE1iRTLNwU3pLI9Z&export=download">
+
+<img src="/images/lacto_asia_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Plant-based Cheese

@@ -27,7 +27,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces, Seafood</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000:2018 Certified, FSSC Certified, Healthier Choice Certified, Tasty Singapore

@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Rice and Noodles, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Export Markets: </b>Malaysia

@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Meat</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, Tasty Singapore

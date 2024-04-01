@@ -1,8 +1,9 @@
---- 
-title: Lam Kee Fisheries Pte Ltd 
-permalink: /lam-kee-fisheries/ 
+---
+title: Lam Kee Fisheries Pte Ltd
+permalink: /lam-kee-fisheries/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1duIuODt06ileeZpDQ1TnvVFHKwg9FRXi&export=download">
+<img src="/images/lam_kee_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHILEAN SEABASS / PATAGONIAN TOOTHFISH
@@ -86,18 +87,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1ujDIWcEVXWE8-z8TC4ZUPZhCwdIA9tKU&export=download">
+<img src="/images/lam_kee_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Salmon
 </h6> 
-<p>A staple food in many countries, our salmon fillets allow for various methods of cooking that makes it delicious for all ages. Contains healthy Vitamin A & B and Omega 3 Fatty Acids.
+<p>A staple food in many countries, our salmon fillets allow for various methods of cooking that makes it delicious for all ages. Contains healthy Vitamin A &amp; B and Omega 3 Fatty Acids.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=11xKGTE8PDzI1RBE1Cfgd21-kxKaju3Sh&export=download">
+<img src="/images/lam_kee_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Scallops
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1QbIieZaur1_t55nDuQAXRP7E21SsdEai&export=download">
+<img src="/images/lam_kee_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Cooked King Crab Legs
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1V7tyBm8pS9bJJnmKAV6BOS3kw-n6a2yB&export=download">
+<img src="/images/lam_kee_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Half Shell Mussel NZ

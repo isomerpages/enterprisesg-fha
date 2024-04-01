@@ -4,6 +4,7 @@ permalink: /ken-hong-seng/
 description: ""
 variant: markdown
 ---
+
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
@@ -25,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Rice and Noodles, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified

@@ -33,6 +33,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Bake%20With%20Yen/bake_with_yen_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Bake With Yen Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and retail sales of bakery ingredients.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/bake-with-yen">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1XEVGFLFwTc5mQsDCnsrgYXKTl6sCOnAk&amp;export=download">
 		</figure>
 	</div>
@@ -45,6 +66,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/bakers-oven-pattisieries">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Bee%20Sim%20Foods/bee_sim_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Bee Sim Foods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of quality pau and dim sum.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/bee-sim-foods">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -117,6 +159,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Davis%20Commodities/davis_commodities_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Davis Commodities Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>A Singapore agri-commodity company with a reach not only to the Asia but to the rest of the world.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/davis-commodities">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/eatnuf_logo.png">
 		</figure>
 	</div>
@@ -159,48 +222,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/FG%20Food%20Industries/fg_food_industries_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>FG Food Industries Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of frozen ready-meal.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/fg-food-industries">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Garden%20Picks%20Food/garden_picks_food_logo.jpg">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Garden Picks Food Manufacturing LLP</strong></p>
-		</figure>
-		<p>
-			<small>Importer and manufacturer and packer of dried fruits and nuts.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/garden-picks-food">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
 		</figure>
 	</div>
@@ -222,7 +243,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/homesfav.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Homes%20Favourite/homes_favourite_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -264,39 +285,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/litat_import_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Litat Import &amp; Export Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Lek Lim Nonya Cake Trading Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of beverages (carbonated, asian drinks, fruit juices) and breadspread (fruit jam, coconut jam, peanut butter).</small>
+			<small>Traditional local snacks in RTC and RTE condition.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/litat-import">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mr_popiah_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Mr Popiah Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of Pastry and Ready to Eat frozen products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/mr-popiah">
+			<a target="_blank" href="/lek-lim-nonya-cake">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -348,7 +348,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1oMqykPhUzJYvUXz2xdDYPwKGtPW-Bc7e&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/nuvojoy_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Nuvojoy Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacture and sales of health beverages and R&amp;D consultancy.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/nuvojoy">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/oishi_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -474,18 +495,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tRMh6_bqm5x5XsDgVwGGZcqhIB78ug7n&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Spectrum%20Ingredients/spectrum_ingredients_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>The Ice Cream &amp; Cookie Co Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Spectrum Ingredients Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of ice cream, gelato and sorbet.</small>
+			<small>Supplier of high quality and innovative ingredients to the South-East Asian food and beverage industry.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ice-cream-cookie">
+			<a target="_blank" href="/spectrum-ingredients">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -495,18 +516,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/you_tiao_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Suvai%20Foods/suvai_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>You Tiao Man Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Suvai Foods Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer and supplier of Halal You Tiao and Otah.</small>
+			<small>Manufacturer of tasty and healthy Indian food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/you-tiao">
+			<a target="_blank" href="/suvai-foods">
 				<small>Visit their page</small>
 			</a>
 		</p>

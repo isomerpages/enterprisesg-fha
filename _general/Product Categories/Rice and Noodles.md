@@ -33,39 +33,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1p1dMu_3xZxvKM7wqmEjCFoZeFQbbpMd0&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chung%20Hwa/chung_hwa_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Blue Ocean Aquaculture Technology Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Chung Hwa Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of seafood products and sauces.</small>
+			<small>Manufacturer of sauces, pastes and condiments. Distributor of international groceries and frozen products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/blue-ocean-aquaculture">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1pFmUpJrbQOI4Zg0redQ4fKry5I38VZ2a&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Chuan Hong Seng Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of Shrimp Roll Snack.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/chuan-hong-seng">
+			<a target="_blank" href="/chung-hwa">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -117,60 +96,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Green%20Capsule%20Organics/green_capsule_organics_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Eastern Harvest Foods (Singapore) Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Green Capsule Organics Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Importer and distributor frozen meat, seafood, japanese and korean cuisine, processed item.</small>
+			<small>Organic food and beverages, nutritious snacks and baby foods.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/eastern-harvest-foods">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Garden%20Picks%20Food/garden_picks_food_logo.jpg">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Garden Picks Food Manufacturing LLP</strong></p>
-		</figure>
-		<p>
-			<small>Importer and manufacturer and packer of dried fruits and nuts.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/garden-picks-food">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/gold_kili_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Gold Kili Trading Enterprise (Singapore) Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of instant coffee and tea.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/gold-kili">
+			<a target="_blank" href="/green-capsule-organics">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -243,7 +180,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leong_guan_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ken_hong_seng_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ken Hong Seng Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Wholesale dry goods supplier - sugar, salt, oil, sauce and thai products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ken-hong-seng">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Leong%20Guan%20Food/leong_guan_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -281,11 +239,11 @@ variant: markdown
 		</p>
 	</div>
 </div>
-		
+
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1w6GVtTm2TiM8_9te33krQ2z37quIRDER&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mhy_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -297,27 +255,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/mei-heong-yuen">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1_rw5snvg0aZXzPq0BnPsTQZ6RLZeQ7Rw&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Nature 2000 Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Importer and distributor of health products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/nature-2000">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -390,7 +327,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/prima_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Prima%20Food/prima_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -495,7 +432,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tan_seng_kee_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tan%20Seng%20Kee/tan_seng_kee_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -516,7 +453,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tat_hui_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tat%20Hui/tat_hui_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
