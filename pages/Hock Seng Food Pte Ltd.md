@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Cooked Food, Meat, Oils and Sauces, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery, Others</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, HACCP Certified
