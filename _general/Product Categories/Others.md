@@ -746,4 +746,25 @@ variant: markdown
 	</div>
 </div>
 
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Wellspent%20Upcycling/wellspent_upcycling_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Wellspent Upcycling Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialise in upcycling side-streams/by-products into new food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/wellspent-upcycling">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
 </div>
