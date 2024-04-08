@@ -11,7 +11,7 @@ sections:
       subtitle: Find out more about the players in our ecosystem here!
       background: /images/hero-banner.png
       button: Browse here
-      url: /product-categories
+      url: /singapore-pavilion-exhibitors/overview
       key_highlights:
         - title: Why Singapore?
           description: Discover local opportunities.
