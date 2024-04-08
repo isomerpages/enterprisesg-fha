@@ -96,6 +96,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Carrara/carrara_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Carrara Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Gelato manufacturer and cafe brand known for its quality, premium gelato using fresh, high-grade ingredients.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/carrara">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/cheung_wo_logo.png">
 		</figure>
 	</div>
@@ -402,27 +423,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/hougang-otah">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hua_khiang_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Hua Khiang Food Export (S) Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of tofu products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/hua-khiang">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -810,27 +810,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1BzEI_OoeLbnNKZrigHokqh8LZE9wgCTB&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>The Soy Company Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacture of soft drinks, production of mineral water (including carbonated water, soya bean milk, barley water, chrysanthemum water).</small>
-		</p>
-		<p>
-			<a target="_blank" href="/the-soy-company">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/treasure_orbit_logo.png">
 		</figure>
 	</div>
@@ -864,6 +843,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/tri-gateway-exports">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Valency%20International/valency_international_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Valency International Trading Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialise in agricultural commodities, processed Agri products, Agri Inputs, Industrial Chemicals and FMCG food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/valency-international">
 				<small>Visit their page</small>
 			</a>
 		</p>

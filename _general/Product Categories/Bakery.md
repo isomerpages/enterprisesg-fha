@@ -138,18 +138,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/cremeworks.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Carrara/carrara_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Creme Works Pte Ltd (Carrara)</strong></p>
+			<p style="text-transform: uppercase;"><strong>Carrara Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Supplier of fresh cream, bakery supplies.</small>
+			<small>Gelato manufacturer and cafe brand known for its quality, premium gelato using fresh, high-grade ingredients.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/creme-works-carrara">
+			<a target="_blank" href="/carrara">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -222,27 +222,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Hock Seng Food Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of canned food and chocolate.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/hock-seng">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Homes%20Favourite/homes_favourite_logo.png">
 		</figure>
 	</div>
@@ -264,7 +243,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1bWopWtDwgtFrI45KhNXKHyRhZZ-2qdFU&amp;export=download">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hotbake%20Innovations/hotbake_innovations_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -318,6 +297,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/ngo-chew-hong">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Noname%20Foods/noname_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Noname Foods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of bakery products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/noname-foods">
 				<small>Visit their page</small>
 			</a>
 		</p>

@@ -306,48 +306,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Hock Seng Food Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of canned food and chocolate.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/hock-seng">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hua_khiang_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Hua Khiang Food Export (S) Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of tofu products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/hua-khiang">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-	
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/jumain_sataysfaction_logo.png">
 		</figure>
 	</div>
@@ -668,13 +626,34 @@ variant: markdown
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Segomo Pte Ltd </strong></p>
+			<p style="text-transform: uppercase;"><strong>Segomo Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Edible oil supplier.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/segomo">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sim%20Soon%20Heng/sim_soon_heng_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Sim Soon Heng Cooking Ingredients Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of sauces, pastes and marinades.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/sim-soon-heng">
 				<small>Visit their page</small>
 			</a>
 		</p>

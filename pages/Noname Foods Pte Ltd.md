@@ -1,18 +1,18 @@
 ---
-title: Hotbake Innovations Pte Ltd
-permalink: /hotbake-innovations/
-description: ""
+title: Noname Foods Pte Ltd
+permalink: /noname-foods/
 variant: markdown
+description: ""
 ---
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Hotbake%20Innovations/hotbake_innovations_logo.jpg">
+			<img src="/images/Noname%20Foods/noname_foods_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Hotbake Innovations Pte Ltd</b></h4>
-			<p>Manufacturer of healthier choice sandwiches.</p>
-			<p><a target="_blank" href="https://www.hobie.com.sg">www.hobie.com.sg</a></p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Noname Foods Pte Ltd</b></h4>
+			<p>Distributor of bakery products.</p>
+			<p><a target="_blank" href="https://www.stylebread.com">www.stylebread.com</a></p>
 		</div>
 	</div>
 </div>
@@ -25,13 +25,13 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Cooked Food</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, SS590 Certified
+				<b>Certifications: </b>Halal Certified
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -39,9 +39,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Jiwi Ho</b>
-				<br>Managing Director<br>+65 9631 2343<br>
-				<a style="color: white;" href="mailto:jiwiho@hobie.com.sg">jiwiho@hobie.com.sg</a>
+				<b>Bryan Tan</b>
+				<br>Business Development Manager<br>+65 9822 4053<br>
+				<a style="color: white;" href="mailto:bryan@nonamefoods.sg">bryan@nonamefoods.sg</a>
 			</p>
 		</div>
 	</div>
@@ -53,18 +53,21 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Hotbake%20Innovations/hotbake_innovations_product_01.jpg">
+			<img src="/images/Noname%20Foods/noname_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sandwich, Wrap &amp; Trail Mix</h6>
+			<h6 style="text-transform: uppercase; color: black;">Rustiq</h6>
+			<p>Petit bread exclusively for restaurants, meaning "rustic, country-style". The rustic shape does not apply stress during molding, so the flavor stands out.</p>
+			<p>This is a masterpiece of bread made with homemade yeast that goes well with your dishes.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Hotbake%20Innovations/hotbake_innovations_product_02.jpg">
+			<img src="/images/Noname%20Foods/noname_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Trail Mix</h6>
+			<h6 style="text-transform: uppercase; color: black;">Pain Au Lait</h6>
+			<p>This is a soft type of petit bread that is very pleasant to the touch and slightly sweet. Made with 100% milk without a single drop of water.</p>
 		</div>
 	</div>
 </div>
