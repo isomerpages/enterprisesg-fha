@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1t9-gVW49k_yv7ve1gar0WinxUz8weol8&amp;export=download">
+<img src="/images/amigo_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=12IwHCej7x2DlsHie4ia55OE2mamMrAE_&amp;export=download">
+<img src="/images/amigo_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Man Kee Chili &amp; Spice Sauce 220g
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1tHV3nfbQgR-uSpzzhO3TYaAotqieAVwR&amp;export=download">
+<img src="/images/amigo_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Man Kee Garlic Sauce 235g
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1CQfdfnGNKWxDfv_7N2nbwsiSyz-M51Jg&amp;export=download">
+<img src="/images/amigo_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Man Kee Salted Fish Paste 260g
@@ -109,7 +109,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=13Z8mQ4hYLBBF_KC78RSlAgJmO1Qwraxz&amp;export=download">
+<img src="/images/amigo_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Sina Ginger Candy
@@ -120,7 +120,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1xHlT35_56pWMqtn4xnMDaKPOzweqmZyQ&amp;export=downloadd">
+<img src="/images/amigo_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chewy Jiang Xi Rice Stick 400g
