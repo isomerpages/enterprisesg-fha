@@ -1,15 +1,16 @@
---- 
-title: Commonwealth Greens Alpha Pte Ltd 
-permalink: /commonwealth-greens-alpha/ 
+---
+title: Commonwealth Greens Alpha Pte Ltd
+permalink: /commonwealth-greens-alpha/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1airHqquiKVLUmdXA1uUUgiT-3udkXssG&amp;export=download">
+<img src="/images/commonwealth_greens_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1njmzSqckvH2Mv1754aGVoxVLjgoU8MJn&export=download">
+<img src="/images/commonwealth_greens_product1.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Just Ice Plant (by Just Produce)
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1m20qqshOBwbzgeBi0ANVl3yyl17wosnG&export=download">
+<img src="/images/commonwealth_greens_product2.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Just Mustard
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1HwSp_9HYSgwH8ZG4Wfa43HWbzv-Wyp6v&export=download">
+<img src="/images/commonwealth_greens_product3.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Just Sorrel
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=11L4QWGEfEdnUmdlNLzAmMx0T8wj_q-wU&export=download">
+<img src="/images/commonwealth_greens_product4.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Just Salad: Crunchy Classics
