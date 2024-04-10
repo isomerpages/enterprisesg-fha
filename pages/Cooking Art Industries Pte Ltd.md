@@ -1,15 +1,16 @@
---- 
-title: Cooking Art Industries Pte Ltd 
-permalink: /cooking-art-industries/ 
+---
+title: Cooking Art Industries Pte Ltd
+permalink: /cooking-art-industries/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1vmH1kDnoVPXc__-sAIKwRx-5_lIx9S1R&amp;export=download">
+<img src="/images/cooking_art_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1vyk8APHMIvuSvSTWQJFjYUritRNSUu0c&export=download">
+<img src="/images/cooking_art_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Kueh Lapis
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1eQiPoO0G8xsyl74-W6CjXrf2vDF-y4Hj&export=download">
+<img src="/images/cooking_art_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Assorted Kuehs
