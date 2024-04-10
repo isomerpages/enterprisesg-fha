@@ -516,48 +516,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1oMqykPhUzJYvUXz2xdDYPwKGtPW-Bc7e&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Oishi Manufacturing Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer and supplier of ice cream, gelato powder and equipments.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/oishi-manufacturing">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1vuUrRFNorwBbPUTrWwLtBXfc97SfDbxf&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Optima Daribell Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of thousand layer cake and other foodstuff.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/optima-daribell">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/orient.png">
 		</figure>
 	</div>
@@ -759,27 +717,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/the-cookies-factory">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="https://drive.google.com/u/0/uc?id=1tRMh6_bqm5x5XsDgVwGGZcqhIB78ug7n&amp;export=download">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>The Ice Cream &amp; Cookie Co Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of ice cream, gelato and sorbet.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/ice-cream-cookie">
 				<small>Visit their page</small>
 			</a>
 		</p>
