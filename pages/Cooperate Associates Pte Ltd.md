@@ -1,8 +1,9 @@
---- 
-title: Cooperate Associates Pte Ltd 
-permalink: /cooperate-associates/ 
+---
+title: Cooperate Associates Pte Ltd
+permalink: /cooperate-associates/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -13,7 +14,7 @@ description: ""
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>Cooperate Associates Pte Ltd
+<b>Co-operate Associates Pte Ltd
 </b>
 </h4> 
 <p>Supplier of fresh cream; bakery supplies
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=16LQ7h30C18ScDmlTPYVGXcbyKeDmrsdm&export=download">
+<img src="/images/cooperate_product1.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Bauer Fru Fru Yoghurt
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1rfU4UTRhoifkNVkP9HjUhI9y6KL2S9gw&export=download">
+<img src="/images/cooperate_product2.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Fruttose
@@ -97,12 +98,12 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1tw-fMunxaamgvhrVCo8BQqwaGXsE5xiM&export=download">
+<img src="/images/cooperate_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ryoto Ester SP
 </h6> 
-<p>Ryoto Ester SP is a product of Mitsubishi Chemical Corporation that has been widely used in Japan and globally since the 1960s in the bakery sector. This versatile gel improvement is tasteless & colorless which has been the trade secret for many pastry chefs & bakers for their wonderful bakes. It helps in retaining product shape & batter stability, moisture of finished products under different storage conditions & aims to increase batter overrun volume by 10-20%.
+<p>Ryoto Ester SP is a product of Mitsubishi Chemical Corporation that has been widely used in Japan and globally since the 1960s in the bakery sector. This versatile gel improvement is tasteless &amp; colorless which has been the trade secret for many pastry chefs &amp; bakers for their wonderful bakes. It helps in retaining product shape &amp; batter stability, moisture of finished products under different storage conditions &amp; aims to increase batter overrun volume by 10-20%.
 </p>
 </div> 
 </div> 
