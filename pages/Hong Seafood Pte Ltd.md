@@ -1,15 +1,16 @@
---- 
-title: Hong Seafood Pte Ltd 
-permalink: /hong-seafood/ 
+---
+title: Hong Seafood Pte Ltd
+permalink: /hong-seafood/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1-Qs8zfGQxCov-H3vfQv48K3DRqrgStr1&amp;export=download">
+<img src="/images/hsf_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1u1QoQhmBYrbqQiTU9iE4YeGrbKcu_9GD&export=download">
+<img src="/images/hsf_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lau Yuen Tong Essence of Chicken
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1qUVisOuw9D9uvNiPpofNxUuKFqpBtyJx&export=download">
+<img src="/images/hsf_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lau Yuen Tong Organic Premium Rooibos Tea 
@@ -97,18 +98,18 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1-4vc34G7CfJunprF88s985qOUepzJKA1&export=download">
+<img src="/images/hsf_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Lau Yuen Tong Premium Rose Bird's Nest
 </h6> 
-<p>Our proudest innovation in enabling a hassle-free way to prepare your bird nest. Through our dedication to R&D, we took away the trouble of soaking and cleaning the impurities. You can now enjoy a bowl of comforting bird's nest the way you like it in 30 minutes! All you have to do is to put a token in boiling water, together with any other ingredients you like. Stew for 30 minutes and it is ready to eat. Enjoy the most exquisite bird's nest, direct from Vietnam.
+<p>Our proudest innovation in enabling a hassle-free way to prepare your bird nest. Through our dedication to R&amp;D, we took away the trouble of soaking and cleaning the impurities. You can now enjoy a bowl of comforting bird's nest the way you like it in 30 minutes! All you have to do is to put a token in boiling water, together with any other ingredients you like. Stew for 30 minutes and it is ready to eat. Enjoy the most exquisite bird's nest, direct from Vietnam.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1GzZ8JHOu9fFaG8Vn6DNTCqtCSxf-oAPT&export=download">
+<img src="/images/hsf_product4.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Red Sea Prawn
