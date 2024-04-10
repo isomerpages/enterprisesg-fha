@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1rrRspxse4Ki-fycFb6lnEAXmF9L46f0Z&amp;export=download">
+<img src="/images/ripe_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=18zsOoteB9GJTqxeIA7LqiCagkd084EUr&amp;export=download">
+<img src="/images/ripe_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Footprints Water
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1wGzwut-Xoldycc4Zon0yiQtCMHgoosYy&amp;export=download">
+<img src="/images/ripe_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Freshly squeezed orange juice
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=16-EGIFJaEH4iCu45r3thDCK12PCYbXQh&amp;export=download">
+<img src="/images/ripe_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Cranberry Juice Drink - Superfruit
