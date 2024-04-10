@@ -1,15 +1,16 @@
---- 
-title: Baker's Oven Patisseries 
-permalink: /bakers-oven-pattisieries/ 
+---
+title: Baker's Oven Patisseries
+permalink: /bakers-oven-pattisieries/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1XEVGFLFwTc5mQsDCnsrgYXKTl6sCOnAk&amp;export=download">
+<img src="/images/bakers_oven_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1UlEL5yLBd7Hyov0An25HdWSkFLg9q6lj&export=download">
+<img src="/images/bakers_oven_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Puff Pastries
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1UG5eMFa6RXIdflJX0SX1EucN7DMr1hoj&export=download">
+<img src="/images/bakers_oven_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Frozen RTE Pizza and Pie
