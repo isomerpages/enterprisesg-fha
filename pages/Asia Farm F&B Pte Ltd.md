@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="https://drive.google.com/uc?export=download&amp;id=1e7M6leHwIrqy5FbDkZEWHPDstzenJKRi">
+<img src="/images/asia_farm_logo.jpg">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -88,7 +88,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1iCOyIZ_r4MFFqM7-UQ5P3ZBJIuECQ8xw">
+<img src="/images/asia_farm_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Purple Tea Drink
@@ -99,7 +99,7 @@ variant: markdown
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=145BWPS38J9e22QqUpMdfxMFQZJ9Ki0OX">
+<img src="/images/asia_farm_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">AsiaFarm Healthier Choice BIB Beverages
