@@ -1,15 +1,16 @@
---- 
-title: Everglades Pte Ltd 
-permalink: /everglades/ 
+---
+title: Everglades Pte Ltd
+permalink: /everglades/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1Q8MnCmF24PmmZATBIEYVlTVOf2-_fIqr&amp;export=download">
+<img src="/images/everglades_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=11e2sbw0XxsIjh2XdaoyMbqgEQt3zq-yF&export=download">
+<img src="/images/everglades_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Healthier (NSA and Low GI) Gelato
@@ -86,23 +87,23 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1st3NPPKYu7Zga8a7aEF9FCulSc0iDDcb&export=download">
+<img src="/images/everglades_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Asian and Vegan Gelato and Sorbet
 </h6> 
-<p>Papitto Gelato specialized in high quality and freshly made Gourmet Gelato to business and consumers from our HACCP and ISO22000 certified factory in Singapore. We have customized and healthier choices of Gelato, Ice Cream and Sorbet to hotels, restaurants and cafes. Over 50 flavors on the list including NSA – No Sugar Added Gelatos Vegan & Lactose-Free Flavors Signature, Classic & Asian Flavors
+<p>Papitto Gelato specialized in high quality and freshly made Gourmet Gelato to business and consumers from our HACCP and ISO22000 certified factory in Singapore. We have customized and healthier choices of Gelato, Ice Cream and Sorbet to hotels, restaurants and cafes. Over 50 flavors on the list including NSA – No Sugar Added Gelatos Vegan &amp; Lactose-Free Flavors Signature, Classic &amp; Asian Flavors
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=17avg1h6nFx6MKDX21Nj40_eXW3405AxG&export=download">
+<img src="/images/everglades_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Waffles, Portioned Desserts, Toppings & Sauces, Low GI Cakes & Cookies
+<h6 style="text-transform: uppercase; color: black;">Waffles, Portioned Desserts, Toppings &amp; Sauces, Low GI Cakes &amp; Cookies
 </h6> 
-<p>Belgian Waffle Mixes, Portioned Desserts, Toppings & Sauces, Low GI Cakes & Cookies
+<p>Belgian Waffle Mixes, Portioned Desserts, Toppings &amp; Sauces, Low GI Cakes &amp; Cookies
 </p>
 </div> 
 </div> 
