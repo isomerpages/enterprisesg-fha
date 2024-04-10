@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1NL37cUzG3tCMCr1ko8EyJDDXVtb479Px&amp;export=download">
+<img src="/images/golden_bridge_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +75,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1z2uDQD7dZmgdiUBuwOl-JkuuGK6NMWCB&amp;export=download">
+<img src="/images/golden_bridge_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Pork Luncheon Meat
@@ -86,7 +86,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1isQe17NK_rJjG-4vlYATHXWCmebi0VP1&amp;export=download">
+<img src="/images/golden_bridge_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Stewed Pork series
@@ -97,7 +97,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1HmGOJK7fwMoZmLt2XXaRxjoOzEOJvKfH&amp;export=download">
+<img src="/images/golden_bridge_product3.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Golden Bridge Waxed Sausages series
