@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=108ZkUNok6rxx80_yz8AV-08azuOgAhLi&amp;export=download">
+<img src="/images/hai_s_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1hu7rb_kEjb-15AtbU8dMs0rUe6FuQrdQ&amp;export=download">
+<img src="/images/hai_s_product1.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Hai's Asia Joy
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1hARqjx-JpqHPIZgWz8LZQxmbUD2-kFA0&amp;export=download">
+<img src="/images/hai_s_product2.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Hai's Instant Paste
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Umy98stinWkDyS1Bhsr7ZJmUpdhW1qe0&amp;export=download">
+<img src="/images/hai_s_product3.PNG">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Hai's Commercial Packs
