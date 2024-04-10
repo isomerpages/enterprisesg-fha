@@ -35,7 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Bakery, Others
+<span style="background-color: pink; border-radius: 10 px;">Bakery, Dairy, Others
 </span>
 </p> 
 <p>
