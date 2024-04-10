@@ -1,15 +1,16 @@
---- 
-title: Ken Ken Food Manufacturing Pte Ltd 
-permalink: /ken-ken-food/ 
+---
+title: Ken Ken Food Manufacturing Pte Ltd
+permalink: /ken-ken-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1QWY8WW-K2HuyZxXH6Fvwwi30QsffHHWh&amp;export=download">
+<img src="/images/kenken_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=16aTJX6xbEVOUX4_8cJbnHMKHPj9muVbx&export=download">
+<img src="/images/kenken_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ken Ken Sutchi Fillet 575g
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1xwKJyCuUpgloU9RCKncRz_ESw7a16KWY&export=download">
+<img src="/images/kenken_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Ken Ken Sea Scallop 800g
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1o2Sx5y8t5vsLlgJY4WvuwSpvBH3iVHIp&export=download">
+<img src="/images/kenken_product3.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ken Ken Shredded Cuttlefish 10g
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1gSmL-dFowRi-2Q-F2qG56XS1x1XAQaWz&export=download">
+<img src="/images/kenken_product4.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ken Ken Crispy Rolled Cuttlefish 120g
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1pZnHd9_Zu3HFInJrp-hfmemdltVzZrSC&export=download">
+<img src="/images/kenken_product5.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Ken Ken Crispy Salted Egg Fish Skin 100g
