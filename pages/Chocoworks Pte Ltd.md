@@ -1,15 +1,16 @@
---- 
-title: Chocoworks Pte Ltd 
-permalink: /chocoworks/ 
+---
+title: Chocoworks Pte Ltd
+permalink: /chocoworks/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=12FGPuSW9UELThXMosKjabgDtzf5fZ18Q&amp;export=download">
+<img src="/images/chocoworks_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1o5qfruxKxxh32-EaGO0vazZkTMIw28gQ&export=download">
+<img src="/images/chocoworks_product1.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Chocolate Bars (No Sugar)
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1wryGBOTo2IKMm_fl6N5zGbL7g9qYbvEd&export=download">
+<img src="/images/chocoworks_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Healthier Choice Chocolate Almonds (No Sugar)
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=10y74pBQgRKARWXVWfvhEZH-9DsSodIbE&export=download">
+<img src="/images/chocoworks_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">BOOSTER Functional Chocolate Snacks
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1i_hhzacnk3U8ugMYcAH41sO53AFHIU72&export=download">
+<img src="/images/chocoworks_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Mahjong Chocolate
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1_mtyTlf2veMzRcNISpWTOQ3pNT4lNtUr&export=download">
+<img src="/images/chocoworks_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">CHOCOELF Fresh Truffles and Pralines
