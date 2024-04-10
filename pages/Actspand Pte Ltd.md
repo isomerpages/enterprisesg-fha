@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1zhIad7OE2g1QenGAa8bhMxx17y-VCIW0&amp;export=download">
+<img src="/images/actspand_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -76,7 +76,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1CffVTDBFCoLBoUAoyo3pdCKjhw0jyVg3&amp;export=download">
+<img src="/images/actspand_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Organic Plant Protein Powder 400g (3 variants)
@@ -87,7 +87,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1RXPkhosdC2M8m9Lr1kmen86ucegMRl3L&amp;export=download">
+<img src="/images/actspand_product2.jpeg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Organic Raw Honey Infused With Superfoods (3 variants)
@@ -98,7 +98,7 @@ variant: markdown
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1Qy7ehMDbBtpBjRFeZzpCsEmdcIiYFF-O&amp;export=download">
+<img src="/images/actspand_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Organic Breakfast Cereals (3 variants)
