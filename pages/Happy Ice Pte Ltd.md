@@ -1,8 +1,9 @@
---- 
-title: Happy Ice Pte Ltd 
-permalink: /happy-ice/ 
+---
+title: Happy Ice Pte Ltd
+permalink: /happy-ice/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1-fZuyYPhCvWPFNycu4nqV0FPkU3S4XxG&export=download">
+<img src="/images/happy_ice_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Frozen Ice Cream Vending Machine
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1t8jFhk3uQ145ufjVw6cg5bUkPyp6zqGD&export=download">
+<img src="/images/happy_ice_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Frozen Fun Vending Machine
