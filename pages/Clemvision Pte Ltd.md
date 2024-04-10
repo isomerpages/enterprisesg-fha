@@ -1,15 +1,16 @@
---- 
-title: Clemvision Pte Ltd 
-permalink: /clemvision/ 
+---
+title: Clemvision Pte Ltd
+permalink: /clemvision/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=12T5Vs1diAYGc1VUZ61h9tBiEqn3T-2tv&amp;export=download">
+<img src="/images/clemvision_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1ukVurnG-Zzy2IuJzsGt6fe4a6plejT0I&export=download">
+<img src="/images/clemvision_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Automation Agriculture System
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1rOtaGbvj_KrkD2PY62U7xwlZRXGEhJFF&export=download">
+<img src="/images/clemvision_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Agriculture AI Software
