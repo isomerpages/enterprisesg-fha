@@ -1,15 +1,16 @@
---- 
-title: Chew's Agriculture Pte Ltd 
-permalink: /chews-agriculture/ 
+---
+title: Chew's Agriculture Pte Ltd
+permalink: /chews-agriculture/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?id=1YFZSam144vY5WNxXbnHkgine7IvnlZeh&amp;export=download">
+<img src="/images/chew_s_logo.jpg">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1o2ggbkCae7EbK7q1U6lGgzYesvuK0LQ0&export=download">
+<img src="/images/chew_s_product1.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chew's Fresh Eggs
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1vC96mt89duXG0SFdSs-NHBSoFHRzCUVv&export=download">
+<img src="/images/chew_s_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;"> Chew's Organic Selenium Eggs
@@ -97,7 +98,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1-ANzD9KAi1rzqAofZhmxX3FXUbw8SSzy&export=download">
+<img src="/images/chew_s_product3.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chew's Omega 3 Eggs
@@ -108,7 +109,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1t1MTNDbzacNgfPXc9ApivGHHIqhat_b2&export=download">
+<img src="/images/chew_s_product4.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chew's Eggs with Omega 6
@@ -119,7 +120,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?id=1J5WLcE1hgWb5_FWHgRtw9MQL9MwUdCb5&export=download">
+<img src="/images/chew_s_product5.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Chew's Cage-Free Eggs
