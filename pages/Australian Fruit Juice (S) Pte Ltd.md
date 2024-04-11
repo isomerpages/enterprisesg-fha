@@ -1,6 +1,6 @@
 ---
-title: Cooking Art Industries Pte Ltd
-permalink: /cooking-art-industries/
+title: Australian Fruit Juice (S) Pte Ltd
+permalink: /australian-fruit-juice/
 description: ""
 variant: markdown
 ---
@@ -10,17 +10,17 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/cooking_art_logo.jpg">
+<img src="/images/ripe_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>Cooking Art Industries Pte Ltd
+<b>Australian Fruit Juice (S) Pte ltd
 </b>
 </h4> 
-<p>Singapore Heritage Confections
+<p>Manufacturer &amp; supplier of quality fruit juices
 </p> 
 <p>
-<a href="https://www.cookingart.com.sg" target="_blank">www.cookingart.com.sg
+<a href="http://www.ripe-afj.com.sg/" target="_blank">www.ripe-afj.com.sg
 </a>
 </p> 
 </div> 
@@ -35,16 +35,16 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Bakery
+<span style="background-color: pink; border-radius: 10 px;">Beverages
 </span>
 </p> 
 <p>
 <b>Certifications: 
-</b> HACCP Certified, ISO 22000
+</b>Halal Certified, FSSC 2200 Certified, Healthier Choice Certified
 </p> 
 <p>
 <b>Export Markets: 
-</b>NA
+</b>Brunei, Jarkarta, Malaysia
 </p> 
 <p style="margin-bottom: 10px;">
 <b>Looking for: 
@@ -57,12 +57,12 @@ variant: markdown
 </h4> 
 <div class="flex-paragraph"> 
 <p style="padding: 10px; color: white;">
-<b>Claire Ariela Shen
+<b>Gavin Goh
 </b>
-<br>Managing Director
-<br>+65 62441192
+<br>Marketing &amp; Social Media Executive
+<br>+65 90938985
 <br>
-<a href="mailto:claire.ariela@cookingart.com.sg" style="color: white;">claire.ariela@cookingart.com.sg
+<a href="mailto:bizdev@ripe-afj.com.sg" style="color: white;">bizdev@ripe-afj.com.sg
 </a>
 </p> 
 </div> 
@@ -76,23 +76,34 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/cooking_art_product1.png">
+<img src="/images/ripe_product1.png">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Kueh Lapis
+<h6 style="text-transform: uppercase; color: black;">Footprints Water
 </h6> 
-<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.
+<p>Singapore's eco-friendly box water. Experience eco-friendly water produced with minimal resources and using renewable resources. Your support is greatly appreciated in helping to reduce global carbon footprints. 
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/cooking_art_product2.jpg">
+<img src="/images/ripe_product2.png">
 </div> 
 <div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;"> Assorted Kuehs
+<h6 style="text-transform: uppercase; color: black;"> Freshly squeezed orange juice
 </h6> 
-<p>Our kuehs are made fresh daily in our 24-hour, ISO22000 and HACCP certified kitchens. We treasure the health of our customers and their families. Our products are made with quality and freshness in mind and contain no added preservatives. All our kuehs are handcrafted with quality ingredients to ensure the authentic traditional taste of our products. Caring for your health, they are made with less sugar.
+<p>Premium orange juice is squeezed fresh in the factory, for your daily dose of Vitamin C! Juices made from fruits and vegetables can be an important part of a healthy diet and lifestyle. 
+</p>
+</div> 
+</div> 
+<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
+<div class="flex-image" style="display: block;">
+<img src="/images/ripe_product3.png">
+</div> 
+<div class="flex-paragraph"> 
+<h6 style="text-transform: uppercase; color: black;">Cranberry Juice Drink - Superfruit
+</h6> 
+<p>\Cranberry Superfruit Juice Drink Healthier Choice, Fresh New Look, Tastefully Upgraded. Take in the embrace of nature, supercharged with nutrients and goodness for a revitalizing experience! Packed with Vitamins A, C &amp; E No artificial colouring! No added preservatives! 
 </p>
 </div> 
 </div> 

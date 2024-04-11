@@ -11,14 +11,14 @@ sections:
       subtitle: Find out more about the players in our ecosystem here!
       background: /images/hero-banner.png
       button: Browse here
-      url: /singapore-pavilion-exhibitors/bakery
+      url: /singapore-pavilion-exhibitors/overview
       key_highlights:
         - title: Why Singapore?
           description: Discover local opportunities.
           url: /why-singapore
         - title: What's on in Singapore?
           description: Explore our F&B ecosystem!
-          url: /about-the-event/other-events
+          url: /events/fha2024/
   - infobar:
       title: Singapore's Food Manufacturing Industry
       description: Characterised by diversity, passion, and innovation behind every

@@ -1,15 +1,16 @@
---- 
-title: Float Foods Pte Ltd (OnlyEg) 
-permalink: /float-foods/ 
+---
+title: Float Foods Pte Ltd (OnlyEg)
+permalink: /float-foods/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1QnpK-pD_4QP7Cm1NIGMAn-K2sKRQVKUg&amp;export=download">
+<img src="/images/float_foods_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -73,7 +74,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1uN-x-d736LKSDRN4FPFCZ7rnWveP0pAa&export=download">
+<img src="/images/float_foods_product1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">OnlyEg Shreds
@@ -84,7 +85,7 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/u/0/uc?id=1uN-x-d736LKSDRN4FPFCZ7rnWveP0pAa&export=download">
+<img src="/images/float_foods_product2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">OnlyEg Tamagoyaki

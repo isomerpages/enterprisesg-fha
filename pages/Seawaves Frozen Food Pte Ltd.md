@@ -1,5 +1,5 @@
 ---
-title: SEAWAVES FROZEN FOOD PTE LTD
+title: Seawaves Frozen Food Pte Ltd
 permalink: /seawaves-frozen-food/
 description: ""
 variant: markdown
@@ -90,7 +90,7 @@ variant: markdown
 <div class="flex-image" style="display: block;">
 </div> 
 </div> 
-<img src="</images/seawaves_product3.jpg">
+<img src="/images/seawaves_product2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Seawaves CuttleFish Paste
@@ -111,7 +111,6 @@ variant: markdown
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Others (Frozen Seafood &amp; Frozen Meat)
 </h6> 
 <p>We distribute an extensive range of frozen seafood (fish, shrimp, prawn, crabmeat, mussels, jelly fish, octopus, sea cucumber, crayfish, oysters, scallops and shark fins). We also have a large range of frozen meat from fish, shrimp, beef, deer, lamb , chicken and duck meat providing our customers a full range of products.
@@ -119,4 +118,3 @@ variant: markdown
 </div> 
 </div> 
 </div> 
-</div>
