@@ -1,15 +1,16 @@
---- 
-title: Fossa Chocolate Pte Ltd 
-permalink: /fossa-chocolate/ 
+---
+title: Fossa Chocolate Pte Ltd
+permalink: /fossa-chocolate/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p> 
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="https://drive.google.com/uc?export=download&amp;id=14bW94gGNlkD0vOCUiOyg4bEXPjf25ta2">
+<img src="/images/fossa_chocolate_logo2.png">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -59,7 +60,7 @@ description: ""
 <b>Yilina Leong
 </b>
 <br>Business Director
-<br>->+65 9679 8088
+<br>+65 9679 8088
 <br> 
 <a style="color: white;" href="mailto:sales@fossachocolate.com">sales@fossachocolate.com
 </a> 
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1wICAqJW0WTwXZcOOK47UvmpsHL-jBUZ4">
+<img src="/images/fossa_chocolate_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nanyang Kopi Dark Milk Chocolate
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1ZBPC8Xk9zPBw7LdLGvKnSyhm_9zJh2ST">
+<img src="/images/fossa_chocolate_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Spicy Mala Chocolate

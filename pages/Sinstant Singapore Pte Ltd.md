@@ -1,17 +1,18 @@
---- 
-title: Sinstant Singapore Pte Ltd 
-permalink: /sinstant/ 
+---
+title: Sinstant Singapore Pte Ltd
+permalink: /sinstant/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1VIVUIHIXvAZ4OPYo8hSRhF7if8LMtwyu">
+<img src="/images/sinstant_logo2.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -21,14 +22,14 @@ description: ""
 <p>Using Singapore’s world-class food safety standards, innovative technologies and quality ingredients, SINSTANT brings chef-curated Singapore, Hong Kong and Asian cuisine to the world. SINSTANT’s varied range of Chinese and Asian Ready-to-Eat (RTE) and Ready-to- Cook (RTC) gourmet meals are curated by Michelin-awarded and veteran top chefs from Hong Kong and Singapore restaurants, and Singapore’s popular hawkers stalls.
 </p> 
 <p>
-<a href="www.sinstant.com" target="_blank">www.sinstant.com
+<a target="_blank" href="https://www.sinstant.com.sg/">https://www.sinstant.com.sg/
 </a>
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Cooked Foods
+<span style="background-color: pink; border-radius: 10 px;">Cooked Foods
 </span>
 </p> 
 <p>
@@ -70,7 +71,7 @@ description: ""
 <br>CEO
 <br>+65 6592 2221
 <br>
-<a href="mailto:peter@sinstant.com.sg" style="color: white;">peter@sinstant.com.sg
+<a style="color: white;" href="mailto:peter@sinstant.com.sg">peter@sinstant.com.sg
 </a>
 </p> 
 </div> 
@@ -84,10 +85,10 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1TBa5jaQKyN0ulXyr3i-Dz9PL01LdhECx">
+<img src="/images/sinstant_2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
 </h6> Mala Chicken + Hotpot, Beef Brisket and Tendon, Hainanese Curry Chicken, Butter Chicken, Sukha Mutton 
-</p>
-</div>
+<p></p>
+</div></div></div>

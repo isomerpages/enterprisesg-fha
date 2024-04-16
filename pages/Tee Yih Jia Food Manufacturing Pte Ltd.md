@@ -1,15 +1,16 @@
---- 
-title: Tee Yih Jia Food Manufacturing Pte Ltd 
-permalink: /tee-yih-jia/ 
+---
+title: Tee Yih Jia Food Manufacturing Pte Ltd
+permalink: /tee-yih-jia/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&amp;id=1qmpp8yJHKAALmcOwRYvoJSUZlucBz7sc">
+<img src="/images/tee_yih_jia_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -19,7 +20,7 @@ description: ""
 <p>Tee Yih Jia (TYJ) is a leading frozen foods manufacturer inSingapore, exporting more than 90% of its renowned ‘Spring Home’ brand products to about 100 countries. Its flagship brand 'SpringHome' offers an extensive range of frozen convenience food products while its 'ALTN' brand offers plant-based snacks and ready meals for anyone who craves a delicious alternative to the ordinary.Delivering high-quality and innovative products drive TYJ and food safety is at the core of everything the company does.
 </p> 
 <p>
-<a href="https://www.tyjfood.com" target="_blank">www.tyjfood.com
+<a target="_blank" href="http://www.tyjfood.com/">www.tyjfood.com
 </a>
 </p> 
 </div> 
@@ -65,7 +66,7 @@ description: ""
 <br>Market Development Manager
 <br>+65 6880 9888
 <br>
-<a href="mailto:kowijengee@tyjfood.com" style="color: white;">kowijengee@tyjfood.com
+<a style="color: white;" href="mailto:kowijengee@tyjfood.com">kowijengee@tyjfood.com
 </a>
 </p> 
 </div> 
@@ -80,7 +81,7 @@ description: ""
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=18yvtkvEMgFRErLSuNcPY5O7LeQ8vHFnR">
+<img src="/images/tee_yih_jia_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Spring Home Product line
@@ -91,10 +92,9 @@ description: ""
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&amp;id=1gLDN0gyeZ1nsbKogW4BoQcYJzjNROYdT">
 </div> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1d4LMP5pfsjFGETm1dDPqNtLGVsBmLK6_">
+<img src="/images/tee_yih_jia_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">ALTN by Tee Yih Jia Food Manufacturing

@@ -1,31 +1,31 @@
---- 
-title: Nomanbhoy & Sons Pte Ltd 
-permalink: /nomanbhoy/ 
+---
+title: Nomanbhoy & Sons Pte Ltd
+permalink: /nomanbhoy/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&amp;id=1342QyjsrDx5aI6XdpF88mw2uMgaE0ad3">
+<img src="/images/nomanbhoy_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>Nomanbhoy &amp; Sons Pte Ltd
 </b>
 </h4> 
-<p>Nomanbhoy &amp; Sons has earned the distinction of being one of the 
-<p>most reputable and oldest establishments in the spices and agro commodities industry in Singapore, having being in the business for more than a century. Through 5 generations of leadership, the trading company had came a long way and flourished into an organization with a strong international presence in 50+ countries across 5 continents. It is a brand name in the spice industry.
+<p>Nomanbhoy &amp; Sons has earned the distinction of being one of the most reputable and oldest establishments in the spices and agro commodities industry in Singapore, having being in the business for more than a century. Through 5 generations of leadership, the trading company had came a long way and flourished into an organization with a strong international presence in 50+ countries across 5 continents. It is a brand name in the spice industry.
 </p> 
 <p>
-<a href="www.nomanbhoy.sg" target="_blank">www.nomanbhoy.sg
+<a target="_blank" href="https://nomanbhoy.sg/">https://nomanbhoy.sg/
 </a>
 </p> 
 </div> 
 </div>
-</p> 
+<p></p> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -67,7 +67,7 @@ description: ""
 <br>Director
 <br>+65 6271 7552
 <br>
-<a href="mailto:nomax@nomanbhoy.sg" style="color: white;">nomax@nomanbhoy.sg
+<a style="color: white;" href="mailto:nomax@nomanbhoy.sg">nomax@nomanbhoy.sg
 </a>
 </p> 
 </div> 
@@ -81,7 +81,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=10PbHPeh-HORubOYQpov5NEyhI7lN7ihC">
+<img src="/images/nomanbhoy_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products

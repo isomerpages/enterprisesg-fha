@@ -1,17 +1,18 @@
---- 
-title: Seabiz Trading Pte Ltd 
-permalink: /seabiz/ 
+---
+title: Seabiz Trading Pte Ltd
+permalink: /seabiz/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1ZkX2NuSROcCIDtiuZnw9jAOPMEA5yRyA">
+<img src="/images/seabiz_logo_1.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -21,14 +22,14 @@ description: ""
 <p>Founded in 2012, Seabiz Trading is engaged in the wholesale of beverages, food products, cosmetics and household chemicals. The company has since took a leading position in the FMCG sector distributing to Asia, Middle East, Europe and America.
 </p> 
 <p>
-<a href="www.seabiz.sg" target="_blank">www.seabiz.sg
+<a target="_blank" href="https://seabiz.sg">www.seabiz.sg
 </a>
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Others (Multiproduct)
+<span style="background-color: pink; border-radius: 10 px;">Others (Multiproduct)
 </span>
 </p> 
 <p>
@@ -70,7 +71,7 @@ description: ""
 <br>Manager
 <br>+65 6352 9646
 <br>
-<a href="mailto:faizal@seabiz.sg" style="color: white;">faizal@seabiz.sg
+<a style="color: white;" href="mailto:faizal@seabiz.sg">faizal@seabiz.sg
 </a>
 </p> 
 </div> 
@@ -84,10 +85,10 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1OT5RosV5D-Y-O3318wrfZTa8PvNbeo7i">
+<img src="/images/seabiz_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
 </h6> Nuts and Spices, Roasted Coffee Bean, Confectionery, Cooking Oil, FMCG 
-</p>
-</div>
+<p></p>
+</div></div></div>

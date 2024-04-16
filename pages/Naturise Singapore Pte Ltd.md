@@ -1,34 +1,35 @@
---- 
-title: Naturise Singapore Pte Ltd 
-permalink: /naturise/ 
+---
+title: Naturise Singapore Pte Ltd
+permalink: /naturise/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1nLamPDEuR8J-U7AF4r90IG36iEOs4_v_">
+<img src="/images/naturise_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>Naturise Singapore Pte Ltd
 </b>
 </h4> 
-<p>The Only Earth brand has 2 key missions, one is to be kinder to the planet and the other is to be healthier for the customer. Naturise offers a range of delicious, clean-label & ready to use plant-based dairy alternatives with a goal to becoming a leading choice in the 100% plant-based space across the globe.
+<p>The Only Earth brand has 2 key missions, one is to be kinder to the planet and the other is to be healthier for the customer. Naturise offers a range of delicious, clean-label &amp; ready to use plant-based dairy alternatives with a goal to becoming a leading choice in the 100% plant-based space across the globe.
 </p> 
 <p>
-<a href="www.myonlyearth.com" target="_blank">www.myonlyearth.com
+<a href="https://myonlyearth.com/" target="_blank">https://myonlyearth.com/
 </a>
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Beverages
+<span style="background-color: pink; border-radius: 10 px;">Beverages
 </span>
 </p> 
 <p>
@@ -70,7 +71,7 @@ description: ""
 <br>Director
 <br>+91 9 840086111
 <br>
-<a href="kunal@naturiseconsumer.com" style="color: white;">kunal@naturiseconsumer.com
+<a style="color:white;" href="mailto:kunal@naturiseconsumer.com">kunal@naturiseconsumer.com
 </a>
 </p> 
 </div> 
@@ -84,18 +85,18 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1NDPfNiYi37Zzb2FNQzlKnw--ecWXIy1X">
+<img src="/images/naturise_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">oat milk
 </h6> 
-<p>ONLY EARTH Oat Milk is a nutritious plant-based beverage with rich oat flavour and creamy texture. It is a good source of Calcium, Vitamin D, B2 and B12 and fortified with many other vitamins and minerals. 100% Vegan, soya-free, lactose-free, contains no trans-fats, no added sugar & preservatives, cholestrol-free, and guilt-free.
+<p>ONLY EARTH Oat Milk is a nutritious plant-based beverage with rich oat flavour and creamy texture. It is a good source of Calcium, Vitamin D, B2 and B12 and fortified with many other vitamins and minerals. 100% Vegan, soya-free, lactose-free, contains no trans-fats, no added sugar &amp; preservatives, cholestrol-free, and guilt-free.
 </p>
 </div> 
 </div> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1E2pt454HBYbUIRS_DK4CbxqGg7ppGQ-2">
+<img src="/images/naturise_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Almond Milk
@@ -103,4 +104,4 @@ description: ""
 <p>ONLY EARTH Almond Milk is a nutritious plant-based beverage that lets you experience a rich almond flavour with a creamy texture. It is also a good source of Fibre, rich in Vitamin E and is fortified with many other vitamins and minerals. 100% Vegan, gluten-free, soya-free, lactose-free, cholestrol-free and has zero trans-fats, no added sugar or preservatives.
 </p>
 </div> 
-</div>
+</div></div>

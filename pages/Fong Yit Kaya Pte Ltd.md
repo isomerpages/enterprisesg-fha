@@ -1,15 +1,16 @@
---- 
-title: Fong Yit Kaya Pte Ltd 
-permalink: /fong-yit-kaya/ 
+---
+title: Fong Yit Kaya Pte Ltd
+permalink: /fong-yit-kaya/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p> 
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="https://drive.google.com/uc?export=download&amp;id=1s9UiU-J0xxkoBLN0TofF9E-LUHo7Vm3Y">
+<img src="/images/fong_yit_kaya_logo2.png">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -75,7 +76,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1PXJ8dX8w-nZEN3moZQ9WRPCbSdz8QrI4">
+<img src="/images/fong_yit_kaya_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Caramel Kaya
@@ -86,7 +87,7 @@ description: ""
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1lCvYnSKXFkUjjy61BTvfkVZ6OZSmM9vj">
+<img src="/images/fong_yit_kaya_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">XO Kaya

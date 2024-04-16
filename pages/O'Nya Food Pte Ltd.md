@@ -1,15 +1,16 @@
---- 
-title: O'Nya Food Pte Ltd 
-permalink: /onya-food/ 
+---
+title: O'Nya Food Pte Ltd
+permalink: /onya-food/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p> 
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="https://drive.google.com/uc?export=download&amp;id=1G6h0-5M5FGZ2m-nB_yiQIVgpZzxqf7dU">
+<img src="/images/o_nya_logo.png">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -71,7 +72,7 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1A4AQIcdJixwb6fVMWh9er3jWAsrRMdqK">
+<img src="/images/o_nya_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Buah Keluak Paste
@@ -82,7 +83,7 @@ description: ""
 </div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
-<img src="https://drive.google.com/uc?export=download&amp;id=1JZpZ0Gg_rxEu5QjPfJJ4We9ZoMZPIOVb">
+<img src="/images/o_nya_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Nyonya Rendang Paste

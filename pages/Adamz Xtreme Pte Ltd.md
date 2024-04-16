@@ -1,15 +1,16 @@
---- 
-title: Adamz Xtreme Pte Ltd 
-permalink: /adamz-xtreme/ 
+---
+title: Adamz Xtreme Pte Ltd
+permalink: /adamz-xtreme/
 description: ""
---- 
+variant: markdown
+---
 <div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&amp;id=11qnE_qgnf2tr4YDcy_5Js75wSdv1bd93">
+<img src="/images/adamz_xtreme_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -17,7 +18,7 @@ description: ""
 </b>
 </h4> 
 <p>Adamz Extreme was established in January 2020 primarily to 
-<p>distribute Premium Halal Bosnian European beef & lamb that are GMO-free. It is offering a range of Premium European Breeds such as Black Angus, Limousine, Charolais, Simmental and Belgian Blue. The company's vision is HALALAN TOYIBBAN where the whole chain from animal feed till the meat products turn into burgers/ sausages/ kebabs are halal certified.
+</p><p>distribute Premium Halal Bosnian European beef &amp; lamb that are GMO-free. It is offering a range of Premium European Breeds such as Black Angus, Limousine, Charolais, Simmental and Belgian Blue. The company's vision is HALALAN TOYIBBAN where the whole chain from animal feed till the meat products turn into burgers/ sausages/ kebabs are halal certified.
 </p> 
 <p>
 <a href="www.adamzxtreme.com" target="_blank">www.adamzxtreme.com
@@ -25,7 +26,7 @@ description: ""
 </p> 
 </div> 
 </div>
-</p> 
+<p></p> 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -79,15 +80,14 @@ description: ""
 </b>
 </h4> 
 <div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="">
-</div> 
+ 
+
+
+ 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
 </h6> 
 <p>Black Angus, Limousine, Charolais, Simmental and Belgian Blue 
 </p>
-</div>
 </div>
 </div>
