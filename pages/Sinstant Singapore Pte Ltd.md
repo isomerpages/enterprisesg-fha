@@ -1,17 +1,18 @@
---- 
-title: Sinstant Singapore Pte Ltd 
-permalink: /sinstant/ 
+---
+title: Sinstant Singapore Pte Ltd
+permalink: /sinstant/
 description: ""
---- 
+variant: markdown
+---
 <p>
-<head> 
-<div class="flex-paragraph"> 
+ 
+</p><div class="flex-paragraph"> 
 <p style="text-transform: uppercase">
 </p>
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1VIVUIHIXvAZ4OPYo8hSRhF7if8LMtwyu">
+<img src="/images/sinstant_logo.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -26,9 +27,9 @@ description: ""
 </p> 
 </div> 
 </div> 
-</head>
-</p> 
-<body> 
+
+<p></p> 
+ 
 <h4 style="text-transform: uppercase; color: black;">
 <b>General Information
 </b>
@@ -39,7 +40,7 @@ description: ""
 <p>
 <b>Product Category: 
 </b>
-<span style=" background-color: pink; border-radius: 10 px;">Cooked Foods
+<span style="background-color: pink; border-radius: 10 px;">Cooked Foods
 </span>
 </p> 
 <p>
@@ -84,10 +85,10 @@ description: ""
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="https://drive.google.com/uc?export=download&id=1TBa5jaQKyN0ulXyr3i-Dz9PL01LdhECx">
+<img src="/images/sinstant_1.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
 </h6> Mala Chicken + Hotpot, Beef Brisket and Tendon, Hainanese Curry Chicken, Butter Chicken, Sukha Mutton 
-</p>
-</div>
+<p></p>
+</div></div></div>
