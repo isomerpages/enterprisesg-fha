@@ -22,7 +22,7 @@ variant: markdown
 <p>The Only Earth brand has 2 key missions, one is to be kinder to the planet and the other is to be healthier for the customer. Naturise offers a range of delicious, clean-label &amp; ready to use plant-based dairy alternatives with a goal to becoming a leading choice in the 100% plant-based space across the globe.
 </p> 
 <p>
-<a href="www.myonlyearth.com" target="_blank">www.myonlyearth.com
+<a href="https://myonlyearth.com/" target="_blank">https://myonlyearth.com/
 </a>
 </p> 
 </div> 
@@ -71,7 +71,7 @@ variant: markdown
 <br>Director
 <br>+91 9 840086111
 <br>
-<a href="kunal@naturiseconsumer.com" style="color: white;">kunal@naturiseconsumer.com
+<a href="kunal@naturiseconsumer.comstyle=">kunal@naturiseconsumer.com
 </a>
 </p> 
 </div> 
