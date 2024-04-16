@@ -21,7 +21,7 @@ variant: markdown
 </p><p>signature dish to the world through technology. The founder – Mr. Francis Ng, set up the restaurant with the mission to create job opportunities for the senior citizens and the nation, where friends and families gather to enjoy the popular Singapore Chilli and Black Pepper Crabs.
 </p> 
 <p>
-<a href="www.houseofseafood.com.sg" target="_blank">www.houseofseafood.com.sg
+<a target="_blank" href="https://delivery.houseofseafood.com.sg/">https://delivery.houseofseafood.com.sg/
 </a>
 </p> 
 </div> 
@@ -84,7 +84,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/house_of_seafood_1.png">
+<img src="/images/house_of_seafood_2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
