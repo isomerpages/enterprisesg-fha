@@ -2,6 +2,7 @@ collections:
   general:
     output: true
     order:
+      - Ecosystem Partners.md
       - Overview.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
