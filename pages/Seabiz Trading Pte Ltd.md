@@ -71,7 +71,7 @@ variant: markdown
 <br>Manager
 <br>+65 6352 9646
 <br>
-<a href="mailto:faizal@seabiz.sg" style="color: white;">faizal@seabiz.sg
+<a style="color: white;" href="mailto:faizal@seabiz.sg">faizal@seabiz.sg
 </a>
 </p> 
 </div> 
