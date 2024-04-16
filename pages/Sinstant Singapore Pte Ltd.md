@@ -22,7 +22,7 @@ variant: markdown
 <p>Using Singapore’s world-class food safety standards, innovative technologies and quality ingredients, SINSTANT brings chef-curated Singapore, Hong Kong and Asian cuisine to the world. SINSTANT’s varied range of Chinese and Asian Ready-to-Eat (RTE) and Ready-to- Cook (RTC) gourmet meals are curated by Michelin-awarded and veteran top chefs from Hong Kong and Singapore restaurants, and Singapore’s popular hawkers stalls.
 </p> 
 <p>
-<a target="_blank" href="https://www.sinstant.com/">www.sinstant.com
+<a target="_blank" href="https://www.sinstant.com.sg/">https://www.sinstant.com.sg/
 </a>
 </p> 
 </div> 
@@ -71,7 +71,7 @@ variant: markdown
 <br>CEO
 <br>+65 6592 2221
 <br>
-<a href="mailto:peter@sinstant.com.sg" style="color: white;">peter@sinstant.com.sg
+<a style="color: white;" href="mailto:peter@sinstant.com.sg">peter@sinstant.com.sg
 </a>
 </p> 
 </div> 
@@ -85,7 +85,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/sinstant_1.png">
+<img src="/images/sinstant_2.png">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
