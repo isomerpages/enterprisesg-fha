@@ -84,7 +84,7 @@ variant: markdown
 <p>A cup of aromatic Nanyang kopi in a chocolate bar.
 </p> 
 </div> 
-</div> &lt;
+</div> 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds"> 
 <div style="display: block;" class="flex-image">
 <img src="/images/fossa_chocolate_2.png">
