@@ -21,7 +21,7 @@ variant: markdown
 </p><p>whole cut plant-based beef, chicken, and cheese. Made of natural ingredients that pairs perfectly with delicious authentic Asian flavors. Its mission is to democratize plant-based food and a flexitarian diet by offering innovative products that are not only tasty and healthy, but proudly celebrate Asian cuisines.
 </p> 
 <p>
-<a href="www.greenrebelfoods.com" target="_blank">www.greenrebelfoods.com
+<a target="_blank" href="https://greenrebelfoods.com/">https://greenrebelfoods.com/
 </a>
 </p> 
 </div> 
@@ -68,7 +68,7 @@ variant: markdown
 <br>Head of Business Development
 <br>+65 8866 1688
 <br>
-<a href="mailto:bryan.toh@greenrebelfoods.com" style="color: white;">bryan.toh@greenrebelfoods.com
+<a style="color: white;" href="mailto:bryan.toh@greenrebelfoods.com">bryan.toh@greenrebelfoods.com
 </a>
 </p> 
 </div> 
@@ -82,7 +82,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
-<img src="/images/green_rebel_1.png">
+<img src="/images/green_rebel_2.jpg">
 </div> 
 <div class="flex-paragraph"> 
 <h6 style="text-transform: uppercase; color: black;">Key Products
