@@ -71,7 +71,7 @@ variant: markdown
 <br>Director
 <br>+91 9 840086111
 <br>
-<a style="color:white;" href="mailto:kunal@naturiseconsumer.comstyle=">kunal@naturiseconsumer.com
+<a style="color:white;" href="mailto:kunal@naturiseconsumer.com">kunal@naturiseconsumer.com
 </a>
 </p> 
 </div> 
