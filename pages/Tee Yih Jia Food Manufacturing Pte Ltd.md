@@ -20,7 +20,7 @@ variant: markdown
 <p>Tee Yih Jia (TYJ) is a leading frozen foods manufacturer inSingapore, exporting more than 90% of its renowned ‘Spring Home’ brand products to about 100 countries. Its flagship brand 'SpringHome' offers an extensive range of frozen convenience food products while its 'ALTN' brand offers plant-based snacks and ready meals for anyone who craves a delicious alternative to the ordinary.Delivering high-quality and innovative products drive TYJ and food safety is at the core of everything the company does.
 </p> 
 <p>
-<a href="https://www.tyjfood.com" target="_blank">www.tyjfood.com
+<a target="_blank" href="http://www.tyjfood.com/">www.tyjfood.com
 </a>
 </p> 
 </div> 
