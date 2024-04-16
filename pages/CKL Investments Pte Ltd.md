@@ -22,7 +22,7 @@ variant: markdown
 <p>CKL Investments is a Singapore-based food and beverage import and export company. It also trades commodities such as rice, sugar, salt, starch etc. in the international market.
 </p> 
 <p>
-<a href="www.chiakhimlee.com" target="_blank">www.chiakhimlee.com
+<a target="_blank" href="https://chiakhimlee.com/">https://chiakhimlee.com/
 </a>
 </p> 
 </div> 
@@ -71,7 +71,7 @@ variant: markdown
 <br>
 +65 6285 6488
 <br>
-<a href="ckl.acc2@gmail.com" style="color: white;">ckl.acc2@gmail.com
+<a style="color: white;" href="ckl.acc2@gmail.com">ckl.acc2@gmail.com
 </a>
 </p> 
 </div> 
@@ -93,7 +93,8 @@ variant: markdown
 <p>The various selection of Kings Choice Edible Oil consists of vegetable, canola, soya bean, sunflower and corn oil with different sizes ranging from 1lt, 2ltr, 5ltr to 20 litres, as well as customised labelling, allowing consumers to have more choices. Its unique eye-catching packaging and our quality product has built a strong rapport with world-wide customers with a strong presence and recognition over the years. 
 </p>
 </div> 
-</div> &lt;
+</div> 
+<div style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
 <div class="flex-image" style="display: block;">
 <img src="/images/ckl_2.png">
@@ -105,4 +106,4 @@ variant: markdown
 </p>
 </div> 
 </div> 
-</div>
+</div></div>
