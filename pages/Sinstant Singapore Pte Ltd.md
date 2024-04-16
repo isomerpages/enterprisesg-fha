@@ -12,7 +12,7 @@ variant: markdown
 </div> 
 <div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
 <div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/sinstant_logo.png">
+<img src="/images/sinstant_logo2.png">
 </div> 
 <div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
 <h4 style="text-transform: uppercase; color: black;">
@@ -22,7 +22,7 @@ variant: markdown
 <p>Using Singapore’s world-class food safety standards, innovative technologies and quality ingredients, SINSTANT brings chef-curated Singapore, Hong Kong and Asian cuisine to the world. SINSTANT’s varied range of Chinese and Asian Ready-to-Eat (RTE) and Ready-to- Cook (RTC) gourmet meals are curated by Michelin-awarded and veteran top chefs from Hong Kong and Singapore restaurants, and Singapore’s popular hawkers stalls.
 </p> 
 <p>
-<a href="www.sinstant.com" target="_blank">www.sinstant.com
+<a target="_blank" href="https://www.sinstant.com/">www.sinstant.com
 </a>
 </p> 
 </div> 
