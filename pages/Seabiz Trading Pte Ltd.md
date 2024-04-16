@@ -22,7 +22,7 @@ variant: markdown
 <p>Founded in 2012, Seabiz Trading is engaged in the wholesale of beverages, food products, cosmetics and household chemicals. The company has since took a leading position in the FMCG sector distributing to Asia, Middle East, Europe and America.
 </p> 
 <p>
-<a href="www.seabiz.sg" target="_blank">www.seabiz.sg
+<a target="_blank" href="https://seabiz.sg">www.seabiz.sg
 </a>
 </p> 
 </div> 
