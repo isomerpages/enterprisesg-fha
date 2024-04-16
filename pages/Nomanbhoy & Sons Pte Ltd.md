@@ -17,11 +17,10 @@ variant: markdown
 <b>Nomanbhoy &amp; Sons Pte Ltd
 </b>
 </h4> 
-<p>Nomanbhoy &amp; Sons has earned the distinction of being one of the 
-</p><p>most reputable and oldest establishments in the spices and agro commodities industry in Singapore, having being in the business for more than a century. Through 5 generations of leadership, the trading company had came a long way and flourished into an organization with a strong international presence in 50+ countries across 5 continents. It is a brand name in the spice industry.
+<p>Nomanbhoy &amp; Sons has earned the distinction of being one of the most reputable and oldest establishments in the spices and agro commodities industry in Singapore, having being in the business for more than a century. Through 5 generations of leadership, the trading company had came a long way and flourished into an organization with a strong international presence in 50+ countries across 5 continents. It is a brand name in the spice industry.
 </p> 
 <p>
-<a href="www.nomanbhoy.sg" target="_blank">www.nomanbhoy.sg
+<a target="_blank" href="https://nomanbhoy.sg/">https://nomanbhoy.sg/
 </a>
 </p> 
 </div> 
@@ -68,7 +67,7 @@ variant: markdown
 <br>Director
 <br>+65 6271 7552
 <br>
-<a href="mailto:nomax@nomanbhoy.sg" style="color: white;">nomax@nomanbhoy.sg
+<a style="color: white;" href="mailto:nomax@nomanbhoy.sg">nomax@nomanbhoy.sg
 </a>
 </p> 
 </div> 
