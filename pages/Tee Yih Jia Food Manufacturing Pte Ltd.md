@@ -66,7 +66,7 @@ variant: markdown
 <br>Market Development Manager
 <br>+65 6880 9888
 <br>
-<a href="mailto:kowijengee@tyjfood.com" style="color: white;">kowijengee@tyjfood.com
+<a style="color: white;" href="mailto:kowijengee@tyjfood.com">kowijengee@tyjfood.com
 </a>
 </p> 
 </div> 
