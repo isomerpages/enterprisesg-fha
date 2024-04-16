@@ -10,7 +10,7 @@ variant: markdown
 </div> 
 <div style="display: flex; flex-wrap: wrap;" class="flex-container"> 
 <div style="flex: 1 1 40%; display: block;" class="card sgds">
-<img src="/images/fong_yit_kaya_logo.png">
+<img src="/images/fong_yit_kaya_logo2.png">
 </div> 
 <div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds"> 
 <h4 style="text-transform: uppercase; color: black;">
