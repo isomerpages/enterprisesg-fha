@@ -11,8 +11,9 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Wellspent Upcycling Pte Ltd</b></h4>
-			<p>The sustainability arm of At-Sunrice GlobalChef Academy. Incorporated in 2022, WellSpent looks at Spent ingredients (eg. Orange peels, Okara, Eggshells etc.) that are usually discarded after food production.</p>
+			<p>The sustainability arm of At-Sunrice GlobalChef Academy. Incorporated in 2022, WellSpent looks at Spent ingredients (eg. Orange peels, Okara, Eggshells etc.) that are usually left unused after food production.</p>
 			<p>WellSpent upcycles these beneficial side-streams/by-products to reintroduce them back into our food chain, giving them a second life, and reducing food wastage while improving food security.</p>
+			<p>WellSpent would like to reach like-minded partners. We have an unique franchise system called Happy Gut where we transfer our know-how to our franchisees to venture into the happy gut and sustainability business.</p>
 			<p><a target="_blank" href="https://wellspent.gourmet2go.store">wellspent.gourmet2go.store</a></p>
 		</div>
 	</div>
@@ -37,9 +38,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Melvin Lim</b>
-				<br>Business Development Manager<br>+65 9220 2203<br>
-				<a style="color: white;" href="mailto:melvin_lim@at-sunrice.edu.sg">melvin_lim@at-sunrice.edu.sg</a>
+				<b>Louis Chua</b>
+				<br>Director, sustainability Business<br>+65 9191 6628<br>
+				<a style="color: white;" href="mailto:louis_chua@at-sunrice.edu.sg">louis_chua@at-sunrice.edu.sg</a>
 			</p>
 		</div>
 	</div>
