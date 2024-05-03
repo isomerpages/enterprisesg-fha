@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/gold_kili_logo.png">
+			<img src="/images/Gold%20Kili/gold_kili_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Gold Kili Trading Enterprise (Singapore) Pte Ltd</b></h4>
@@ -31,13 +31,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, BRC Certified, Tasty Singapore
+				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, BRC Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>Indonesia, Hong Kong, Taiwan, Philippines, Vietnam, Korea, Australia, New Zealand, Netherlands, Spain, Russia, Mongolia, Nigeria, Canada, USA
+				<b>Export Markets: </b>EU, Netherland, Italy, Spain, UK , US, Canada, Philippine, Mongolia, China, Bangkok, Camobodia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Importers
 			</p>
 		</div>
 	</div>
@@ -59,27 +59,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/gold_kili_product_02.png">
+			<img src="/images/Gold%20Kili/gold_kili_product_01.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">"Oat-k" Dairy-free &amp; Plant-based Oat Beverages Series</h6>
-			<p>"Oat-k" is a new brand created by Gold Kili.</p>
-			<p>This series of product uses plant-based oat powder instead of milk. As such, it is suitable for consumers who are lactose-intolerant and in search for vegan-friendly beverages. Being less sweet, “Oat-k” series gives health-conscious group of consumers the choice to continue to indulge happily in their usual Coffee, Tea, Matcha and Chocolate drinks while keeping their sugar intake in control.</p>
-			<p>Available in 4 flavours:<br>• Oat Coffee (25g)<br>• Oat Tea (25g)<br>• Oat Matcha (25g)<br>• Oat Chocolate (30g)</p>
-			<p>Pack Size: 6 sachets per box.</p>
-			<p>It's "Oat-k" to indulge in simple happiness because these products are:<br>• Plant-based<br>• Dairy-Free<br>• Vegan-Friendly<br>• No Palm Oil<br>• Lightly sweetened</p>
+			<h6 style="text-transform: uppercase; color: black;">Instant Ginger Drink</h6>
+			<p>Anti inflammatory affects and high boost immunity Ginger Drink.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/gold_kili_product_01.png">
+			<img src="/images/Gold%20Kili/gold_kili_product_02.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Gold Kili Instant Ginger Turmeric Drink</h6>
-			<p>NEW Gold Kili Instant Ginger Turmeric Drink is specially formulated with ginger and turmeric to achieve an optimal balance of mild spiciness and sweetness. Warm and comforting, every sip keeps you feeling refreshed throughout the day!</p>
-			<p>Benefits of Ginger and Turmeric:<br>• Anti-inflammatory effects<br>• Antioxidant properties<br>• Boosts immunity<br>• Calming and warming effect<br>• Relieves stomach bloating</p>
-			<p>Other Benefits:<br>• Serves as a good on-the-go immunity booster drink.<br>• Individually packed in small sachets, it is convenient and easy to bring along during travelling.</p>
-			<p>Product claims:<br>• Caffeine-free<br>• No added artificial colour and preservatives</p>
+			<h6 style="text-transform: uppercase; color: black;">Instant Ginger Turmeric Drink</h6>
+			<p>Caffeine free, hight boost immunity of Ginger Turmeric Drink.</p>
 		</div>
 	</div>
 </div>
