@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Saudi Food Show 2024.md
       - FHA 2024.md
       - NPEW 2024.md
       - Gulfood 2024.md
