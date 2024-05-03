@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/dieumot_logo.png">
+			<img src="/images/Dieumot/dieumot_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Dieumot Pte Ltd</b></h4>
@@ -26,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Cooked Food, Oils and Sauces, Rice and Noodles, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Dairy, Oils and Sauces, Rice and Noodles, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Export Markets: </b>Benin, Gambia, Togo, Guinea, Senegal, Sao Tome, Mali, Burkina Faso, Gabon, U.A.E
@@ -40,9 +40,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Khor Ley Cheng (Sharon)</b>
-				<br>Sales &amp; Marketing Manager<br>+65 9656 1148<br>
-				<a style="color: white;" href="mailto:business@dieumot.com">business@dieumot.com</a>
+				<b>Priyanka Bhagat</b>
+				<br>Manager<br>+65 9784 4603<br>
+				<a style="color: white;" href="mailto:priyanka@dieumot.com">priyanka@dieumot.com</a>
 			</p>
 		</div>
 	</div>
@@ -54,18 +54,18 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/dieumot_product_01.jpg">
+			<img src="/images/Dieumot/dieumot_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Instant Full Cream Milk Powder and Sweetened Condensed Milk</h6>
+			<h6 style="text-transform: uppercase; color: black;">Dairy Products</h6>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/dieumot_product_02.jpg">
+			<img src="/images/Dieumot/dieumot_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Other Food Products</h6>
+			<h6 style="text-transform: uppercase; color: black;">Consumer Food Products</h6>
 		</div>
 	</div>
 </div>
