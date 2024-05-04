@@ -29,13 +29,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, ISO 22000 Certified, Tasty Singapore, Made with Passion
+				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, ISO 22000 Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Barbados, China, Indonesia, South Korea, Kuwait, Maldives, Mauritius, Netherlands, Phillippines, Reunion Island, Saudi Arabia, United Kingdom, Brunei, United Arab Emirates, Japan
+				<b>Export Markets: </b>Australia, UAE, Mauritius, Maldives, Netherlands, UK, Philippines, Indonesia, Japan, Qatar, India, Brunei, Barbados, Reunion Island
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Importers, Food Service Suppliers / Players, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -44,13 +44,8 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Auguste Hoe</b>
-				<br>Manager, International Sales<br>+65 8781 6465<br>
+				<br>International Sales Manager<br>+65 8781 6465<br>
 				<a style="color: white;" href="mailto:auguste@smhfood.com">auguste@smhfood.com</a>
-			</p>
-			<p style="padding: 10px; color: white;">
-				<b>Ng Wei Lun</b>
-				<br>Senior Manager, Sales and Marketing<br>+65 9382 3455<br>
-				<a style="color: white;" href="mailto:weilun@smhfood.com">weilun@smhfood.com</a>
 			</p>
 		</div>
 	</div>
@@ -74,8 +69,8 @@ variant: markdown
 			<img src="/images/Sin%20Mui%20Heng/sin_mui_heng_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Truffle Mushroom Shao Mai</h6>
-			<p>Taste the nutty, earthy flavour siew mai which is filled with meat-free alternative protein, shiitake mushroom and Sabatino black truffle, wrapped in thin pastry skin.</p>
+			<h6 style="text-transform: uppercase; color: black;">Charcoal Salted Egg Custard Pau</h6>
+			<p>Bite into our distinct molten egg custard that oozes out and leaves a buttery sweet-savory impression on your taste buds. The perfect happy food to kick start your day.</p>
 		</div>
 	</div>
 </div>
