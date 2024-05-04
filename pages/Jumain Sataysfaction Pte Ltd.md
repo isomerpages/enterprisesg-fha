@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/jumain_sataysfaction_logo.png">
+			<img src="/images/Jumain%20Sataysfaction/jumain_sataysfaction_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Jumain Sataysfaction Pte Ltd</b></h4>
@@ -30,13 +30,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000:2018 Certified, FSSC Certified, Healthier Choice Certified, Tasty Singapore
+				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified, Tasty Singapore
 			</p>
 			<p>
 				<b>Export Markets: </b>Hong Kong, Cambodia, Myanmar, UAE, Qatar, Brunei
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -44,9 +44,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Samsiah Suliman</b>
-				<br>Director<br>+65 8161 6611<br>
-				<a style="color: white;" href="mailto:samsiah@asli.asia">samsiah@asli.asia</a>
+				<b>Jad Dzuraed Bin Jefri</b>
+				<br>Program Manager<br>+65 9114 8080<br>
+				<a style="color: white;" href="mailto:jad@asli.asia">jad@asli.asia</a>
 			</p>
 		</div>
 	</div>
@@ -58,7 +58,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/jumain_sataysfaction_product_01.jpg">
+			<img src="/images/Jumain%20Sataysfaction/jumain_sataysfaction_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Traditional Satay</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/jumain_sataysfaction_product_02.jpg">
+			<img src="/images/Jumain%20Sataysfaction/jumain_sataysfaction_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Traditional Satay Sauce</h6>
