@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Mr Popiah Pte Ltd</b></h4>
-			<p>Food Manufacturing of Pastry and Ready to Eat frozen products.</p>
+			<p>From a humble coffeeshop to a visionary brand, Mr. Popiah's culinary odyssey has transcended expectations. We've expanded beyond popiah, offering tantaliSing tortilla wraps, convenient Ready-to-Eat delights, and more. Our unwavering commitment to innovation and unforgettable experiences continues to captivate both businesses and discerning individuals. Join us on this extraordinary gastronomic adventure.</p>
 			<p><a target="_blank" href="https://www.mrpopiah.com.sg">www.mrpopiah.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified, Made With Passion
+				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, FSSC 22000 Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>Japan, Korea, Hong Kong, Middle East, Australia
+				<b>Export Markets: </b>Kuwait, Dubai, Hong Kong, Japan, Korea, Indonesia, Australia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -56,20 +56,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Mr%20Popiah/mr_popiah_product_01.jpg">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_01.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ready to Eat Wraps and Rolls</h6>
-			<p>Instant ready to eat wraps and rolls (Frozen) / Singapore / Asian flavors.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tortilla Wrap</h6>
+			<p>Dive into a world of flavour and vibrancy with Mr. Popiah's Singapore-made Tortilla Wraps. Each wrap boasts a kaleidoscope of colours and a symphony of flavours, from zesty to savoury, crafted to ignite your senses. Elevate your culinary experience with our diverse range of colourful delights.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Mr%20Popiah/mr_popiah_product_02.jpg">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_02.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Asian Fusion Tortilla Wraps</h6>
-			<p>A fusion formulation between the soft and chewy spring roll pastry ad the firmness of a totilla wrap. Forming the best pastry wrap.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready To Eat Wrap</h6>
+			<p>Experience convenience without compromise with Mr Popiah's Ready-to-Eat Wraps. Crafted in Singapore, our wraps are bursting with flavour and ready to tantalise your taste buds anytime, anywhere. Indulge in a variety of delicious fillings, meticulously prepared for on-the-go enjoyment. Elevate your snacking experience with Mr Popiah today!</p>
 		</div>
 	</div>
 </div>

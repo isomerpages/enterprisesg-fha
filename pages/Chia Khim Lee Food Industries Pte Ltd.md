@@ -7,11 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/chia_khim_lee_logo.jpg">
+			<img src="/images/Chia%20Khim%20Lee/chia_khim_lee_logo.jpg">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chia Khim Lee Food Industries Pte Ltd</b></h4>
-			<p>Established in 1975, Chia Khim Lee Food Industries is a food and beverage conglomerate serving a global clientele. The company is firmly established in the manufacturing and distribution of its products in Singapore and overseas. It’s flagship brand “SAGIKO” is offering more than 30 flavours and choices. We are an ISO9001 certified company and our products are HACCP, GMP and HALAL certified.</p>
+			<p>Chia Khim Lee Food Industries is an established F&amp;B conglomerate serving a global clientele. The company is firmly established in the manufacturing and distribution in Singapore and overseas. Its flagship brand "SAGIKO" is offering more than 30 flavours and choices. The company is ISO9001, HACCP, GMP and Halal certified.</p>
 			<p><a target="_blank" href="https://www.chiakhimlee.com">www.chiakhimlee.com</a></p>
 		</div>
 	</div>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chia_khim_lee_product_01.jpg">
+			<img src="/images/Chia%20Khim%20Lee/chia_khim_lee_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Sagiko Vitamin Water</h6>
@@ -65,11 +65,11 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/chia_khim_lee_product_02.jpg">
+			<img src="/images/Chia%20Khim%20Lee/chia_khim_lee_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sagiko Sparkling Young Coconut Water</h6>
-			<p>Sagiko Sparkling Young Coconut Water is a refreshing and flavourful beverage made with crisp, bubbly carbonated water and delicious water. It's a perfect drink to quench your thirst.</p>
+			<h6 style="text-transform: uppercase; color: black;">Cocoplus Coconut Water</h6>
+			<p>100% Natural refreshing coconut water from Vietnam. With no preservative, no artificial colouring and sugar added.  Perfect beverage for restoring hydration and replenishing electrolytes lost during exercise. The different size of packaging 1Litre and 330ml allow consumer to have more choices. We have new variant added to the selection now which is 100% Fresh Coconut Water with Lemon/Lychee Juice &amp; Himalayan Salt in 1Litre packaging.</p>
 		</div>
 	</div>
 </div>
