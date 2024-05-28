@@ -42,9 +42,7 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Ho Hong Sung</b>
-				<br>Marketing Manager<br>+65 9046 4866<br>
-				<a style="color: white;" href="mailto:hongsung@hxd.sg">hongsung@hxd.sg</a>
+				<a style="color: white;" href="mailto:sales@hxd.sg">sales@hxd.sg</a>
 			</p>
 		</div>
 	</div>
