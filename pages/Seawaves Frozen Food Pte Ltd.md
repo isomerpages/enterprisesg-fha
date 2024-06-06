@@ -60,12 +60,12 @@ variant: markdown
 </h4> 
 <div class="flex-paragraph"> 
 <p style="padding: 10px; color: white;">
-<b>Nichole Chong
+<b>Zachary Tang
 </b>
-<br>Key Account Manager
-<br>+65 62658883
+<br>Director
+<br>+65 6265 8883
 <br>
-<a href="mailto:nichole@seawaves.com.sg" style="color: white;">nichole@seawaves.com.sg
+<a href="mailto:zachary@seawaves.biz" style="color: white;">zachary@seawaves.biz
 </a>
 </p> 
 </div> 
@@ -117,4 +117,4 @@ variant: markdown
 </p>
 </div> 
 </div> 
-</div> 
+</div>
