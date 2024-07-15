@@ -44,7 +44,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Low Fatt Mun</b>
-				<br>Franchise Development Manager<br>+65 9747 9796<br>
+				<br>Franchise Development Manager<br>
 				<a style="color: white;" href="mailto:fmlow@prima.com.sg">fmlow@prima.com.sg</a>
 			</p>
 		</div>
