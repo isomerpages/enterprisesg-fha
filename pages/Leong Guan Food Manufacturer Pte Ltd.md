@@ -21,7 +21,7 @@ variant: markdown
 	</div>
 </div>
 
-<h4 style="text-transform: uppercase; color: black;">
+<h4 style="text-transform: uppercase; color: black;">	
 	<b>General Information</b>
 </h4>
 <div style="display: flex; flex-wrap: wrap;" class="flex-container">
@@ -35,10 +35,10 @@ variant: markdown
 				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, UK, China, Israel, USA, New Zealand, East Timor, Indonesia, Philippines, Canada
+				<b>Export Markets: </b>Australia, UK, China, Israel, USA, Hong Kong, New Zealand, East Timor, Indonesia, Phillipines
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -47,7 +47,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Bella Chua</b>
-				<br>Export Sales<br>+65 8063 4099<br>
+				<br>International Sales<br>+65 8063 4099<br>
 				<a style="color: white;" href="mailto:eeearnc@leongguan.com">eeearnc@leongguan.com</a>
 			</p>
 		</div>
@@ -73,8 +73,8 @@ variant: markdown
 			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fresh Noodles Series</h6>
-			<p>Delighting taste buds and discerning palates, LG's selection of rice noodles encompasses a variety of widths, each offering a silky smooth mouthfeel. Dive into a realm of versatile and authentic flavors as our rice noodles seamlessly complement an array of dishes, notably Pad Thai and Pad See Ew. We also offer wheat based noodles, catering to varied preferences and culinary needs.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fresh Rice Noodles</h6>
+			<p>Delighting taste buds and discerning palates, our selection of rice noodles encompasses a variety of widths, each offering a silky smooth mouthfeel. These noodles cater to dietary preferences, being gluten-free and a delectable choice for both vegans and vegetarians. Dive into a realm of versatile and authentic flavors as our rice noodles seamlessly complement an array of dishes, notably Pad Thai and Pad See Ew.</p>
 		</div>
 	</div>
 </div>
