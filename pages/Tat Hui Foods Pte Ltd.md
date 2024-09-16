@@ -43,7 +43,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Jerrold Lim</b>
-				<br>Manager<br>+65 6261 1010<br>
+				<br>Manager<br>+65 9658 7686<br>
 				<a style="color: white;" href="mailto:jerroldlim@tathui.com">jerroldlim@tathui.com</a>
 			</p>
 		</div>
@@ -59,8 +59,7 @@ variant: markdown
 			<img src="/images/Tat%20Hui/tat_hui_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain With Purple Corn</h6>
-			<p>Awakening your senses while boosting immunity with each delicious bite, this antioxidant-rich noodle, made with the unique purple corn grain, is the epitome of taste meets wellness in the truest sense.<br>- 100% Baked, Not Fried<br>- Rich In Anthocanins<br>- Low in Fat</p>
+			<h6 style="text-transform: uppercase; color: black;">KOKA Original Chicken</h6>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +67,7 @@ variant: markdown
 			<img src="/images/Tat%20Hui/tat_hui_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain With Oats &amp; Barley</h6>
-			<p>From our celebrated kitchen to your table, KOKA serves up ever more healthier, delicious recipes like no other. This low-fat, multigrain noodle is fortified with the goodness of wholegrain oats and barley for your guilt-free enjoyment.<br>- 100% Baked, Not Fried<br>- Source of Protein<br>- Low in Fat</p>
+			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain with Oats &amp; Barley</h6>
 		</div>
 	</div>
 </div>
