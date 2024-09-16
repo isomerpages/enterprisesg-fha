@@ -40,9 +40,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Priyanka Bhagat</b>
-				<br>Manager<br>+65 9784 4603<br>
-				<a style="color: white;" href="mailto:priyanka@dieumot.com">priyanka@dieumot.com</a>
+				<b>Sharon Khor</b>
+				<br>Manager<br>+65 9656 1148 / +601 2573 1148<br>
+				<a style="color: white;" href="mailto:business@dieumot.com">business@dieumot.com</a>
 			</p>
 		</div>
 	</div>
