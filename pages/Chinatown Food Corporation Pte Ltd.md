@@ -11,7 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chinatown Food Corporation Pte Ltd</b></h4>
-			<p>Singapore based frozen Food Manufacturer of popular Roti-Prata, Sesam Ball and Glutinous Rice Ball.</p>
+			<p>Achieving quality and excellence worldwide</p>
+			<p>Incorporated in 1992, Chinatown Food Corporation Pte Ltd manufactures both Oriental and non-Oriental frozen food products under the worldwide trademarks, 'Chinatown' and 'Amstar', respectively. We also accept private label (OEM) contracts.</p>
 			<p><a target="_blank" href="https://www.chinatownfood.com.sg">www.chinatownfood.com.sg</a></p>
 		</div>
 	</div>
@@ -31,7 +32,7 @@ variant: markdown
 				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Europe, France, Australia, Canada, Netherlands, USA, Malaysia, Thailand
+				<b>Export Markets: </b>Thailand, Malaysia, Netherlands, United Kingdom, United States, Australia, China, Hong Kong, France, Canada
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -42,9 +43,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Lydia</b>
-				<br>Sales &amp; Marketing<br>+65 9866 7747<br>
-				<a style="color: white;" href="mailto:sales1@chinatownfood.com.sg">sales1@chinatownfood.com.sg</a>
+				<b>Sunny Koh</b>
+				<br>Director<br>+65 6382 0500<br>
+				<a style="color: white;" href="mailto:sunny@chinatownfood.com.sg">sunny@chinatownfood.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +60,9 @@ variant: markdown
 			<img src="/images/Chinatown%20Food/chinatown_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Truly Pineapple Tart</h6>
-			<p>Chinatown Frozen Pineapple Tart is latest culinary innovation! It is the first frozen ready-to-bake pineapple tart. Experience the convenience of savoring a freshly baked or air fried pineapple tart right at home. With its delightful buttery aroma and authentic pineapple filling, our Frozen Pineapple Tart is a truly irresistible delight. Simply pop it in the oven, and within minutes, you'll be indulging in freshly baked tangy pastries.</p>
+			<h6 style="text-transform: uppercase; color: black;">Traditional Ang Ku Kueh</h6>
+			<p>The novel innovation of frozen steam is versatile, making it an ideal choice for events and celebrations of all types and for individuals of all ages.</p>
+			<p>"Simple and easy to steam, the introduction of the tangerine mixed with red bean filling is the latest addition to the market, offering a unique flavor that comes highly recommended."</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +70,9 @@ variant: markdown
 			<img src="/images/Chinatown%20Food/chinatown_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Prawn Wonton</h6>
-			<p>Each bite of our Whole Fresh Prawn Wonton! is sure to satisfy your demands! Each wonton contains one entire juicy prawn, succulent meat and bouncy fish roe wrapped up in a silky-smooth wonton skin. With only 7 minutes of preparation time, you can have a tasty and nutritious meal in no time. For a perfectly balanced flavor, choose between two exquisite, seasoned soup bases: prawn or chicken.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fruity Tart - Chunky Pineapple</h6>
+			<p>The novel innovation of frozen bake is versatile, making it an ideal choice for events and celebrations of all types and for individuals of all ages.</p><p>
+			</p>"Simple and easy to bake, the pure pineapple filling boasts a crisp exterior and a fragrant interior. Its sweet taste and rich, creamy aroma make it highly recommended."<p></p>
 		</div>
 	</div>
 </div>
