@@ -11,7 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kin Yan Agrotech Pte Ltd</b></h4>
-			<p>Kin Yan Agrotech Pte Ltd is a company engaged in agro-food related activities in Singapore since 1997. A farm free from pesticides, chemical and artificial fertilizers, we strongly believe in growing good foods that are great for everyone which are very real and free from any form of artificial components. Kin Yan supplies to Fairprice, organic shops, restaurants and many catering business partners who have a strong believe in bringing farm direct to table.</p>
+			<p>"Good Lady" specialises in powder-based wholegrain beverage products with international hygiene and safety standards since 1983. Starting from brown rice products and with constant innovation and improvement, "Good Lady" diversified to the current core product, 22 Complete Nutrimix.</p><p>
+			</p>22 Complete Nutrimix is produced in a fully automated large-scale factory with international certifications including GMP (Good Manufacturing Practice), ISO 9001 Quality Management, ISO 22000 Food Safety Management and HACCP Food Production Processing. The factory is also certified to produce halal food products. With such complete facilities and excellent technology, the factory produces over million canisters of various kinds of Complete Nutrimix for countries like Singapore, Malaysia, Vietnam, China and etc a year.<p></p>
 			<p><a target="_blank" href="https://www.goodlady.com.sg">www.goodlady.com.sg</a></p>
 		</div>
 	</div>
