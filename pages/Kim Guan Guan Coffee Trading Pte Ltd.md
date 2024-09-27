@@ -43,9 +43,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Karen Chua</b>
-				<br>Marketing Director<br>+65 6281 5055 / +65 8125 3159<br>
-				<a style="color: white;" href="mailto:karen@kimguanguan.com">karen@kimguanguan.com</a>
+				<b>Nigel Soon</b>
+				<br>Brand Partnerships and Growth Manager<br>+65 6281 5055<br>
+				<a style="color: white;" href="mailto:nigel@kimguanguan.com">nigel@kimguanguan.com</a>
 			</p>
 		</div>
 	</div>
