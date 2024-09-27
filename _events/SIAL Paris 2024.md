@@ -106,7 +106,7 @@ description: ""
 			<small>Supplier of coffee powders to beverages outlets.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kim-guan-guang">
+			<a target="_blank" href="/kim-guan-guan">
 				<small>Visit their page</small>
 			</a>
 		</p>
