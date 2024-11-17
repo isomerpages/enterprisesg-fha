@@ -43,7 +43,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Seah Yin Fen</b>
-				<br>Marketing Director<br>+65 9107 7588<br>
+				<br>Marketing Director<br>+65 6759 9551<br>
 				<a style="color: white;" href="mailto:marketing@seahsspices.com">marketing@seahsspices.com</a>
 			</p>
 		</div>
