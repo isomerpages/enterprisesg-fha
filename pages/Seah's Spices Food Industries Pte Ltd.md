@@ -69,7 +69,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chili Crab Seasoning Mix In Powder</h6>
-			<p>"Chili crab is a popular dish in Singapore. Our version of Chili Crab seasoning mix is in powder form and it is suitable for kitchens facing space constraints and brings about inventory convenience. As compared to its sauce variation, it has ratio of 1:5, giving a 80% savings on space. Being gluten-free and vegan friendly, it gives the user, ""power"" to control the thickness for their creation and further extends its multi functionality.Other attributes of the product includes:<br>1) All natural and real ingredients<br>2) No added preservatives and colorings<br>3) Ambient storage</p>
+			<p>Chili crab is a popular dish in Singapore. Our version of Chili Crab seasoning mix is in powder form and it is suitable for kitchens facing space constraints and brings about inventory convenience. As compared to its sauce variation, it has ratio of 1:5, giving a 80% savings on space. Being gluten-free and vegan friendly, it gives the user, "power" to control the thickness for their creation and further extends its multi functionality. Other attributes of the product includes:<br>1) All natural and real ingredients<br>2) No added preservatives and colorings<br>3) Ambient storage</p>
 		</div>
 	</div>
 </div>
