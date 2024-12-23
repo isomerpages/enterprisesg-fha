@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/future_enterprises_logo.png">
+			<img src="/images/Future%20Enterprises/future_enterprises_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Future Enterprises Pte Ltd</b></h4>
@@ -31,10 +31,10 @@ variant: markdown
 				<b>Certifications: </b>Halal Certified, HACCP Certified, FSSC 22000 Certified, GMP Certified, BRC Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Hong Kong, Taiwan, Indonesia, Philippines, Thailand, Australia, New Zealand, Middle East, Africa
+				<b>Export Markets: </b>China, Hong Kong, Taiwan, Indonesia, Philippines, Thailand, Australia, New Zealand, Middle East, Africa, Europe, USA, Latin America
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Retailers, Wholesalers, E-commerce, Importers, B2B Partners
+				<b>Looking for: </b>Retailers, Wholesalers, Importers, E-commerce, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/future_enterprises_product_01.jpg">
+			<img src="/images/Future%20Enterprises/future_enterprises_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
@@ -65,7 +65,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/future_enterprises_product_02.jpg">
+			<img src="/images/Future%20Enterprises/future_enterprises_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
