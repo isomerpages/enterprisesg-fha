@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/coffeehock_logo.png">
+			<img src="/images/Coffeehock/coffeehock_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Coffeehock (2006) Pte Ltd</b></h4>
@@ -52,7 +52,25 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/coffeehock_product_01.jpg">
+			<img src="/images/Coffeehock/coffeehock_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Aged Ginger &amp; Red Date Tea with Honey &amp; Organic Chia Seeds</h6>
+			<p>Aged Ginger &amp; Red Date Tea with Honey &amp; Organic Chia Seeds is a comforting blend that combines the warmth of aged ginger, the natural sweetness of red dates, and the nourishing touch of honey. Enhanced with organic chia seeds for added texture and health benefits, this tea is perfect for boosting vitality and promoting wellness. Enjoy it as a soothing drink for relaxation or a revitalizing pick-me-up!</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Coffeehock/coffeehock_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">TOLS Instant Matcha Latte</h6>
+			<p>Matcha latte powder mixed with sugar and creamer.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Coffeehock/coffeehock_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Coffeehock Coffee-O Gao Gao Series</h6>
@@ -61,7 +79,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/coffeehock_product_02.jpg">
+			<img src="/images/Coffeehock/coffeehock_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Coffeehock Oatmilk White Coffee Series</h6>
