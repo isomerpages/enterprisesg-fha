@@ -419,7 +419,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Gold Kili Trading Enterprise (Singapore) Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of instant coffee and tea.</small>
+			<small>Manufacturer of instant coffee, tea and ginger beverage.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/gold-kili">
