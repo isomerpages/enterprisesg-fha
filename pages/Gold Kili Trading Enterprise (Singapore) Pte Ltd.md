@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Susan Chong</b>
-				<br>Senior Business Development Manager (Export Team)<br>+65 9734 8871<br>
+				<br>Senior Export Manager<br>+65 9734 8871<br>
 				<a style="color: white;" href="mailto:export@goldkili.com">export@goldkili.com</a>
 			</p>
 		</div>
