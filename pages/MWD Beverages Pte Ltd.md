@@ -68,7 +68,7 @@ variant: markdown
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Vita-Boost</h6>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Chill POP</h6>
 			<p>Carbonated Flavoured Drink.</p>
 		</div>
 	</div>
