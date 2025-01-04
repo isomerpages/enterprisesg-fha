@@ -44,9 +44,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Crystal Beh</b>
-				<br>Assistant Brand Manager<br>+65 9640 5025<br>
-				<a style="color: white;" href="mailto:crystalbeh@nchoil.com.sg">crystalbeh@nchoil.com.sg</a>
+				<b>Rahul Kumar</b>
+				<br>Deputy General Manager<br>+65 9826 8279<br>
+				<a style="color: white;" href="mailto:rahul@nchoil.com.sg">rahul@nchoil.com.sg</a>
 			</p>
 		</div>
 	</div>
