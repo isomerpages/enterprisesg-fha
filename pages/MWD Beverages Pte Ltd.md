@@ -69,7 +69,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Walker's Vita-Boost</h6>
-			<p>Healthy energy drink with Magnesium, Zinc and various Vitamins.</p>
+			<p>Carbonated Flavoured Drink.</p>
 		</div>
 	</div>
 </div>
