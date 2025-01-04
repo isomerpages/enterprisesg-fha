@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/litat_import_logo.png">
+			<img src="/images/Litat%20Import%20Export/litat_import_logo.jpg">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Litat Import &amp; Export Pte Ltd</b></h4>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/litat_import_product_01.jpg">
+			<img src="/images/Litat%20Import%20Export/litat_import_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Ice Cool Young Coconut Juice with pulp</h6>
@@ -65,11 +65,20 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/litat_import_product_02.jpg">
+			<img src="/images/Litat%20Import%20Export/litat_import_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Ice Cool 100% Coconut Water</h6>
 			<p>With the global trend moving towards healthier choice of living, consumers are more aware and health-conscious of their food choices. With the newly launched "Pure Coconut Water" available in both 500ml and 1L, we are committed to provide consumers with an alternative to sweetened beverages such as carbonates. With zero sugar added, it maintains the natural properties of coconut water and this is as fresh as you can get off a coconut. "Any fresher, you might have to cut the coconut yourself".</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Litat%20Import%20Export/litat_import_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Golden Light Breadspread</h6>
+			<p>40% Fruit Jam, 60% Fruit Jam, Coconut Jam (Kaya), Peanut Butter Spread.</p>
 		</div>
 	</div>
 </div>
