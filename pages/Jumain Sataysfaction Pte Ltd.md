@@ -30,7 +30,7 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified, Tasty Singapore
+				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000:2018 Certified, FSSC Certified, Tasty Singapore, Healthier Choice
 			</p>
 			<p>
 				<b>Export Markets: </b>Hong Kong, Cambodia, Myanmar, UAE, Qatar, Brunei
