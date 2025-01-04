@@ -36,7 +36,7 @@ variant: markdown
 				<b>Export Markets: </b>Australia, Hong Kong, Macau, Malaysia, Taiwan, Dubai, United Kingdom
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -73,8 +73,8 @@ variant: markdown
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gourmet Shells</h6>
 			<p>Gourmet Shells (by Red Lips Foods) are beautifully formed to help you create the perfect canape.</p>
-			<p>Heart, Diamond and Star Shells are elegantly inspired by geometric patterns and when paired with any sweet, savoury or tangy filling, embody the spirit of elevated creativity.</p>
 			<p>Inspired by floral shaps and available in regular and mini sizes, the 5-petal Sakura and 8-petal Rosette Shells are delicately crafted to accentuate flavours of any cuisine.</p>
+			<p>Heart, Diamond and Star Shells are elegantly inspired by geometric patterns and when paired with any sweet, savoury or tangy filling, embody the spirit of elevated creativity.</p>
 			<p>Pretty food does taste better!</p>
 		</div>
 	</div>
