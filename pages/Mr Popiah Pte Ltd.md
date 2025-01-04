@@ -28,10 +28,10 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, FSSC 22000 Certified, Tasty Singapore
+				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>Kuwait, Dubai, Hong Kong, Japan, Korea, Indonesia, Australia
+				<b>Export Markets: </b>Hong Kong, South Korea, Australia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
