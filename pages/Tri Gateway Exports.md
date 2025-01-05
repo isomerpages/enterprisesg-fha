@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tri Gateway Exports</b></h4>
-			<p>Established in 1997, Tri Gateway Exports, family-owned business based in Singapore started as a trading company exporting various products globally. In 2005, we diversified introducing our own brand of products - Perfect Choice. Perfect Choice manufactures food and beverage items including potato chips, biscuits, cookies as well as dairy products.</p>
+			<p>Established in 1997, Tri Gateway Exports is a family owned business based in Singapore. Tri Gateway Exports started off as a trading company exporting various products globally. Besides trading, in 2005 Tri Gateway Exports diversified and expanded its business introducing its own brand of products - Perfect Choice. Perfect Choice manufactures a wide range of food and beverage items including: potato chips, biscuits and cookies as well as dairy products.</p>
 			<p><a target="_blank" href="https://www.perfectchoice.com.sg">www.perfectchoice.com.sg</a></p>
 		</div>
 	</div>
@@ -27,15 +27,21 @@ variant: markdown
 				<b>Product Category: </b>
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
+			<p>
+				<b>Export Markets: </b>UAE, India, Philippines, Jordan, Saudi Arabia, Qatar, Bangladesh, New Zealand, Australia
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+			</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Karin L Babani</b>
-				<br>Sales Executive<br>+65 9847 4131<br>
-				<a style="color: white;" href="mailto:karinbabani@trigateway.com">karinbabani@trigateway.com</a>
+				<b>Lachman U Babani</b>
+				<br>Manager<br>+65 9690 1759<br>
+				<a style="color: white;" href="mailto:lbabani@trigateway.com">lbabani@trigateway.com</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +65,17 @@ variant: markdown
 			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Cheese Flavoured Snack (New Product)</h6>
+			<h6 style="text-transform: uppercase; color: black;">Cheese Flavoured Snack</h6>
 			<p>Perfect Choice Cheese Flavoured Corn Snack is made in Philippines and comes in three varities of Rings, Twirls and Curls.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Coffee</h6>
+			<p>Perfect Choice Coffee is made from 100% pure coffee and nothing else. This refreshing blend made from rich Brazilian coffee beans guarantees to be a great way to start your day. Perfect Choice coffee is available in three variations, Original, Classic and Gold.</p>
 		</div>
 	</div>
 </div>
