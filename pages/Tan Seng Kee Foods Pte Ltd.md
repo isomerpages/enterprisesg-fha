@@ -32,7 +32,7 @@ variant: markdown
 				<b>Certifications: </b>ISO 22000 Certified, Halal Certified, Tasty Singapore
 			</p>
 			<p>
-				<b>Export Markets: </b>USA, Dubai, Netherlands
+				<b>Export Markets: </b>USA, Dubai, Netherlands, London, Cambodia, Reunion Island, Philippines, Saudi Arabia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -43,7 +43,7 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Annie Tan Pei Tian</b>
+				<b>Annie Tan</b>
 				<br>Director<br>+65 9794 6730<br>
 				<a style="color: white;" href="mailto:annie@tskfood.com">annie@tskfood.com</a>
 			</p>
@@ -60,9 +60,9 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series (Microwaveable Noodle Box Char Kway Teow &amp; Express Meal Kit Laksa)</h6>
-			<p>Rich, authentic flavours made with Grandma's traditional recipes, all natural pounded spices, fresh noodles, and premium condiments - all in microwave-ready single servings that can be prepared in just 2 minutes. Convenience, taste, and health are more accessible than ever with our Microwaveable Noodle Boxes. Our halal Char Kway Teow flavour comes with fresh kway teow, authentic 'wok hei', fresh sambal chilli, fried shallots and fried whitebait. *Wok Hei refers to the smoky flavours created by searing heat in a hot wok during stir frying.<br>Other Flavours: Hokkaido Ramen and Pad Thai Noodles.</p>
-			<p>Microwaveable fresh cooked noodles with freshly ground paste - in three tasty, authentic hawker flavours. Ready to serve in minutes in three simple steps, this convenient ready-to-use express meal kit is easy to prepare and to share with family and loved ones. Pasteurisation extends the shelf life of fresh noodles naturally with no preservative at all. The pasteurised fresh noodles retain its soft, springy texture satisfying any discerning palate. A quick and delicious noodle meal for that lunch break in the office pantry or a midnight snack after a night's out in town.<br>Available in Laksa, Curry Mee and Prawn Mee Soup.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series - Microwaveable Noodle Box</h6>
+			<p>Rich, authentic flavours made with Grandma's traditional recipes, all natural pounded spices, fresh noodles, and premium condiments - all in microwave-ready single servings that can be prepared in just 2 minutes. Convenience, taste, and health are more accessible than ever with our Microwaveable Noodle Boxes. Our halal Char Kway Teow flavour comes with fresh kway teow, authentic 'wok hei', fresh sambal chilli, fried shallots and fried whitebait. *Wok Hei refers to the smoky flavours created by searing heat in a hot wok during stir frying.</p>
+			<p>Other Flavours: Hokkaido Ramen and Pad Thai Noodles.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -70,10 +70,22 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series - Express Meal Kit</h6>
+			<p>Microweavable fresh cooked noodles with freshly ground paste - in three tasty, authentic hawker flavours. Ready to serve in minutes in three simple steps, this convenient ready-to-use express meal kit is easy to prepare and to share with family and loved ones. Pasteurisation extends the shelf life of fresh noodles naturally with no preservative at all. The pasteurised fresh noodles retain its soft, springy texture satisfying any discerning palate. A quick and delicious noodle meal for that lunch break in the office pantry or a midnight snack after a night's out in town.</p>
+			<p>Available in Laksa, Curry Mee and Prawn Mee Soup.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Range</h6>
-			<p>Singapore's first pasteurized Kang Kang fresh noodles provides modern consumers convenience and peace of mind through its preservative-free, ""springier"" and tastier noodles.</p>
-			<p>Fresh and cooked wheat-based and rice-based noodles bring convenience  and time savings to the professional caterer and homecooks in stir-fry, soup and refreshing salad.</p>
-			<p>There is a total of 6 varieties, available in 420g and 1kg pack sizes.<br>Wheat-based noodles: Hokkien Noodles, Hokkien Flat Noodles, Ramen<br>Rice-based noodles: Kway Teow, Ipoh Hor Fun, Laksa Noodles</p>
+			<p>Singapore's first pasteurized Kang Kang fresh noodles provides modern consumers convenience and peace of mind through its preservative-free, "springier" and tastier noodles.</p>
+			<p>Fresh and cooked wheat-based and rice-based noodles bring convenience and time savings to the professional caterer and homecooks in stir-fry, soup and refreshing salad.</p>
+			<p>There is a total of 6 varieties, available in 420g and 1kg pack sizes.</p>
+			<p>Wheat-based noodles : Hokkien Noodles, Hokkien Flat Noodles, Ramen</p>
+			<p>Rice-based noodles: Kway Teow, Ipoh Hor Fun, Laksa Noodle</p>
 		</div>
 	</div>
 </div>
