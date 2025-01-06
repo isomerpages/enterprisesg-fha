@@ -526,7 +526,7 @@ description: ""
 			<small>Distributor of wines, spirits, beer, beverages, snacks and confectionery.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/sutl">
+			<a target="_blank" href="/sutl-corporation-pte-ltd">
 				<small>Visit their page</small>
 			</a>
 		</p>
