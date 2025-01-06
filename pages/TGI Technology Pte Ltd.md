@@ -28,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 22000 Certified
+				<b>Certifications: </b>Halal Certified, ISO 22000 Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>United States, France, United Kingdom, The Bahamas, Guyana, French Guiana, Réunion, Wallis and Futuna, Mexico, Zambia, Philippines, Vietnam, Spain, Egypt
+				<b>Export Markets: </b>US, France, Bahamas, Mexico, Philippine, Guyana, Wallis, Vietnam, Cameroon, Malaysia, UK, Germany
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers B2B Partners
 			</p>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Mark Lim</b>
-				<br>Senior Business Development Manager<br>+65 8614 3113<br>
+				<br>Senior Manager<br>+65 8614 3113<br>
 				<a style="color: white;" href="mailto:mark.lim@tgi.sg">mark.lim@tgi.sg</a>
 			</p>
 		</div>

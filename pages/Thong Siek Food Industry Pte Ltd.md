@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/thongsiek_logo.png">
+			<img src="/images/Thong%20Siek/thongsiek_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Thong Siek Food Industry Pte Ltd</b></h4>
@@ -28,7 +28,7 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Seafood</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, BRC Certified
+				<b>Certifications: </b>Halal Certified, HACCP Certified, BRC Certified, ISO Certified, Tasty Singapore
 			</p>
 			<p>
 				<b>Export Markets: </b>North America, Canada, Australia, New Zealand, United Kingdom, Holland, Germany, France, Northern Europe, UAE, Qatar, China, Hong Kong, Malaysia, Myanmar, Cambodia, Indonesia, Mauritius, Reunion Island
@@ -56,20 +56,29 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/thongsiek_product_01.jpg">
+			<img src="/images/Thong%20Siek/thongsiek_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Disney DoDo Kiddos Fish Nugget</h6>
-			<p>Surimi based frozen breaded product. Made with top grade fsh paste and lower in saturated fats. Halal certified.</p>
+			<h6 style="text-transform: uppercase; color: black;">DODO Kiddo Breaded Fish Nugget</h6>
+			<p>Surimi based seafood products.No preservative added. Made with finest quality fish meat and specially formulated for that super crunchy feeling.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/thongsiek_product_02.jpg">
+			<img src="/images/Thong%20Siek/thongsiek_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">DoDo Chicken Cheese Meatball</h6>
 			<p>Tender chicken meatball stuffed with melty cheese. Great on top of spaghetti and perfect for an easy appetizer or snack.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Thong%20Siek/thongsiek_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Crusty Fish Skin</h6>
+			<p>Crusty's signature crust is an unforgettable experience loved by all snackers. Every bite of the fish skin is made with real salted eggs and spices.</p>
 		</div>
 	</div>
 </div>

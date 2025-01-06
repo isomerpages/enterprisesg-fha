@@ -7,11 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/hua_khiang_logo.png">
+			<img src="/images/Hua%20Khiang/hua_khiang_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Hua Khiang Food Export (S) Pte Ltd</b></h4>
-			<p>A wide range of high quality tofu products, such as extra smooth silken tofu, silken tofu (tube &amp; tub), traditional pressed tofu, tau kwa (firm tofu), egg tofu made from Non-GMO soybeans, vacuumed packed under a strict FSSC 22000 system.</p>
+			<p>A wide range of high quality tofu products, such as Extra Smooth Silken Tofu (tub &amp; tube), traditional pressed tofu, tau kwa (firm tofu) made from Non-GMO soy beans under strict FSSC22000 system.</p>
 			<p><a target="_blank" href="https://www.huakhiang.com">www.huakhiang.com</a></p>
 		</div>
 	</div>
@@ -28,7 +28,7 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Others</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified
+				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, Kosher Certified
 			</p>
 			<p>
 				<b>Export Markets: </b>Europe, Africa, Middle East
@@ -56,20 +56,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/hua_khiang_product_01.jpg">
+			<img src="/images/Hua%20Khiang/hua_khiang_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">FORTUNE Extra Smooth Silken Tofu</h6>
-			<p>FORTUNE Extra Smooth Silken Tofu  is ideal for steaming and for soup dishes. Adds an extra source of high protein element to your daily dishes.</p>
+			<h6 style="text-transform: uppercase; color: black;">FORTUNE Japanese Silken Tofu 300gm</h6>
+			<p>Ideal for Japanese Miso Soup/Hot Pot.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/hua_khiang_product_02.jpg">
+			<img src="/images/Hua%20Khiang/hua_khiang_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">FORTUNE Pressed Tofu</h6>
-			<p>FORTUNE Pressed Tofu is ideal for pan fry dishes. Adds an extra source of high protein element to your daily dishes.</p>
+			<h6 style="text-transform: uppercase; color: black;">FORTUNE Tau Kwa (Firm Tofu) 450gm</h6>
+			<p>Ideal for Salads and Deep frying/stir frying. High souce of protein.</p>
 		</div>
 	</div>
 </div>

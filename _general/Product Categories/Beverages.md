@@ -386,6 +386,27 @@ variant: markdown
 		</p>
 	</div>
 </div>
+	
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Global%20Pioneer/global_pioneer_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Global Pioneer Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialize in bringing quality and trusted products to our customers, with a primary focus on the renowned PRAN brand.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/global-pioneer">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
@@ -398,7 +419,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Gold Kili Trading Enterprise (Singapore) Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of instant coffee and tea.</small>
+			<small>Manufacturer of instant coffee, tea and ginger beverage.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/gold-kili">
@@ -453,7 +474,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hock_seng_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hock%20Seng/hock_seng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -621,7 +642,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/listen_up_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Listen%20Up/listen_up_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -642,7 +663,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/litat_import_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Litat%20Import%20Export/litat_import_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -653,7 +674,7 @@ variant: markdown
 			<small>Manufacturer of beverages (carbonated, asian drinks, fruit juices) and breadspread (fruit jam, coconut jam, peanut butter).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/litat-import">
+			<a target="_blank" href="/litat-import-export">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -705,7 +726,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mwd_beverages_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/MWD%20Beverages/mwd_beverages_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -810,7 +831,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/point_to_point_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Point%20To%20Point/point_to_point_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -831,7 +852,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/pulau_sambu_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Pulau%20Sambu/pulau_sambu_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -839,7 +860,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Pulau Sambu Singapore Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Integrated coconut supplier.</small>
+			<small>Integrated coconut ingredients and beverages supplier.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/pulau-sambu">
@@ -915,7 +936,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/spartan_bizcorp_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Spartan%20Bizcorp/spartan_bizcorp_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -923,7 +944,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Spartan Bizcorp Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Trader of branded FMCG products.</small>
+			<small>Exporter Of Branded Consumer Goods To Over 80 Countries Since 2015.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/spartan-bizcorp">
@@ -978,6 +999,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/SUTL/sutl_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>SUTL Corporation Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of wines, spirits, beer, beverages, snacks and confectionery.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/sutl">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Suvai%20Foods/suvai_foods_logo.png">
 		</figure>
 	</div>
@@ -1011,6 +1053,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/swift-health-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/T%20G%20Kiat/t_g_kiat_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>T.G. Kiat &amp; Co (Pte) Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of Rose Brand Syrup and Cordials. Import and Export.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/t-g-kiat">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -1209,7 +1272,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/vega_foods_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vega%20Foods/vega_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">

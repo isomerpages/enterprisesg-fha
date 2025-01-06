@@ -7,7 +7,7 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/pulau_sambu_logo.png">
+			<img src="/images/Pulau%20Sambu/pulau_sambu_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Pulau Sambu Singapore Pte Ltd</b></h4>
@@ -28,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>FSSC 22000 Certified, Halal Certified, Kosher Certified"
+				<b>Certifications: </b>FSSC 22000, Halal Certified, Kosher Certified, USDA Organic Certified, EU Organic Certified, KAN Laboratory Certified, Rainforest Certified, SMETA Certified, Non-GMO Certified, Association Food Industries Certified
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, New Zealand, China, Japan, South Korea, Philippines, Malaysia, Brunei, Myanmar, Nepal, India, Hong kong, Taiwan, UAE, Oman, Bahrain, Israel, Cyprus, Turkey, Russia, Ukraine, Belarus, Finland, Estonia, Sweden, Norway, Denmark, Poland, Hungary, Switzerland, Netherland, Belgium, France, Luxembourg, Spain, United Kingdom, Nigeria, Uganda, Kenya, Tanzania, South Africa, Madagascar, Maldives, Seychelles, Guyana, Suriname, Colombia, Trinidad &amp; Tobago, United States, Canada
+				<b>Export Markets: </b>USA, Canada, Panama, Colombia, Trinidad &amp; Tobago, Guyana, Suriname, Brazil, Argentina, Chile, Norway, Sweden, Finland, United Kingdom, Ireland, Denmark, Germany, Netherlands, Belgium, Luxembourg, France, Switzerland, Spain, Poland, Estonia, Latvia, Lithuania, Belarus, Ukraine, Russia, Hungary, Turkiye, Cyprus, Israel, Uzbekistan, Saudi Arabia, Bahrain, Qatar, UAE, Oman, Nigeria, Uganda, Kenya, Tanzania, South Africa, Madagascar, Reunion Island, Maldives,India, Nepal, Myanmar, China, Malaysia, Indonesia, Brunei, Philippines, Taiwan, Hongkong, South Korea, Japan, Papua New Guinea, Australia, New Zealand, Fiji
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Importers
+				<b>Looking for: </b>Food Distributors, Importers
 			</p>
 		</div>
 	</div>
@@ -44,7 +44,7 @@ variant: markdown
 			<p style="padding: 10px; color: white;">
 				<b>Thomas Teo</b>
 				<br>Deputy General Manager<br>+65 6734 7138<br>
-				<a style="color: white;" href="mailto:kara@sambu.com.sg">kara@sambu.com.sg</a>
+				<a style="color: white;" href="mailto:thomas-teo@sambu.com.sg">thomas-teo@sambu.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -56,7 +56,7 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/pulau_sambu_product_01.jpg">
+			<img src="/images/Pulau%20Sambu/pulau_sambu_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kara Coco Coconut Water</h6>
@@ -67,7 +67,7 @@ variant: markdown
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/pulau_sambu_product_02.jpg">
+			<img src="/images/Pulau%20Sambu/pulau_sambu_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kara Coco Coconut Milk Drink</h6>

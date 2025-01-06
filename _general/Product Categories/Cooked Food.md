@@ -243,7 +243,28 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ha_li_fa_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Growthwell/growthwell_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Growthwell Singapore Private Limited</strong></p>
+		</figure>
+		<p>
+			<small>Plant-based food manufacturer with over 35 years of manufacturing plant-based food experiences.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/growthwell">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -852,7 +873,7 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/tee_yih_jia_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tee%20Yih%20Jia/tee_yih_jia_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -860,7 +881,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Tee Yih Jia Food Manufacturing Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Frozen convenience food products, plant-based snacks and ready meals.</small>
+			<small>Manufacturer of frozen convenience food products.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/tee-yih-jia">
