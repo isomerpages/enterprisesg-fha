@@ -56,12 +56,18 @@ description: ""
 </h4>
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Bhavna/bhavna_product_01.jpg">
+		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Annapurna Chakki Whole Wheat Flour</h6>
 			<p>Annapurna Chakki Atta Whole Wheat Flour is a nutritious and economical choice for those who enjoy baking and cooking with whole wheat flour. The stone grinding method and inclusion of the entire wheat kernel offer a potential nutritional benefit. Be mindful of potential adjustments needed in recipes and proper storage for freshness.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Bhavna/bhavna_product_02.jpg">
+		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Bragg Apple Cider Vinegar</h6>
 			<p>Crafted with organically grown apples, Bragg® Original Apple Cider Vinegar is raw, unfiltered, and naturally fermented with the 'Mother' in every bottle. Mix it up, add to your beauty routine, or throw in your favorite recipe–because Bragg ACV makes daily wellness easy and a little funky.</p>
