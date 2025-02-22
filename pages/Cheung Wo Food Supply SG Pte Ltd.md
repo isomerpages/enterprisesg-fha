@@ -7,12 +7,12 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/cheung_wo_logo.png">
+			<img src="/images/Cheung%20Wo/cheung_wo_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Cheung Wo Food Supply SG Pte Ltd</b></h4>
-			<p>Hey! Chips is an award-winning fruit and vegetable crisps brand from Singapore. We specialise in making delicious snacks with simple and natural ingredients, so we do not add any sugar, colourings or artificial flavours. Every piece is as bare as it can be! Hey! Chips is suitable for a wide range of diets (halal-certified, gluten-free and vegan-friendly).</p>
-			<p>The addictive Hey! crunch comes from our special low-temperature dehydration method that turns fresh produce crispy without much oxidation. The key to our success is in the quality of the produce. We practise farm-to-table sourcing in order to obtain the freshest produce and exercise stringent quality control.</p>
+			<p>Hey! Chips, an award-winning brand by CWF, offers fruit and vegetable snacks made from natural ingredients—free from added sugar, artificial flavours, colours, or preservatives. With multiple international awards and endorsements from top chefs, we ensure every bite is simple and delicious.</p>
+			<p>CWF, a trusted food distributor with 20+ years of experience, specialises in healthy products with a focus on authenticity and transparency. We leverage technology to enhance cost efficiency, digital marketing, e-commerce, and brand growth.</p>
 			<p><a target="_blank" href="https://www.heychips.com">www.heychips.com</a></p>
 		</div>
 	</div>
@@ -29,13 +29,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>BRC Certified, US FDA Certified, HACCP Certified, GHP Certified, Halal Certified, Great Taste
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, China, Hong Kong, Korea, Malta (EU), Malaysia, Maldives, Mauritius, US, Singapore
+				<b>Certifications: </b>BRC, Gluten Free, HACCP, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, China, Hong Kong, Malaysia, South Korea, Malta EU, Maldives, US
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Importers, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -45,7 +48,7 @@ variant: markdown
 			<p style="padding: 10px; color: white;">
 				<b>Hayden Wu</b>
 				<br>Director<br>+65 8383 2424<br>
-				<a style="color: white;" href="mailto:globalsales@heychips.com">globalsales@heychips.com</a>
+				<a style="color: white;" href="mailto:hayden@heychips.com">hayden@heychips.com</a>
 			</p>
 		</div>
 	</div>
@@ -57,20 +60,29 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/cheung_wo_product_01.jpg">
+			<img src="/images/Cheung%20Wo/cheung_wo_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Hey! Chips Broccoli Crisps</h6>
-			<p>Hey! Chips is all about creating a delicious snack with honest and simple ingredients. Our broccoli crisps are made in small batches at low temperature (≤80ºC). 100% natural with no more than 3 ingredients. No artificial colour, flavour, sugar or preservative added. Direct farm-to-table sourcing – Traceable, Vegan &amp; Gluten-free.</p>
+			<h6 style="text-transform: uppercase; color: black;">Premium Broccoli Crisps</h6>
+			<p>Hey! Chips Broccoli Crisps is a Great Taste Award-winning snack from Hey! Chips’ signature collection. They are hand-made to perfection with whole broccoli florets and dehydrated at low temperatures with no sugar added. No artificial flavour, sugar or preservative added. A best-seller for all ages!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/cheung_wo_product_02.jpg">
+			<img src="/images/Cheung%20Wo/cheung_wo_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Hey! Chips Mango Crisps</h6>
-			<p>Hey! Chips is all about creating a delicious snack with honest and simple ingredients. Our mango crisps are made in small batches at low temperature (≤80ºC). 100% natural with only 2 ingredients. No artificial colour, flavour, sugar or preservative added. Direct farm-to-table sourcing – Traceable, Vegan &amp; Gluten-free.</p>
+			<h6 style="text-transform: uppercase; color: black;">Premium Mango Crisps</h6>
+			<p>Hey! Chips Mango Crisps is a Great Taste Award-winning snack from Hey! Chips’ signature collection. They are hand-made to perfection with whole mango slices and dehydrated at low temperatures with no sugar added. No artificial flavour, sugar or preservative added. Vegan &amp; Gluten-free.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Cheung%20Wo/cheung_wo_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Premium Fruit Bites Collection</h6>
+			<p>Crunchy, creamy, and fruity, Hey! Chips Fruit Bites deliver a delightful crunch that melts in your mouth. Made with New Zealand whole milk and real fruits with no added sugar, every bite is bursting with delicious flavours, and packed with probiotics and superfood nutrients. Flavours include Strawberry, Mixed Berries, Mango Passion, and Mango Banana.</p>
 		</div>
 	</div>
 </div>
