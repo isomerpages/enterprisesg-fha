@@ -25,13 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 220000 Certified
+				<b>Product Storage Requirements: </b>Ambient, Frozen
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -57,7 +60,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Crispy Prawn Cracker</h6>
-			<p>A hawker favourite, Crispy Prawn Crackers are made with fresh prawns and delectable spices, before being deep fried. Best enjoyed right after deep fried, perfectly paired with our Flavoury Spice Sauce. *Also try our prawn crackers in ready-to-eat version - Spicy Nori Prawn Cracker Snack (no frying required).</p>
+			<p>A hawker favourite, Crispy Prawn Crackers are made with prawns and delectable spices. Best enjoyed right after deep fried, perfectly paired with our Flavoury Spice Sauce. *Also try our prawn crackers in ready-to-eat version.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -65,8 +68,26 @@ variant: markdown
 			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Spicy Nori Prawn Cracker</h6>
+			<p>Discover the new snack with a twist of heritage – innovative, trendy flavors like salted egg &amp; seaweed, and ready to eat anytime, anywhere</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Salted Egg Prawn Cracker</h6>
+			<p>Try the latest snack sensation – an innovative twist on heritage flavors! Trendy salted egg &amp; seaweed, ready to eat anytime, anywhere. Perfect for the global palate</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Cita%20Rasa%20Hlh/cita_rasa_hlh_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chicken Ngoh Hiang Roll</h6>
-			<p>Made from chicken meat wrapped in salted beancurd skin. This sausage-like roll has a wonderful combination of flavours and texture that excite your taste buds. It is a great choice as an appetizer. It is seasoned with Chinese Five-Spice Powder that symbolizes blessings: Longevity, Prosperity and Health.</p>
+			<p>Crafted from premium chicken wrapped in salted beancurd skin, this sausage-like roll offers a delightful blend of flavors and textures that will tantalize your taste buds. Infused with Chinese Five-Spice Powder, it symbolizes Longevity, Prosperity, and Health, making it the perfect choice for any occasion or appetizer.</p>
 		</div>
 	</div>
 </div>
