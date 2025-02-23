@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - Product Categories/Condiments and Sauces.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
       - Product Categories/Beverages.md
+      - Product Categories/Condiments and Sauces.md
       - Product Categories/Cooked Food.md
       - Product Categories/Dairy.md
       - Product Categories/Eggs and Fresh Produce.md
