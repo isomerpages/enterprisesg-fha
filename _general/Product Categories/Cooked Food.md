@@ -83,7 +83,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Cita Rasa HLH Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of Ngoh Hiang and Traditional Chinese Snacks.</small>
+			<small>Manufacturer of Ngoh Hiang, Prawn Crackers and Traditional Chinese Snacks.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/cita-rasa-hlh">
