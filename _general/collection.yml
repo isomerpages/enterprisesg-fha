@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Product Categories/Food Ingredients and Flavourings.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
       - Product Categories/Beverages.md
@@ -11,6 +10,7 @@ collections:
       - Product Categories/Cooked Food.md
       - Product Categories/Dairy.md
       - Product Categories/Eggs and Fresh Produce.md
+      - Product Categories/Food Ingredients and Flavourings.md
       - Product Categories/Meat.md
       - Product Categories/Oils and Sauces.md
       - Product Categories/Rice and Noodles.md
