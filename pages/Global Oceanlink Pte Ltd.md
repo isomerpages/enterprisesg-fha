@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Global Oceanlink Pte Ltd</b></h4>
-			<p>We operate a streamlined supply chain including our very own ISO 22000.</p>
+			<p>We operate a streamlined supply chain including our very own ISO 22000 - certified processing plant and warehousing facilities in Woodlands Loop and an on-site sourcing/procurement department based in Jurong Fishery Port, closely cooperating with raw seafood merchants from within the South East Asian region.</p>
 			<p><a target="_blank" href="https://www.globaloceanlink.com.sg">www.globaloceanlink.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Seafood</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Chilled, Frozen
+			</p>
+			<p>
+				<b>Certifications: </b>Aquaculture Stewardship Council, HACCP, ISO 22000
 			</p>
 			<p>
 				<b>Export Markets: </b>Malaysia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, Wholesalers, Food Service Suppliers / Players, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -59,17 +62,8 @@ description: ""
 			<img src="/images/Global%20Oceanlink/global_oceanlink_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Pacific Oyster</h6>
-			<p>Live and Frozen Oyster.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Global%20Oceanlink/global_oceanlink_product_02.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">All Seafood</h6>
-			<p>Fresh and Frozen Seafood.</p>
+			<h6 style="text-transform: uppercase; color: black;">Live Oyster</h6>
+			<p>In 1890, Our family began farming shellfish in the waters of the Puget Sound.</p>
 		</div>
 	</div>
 </div>
