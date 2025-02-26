@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Product Categories/Edible Oils and Fats.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
       - Product Categories/Beverages.md
