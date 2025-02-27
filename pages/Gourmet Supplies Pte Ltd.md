@@ -11,10 +11,9 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Gourmet Supplies Pte Ltd</b></h4>
-			<p>Gourmet Supplies is a leading company specializing in OEM bottled drinks production, house brands (Haus Brew, TropicFarmers, GoldenTrishaw, elements), and extensive distribution network in Singapore across thousands of touchpoints (B2B &amp; B2C) as well as overseas markets.</p>
-			<p>Our expertise lies in formulating custom or fuss-free private label beverages options for clients, leveraging on our in-house production plant with high quality products with small production MOQ requirements.</p>
-			<p>Our house brands (Haus Brew, TropicFarmers, GoldenTrishaw, elements) tapped on time test and established distribution networks with thousands of retail sales points across modern trade and general trade channels thus ensuring broad market reach.</p>
-			<p>Additionally, the integration with hundreds of vending machines islandwide enhances consumer accessibility, emphasizing our commitment to quality and convenience in the beverage industry.</p>
+			<p>Gourmet Supplies specializes in OEM bottled drinks production, umbrella of premium Singapore house brands and an extensive distribution touchpoints network across Singapore and overseas.</p>
+			<p>We offer custom designed private label beverages through our in-house production plant, providing high-quality products with low MOQ requirements.</p>
+			<p>Our house brands—Haus Brew, TropicFarmers, GoldenTrishaw, Elements, Killiney Singapore &amp; Kopi Haus—leverage a robust distribution network across retail channels. We also manage thousands of vending machines islandwide, ensuring broad market reach and convenience.</p>
 			<p><a target="_blank" href="https://www.gourmetsupplies.com.sg">www.gourmetsupplies.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +27,16 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Condiments and Sauces</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>Netherlands, South Korea, China, Hong Kong, Australia, Solomon Islands
+				<b>Product Storage Requirements: </b>Ambient, Chilled
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, Solomon Islands, USA, Vietnam, South Korea, Indonesia, Netherlands, China, Hong Kong, Philippines
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, E-commerce, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -60,19 +62,34 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Haus Brew Series</h6>
-			<p>Haus Brew series prides itself on being a truly Singapore owned, brewed and bottled ready-to-drink lifestyle beverage choice for people of all ages and from all walks of life to enjoy for generations.</p>
-			<p>Gourmet Supplies launched the Haus Brew Milk Tea, Fruit Tea, Herbal Tea and Milk series to great fanfare and has achieved fervent followings across Singapore and abroad across the years.</p>
-			<p>Since launch, Haus Brew products has received countless positive feedback, this further cement our beliefs that only through the rigorous selection process for the finest tea leaves and ingredients can we ensure a consistent product that is not just of quality but appeal to the discerning taste buds of our consumers.</p>
+			<p>Haus Brew, a dynamic and innovative beverage brand brewed and bottled in the vibrant city of Singapore, is redefining the world of artisanal drinks. Operating from its own factory, Haus Brew has carved a niche for itself in the beverage industry with an impressive array of 16 unique flavors.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Gourmet%20Supplies/gourmet_supplies_product_02.jpg">
+			<img src="//images/Gourmet%20Supplies/gourmet_supplies_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">TropicFarmers - Sparkling &amp; Asian Drinks</h6>
-			<p>TropicFarmers brand series seeks to deliver a taste of tropical paradise with each sip. This exquisitely designed line of drinks celebrates the vibrant flavors of sun-ripened fruits, including the refreshing sweetness of Coconut Juice with Pulp, exotic allure of Sparkling Strawberry, and tangy burst of tropical Pineapple Juice with Pulp.</p>
-			<p>Crafted with a commitment to quality, TropicFarmers offers an authentic and delectable experience in every can, providing a refreshing escape to lush, sun-soaked tropical destinations. Immerse yourself in the pure delight of TropicFarmers, where every sip is a journey to a world of palm-fringed beaches and the invigorating energy of tropical bliss.</p>
+			<p>TropicFarmers, a flourishing brand in the beverage industry, is renowned for its exotic range of juices and flavored sparkling drinks. Brewed and bottled in the lush landscapes of Malaysia, with its own factory operations under the banner of Gourmet Supplies, TropicFarmers stands as a symbol of innovation and quality in the realm of refreshing beverages.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Gourmet%20Supplies/gourmet_supplies_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Golden Trishaw - Premium Creamer</h6>
+			<p>Golden Trishaw, a premium creamer brand, brings a touch of heritage and luxury to your daily coffee and tea. Our range includes Evaporated Creamer for a pure, creamy taste, and Sweetened Creamer for a smooth, velvety finish. Crafted from the finest ingredients, Golden Trishaw creamers enrich your kopi or teh, making every sip a celebration of tradition and quality. Experience the blend of heritage and indulgence with Golden Trishaw – where every drop is a journey through taste and tradition.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Gourmet%20Supplies/gourmet_supplies_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Killiney Singapore</h6>
+			<p>When one mentions Killiney, the rich aroma of freshly brewed coffee and the captivating taste of cripsy kaya toasts comes to mind. Serving a simple breakfast set that warms the hearts of many, it is a brand trusted by generations for its quality and taste. Experience the Killiney Heritage and indulge in a cup of wholesome goodness - we call it "The Killiney Experience".</p>
 		</div>
 	</div>
 </div>
