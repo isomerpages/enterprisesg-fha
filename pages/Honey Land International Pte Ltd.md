@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Honey-Land International Pte Ltd</b></h4>
-			<p>Established in 1993, we are a Food Service Distributor specialising in beverages. With an extensive range of products in our portfolio, we assist clients in creating beverage solutions, encompassing a myriad of drink applications.</p>
+			<p>Established in 1993, we are a Food Service Distributor specialising in beverages. With an extensive range of products in our portfolio, we help clients create beverage solutions, encompassing a myriad of drink applications.</p>
 			<p><a target="_blank" href="https://www.honeylandintl.com">www.honeylandintl.com</a></p>
 		</div>
 	</div>
@@ -28,10 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 9001 : 2015 Certified
+				<b>Product Storage Requirements: </b>Ambient, Chilled
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -56,8 +59,8 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">MONIN Ume Plum Syrup</h6>
-			<p>Ume Plum's unique balance of sweet salty and savoury flavours has taken the whole world by storm. Inspired by this, we would like to introduce you to MONIN Ume Plum Syrup. Balanced by its sweet notes with a tinge of saltiness on the palate, it makes itself the perfect syrup to mix for a refreshing beverage.</p>
+			<h6 style="text-transform: uppercase; color: black;">PARAGON Timur Berry Cordial</h6>
+			<p>This Nepalese pepper is picked from small trees from the Zanthoxylum armatum species, which grow in the wild in the Mahabharat mountain range. With its fresh and citrus notes it is easy to see why some call it the grapefruit pepper.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -65,9 +68,34 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">MONIN Yuzu Fruit Mix</h6>
-			<p>The Asian yuzu fruit bursts with the tart, citrus flavours of grapefruit, lemon and mandarin. Spread by Japanese and Korean cuisine, it's a beautiful, premium recipe replacement for lemon or lime. MONIN Yuzu Fruit Mix amplifies this bright, exotic flavour and is perfect for creating lemonades, teas, cocktails and more.</p>
-			<p>MONIN Yuzu Fruit Mix adds tart, citrus texture to cocktails, lemonades, iced teas and an endless number of cocktail creations.</p>
+			<h6 style="text-transform: uppercase; color: black;">PARAGON Rue Berry Cordial</h6>
+			<p>Rue comes from the Ruta chalepensis plant, grown in tropical Africa and more specifically in Ethiopia where it's used as an herb or medicinal plant.</p>
+			<p>This shrub which can reach up to 1.5m, grows best at altitudes of between 1,500 and 2,000m in full sunlight. The foliage has a powerful aromatic and sweet scent; whilst the berries have a stronger and spicier taste.</p>
+			<p>The "kuti", an infusion using coffee leaves, is traditionally flavoured with fresh Ruta chalepensis leaves and some local cheeses are made using these leaves to add flavour to the milk. The berries are used in the renowned Ethiopian berbere blend of spices.</p>
+			<p>The leaves, once dried and crushed, make an excellent insect repellent.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Honey%20Land%20International/honey_land_international_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">PARAGON White Penja Pepper Cordial</h6>
+			<p>White Penja Pepper is harvested when ripe in the province of Moungo (Cameroon) and then dried in the sun.</p>
+			<p>All the production stages (harvesting, retting, washing, drying, sorting) are entirely carried out by hand mainly by the experienced hands of the local village women. Penja Pepper has gained worldwide gastronomic reputation.</p>
+			<p>In 2014 it became the first product of the African continent to obtain Protected Geographic Indication status (PGI).</p>
+			<p>The volcanic soils of Penja give the white pepper its fresh aromas of menthol and camphor.</p>
+			<p>Hand-picked and then fermented white peppers with singular animal notes, growing on the volcano soils of the Penja valley in Cameroun.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Honey%20Land%20International/honey_land_international_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">MONIN Vanilla Sugar-Free Syrup</h6>
+			<p>Indulge in the pure, creamy essence of vanilla without the added sugar thanks to MONIN Vanilla Sugar-Free Syrup.</p>
+			<p>This delightful syrup captures the warm, inviting aroma of Madagascar vanilla beans, bottled like a magic potion to elevate your coffee, tea, desserts, and more.</p>
 		</div>
 	</div>
 </div>
