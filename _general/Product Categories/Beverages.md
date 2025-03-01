@@ -563,7 +563,7 @@ variant: markdown
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Honey Land International Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Honey-Land International Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Beverage distributor of local and international brands.</small>
