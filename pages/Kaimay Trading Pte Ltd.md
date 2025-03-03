@@ -28,7 +28,10 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified (for certain brands)
+				<b>Product Storage Requirements: </b>Ambient, Chilled
+			</p>
+			<p>
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000
 			</p>
 			<p>
 				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan
@@ -59,7 +62,7 @@ description: ""
 			<img src="/images/Kaimay%20Trading/kaimay_trading_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Danisa Butter Cookies 454g</h6>
+			<h6 style="text-transform: uppercase; color: black;">Danisa Butter Cookies (454g)</h6>
 			<p>Harvest Moon, Butter Pretzel, Sugar Slice, Vanilla Ring, Currant Crunch. Authentic Danish Recipe. Danisa is made using authentic Danish recipe and fine quality ingredient. It is loved for its perfectly baked golden crisp, great buttery aroma and delicious butter cookies that melts in the mouth.</p>
 		</div>
 	</div>
@@ -68,7 +71,7 @@ description: ""
 			<img src="/images/Kaimay%20Trading/kaimay_trading_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">TTL Sweet Touch Lychee Fruit Beer 330ml</h6>
+			<h6 style="text-transform: uppercase; color: black;">TTL Sweet Touch Lychee Fruit Beer (330ml)</h6>
 			<p>The Sweet Touch Series from Taiwan Beer enhances your taste experience, a wonderful fermentation of juice and beer. Without the bitterness of beer or the taste of spirits, it satisfies our craving for a little dessert sweetness and quench our thirst for some drinks.</p>
 		</div>
 	</div>
