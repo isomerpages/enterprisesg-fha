@@ -11,9 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Jumain Sataysfaction Pte Ltd</b></h4>
-			<p>Jumain Sataysfaction is a renowned name in the world of halal satay and sauces. Our journey began in 1910 when Haji Abdul Rahman introduced satay to the streets of Singapore, and his legacy lives on in our commitment to quality and heritage. Since then, we have expanded our range to include innovative satay products, always keeping our traditional recipes at the core.</p>
-			<p>Our mission is to preserve the Singapore Satay Heritage, offering satay made from only the finest meats, using fresh herbs and spices. We've garnered numerous awards, reflecting our dedication to excellence. With a focus on community and partnerships with leading F&amp;B brands, we are committed to delivering a satay experience that transcends generations.</p>
-			<p>At Jumain Sataysfaction, we believe in ""Savoring Tradition, Inspiring Innovation"". Join us on a journey of culinary discovery and savour the timeless flavours of our heritage.</p>
+			<p>Jumain Sataysfaction is a renowned name in the world of halal satay and sauces. Our journey began in 1910 when Haji Abdul Rahman introduced satay to the streets of Singapore, and his legacy lives on in our commitment to quality and heritage. Our mission is to preserve the Singapore Satay Heritage, offering satay made from only the finest meats, using fresh herbs and spices. We've garnered numerous awards, reflecting our dedication to excellence. With a focus on community and partnerships with leading F&amp;B brands, we are committed to delivering a satay experience that transcends generations.</p>
 			<p><a target="_blank" href="https://jspl.asli.asia">jspl.asli.asia</a></p>
 		</div>
 	</div>
@@ -27,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat, Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Meat</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000:2018 Certified, FSSC Certified, Tasty Singapore, Healthier Choice
+				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Hong Kong, Cambodia, Myanmar, UAE, Qatar, Brunei
+				<b>Certifications: </b>FSSC 22000, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>UAE, Hong Kong
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Importers
 			</p>
 		</div>
 	</div>
@@ -44,7 +45,7 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Jad Dzuraed Bin Jefri</b>
+				<b>Jad Dzuraed </b>
 				<br>Program Manager<br>+65 9114 8080<br>
 				<a style="color: white;" href="mailto:jad@asli.asia">jad@asli.asia</a>
 			</p>
