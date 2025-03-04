@@ -11,11 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Leong Guan Food Manufacturer Pte Ltd</b></h4>
-			<p>LG Foods, a brand by Leong Guan Food Manufacturer, is Singapore's leading fresh noodle manufacturer, specialising in noodles and beancurd products.</p>
-			<p>Anchored in food science, the company has developed export-ready long shelf-life fresh noodles and beancurd without the use of preservatives.</p>
-			<p>The brand's current product range encompasses an array of options, including fresh Singaporean noodles, soy beancurd products, dumpling wrappers, and a diverse selection of international noodles like Japanese Ramen, Italian Pasta, and Hong Kong Style Wanton Mee.</p>
-			<p>Additionally, they offer specialty noodles designed to accommodate various dietary needs, such as high-fiber, low-GI, vegetarian, and gluten-free options.</p>
-			<p>The brand's latest offerings include ready-to-eat microwavable meals, providing a swift dining solution, as well as food kits containing all the ingredients and instructions, facilitating the preparation of quality meals at home for consumers.</p>
+			<p>LG Foods, a brand by Leong Guan Food Manufacturer, is Singapore's leading fresh noodle manufacturer, specializing in noodles and beancurd products. With a strong foundation in food science, the company has developed export-ready, long shelf-life fresh noodles and beancurd without preservatives. Their product range includes fresh Singaporean noodles, soy beancurd products, and international noodles like Japanese Ramen, Italian Pasta, and Hong Kong-style Wanton Mee. They have also introduced ready-to-eat microwavable meals and food kits for convenient home cooking.</p>
 			<p><a target="_blank" href="https://www.lgfoods.co">www.lgfoods.co</a></p>
 		</div>
 	</div>
@@ -32,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Rice and Noodles</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, UK, China, Israel, USA, Hong Kong, New Zealand, East Timor, Indonesia, Phillipines
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, UK, Middle East, East Timor, China, Cambodia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers
 			</p>
 		</div>
 	</div>
@@ -47,8 +46,8 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Bella Chua</b>
-				<br>International Sales<br>+65 8063 4099<br>
-				<a style="color: white;" href="mailto:eeearnc@leongguan.com">eeearnc@leongguan.com</a>
+				<br>Export Sales<br>+65 8063 4099<br>
+				<a style="color: white;" href="mailto:export@leongguan.com">export@leongguan.com</a>
 			</p>
 		</div>
 	</div>
@@ -65,7 +64,6 @@ variant: markdown
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Ready Meal Series</h6>
 			<p>Discover the essence of Asia in just minutes! LG Foods now crafts beloved classics using only the freshest ingredients. Each meal brings you the authentic Asian flavours, without compromising taste, perfect for those looking for a quick satisfying dining option without sacrificing quality.</p>
-			<p>Variations available: Singapore Fishball Noodles,  Nonya Dry Laksa, Nonya Dry Mee Siam, Thai Tom Yum Vermicelli</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
