@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Product Categories/Plant Based and Alternative Proteins.md
       - Product Categories/.keep
       - Product Categories/Bakery.md
       - Product Categories/Beverages.md
@@ -15,6 +14,7 @@ collections:
       - Product Categories/Food Ingredients and Flavourings.md
       - Product Categories/Meat.md
       - Product Categories/Oils and Sauces.md
+      - Product Categories/Plant Based and Alternative Proteins.md
       - Product Categories/Rice and Noodles.md
       - Product Categories/Seafood.md
       - Product Categories/Snacks and Confectionery.md
