@@ -797,7 +797,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Mushan Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer and Distributor for instant &amp; canned beverages and snacks.</small>
+			<small>Manufacturer of instant beverages.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/mushan-food">
