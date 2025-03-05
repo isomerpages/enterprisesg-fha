@@ -34,7 +34,7 @@ description: ""
 				<b>Certifications: </b>HACCP, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Vietnam, Australia, Philippines &amp; South Africa
+				<b>Export Markets: </b>Vietnam, Australia, Philippines, South Africa
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners, OEM Manufacturer
