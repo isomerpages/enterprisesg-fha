@@ -12,7 +12,7 @@ variant: markdown
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Prima Food Pte Ltd</b></h4>
 			<p>A division of Prima Food, Prima Taste is Prima Group's flagship B2C brand and was launched in 1998. It was the culmination of our passion to preserve the heritage and tradition of Singapore food and to offer authentic, easy-to-make Singapore cuisine to the world, without compromise.</p>
-			<p>Prima Taste offers a wide range of gourmet Singapore dishes through our LaMian, Meal Sauce Kits, Complete Sauce, Cooking Sauces, and Ready Meals. Today, Prima Taste products are widely distributed to major supermarkets and online stores in more than 40 global markets.</p>
+			<p>Prima Taste offers a wide range of gourmet Singapore dishes through our LaMian, Meal Sauce Kits, Complete Sauce, and Cooking Sauces. Today, Prima Taste products are widely distributed to major supermarkets and online stores in more than 40 global markets.</p>
 			<p><a target="_blank" href="https://www.primataste.com">www.primataste.com</a></p>
 		</div>
 	</div>
@@ -26,16 +26,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Oils and Sauces, Rice and Noodles</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Rice and Noodles</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>USA, Canada, Europe, Australia, New Zealand, China, Hong Kong, Taiwan, Korea, Japan, Philippines, Indonesia, Brunei, Mauritius
+				<b>Certifications: </b>FSSC 22000, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>USA, Canada, UK, Europe, Mauritius, Australia, New Zealand, China, Hong Kong, Taiwan, Japan, Korea, Philippines, Indonesia, Brunei
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players
 			</p>
 		</div>
 	</div>
@@ -43,9 +46,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Low Fatt Mun</b>
-				<br>Franchise Development Manager<br>
-				<a style="color: white;" href="mailto:fmlow@prima.com.sg">fmlow@prima.com.sg</a>
+				<b>Gina Lau</b>
+				<br>Assistant Business Development Manager<br>+65 9738 9040<br>
+				<a style="color: white;" href="mailto:order.export@prima.com.sg">order.export@prima.com.sg</a>
 			</p>
 		</div>
 	</div>
