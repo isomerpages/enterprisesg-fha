@@ -4,129 +4,93 @@ permalink: /syed-mohamed-traders/
 description: ""
 variant: markdown
 ---
-<div class="flex-paragraph"> 
-<p style="text-transform: uppercase">
-</p>
-</div> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 40%; display: block;">
-<img src="/images/syed_mohamed_logo.jpg">
-</div> 
-<div class="card-sgds" style="flex: 1 1 58%; display: block; margin-left: 3px"> 
+<div class="flex-paragraph">
+	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+		<div style="flex: 1 1 40%; display: block;" class="card sgds">
+			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_logo.jpg">
+		</div>
+		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
+			<h4 style="text-transform: uppercase; color: black;"><b>Syed Mohamed Traders (Singapore) Pte Ltd</b></h4>
+			<p>An international trading company founded by the late Haji K Syed Mohamed in 1936, has a business footprint that covers all the major countries is highly specialized in procuring and distributing a wide range of raw rice, spices, lentils, dried fruits and nuts. Syed Mohamed Traders is a Solution Provider for these items and acts as a Bridge between Suppliers and Customers.</p>
+			<p><a target="_blank" href="https://www.anarkali.com.sg">www.anarkali.com.sg</a></p>
+		</div>
+	</div>
+</div>
+
 <h4 style="text-transform: uppercase; color: black;">
-<b>SYED MOHAMED TRADERS (SINGAPORE) PTE LTD
-</b>
-</h4> 
-<p>Rice, spices, lentils, dairy products and packing / wholesale and export
-</p> 
-<p>
-<a href="https://www.anarkali.com.sg" target="_blank">www.anarkali.com.sg
-</a>
-</p> 
-</div> 
-</div> 
-<h4 style="text-transform: uppercase; color: black;">
-<b>General Information
-</b>
-</h4> 
-<div class="flex-container" style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 65%; display: block; align-self: stretch"> 
-<div class="flex-paragraph"> 
-<p>
-<b>Product Category: 
-</b>
-<span style="background-color: pink; border-radius: 10 px;">Rice and Noodles, Others
-</span>
-</p> 
-<p>
-<b>Certifications: 
-</b>Halal Certified, HACCP Certified, ISO 9001 Certified, Healthier Choice Certified, ISO 22000 Certified
-</p> 
-<p>
-<b>Export Markets: 
-</b>China, Fiji Island, Hong Kong, Indonesia, Malaysia (West), Mauritius, Taiwan, Vietnam
-</p> 
-<p style="margin-bottom: 10px;">
-<b>Looking for: 
-</b>Retailers / Online Retailers (Hypermarkets, Supermarkets, etc), Food Distributors / Online Food Distributors, Wholesalers, Importers, Suppliers in food services
-</p> 
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;"> 
-<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT
-</h4> 
-<div class="flex-paragraph"> 
-<p style="padding: 10px; color: white;">
-<b>JAFFAR SADIK S/O SULTAN AHAMED
-</b>
-<br>Director
-<br>+65 84682815
+	<b>General Information</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;" class="flex-container">
+	<div style="flex: 1 1 65%; display: block; align-self: stretch" class="card sgds">
+		<div class="flex-paragraph">
+			<p>
+				<b>Product Category: </b>
+				<span style="background-color: pink; border-radius: 10px;">Food Ingredients and Flavourings, Rice and Noodles, Snacks and Confectionery</span>
+			</p>
+			<p>
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>China, Fiji Island, Hong kong, Indonesia, Malaysia (west), Mauritius, Taiwan, Vietnam
+			</p>
+			<p style="margin-bottom: 10px;">
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+			</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 35%; padding: 10px; display: block; background-color: maroon; border-radius: 25px; align-self: center;" class="card sgds">
+		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
+		<div class="flex-paragraph">
+			<p style="padding: 10px; color: white;">
+				<b>Hamizan</b>
+				<br>Marketing Manager<br>+65 8468 2815<br>
+				<a style="color: white;" href="mailto:marketing@anarkali.com.sg">marketing@anarkali.com.sg</a>
+			</p>
+		</div>
+	</div>
+</div>
 <br>
-<a href="mailto:sales@anarkali.com.sg" style="color: white;">sales@anarkali.com.sg
-</a>
-</p> 
-</div> 
-</div> 
-</div> 
-<br> 
 <h4 style="text-transform: uppercase; color: black;">
-<b>products
-</b>
-</h4> 
-<div style="display: flex; flex-wrap: wrap;"> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/syed_mohamed_product1.png">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Anarkali Super Extra Long Classic Basmati Rice
-</h6> 
-<p>Anarkali Classic Basmati Rice, The World's Longest Grains, Elongates Approx. Up to 24mm Grain When Cooked. Pure gold delight for gourmets, the extra long slender grains grown in the Himalayan foothills that will mesmerize you with its gentle bite. With its soft elegant texture and alluring aroma, this rice is bound to entice you into another bite.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/syed_mohamed_product2.jpg">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Syed Deglet Nour Selected Pitted Tunisian Dates
-</h6> 
-<p>Syed Deglet Nour Pitted Tunisian Dates are seedless dates that are grown from the cultivated palm trees of the Tunisian desert. Picked once it is perfectly ripe, it has a taste of mild sweetness and semi-dry texture with a slightly snappy crunch. These dates have been a popular snack in Western Asia for centuries. Syed Tunisia Pitted Dates are hygienically packed fresh in Singapore, using zip lock pouches with Modern Technology. This product has attained Healthier Choice Symbol.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/syed_mohamed_product3.jpg">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Syed Arabian Jewel Premium Fard Dates
-</h6> 
-<p>These dates are little Jewels of health wrapped with the goodness of nutrition. They are carefully sourced from the sacred treasures of Mother nature, efficiently cleaned with steamed water &amp; well-dried before being thoughtfully packed, keeping the nutritious value intact. Their pearl-like appearance is distinguished with a glossy and naturally waxy outer skin covering its satin-smooth surface. An exquisite gift for your loved ones to relish and a delightful snack for you to savour. Syed Tunisia Arabian Jewel Fard Dates are hygienically packed fresh in Singapore, using zip lock pouches with Modern Technology. This product has attained Healthier Choice Symbol.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/syed_mohamed_product4.png">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Anarkali Super Basmati Premium Rice
-</h6> 
-<p>Harvested from Punjab-the fertile land of five rivers at the foothill of the Himalaya, The rice crop is nurtured with pure sparkling fresh waters . The rice paddies are stored for 2 years to mature and milled to aromatic fine super kernel long grain basmati rice. Anarkali Super Basmati Rice Premium gives the flavour of true basmati taste and true aroma of basmati rice even before cooked. This product has been tested for medium glycemic index. Singapore's most matured basmati Rice.
-</p>
-</div> 
-</div> 
-<div class="card sgds" style="flex: 1 1 47%; margin: 10px; display: block;"> 
-<div class="flex-image" style="display: block;">
-<img src="/images/syed_mohamed_product5.jpg">
-</div> 
-<div class="flex-paragraph"> 
-<h6 style="text-transform: uppercase; color: black;">Anarkali Gold Whole Wheat Atta Flour
-</h6> 
-<p>Anarkali's Chakki Fresh Whole Wheat Gold Atta Flour is a unique type of pulverized whole wheat flour, derived from milling the whole wheat kernel with the bran to a fine material. The unique premium quality of this product, Chapatis ( Indian Wholemeal bread ) produced remains soft, fluffy and light as freshly made even after 8 hours. The milling process breaks down the integrity of the starch and protein within the wheat kernel releasing a more sweet flavour as well as giving it a slight roasted texture, flavour and aroma due to the heat produced in the milling process. This type of flour is mainly used in Indian cuisines for the creation of flatbreads, like chapati, tandoori roti, paratha etc.
-</p>
-</div> 
-</div> 
+	<b>Products</b>
+</h4>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_01.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Anarkali Super Extra Long Basmati Classic Rice</h6>
+			<p>Anarkali Classic Basmati Rice. The world's longest rice grains, elongate approx. up to 24mm Grain, when cooked. Pure gold delight for gourmets, the extra long slender grains grown in the Himalayan foothills that will mesmerize you with its gentle bite.With its soft elegant texture and alluring aroma.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Syed Deglet Nour Selected Pitted Tunisian Dates</h6>
+			<p>Syed Deglet Nour Pitted Tunisian Dates are seedless dates that are grown from cultivated palm trees of the Tunisian desert. Picked once it is perfectly ripe, it has a taste of mild sweetness and semi-dry texture with a slightly snappy crunch. These dates have been a popular snack in Western Asia for centuries. Syed Tunisia Pitted Dates are hygienically packed fresh in Singapore, using zip lock pouches with modern technology. This product has attained Healthier Choice symbol.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Chettinadu Chicken Masala Mix Powder</h6>
+			<p>Chettinad Chicken Masala powder is a popular South Indian dish that originated in the Chettinad region of Tamil Nadu. It is known for its rich, aromatic, and spicy flavor profile, which is achieved through the use of a variety of spices and herbs. We have formulated unique combination of spices powder to further enhance its flavour.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Syed%20Mohamed%20Traders/syed_mohamed_traders_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Arabian Mandhi Masala Mix Powder</h6>
+			<p>Arabian mandhi masala mix powder also known as mandi mix powder, is a traditional dish that originated in the Middle East and is widely enjoyed in countries such as Yemen, Saudi Arabia, and parts of South Asia. The dish is a flavorful and aromatic rice dish cooked with meat (usually chicken, mutton, beef, or fish), we formulate unique mixed of spices and herbs to further enhance the flavour.</p>
+		</div>
+	</div>
 </div>
