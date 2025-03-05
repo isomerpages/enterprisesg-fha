@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>The Cookies Factory (Singapore) Pte Ltd</b></h4>
-			<p>We are a premier cookies and biscuit manufacturer established in 1991, we have more than 30 years experience in the confectionery manufacturing business.</p>
+			<p>The Cookies Factory is a premier cookies and biscuit manufacturer established in 1991, we have more than 30 years experience in the confectionery manufacturing business. Our house brands includes Mama's Oven and Skinnie Biscotti.</p>
 			<p><a target="_blank" href="https://www.thecookiesfactory.com">www.thecookiesfactory.com</a></p>
 		</div>
 	</div>
@@ -25,16 +25,19 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, GMP Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Malaysia
+				<b>Certifications: </b>GMP, HACCP, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>China, Vietnam, Maldives
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers
 			</p>
 		</div>
 	</div>
@@ -59,8 +62,8 @@ description: ""
 			<img src="/images/The%20Cookies%20Factory/the_cookies_factory_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">SKINNIE Biscotti</h6>
-			<p>Thinly Sliced Almond Biscotti.</p>
+			<h6 style="text-transform: uppercase; color: black;">SKINNIE Biscotti: Original Almond</h6>
+			<p>Thinly Sliced Almond Biscotti</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,26 @@ description: ""
 			<img src="/images/The%20Cookies%20Factory/the_cookies_factory_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">MAMA'S OVEN Signature Cookies</h6>
-			<p>Quality cookies that have warmed the hearts of many!</p>
+			<h6 style="text-transform: uppercase; color: black;">SKINNIE Biscotti: Pistachio With Pumpkin Seed</h6>
+			<p>Thinly Sliced Pistachio Biscotti</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/The%20Cookies%20Factory/the_cookies_factory_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Mama's Oven: Vegetarian Almond</h6>
+			<p>Premium Vegetarian Almond Cookies</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/The%20Cookies%20Factory/the_cookies_factory_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Mama's Oven: Cranberries Oatmeal Cookies</h6>
+			<p>Premium Butter Based Cranberries Cookies</p>
 		</div>
 	</div>
 </div>
