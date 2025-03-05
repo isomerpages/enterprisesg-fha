@@ -839,7 +839,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Sheng Aik Trading Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of confectionery, snacks and cereal milk drinks.</small>
+			<small>Manufacturer of confectionery and snacks.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/sheng-aik-trading">
