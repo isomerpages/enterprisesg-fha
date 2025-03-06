@@ -26,7 +26,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Dairy, Oils and Sauces, Rice and Noodles, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Condiments and Sauces, Dairy, Edible Oils and Fats, Rice and Noodles, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Export Markets: </b>Benin, Gambia, Togo, Guinea, Senegal, Sao Tome, Mali, Burkina Faso, Gabon, U.A.E
