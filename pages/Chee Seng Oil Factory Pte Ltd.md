@@ -30,7 +30,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Edible Oils and Fats</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, ISO 9001 Certified, FSSC 22000 (soon)
