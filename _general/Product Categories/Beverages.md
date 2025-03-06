@@ -1385,7 +1385,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Vintage Venture Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialise in beverage,  snacks and confectionery.</small>
+			<small>Specialise in beverage, snacks and confectionery.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/vintage-venture">
