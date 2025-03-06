@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Edible Oils and Fats</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO9001:2015 Certified, GMP Certified, Tasty Singapore
