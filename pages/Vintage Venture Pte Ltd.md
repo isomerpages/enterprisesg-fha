@@ -12,6 +12,7 @@ description: ""
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Vintage Venture Pte Ltd</b></h4>
 			<p>We are specializing in global FMCG partnerships. Our extensive network spans duty-free, airlines, wholesalers, modern trade, retailers, and e-commerce. With a focus on the specialty store concept, we operate two retail shops in prime Singapore locations, Jewel Changi and IMM, offering a curated selection of international and local brands.</p>
+			<p><a target="_blank" href="https://www.kaimay.com.sg">www.kaimay.com.sg</a></p>
 		</div>
 	</div>
 </div>
@@ -27,7 +28,10 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified (for certain brands)
+				<b>Product Storage Requirements: </b>Ambient, Chilled
+			</p>
+			<p>
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000
 			</p>
 			<p>
 				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan
@@ -58,8 +62,8 @@ description: ""
 			<img src="/images/Vintage%20Venture/vintage_venture_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PH Balancer Ocean Alkaline Ion Water 1500ml</h6>
-			<p>With a pH value ranging from 8 to 9.5, this water boasts a smooth and gentle texture on the palate, making it the perfect choice for rehydration and restoring your body's optimal pH balance while neutralizing acidic waste. Notably, it stands as the sole Ocean Alkaline Ion Water available in Singapore.</p>
+			<h6 style="text-transform: uppercase; color: black;">PH Balancer Ocean Alkaline Ion Water (1500ml)</h6>
+			<p>With a pH value ranging from 8 to 9.5, this water boasts a smooth and gentle texture on the palate, making it the perfect choice for rehydration and restoring your body's optimal pH balance while neutralizing acidic waste. It stands as the sole Ocean Alkaline Ion Water available in Singapore.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -67,7 +71,7 @@ description: ""
 			<img src="/images/Vintage%20Venture/vintage_venture_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Maikom Crispy Oat Bar Choco Flavor</h6>
+			<h6 style="text-transform: uppercase; color: black;">Maikom Crispy Oat Bar Chocolate Flavor (110g)</h6>
 			<p>Indulge in a delightful and nutritious snacking experience with our range of delectable treats crafted from the perfect trio of milk, chocolate, and oatmeal. These snacks are a testament to the harmony between flavor and well-being, promising you a guilt-free journey into the realm of taste.</p>
 		</div>
 	</div>
