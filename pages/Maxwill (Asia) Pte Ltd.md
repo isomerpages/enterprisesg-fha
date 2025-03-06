@@ -35,7 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Oils and Sauces, Rice and Noodles
+<span style="background-color: pink; border-radius: 10 px;">Edible Oils and Fats, Food Ingredients and Flavourings, Rice and Noodles
 </span>
 </p> 
 <p>
