@@ -35,8 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Oils and Sauces, Others
-</span>
+<span style="background-color: pink; border-radius: 10 px;">Food Ingredients and Flavourings, Plant-Based and Alternative Proteins</span>
 </p> 
 <p>
 <b>Certifications: 
