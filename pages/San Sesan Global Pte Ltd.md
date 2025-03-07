@@ -26,7 +26,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified
