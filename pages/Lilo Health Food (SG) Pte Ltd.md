@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Food Ingredients and Flavourings</span>
 			</p>
 			<p>
 				<b>Export Markets: </b>Australia, USA, Hongkong, Malaysia, Cambodia, United Kingdom
