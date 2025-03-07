@@ -35,8 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Cooked Food, Oil and Sauces
-</span>
+<span style="background-color: pink; border-radius: 10 px;">Cooked Food, Condiments and Sauces</span>
 </p> 
 <p>
 <b>Certifications: 
