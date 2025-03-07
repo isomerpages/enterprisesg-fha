@@ -35,8 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Oils and Sauces, Snacks and Confectionery
-</span>
+<span style="background-color: pink; border-radius: 10 px;">Condiments and Sauces, Snacks and Confectionery</span>
 </p> 
 <p>
 <b>Certifications: 
