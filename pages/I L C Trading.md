@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Food Ingredients and Flavourings</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, Healthier Choice Certified, Tasty Singapore
