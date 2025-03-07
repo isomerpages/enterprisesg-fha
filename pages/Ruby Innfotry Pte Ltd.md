@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces, Rice and Noodles</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Rice and Noodles</span>
 			</p>
 			<p>
 				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 9001 Certified, FSSC 22000 Certified
