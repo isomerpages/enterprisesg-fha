@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Oils and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Edible Oils and Fats</span>
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Importers
