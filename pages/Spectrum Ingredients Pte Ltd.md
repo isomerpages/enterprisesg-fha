@@ -25,7 +25,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Oils and Sauces, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Food Ingredients and Flavourings, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000:2018 Certified, HACCP Certified

@@ -28,13 +28,16 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>South Africa, Malaysia, China, Vietnam, Mauritius
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000, Tasty Singapore
+			</p>
+			<p>
+				<b>Export Markets: </b>South Africa, Malaysia, China, Vietnam, Mauritius, Brunei, Taiwan, China, Australia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -45,11 +48,6 @@ description: ""
 				<b>Chan Zi Wei</b>
 				<br>CFO<br>+65 9688 1693<br>
 				<a style="color: white;" href="mailto:ziwei@thekettlegourmet.com">ziwei@thekettlegourmet.com</a>
-			</p>
-			<p style="padding: 10px; color: white;">
-				<b>Rick</b>
-				<br>Business Development<br>+65 9692 7037<br>
-				<a style="color: white;" href="mailto:rick@thekettlegourmet.com">rick@thekettlegourmet.com</a>
 			</p>
 		</div>
 	</div>
@@ -65,7 +63,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">The Kettle Gourmet Kaya Butter Toast Popcorn</h6>
-			<p>The Kettle Gourmet's Kaya Butter Toast will melt the heart of the hardest hearts. Sweet, crunchy, popping goodness your frenemy probably thought you're just nuts. You can taste the toasted slices of bread sandwiching silky smooth butter and a rich spread of sweet creamy kaya with every bite!</p>
+			<p>The Kettle Gourmet's Kaya Butter Toast will melt the heart of the hardest hearts. Sweet, crunchy, popping goodness your frenemy probably thought you’re just nuts. You can taste the toasted slices of bread sandwiching silky smooth butter and a rich spread of sweet creamy kaya with every bite!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -75,6 +73,15 @@ description: ""
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">The Kettle Gourmet YUMI Original Cornsticks</h6>
 			<p>Introducing Ori San! Representing the YUMI Original Corn Stick, Ori San is a haiku-loving guy who will definitely brighten up your day! Count on him to show you the world of the original flavour that will leave you in awe. Rich, unique and original corn taste that's so addictive, you'll be begging for more. Crunchy with long lasting flavour unlike other corn sticks in the market.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/The%20Savoury%20Nosh/the_savoury_nosh_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">The Kettle Gourmet YUMI Corn Curls</h6>
+			<p>Enjoy our corn curls in three unique flavours - Squid, BBQ, and Cheese. Made from premium corn, a bite of this heavenly snack allows you to enjoy a crunchy, melt-in-your-mouth texture.</p>
 		</div>
 	</div>
 </div>

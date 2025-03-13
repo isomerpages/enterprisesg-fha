@@ -35,8 +35,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Oils and Sauces
-</span>
+<span style="background-color: pink; border-radius: 10 px;">Edible Oils and Fats</span>
 </p> 
 <p>
 <b>Certifications: 

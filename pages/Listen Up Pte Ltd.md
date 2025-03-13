@@ -11,8 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Listen Up Pte Ltd</b></h4>
-			<p>Oatbedient offers both powdered and ready-to-drink oat milk beverages that are authentically delicious and nutritious. Their range of sustainable plant-based products are crafted with quality ingredients that are not only beneficial for consumers but also environmentally friendly. With a commitment to clean-labelling, consumers are assured that there are no nasty ingredients, but just wholesome, oaty-goodness. Oatbedient strives to empower consumers to make better food choices with tasty products created with love for families and loved ones, who deserve only the best. Afterall, as they say "we only feed others what we’d feed our families".</p>
-			<p><a target="_blank" href="https://www.oatlife.com.my">www.oatlife.com.my</a></p>
+			<p>Oatbedient offers both powdered and ready-to-drink oat milk beverages that are authentically delicious and nutritious. Their range of sustainable plant-based products are crafted with quality ingredients that are not only beneficial for consumers but also environmentally friendly. With a commitment to clean-labelling, consumers are assured that there are no nasty ingredients, but just wholesome, oaty-goodness. Oatbedient strives to empower consumers to make better food choices with tasty products created with love for families and loved ones, who deserve only the best.</p>
+			<p><a target="_blank" href="https://www.oatbedient.com">www.oatbedient.com</a></p>
 		</div>
 	</div>
 </div>
@@ -25,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Plant-Based and Alternative Proteins</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified,  FSSC 22000 Certified, GMP Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Saudi, China, Taiwan, Macau, Hong Kong, Australia, Malaysia, Thailand, Mautirius, Brunei, Philippines
+				<b>Certifications: </b>FSSC 22000, GMP, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Malaysia, Thailand, Philippines, China, Macau, Hong Kong, Australia, Mongolia, Mauritius, Vietnam, USA (Amazon Global)
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers
 			</p>
 		</div>
 	</div>
@@ -59,9 +62,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Oatbedient Oat Milk Matcha Powders</h6>
-			<p>Just made for each other. The fresh umami of powdered green tea. Paired with the creamy, natural sweetness of oat milk. Perfect company for days when we're in search of calm &amp; peace-of-mind.</p>
-			<p>No artificial ingredients, No Palm oil, No Creamer. Just pure Oat Milk Powders with Matcha!</p>
+			<h6 style="text-transform: uppercase; color: black;">Oat Milk Powders (Multiple Flavours)</h6>
+			<p>Oatbedient offers both powdered and ready-to-drink oat milk beverages that are authentically delicious and nutritious. Their range of sustainable plant-based products are crafted with quality ingredients that are not only beneficial for consumers but also environmentally friendly.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -69,9 +71,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Oatbedient Oat Milk Latte</h6>
-			<p>The perfect pick-me-up. A bold shot of roasted coffee that gets your engine started, topped with creamy oat milk and absolutely no added sugar.</p>
-			<p>No artificial ingredients, No Palm oil, No Creamer.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chocolate Oat Milk (Powder)</h6>
+			<p>Isn't life more fun with chocolate? Oatbedient Chocolate Oat Milk blends the rich, indulgent taste of premium chocolate with the natural sweetness &amp; malty finish of Oat Milk. Give yourself a treat. You deserve it!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -79,8 +80,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">OatLife Double Oats with Chia Seeds</h6>
-			<p>OatLife Gold Double Oats is a super combo of Australian oat flakes, oat powder and chia seeds that delivers a satisfying beverage sip after sip.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready To Drink Oat Milk</h6>
+			<p>Looking for some surprises in life? Oatbedient Oat M!lk Barista is here to give you a wholesome spin! It's so smooth and creamy with a tinge of natural sweetness from the oats, which you can enjoy on its own or even create yummy recipes with it!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -88,8 +89,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">OatLife Oat Milk Barista 1 Litre</h6>
-			<p>OatLife Oat Milk Barista is crafted for coffee enthusiasts who seek a creamy, smooth texture to elevate their brews, with the wholesome goodness of oats. Perfect for creating velvety lattes, impeccable latte art, or simply enjoying every day - whether blended into smoothies, used in recipes, or enjoyed straight from the carton. A versatile choice that complements every sip, every moment.</p>
+			<h6 style="text-transform: uppercase; color: black;">Cafe Series Oat Milk Matcha</h6>
+			<p>Just made for each other. The fresh, subtle umami of powdered green tea. Paired with the mellow, creamy, natural sweetness of oat milk. Perfect company for days when we're in search of calm &amp; peace-of-mind.</p>
 		</div>
 	</div>
 </div>

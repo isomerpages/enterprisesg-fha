@@ -40,8 +40,7 @@ variant: markdown
 <p>
 <b>Product Category: 
 </b>
-<span style="background-color: pink; border-radius: 10 px;">Beverages, Others
-</span>
+<span style="background-color: pink; border-radius: 10 px;">Beverages, Plant-Based and Alternative Proteins</span>
 </p> 
 <p>
 <b>Certifications: 

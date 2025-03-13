@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Lam Kee Fisheries Pte Ltd</b></h4>
-			<p>Lam Kee Fisheries specialize in the import, export, and wholesale quality seafood across various market segments.  Our processing facility based in Singapore, provides customised solutions tailored to individual client's requirements. Through the pursuit of excellence, the company has become one of the largest traders of Chilean Seabass and other premium seafood in Asia.</p>
+			<p>Lam Kee Fisheries, established in the 1970s, is Singapore's leading importer and exporter of premium frozen seafood. Renowned for consistent quality and reliability, we deliver exceptional value by balancing superior quality with competitive pricing. We pride ourselves on fostering long-term partnerships, offering dedicated sales support, and driving collaborative growth. Discover how our premium seafood solutions can elevate your business at the expo.</p>
 			<p><a target="_blank" href="https://www.lamkeeseafood.com">www.lamkeeseafood.com</a></p>
 		</div>
 	</div>
@@ -28,10 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Seafood</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 22000 Certified, MSC Certified
+				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE, Malaysia, Thailand, Phillipines, Indonesia, and other Southeast Asia Countries
+				<b>Certifications: </b>ISO 22000, Marine Stewardship Council (MSC)
+			</p>
+			<p>
+				<b>Export Markets: </b>Malaysia, Thailand, Indonesia, Philippines, China, Dubai, Hong Kong, Korea
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -42,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Royston Chew</b>
-				<br>Business Development Manager<br>+65 9711 0499<br>
-				<a style="color: white;" href="mailto:roystonchew@lamkeeseafood.com">roystonchew@lamkeeseafood.com</a>
+				<b>Jansen Chew</b>
+				<br>Sales &amp; Marketing<br>+65 8180 3335<br>
+				<a style="color: white;" href="mailto:jansenchew@lamkeeseafood.com">jansenchew@lamkeeseafood.com</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +62,8 @@ variant: markdown
 			<img src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chilean Seabass</h6>
-			<p>Lam Kee Fisheries takes great pride in presenting its esteemed Chilean Seabass selection, sourced from the pristine waters of the Southern Hemisphere. Renowned for its luscious, buttery texture and delicate flavor profile, Lam Kee's Chilean Seabass represents the pinnacle of premium seafood offerings.Elevate your product lineup with Lam Kee's Chilean Seabass and establish your brand as a purveyor of the finest seafood available.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chilean Seabass (Cod Fish)</h6>
+			<p>Prized for its rich flavor and buttery texture, Chilean Seabass is a premium choice for gourmet dishes. Sustainably sourced, it offers exceptional quality and versatility, perfect for grilling, baking, or steaming.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,26 @@ variant: markdown
 			<img src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Rock Lobster</h6>
-			<p>Lam Kee Fisheries proudly presents its premium Rock Lobster offering, sourced from pristine marine environments and meticulously handled to preserve its exceptional taste and quality. Renowned for its succulent, sweet meat and firm texture, Lam Kee's Spiny Lobster is a culinary delight sought after by seafood aficionados worldwide.</p>
+			<h6 style="text-transform: uppercase; color: black;">Japanese Hokkaido Scallops</h6>
+			<p>Harvested from the pristine waters of Hokkaido, these scallops are known for their natural sweetness, plump texture, and delicate flavor. Ideal for sashimi, searing, or adding a touch of luxury to any dish.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Spiny Lobsters</h6>
+			<p>Our lobsters are offers a firm and succulent meat with a naturally sweet flavor. Perfect for steaming, grilling, or as the centerpiece of an indulgent seafood feast.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Salmon Fillet/Portion</h6>
+			<p>Rich in omega-3s and vibrant in color, our premium salmon is perfect for grilling, searing or baking. Its fresh, delicate flavor and tender texture make it a favorite for any occasion.</p>
 		</div>
 	</div>
 </div>

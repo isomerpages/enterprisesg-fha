@@ -12,6 +12,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Annabella%20Patisserie/annabella_patisserie_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Annabella Patisserie Trading Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>A Japanese-French inspired bakery, specializing in exquisite Japanese light-cream cakes and handcrafted macarons.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/annabella-patisserie">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Backshop%20Asia/backshop_asia_logo.png">
 		</figure>
 	</div>
@@ -180,27 +201,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Davis%20Commodities/davis_commodities_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Davis Commodities Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>A Singapore agri-commodity company with a reach not only to the Asia but to the rest of the world.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/davis-commodities">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Eatnuf/eatnuf_logo.png">
 		</figure>
 	</div>
@@ -276,27 +276,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/hotbake-innovations">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lek%20Lim%20Nonya%20Cake/lek_lim_nonya_cake_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Lek Lim Nonya Cake Trading Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Traditional local snacks in RTC and RTE condition.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/lek-lim-nonya-cake">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -528,6 +507,48 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/suvai-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/The%20Cookies%20Factory/the_cookies_factory_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>The Cookies Factory (Singapore) Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of premier cookies and biscuit.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/the-cookies-factory">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/The%20Soy%20Company/the_soy_company_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>The Soy Company Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Fresh Soy Milk supplier in Singapore.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/the-soy-company">
 				<small>Visit their page</small>
 			</a>
 		</p>

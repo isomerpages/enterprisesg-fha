@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tan Seng Kee Foods Pte Ltd</b></h4>
-			<p>Tan Seng Kee Foods Pte Ltd (TSK), a heritage brand since 1936, began as a family business with original recipes passed down through generations. Staying true to its authentic and wholesome flavours, it has since evolved into a research focused noodle institution manufacturing fresh rice-based, fresh cooked and raw wheat-based noodles. As the noodle maker to pioneer Singapore’s first pasteurized fresh noodles back in 2010, Kang Kang noodles provides modern consumers convenience and peace of mind through its preservative-free, “springier” and tastier noodles with an extended shelf life from mere days to months.</p>
-			<p>TSK has long established itself as a trusted noodle maker with ISO 22000:2018, Halal, gluten-free certification and a brand ambassador of Tasty Singapore. TSK has expanded into export markets, bringing a slice of Singapore’s delicious staple into Europe, Middle East and the United States of America.</p>
+			<p>Tan Seng Kee Foods Pte Ltd (TSK), heritage brand since 1936, began as a family business with original recipes passed down through generations. Staying true to its authentic and wholesome flavours, it has since evolved into a research focused noodle institution manufacturing fresh rice-based, fresh cooked and raw wheat-based noodles. As the noodle maker to pioneer Singapore’s first pasteurized fresh noodles back in 2010, Kang Kang noodles provides modern consumers convenience and peace of mind through its preservative-free, springier and tastier noodles with extended shelf life from days-months.</p>
 			<p><a target="_blank" href="https://www.tskfood.com">www.tskfood.com</a></p>
 		</div>
 	</div>
@@ -26,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Rice and Noodles</span>
+				<span style="background-color: pink; border-radius: 10px;">Rice and Noodles</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 22000 Certified, Halal Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>USA, Dubai, Netherlands, London, Cambodia, Reunion Island, Philippines, Saudi Arabia
+				<b>Certifications: </b>HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>New Zealand, UK, Europe, Reunion Island, Dubai, Saudi Arabia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -43,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Annie Tan</b>
-				<br>Director<br>+65 9794 6730<br>
-				<a style="color: white;" href="mailto:annie@tskfood.com">annie@tskfood.com</a>
+				<b>Carissa Poh</b>
+				<br>Assistant Manager<br>+65 6445 2320<br>
+				<a style="color: white;" href="mailto:marketing@tskfood.com">marketing@tskfood.com</a>
 			</p>
 		</div>
 	</div>
@@ -60,9 +62,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series - Microwaveable Noodle Box</h6>
-			<p>Rich, authentic flavours made with Grandma's traditional recipes, all natural pounded spices, fresh noodles, and premium condiments - all in microwave-ready single servings that can be prepared in just 2 minutes. Convenience, taste, and health are more accessible than ever with our Microwaveable Noodle Boxes. Our halal Char Kway Teow flavour comes with fresh kway teow, authentic 'wok hei', fresh sambal chilli, fried shallots and fried whitebait. *Wok Hei refers to the smoky flavours created by searing heat in a hot wok during stir frying.</p>
-			<p>Other Flavours: Hokkaido Ramen and Pad Thai Noodles.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Microwaveable Noodle Box Char Kway Teow</h6>
+			<p>All in microwave-ready single servings that can be prepared in just 2 minutes. Our halal Char Kway Teow flavour comes with fresh kway teow, authentic 'wok hei' fresh char kway teow sauce, sambal chilli, fried shallots and fried whitebait.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -70,9 +71,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Ready to Eat Series - Express Meal Kit</h6>
-			<p>Microweavable fresh cooked noodles with freshly ground paste - in three tasty, authentic hawker flavours. Ready to serve in minutes in three simple steps, this convenient ready-to-use express meal kit is easy to prepare and to share with family and loved ones. Pasteurisation extends the shelf life of fresh noodles naturally with no preservative at all. The pasteurised fresh noodles retain its soft, springy texture satisfying any discerning palate. A quick and delicious noodle meal for that lunch break in the office pantry or a midnight snack after a night's out in town.</p>
-			<p>Available in Laksa, Curry Mee and Prawn Mee Soup.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Microwaveable Noodle Box Chili Crab Noodles</h6>
+			<p>All in microwave-ready single servings that can be prepared in just 2 minutes. Our latest addition to the family Chili Crab Noodles comes with fresh cooked ramen, fresh chili crab sauce, scallops, fried shallots and chili flakes for an additional spicy kick.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,12 +80,17 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Range</h6>
-			<p>Singapore's first pasteurized Kang Kang fresh noodles provides modern consumers convenience and peace of mind through its preservative-free, "springier" and tastier noodles.</p>
-			<p>Fresh and cooked wheat-based and rice-based noodles bring convenience and time savings to the professional caterer and homecooks in stir-fry, soup and refreshing salad.</p>
-			<p>There is a total of 6 varieties, available in 420g and 1kg pack sizes.</p>
-			<p>Wheat-based noodles : Hokkien Noodles, Hokkien Flat Noodles, Ramen</p>
-			<p>Rice-based noodles: Kway Teow, Ipoh Hor Fun, Laksa Noodle</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Cooked Ramen</h6>
+			<p>Singapore's First Cooked Ramen, made with premium wheat flour giving it that chewy, bouncy texture when you bite into it. Ideal for stir fry, soup or salad dishes. Simply use from pack to wok, no washing needed. Bringing convenience  and time savings to the professional caterer and homecooks.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Noodles</h6>
+			<p>Singapore's first pasteurized Kang Kang fresh noodles provides modern consumers convenience and peace of mind through its preservative-free, "springier" and tastier noodles. Fresh and cooked wheat-based and rice-based noodles bring convenience  and time savings to the professional caterer and homecooks in stir-fry, soup and refreshing salad.</p>
 		</div>
 	</div>
 </div>

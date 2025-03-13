@@ -285,18 +285,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Davis%20Commodities/davis_commodities_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/CowpressoCoffee/cowpressocoffee_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Davis Commodities Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>CowpressoCoffee Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>A Singapore agri-commodity company with a reach not only to the Asia but to the rest of the world.</small>
+			<small>Coffee Roastery &amp; Coffee Machine service provider.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/davis-commodities">
+			<a target="_blank" href="/cowpressocoffee">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -453,6 +453,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gold%20Roast%20Food/gold_roast_food_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Gold Roast Food Industry Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and distributor of instant beverages and oatmeal.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/gold-roast-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gourmet%20Supplies/gourmet_supplies_logo.png">
 		</figure>
 	</div>
@@ -495,6 +516,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Harmony%20Foods/harmony_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Harmony Foods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of high-quality juice concentrates and purees.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/harmony-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hock%20Seng/hock_seng_logo.png">
 		</figure>
 	</div>
@@ -521,7 +563,7 @@ variant: markdown
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Honey Land International Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Honey-Land International Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Beverage distributor of local and international brands.</small>
@@ -726,6 +768,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Min%20Hiang%20Food/min_hiang_food_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Min Hiang Food Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of Soya Products, Cup Jellies, Asian Drinks &amp; herbal tea and agar agar.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/min-hiang-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mushan%20Food/mushan_food_logo.png">
 		</figure>
 	</div>
@@ -734,7 +797,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Mushan Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer and Distributor for instant &amp; canned beverages and snacks.</small>
+			<small>Manufacturer of instant beverages.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/mushan-food">
@@ -873,6 +936,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Premier%20Foods/premier_foods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Premier Foods Holding Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Distributor of coffee mix, tea mix, malt milk, ground coffee, roasted coffee bean and instant noodle.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/premier-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Pulau%20Sambu/pulau_sambu_logo.png">
 		</figure>
 	</div>
@@ -885,27 +969,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/pulau-sambu">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Sheng%20Aik%20Trading/sheng_aik_trading_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Sheng Aik Trading Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of confectionery, snacks and cereal milk drinks.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/sheng-aik-trading">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -1322,7 +1385,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>Vintage Venture Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialise in beverage,  snacks and confectionery.</small>
+			<small>Specialise in beverage, snacks and confectionery.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/vintage-venture">

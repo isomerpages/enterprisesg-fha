@@ -26,7 +26,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Meat, Oils and Sauces, Seafood</span>
+				<span style="background-color: pink; border-radius: 10px;">Meat, Seafood</span>
 			</p>
 			<p>
 				<b>Certifications: </b>ISO 22000 Certified, FSC Certified

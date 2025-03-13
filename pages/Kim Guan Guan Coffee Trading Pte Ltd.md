@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4>
-			<p>Kim Guan Guan Coffee (KGG) has its humble beginning in 1988, supplying quality Singapore traditional coffee powder to local coffeeshops. Today, we are an integrated company that imports, roasts, packs and supplies traditional ground coffee to more than 1,000 food &amp; beverage operators in Singapore.</p>
-			<p>KGG has recently introduced Kim's Duet, a product range formulated with consumers' health benefits as the priority. The Singapore steep coffee and tea bags combined quality traditional taste with the convenience of single servings, perfect for those who are looking for a fuss-free way to enjoy an authentic cup of traditional coffee and tea anytime, anywhere.</p>
+			<p>Kim Guan Guan Coffee (KGG) is a leading purveyor of quality Singapore traditional coffee since 1988. Today, we are Singapore’s first FSSC 22000 certified traditional coffee roastery, offering comprehensive services including food service, wholesale, and OEM solutions to over 1,500 F&amp;B operators. Recently, we launched Kim’s Duet, a health-focused range of Singapore steep coffee and tea bags. Combining traditional taste with the convenience of single servings, it's the perfect choice for those wanting an authentic, fuss-free coffee or tea experience anytime, anywhere.</p>
 			<p><a target="_blank" href="https://www.kimguanguan.com.sg">www.kimguanguan.com.sg</a></p>
 		</div>
 	</div>
@@ -29,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Hong Kong, Philippines, United Kingdom
+				<b>Certifications: </b>FSSC 22000, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, China, Hong Kong,  Indonesia, Korea, Philippines
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players
 			</p>
 		</div>
 	</div>
@@ -60,10 +62,8 @@ variant: markdown
 			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kim Guan Guan Singapore Traditional Coffee Power and Tea Dust</h6>
-			<p>Singapore Traditional Coffee is a uniquely Singaporean product with a long history and culture. It is first roasted with caramelised sugar and margarine, and then brewed using a traditional ""hand-pulling"" method, which allows the brew to achieve a silky-smooth consistency.</p>
-			<p>The unique Singapore kopi is made from Robusta beans, which contain a higher dosage of caffeine. Singapore Coffee's own uniquely aromatic and full-bodied taste is also what differs it from International Gourmet Coffee which is brewed using Arabica coffee.</p>
-			<p>KGG's vision is to produce top quality traditional coffee through continuous improvement in the manufacturing process with the mission to preserve and share the unique culture of traditional coffee in Singapore to one and all.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kim Guan Guan Singapore Traditional Coffee Power</h6>
+			<p>KGG Singapore Traditional Coffee is a full-bodied brew made from Robusta beans, roasted with sugar and margarine, and brewed using the traditional "hand-pulling" method for a silky-smooth texture. Bold and strong, it offers a distinctive bittersweet flavor and an aromatic, rich taste.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,17 @@ variant: markdown
 			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Singapore Steep Coffee</h6>
-			<p>Kim's Duet is a Singaporean brand by Kim Guan Guan Coffee, a leading purveyor of Singapore Traditional Coffee established since 1988. The Kim's Duet team focuses on roasting Robusta beans in small batches at their ISO-22000 Certified local roastery to achieve the distinctive bittersweet roast that Singaporeans know and love. The caramelised coffee beans are then ground, packed and sealed within the same day to lock in the freshness and the aroma. All recipes are designed with your well-being in mind through quality ingredients and a lower sugar formula without compromising on the taste. These single-serve bags are perfect for those who are looking for an easy fuss-free way to enjoy an authentic cup of Singapore Traditional Coffee wherever they are.</p>
+			<h6 style="text-transform: uppercase; color: black;">KIM'S DUET Singapore Steep Coffee</h6>
+			<p>Kim's Duet, by Kim Guan Guan Coffee, roasts Robusta beans in small batches at their FSSC 22000 certified roastery to achieve the distinctive bittersweet flavor Singaporeans love. With a lower sugar formula and quality ingredients, these single-serve bags offer a fresh, fuss-free way to enjoy authentic coffee anywhere.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">KIM'S DUET Decaf Kopi-O Kosong</h6>
+			<p>Experience the first-ever caffeine-free Singapore Traditional Coffee! Specially built for those who may be sensitive to caffeine, this Kim's Duet Decaf Kopi-O Kosong yields a distinctive ashy flavour that gives the rich and robust taste of traditional black coffee. Contact us to discuss OEM possibilities.</p>
 		</div>
 	</div>
 </div>

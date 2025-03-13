@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Cooked Food, Meat, Oils and Sauces, Rice and Noodles, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Condiments and Sauces, Cooked Food, Meat, Rice and Noodles, Snacks and Confectionery</span>
 			</p>
 			<p>
 				<b>Certifications: </b>HACCP Certified, ISO 22000 Certified, Halal Certified, Tasty Singapore
