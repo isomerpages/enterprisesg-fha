@@ -10,8 +10,8 @@ description: ""
 			<img src="/images/Valency%20International/valency_international_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Valency International Trading Pte Ltd</b></h4>
-			<p>Valency International has established a sizeable global presence, with offices and operations in 22 countries and a passionate team of more than 2600 people. Our global footprint extends to 21 product categories across agricultural commodities, processed Agri products, Agri Inputs, Industrial Chemicals and FMCG food products. Our global footprint enables us to leverage our sourcing networks and provide customers with high-quality products that meet their specific needs. We work closely with all our stakeholders to ensure that our value chain is sustainable, and our carbon footprint minimal. We are deeply committed to the welfare of our people and the communities where we work.</p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Valency International Pte Ltd</b></h4>
+			<p>Valency International has established a sizeable global presence, with offices and operations in 22 countries and a passionate team of more than 2600 people. Our global footprint extends to 21 product categories across agricultural commodities, processed Agri products, Agri Inputs, Industrial Chemicals and FMCG food products. Our global footprint enables us to leverage our sourcing networks and provide customers with high-quality products that meet their specific needs. We work closely with all our stakeholders to ensure that our value chain is sustainable, and our carbon footprint minimal.</p>
 			<p><a target="_blank" href="https://www.valencyinternational.com">www.valencyinternational.com</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 9001 Certified, BRC Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Philippines, Vietnam, India, Malaysia, Argentina, Brazil, UAE, UK, Spain, France, Switzerland, Belgium, Netherlands, Germany, Lithunia, Romania, Turkey, Japan, China, Pakistan, Sri Lanka, Nepal, Bangladesh, Myanmar, Thailand, Indonesia, Tanzania, Ethiopia, Djibouti, Ghana, Nigeria, Benin, Togo, IVC, Bissau, Mali, Senegal
+				<b>Certifications: </b>BRC, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>China, USA, India, Philippines, European countries
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers
 			</p>
 		</div>
 	</div>
@@ -43,7 +46,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Kimberly Samiappan</b>
-				<br>Marketing Executive<br>+65 9487 3719<br>
+				<br>Marketing Manager<br>+65 9487 3719<br>
 				<a style="color: white;" href="mailto:kimberly@valencyinternational.com">kimberly@valencyinternational.com</a>
 			</p>
 		</div>
@@ -59,8 +62,8 @@ description: ""
 			<img src="/images/Valency%20International/valency_international_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sprouted Superfoods Salted Caramel</h6>
-			<p>Ingredients: Sprouted Cashews, Sprouted Almonds, Sprouted Walnuts, Sprouted Pecans, Sprouted Sunflower Seeds, Sprouted Pumpkin Seeds, Caramel Syrup, Brown Sugar, Pink Himalayan Salt, Cinnamon Powder, Vanilla Essence.</p>
+			<h6 style="text-transform: uppercase; color: black;">Sprouted Cashews</h6>
+			<p>Sprouted Cashews are soaked in alkaline water to reduce the phytic acid naturally found in plant-foods that prevents the body to absorb the full nutrients. And by Sprouting/Activating the nut we are able retain more nutrients and digest easier.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,9 +71,25 @@ description: ""
 			<img src="/images/Valency%20International/valency_international_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sprouted Cashews &amp; Almonds Truffle Salt</h6>
-			<p>Ingredients: Sprouted Cashews, Sprouted Almonds, Black Truffle Oil, Truffle Salt (1%), Black Pepper, Parsley, Garlic Powder.</p>
-			<p>"Mind-Blowing! Taste like truffle fries, only healthier."</p>
+			<h6 style="text-transform: uppercase; color: black;">Sprouted Nut Butter</h6>
+			<p>Sprouted Nut Butter is made of pure nuts, no added salt or sugar or oil.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Valency%20International/valency_international_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Sprouted Granola</h6>
+			<p>Sprouted Granola are made of oats and sprouted/activated nuts. Available in Honey and Chocolate flavour.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Valency%20International/valency_international_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Giftboxes</h6>
 		</div>
 	</div>
 </div>
