@@ -1109,7 +1109,7 @@ variant: markdown
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Valency International Trading Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Valency International Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Specialise in agricultural commodities, processed Agri products, Agri Inputs, Industrial Chemicals and FMCG food products.</small>
