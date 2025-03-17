@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Mr Popiah Pte Ltd</b></h4>
-			<p>From a humble coffeeshop to a visionary brand, Mr. Popiah's culinary odyssey has transcended expectations. We've expanded beyond popiah, offering tantaliSing tortilla wraps, convenient Ready-to-Eat delights, and more. Our unwavering commitment to innovation and unforgettable experiences continues to captivate both businesses and discerning individuals. Join us on this extraordinary gastronomic adventure.</p>
+			<p>Mr Popiah is Singapore's leading manufacturer of spring roll pastry and a global pioneer in producing the world's first and only colored spring roll pastry. Renowned for our top-quality standards. Our colored spring roll pastry has revolutionized the market, adding vibrant creativity to traditional spring rolls. As trusted partners to our customers, we pride ourselves on delivering unparalleled products that set the benchmark for quality and innovation in the global food industry. Mr Popiah also manufactures ready to eat wraps and burritos, ready in just 2 minutes.</p>
 			<p><a target="_blank" href="https://www.mrpopiah.com.sg">www.mrpopiah.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified
+				<b>Cooked Food: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Hong Kong, South Korea, Australia
+				<b>Certifications: </b>FSSC 22000, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Hong Kong, Japan, Brunei, India, South Korea, Dubai, UAE
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -56,11 +59,11 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Mr%20Popiah/mr_popiah_product_01.png">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tortilla Wrap</h6>
-			<p>Dive into a world of flavour and vibrancy with Mr. Popiah's Singapore-made Tortilla Wraps. Each wrap boasts a kaleidoscope of colours and a symphony of flavours, from zesty to savoury, crafted to ignite your senses. Elevate your culinary experience with our diverse range of colourful delights.</p>
+			<h6 style="text-transform: uppercase; color: black;">Natural Coloured Spring Roll Pastry</h6>
+			<p>Leading manufacturer of spring roll pastry and a global pioneer in producing the world's first and only colored spring roll pastry. Renowned for our top-quality standards, we offer three sizes to meet diverse culinary needs: 7.5-inch, 8.5-inch, and 10-inch.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,17 @@ variant: markdown
 			<img src="/images/Mr%20Popiah/mr_popiah_product_02.png">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ready To Eat Wrap</h6>
-			<p>Experience convenience without compromise with Mr Popiah's Ready-to-Eat Wraps. Crafted in Singapore, our wraps are bursting with flavour and ready to tantalise your taste buds anytime, anywhere. Indulge in a variety of delicious fillings, meticulously prepared for on-the-go enjoyment. Elevate your snacking experience with Mr Popiah today!</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready to Eat Wraps</h6>
+			<p>Mr Popiah offers a diverse range of ready-to-eat wraps, crafted for convenience and taste. Our wraps can be prepared in just 2 minutes using a microwave, or steamed and air-fried for a unique texture. With options catering to vegetarians and meat lovers alike, our wraps feature a variety of delicious fillings and pastry types, ensuring there’s something for everyone. From classic flavors to innovative combinations, we pride ourselves on providing high-quality, versatile products that fit modern lifestyles. Whether for a quick snack or a hearty meal, our wraps deliver exceptional flavor and ease with every bite.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_01.png">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Tortilla Wraps</h6>
+			<p>Tortilla Wraps , with different flavours and colours. 6 inch, 8 inch, 10 inch and 12 inch.</p>
 		</div>
 	</div>
 </div>
