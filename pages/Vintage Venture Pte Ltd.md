@@ -71,8 +71,8 @@ description: ""
 			<img src="/images/Vintage%20Venture/vintage_venture_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Maikom Crispy Oat Bar Chocolate Flavor (110g)</h6>
-			<p>Indulge in a delightful and nutritious snacking experience with our range of delectable treats crafted from the perfect trio of milk, chocolate, and oatmeal. These snacks are a testament to the harmony between flavor and well-being, promising you a guilt-free journey into the realm of taste.</p>
+			<h6 style="text-transform: uppercase; color: black;">Gomee Gummies (150g)</h6>
+			<p>GOMEE: Go with me! Gomee Gummies create a sense of excitement, inviting consumers to take Gomee along wherever they go. Gomee gummies can be the go-to-snack for on-the-go fun. A perfect companion for any adventures, parties, trips, and everyday enjoyment.</p>
 		</div>
 	</div>
 </div>
