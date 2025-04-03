@@ -12,7 +12,6 @@ description: ""
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Mulan Technology Pte Ltd</b></h4>
 			<p>Mulan Technology Pte Ltd is a Singapore-based company that fully owns Shanghai Yamo Food Co., Ltd., a leading manufacturer of seaweed snacks. Using first-harvest laver from Jiangsu’s coastal waters, we produce layered seaweed crisps without oil, salt, or artificial additives, preserving the seaweed’s natural freshness. Through low-temperature roasting, we achieve a crispy texture, making our snacks a healthy choice for children, seniors, and health-conscious consumers.</p>
-			<p><a target="_blank" href="https://www.acesynergy.com.sg">www.acesynergy.com.sg</a></p>
 		</div>
 	</div>
 </div>

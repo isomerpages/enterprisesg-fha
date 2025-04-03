@@ -894,6 +894,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ninja%20Logistics/ninja_logistics_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ninja Logistics Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Last-mile logistics company backed by investors including GeoPost, Alibaba Group, and B Capital Group.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ninja-logistics">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/nuvojoy_logo.jpg">
 		</figure>
 	</div>
@@ -1011,6 +1032,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/sachi">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Smooder/smooder_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Smooder Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier smoothie machines and of 100% natural smoothies with no added sugar or preservatives.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/smooder">
 				<small>Visit their page</small>
 			</a>
 		</p>
