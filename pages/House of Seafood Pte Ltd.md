@@ -64,12 +64,11 @@ variant: markdown
 </h4> 
 <div class="flex-paragraph"> 
 <p style="padding: 10px; color: white;">
-<b>Sophia Ooi (Ms)
+<b>House of Seafood @ Punggol Settlement
 </b>
-<br> 
-<br>+65 9322 9899
+<br>+65 6466 9000 / +65 9686 9000
 <br>
-<a href="mailto:hr@houseofseafood.com.sg" style="color: white;">hr@houseofseafood.com.sg
+<a href="mailto:pg@houseofseafood.com.sg" style="color: white;">pg@houseofseafood.com.sg
 </a>
 </p> 
 </div> 
