@@ -10,11 +10,8 @@ variant: markdown
 			<img src="/images/Gold%20Kili/gold_kili_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Gold Kili Trading Enterprise (Singapore) Pte Ltd</b></h4>
-			<p>Gold Kili began in 1985 as a manufacturer and distributor for local coffee powder. With our years of coffee roasting experience, we are known for our range of Nanyang-style traditional coffee products that is roasted and in-house blended. In Singapore, we are proud to be the leading coffee powder supplier to most of the local F&amp;B coffeeshops, cafes and restaurants.</p>
-			<p>Through constant innovation, we have since grown over the years and is exporting to more than 30 countries worldwide including USA, Canada, Nigeria, Europe, Asia regions etc.</p>
-			<p>Apart from traditional instant coffees and teas, we have also developed a variety of instant beverages like ginger, chocolate, and lifestyle beverages such as Matcha and Ginger Lattes. To stay relevant with the rising demand for plant-based milk alternatives, Gold Kili have also developed a new series of Oat-based beverages under new brand "Oat-k". Besides, it have also combined the goodness from natural herbs and launched Ginger Turmeric drink known for maintaining body immunity.</p>
-			<p>We strongly believe in delivering products that is of high quality, functional, great-tasting and convenient. Just like our slogan, "Just Gold Kili &amp; Water", simply add water to our products for optimal experience!</p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Gold Kili Trading Enterprise (S) Pte Ltd</b></h4>
+			<p>Gold Kili Trading Enterprise (S) Pte Ltd is a Singapore-based company specializing in the manufacturing and distribution of instant beverages. Established in 1985, it offers a wide range of products including instant ginger drinks, coffee, and tea. Known for its quality and innovation, Gold Kili exports to over 30 countries globally, maintaining strong market presence in Asia, North America, and Europe. The company is Halal-certified and GMP-compliant.</p>
 			<p><a target="_blank" href="https://www.goldkili.com">www.goldkili.com</a></p>
 		</div>
 	</div>
@@ -28,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, BRC Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>EU, Netherland, Italy, Spain, UK , US, Canada, Philippine, Mongolia, China, Bangkok, Camobodia
+				<b>Certifications: </b>BRC, EU Certified, GMP, HACCP, HALAL, ISO 22000, IFS
+			</p>
+			<p>
+				<b>Export Markets: </b>USA, Canada, UK, Europe &amp; Asia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Importers
+				<b>Looking for: </b>Food Distributors, Importers
 			</p>
 		</div>
 	</div>
@@ -59,20 +59,38 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Gold%20Kili/gold_kili_product_01.png">
+			<img src="/images/Gold%20Kili/gold_kili_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Instant Ginger Drink</h6>
-			<p>Anti inflammatory affects and high boost immunity Ginger Drink.</p>
+			<h6 style="text-transform: uppercase; color: black;">Gold Kili Ginger Turmeric</h6>
+			<p>Gold Kili's Instant Ginger Turmeric Drink combines 10% natural turmeric and ginger extracts with cane sugar in easy sachets. Caffeine-free and free from artificial additives, it offers a mildly spicy-sweet taste and supports digestion, immunity, and overall wellness.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Gold%20Kili/gold_kili_product_02.png">
+			<img src="/images/Gold%20Kili/gold_kili_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Instant Ginger Turmeric Drink</h6>
-			<p>Caffeine free, hight boost immunity of Ginger Turmeric Drink.</p>
+			<h6 style="text-transform: uppercase; color: black;">Gold Kili Duo Brew Coffee</h6>
+			<p>Gold Kili's Duo Brew Coffee offers convenient coffee bags inspired by kopitiam culture, brewable hot or cold. Available in Signature (Arabica + Robusta), Colombia (100% Arabica), and Nanyang (dark roast). Enjoy café-style flexibility—black or with milk—anytime, anywhere.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Gold%20Kili/gold_kili_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Gold Kili Ginger Candy</h6>
+			<p>Gold Kili's Chewy Ginger Candy blends natural ginger with sugar in a soft, chewy bite. Available in Original, Mango, Orange, and Passion Fruit flavors, it offers a warming, spicy-sweet experience and may soothe digestion or a sore throat. Each piece is individually wrapped for convenience.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Gold%20Kili/gold_kili_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Gold Kili Ginger Drink with Passion Fruit</h6>
+			<p>Gold Kili's Duo Brew Coffee offers convenient coffee bags inspired by kopitiam culture, brewable hot or cold. Available in Signature (Arabica + Robusta), Colombia (100% Arabica), and Nanyang (dark roast). Enjoy café-style flexibility—black or with milk—anytime, anywhere.</p>
 		</div>
 	</div>
 </div>
