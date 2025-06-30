@@ -11,7 +11,10 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Leong Guan Food Manufacturer Pte Ltd</b></h4>
-			<p>LG Foods, a brand by Leong Guan Food Manufacturer, is Singapore's leading fresh noodle manufacturer, specializing in noodles and beancurd products. With a strong foundation in food science, the company has developed export-ready, long shelf-life fresh noodles and beancurd without preservatives. Their product range includes fresh Singaporean noodles, soy beancurd products, and international noodles like Japanese Ramen, Italian Pasta, and Hong Kong-style Wanton Mee. They have also introduced ready-to-eat microwavable meals and food kits for convenient home cooking.</p>
+			<p>LG Foods, a brand by Leong Guan Food Manufacturer, is Singapore's leading fresh noodle and beancurd producer.</p>
+			<p>Leveraging food science, it offers export-ready, preservative-free noodles and beancurd with long shelf life.</p>
+			<p>The range includes local and international noodles, soy products, and dietary-friendly options like high-fiber, low-GI, vegetarian, and gluten-free noodles.</p>
+			<p>Recent launches include ready-to-eat microwavable meals and convenient food kits for easy home cooking.</p>
 			<p><a target="_blank" href="https://www.lgfoods.co">www.lgfoods.co</a></p>
 		</div>
 	</div>
@@ -31,13 +34,13 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+				<b>Certifications: </b>Gluten Free, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, UK, Middle East, East Timor, China, Cambodia
+				<b>Export Markets: </b>Australia, UK, China, Dubai, East Timor, Hong Kong
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -46,8 +49,8 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Bella Chua</b>
-				<br>Export Sales<br>+65 8063 4099<br>
-				<a style="color: white;" href="mailto:export@leongguan.com">export@leongguan.com</a>
+				<br>International Sales<br>+65 8063 4099<br>
+				<a style="color: white;" href="mailto:eeearnc@leongguan.com">eeearnc@leongguan.com</a>
 			</p>
 		</div>
 	</div>
@@ -72,7 +75,25 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fresh Rice Noodles</h6>
-			<p>Delighting taste buds and discerning palates, our selection of rice noodles encompasses a variety of widths, each offering a silky smooth mouthfeel. These noodles cater to dietary preferences, being gluten-free and a delectable choice for both vegans and vegetarians. Dive into a realm of versatile and authentic flavors as our rice noodles seamlessly complement an array of dishes, notably Pad Thai and Pad See Ew.</p>
+			<p>Our rice noodles come in a variety of widths, offering a silky texture and authentic taste. Gluten-free and suitable for vegans and vegetarians, they’re perfect for dishes like Pad Thai and Pad See Ew. Enjoy versatility and tradition in every bite.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Beancurd Products</h6>
+			<p>Made with the finest non-GMO beans, with a distinct bean fragrance, our tofu is the perfect companion to your favourite vegan/vegetarian dishes. They are available in different levels of firmness to best suit your cooking style, including its signature Nigari tofu made from Japanese natural nigari.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Wholegrain Series</h6>
+			<p>As a healthier spin on the favourite Singaporean noodles, LG's fresh wholegrain noodle series leads the industry with 20% wholegrain content. The wholegrain noodles are authentically formulated, with suitable wholegrain alternatives that do not compromise in taste and texture.</p>
 		</div>
 	</div>
 </div>
