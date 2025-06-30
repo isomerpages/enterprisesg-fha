@@ -11,7 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Hock Seng Food Pte Ltd</b></h4>
-			<p>Hosen Group, affectionately known as Hock Seng Food, and established in the 1970s, has evolved into a leading Asian importer, exporter, and distributor of esteemed brands. Our diverse portfolio brands includes Hosen Select, Highway, Fortune, and Royal Select, each offering a unique range of packaged food products. However, our flagship Hosen Brand stands distinct, specializing exclusively in the import and distribution of premium fruits and vegetables. Our mission remains steadfast: to deliver the freshest agricultural produce, catering to the discerning tastes of our customers and upholding our commitment to quality and excellence.</p>
+			<p>HOSEN GROUP, headquartered in Singapore, strategically located, the company operates a factory and offices in Malaysia and has joint venture factories in Thailand and China. This setup enables HOSEN GROUP to leverage regional strengths and efficiently manage its extensive distribution network.</p>
+			<p>The company's distribution network spans across more than 52 countries, the main markets served by HOSEN GROUP include Asia, GCC, Africa, and Europe.</p>
 			<p><a target="_blank" href="https://www.hosengroup.com">www.hosengroup.com</a></p>
 		</div>
 	</div>
@@ -25,16 +26,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery, Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Seafood, Snacks and Confectionery, Others</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, HACCP Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>South East Asia, GCC &amp; Middle Eastern Countries, West &amp; East Africa
+				<b>Certifications: </b>FSSC 22000, GMP, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Asia, GCC, East Africa, Europe
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors, Wholesalers, Importers
 			</p>
 		</div>
 	</div>
@@ -43,8 +47,8 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Lloyd Sim</b>
-				<br>Senior Export Manager<br>+65 6595 9222<br>
-				<a style="color: white;" href="mailto:bizopp@hosengroup.com">bizopp@hosengroup.com</a>
+				<br>Senior Export Manager<br>+65 9386 4882<br>
+				<a style="color: white;" href="mailto:lloyd.sim@hosengroup.com">lloyd.sim@hosengroup.com</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +63,8 @@ variant: markdown
 			<img src="/images/Hock%20Seng/hock_seng_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Hosen Canned Food</h6>
-			<p>Hosen Brand stands distinct, specializing exclusively in the import and distribution of premium fruits and vegetables. Our mission remains steadfast: to deliver the freshest agricultural produce, catering to the discerning tastes of our customers and upholding our commitment to quality and excellence.</p>
+			<h6 style="text-transform: uppercase; color: black;">Hosen Fruits &amp; Vegetables</h6>
+			<p>HOSEN, the leading brand of quality canned food, offers freshly picked and packed fruits &amp; vegetables, with ensured wholesome goodness of products.  From salad, appetiser, to cocktail drinks &amp; desserts, Hosen adds some zest &amp; versatility to the cuisines of consumers worldwide.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +72,26 @@ variant: markdown
 			<img src="/images/Hock%20Seng/hock_seng_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Living Forest Breakfast Food</h6>
-			<p>Build on the core principle of Eating Clean, Living Forest Champions the consumption of whole, minimally processed foods that are as close to their natural state as possible.  As a clean food brand, we offer more ways to enjoy better-tasting products as part of fuelling your healthier lifestyle. We focus on nautral ingredients while limiting added sugars and unhealthy fats.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fortune Premium Seafood</h6>
+			<p>From Abalone to pacific clams, FORTUNE brings you premium seafood products for every occasion. Be it a family celebration or gathering of friends, we have a range of exotic products to cater to that joyous feast.  Fortune products have become synonymous with freshness, quality and great taste.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Hock%20Seng/hock_seng_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Sincero Darkthins Chocolate</h6>
+			<p>SINCERO Dark Thins are a distinctive line of premium dark chocolates, offering a perfect balance of sweet and savory, combined with an irresistible crunch. Carefully handcrafted with functional ingredients, they cater to health-conscious consumers who do not want to compromise on taste.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Hock%20Seng/hock_seng_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Sincero Dark Chocolate With Berries</h6>
+			<p>SINCERO Dark Chocolate with Berries range is a celebration of authenticity, taste, and quality. Offers a surprising goodness in every bite – ideal for health-conscious indulgence and consumers seeking a more natural and satisfying chocolate experience.</p>
 		</div>
 	</div>
 </div>
