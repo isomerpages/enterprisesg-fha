@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Sin Mui Heng Food Industries Pte Ltd</b></h4>
-			<p>Rich in heritage, SMH started in 1961 as a humble family-run business and has since grown to become Singapore's leading producer of quality dim sum. SMH is the frontrunner in providing gourmet dim sum to the most exclusive supermarkets, hotels, restaurants and caterers, in Singapore and across the world. When you take a bite out of an SMH dim sum, you can rest assured that it is more than just good ingredients that went into making it. Each bite contains years of experience, dedication and tradition.</p>
-			<p>SMH: Touching Your Heart, Wherever You Are</p>
+			<p>For more than 60 years, SMH has been serving Singapore and the world with tradition, heritage, comfort and happiness. Our whole heart goes into preparing our dim sums. When you take a bite of our dim sum, you can be assured it is more than just good ingredients that went into making it. Every delectable piece of dim sum contains years of experience and dedication; each bite is a taste of heritage and passion.</p>
 			<p><a target="_blank" href="https://www.smhfood.com">www.smhfood.com</a></p>
 		</div>
 	</div>
@@ -29,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, FSSC 22000 Certified, ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, UAE, Mauritius, Maldives, Netherlands, UK, Philippines, Indonesia, Japan, Qatar, India, Brunei, Barbados, Reunion Island
+				<b>Certifications: </b>FSSC 22000, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Netherlands, Combodia, Indonesia, Australia, Korea, Japan
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Importers, Food Service Suppliers / Players, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -43,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Auguste Hoe</b>
-				<br>International Sales Manager<br>+65 8781 6465<br>
-				<a style="color: white;" href="mailto:auguste@smhfood.com">auguste@smhfood.com</a>
+				<b>Lin Junda</b>
+				<br>Senior Manager, Export<br>+65 9847 7212<br>
+				<a style="color: white;" href="mailto:junda@smhfood.com">junda@smhfood.com</a>
 			</p>
 		</div>
 	</div>
@@ -61,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chilli Crab Pau</h6>
-			<p>A modern interpretation of Singapore's national dish - the Singapore Chilli Crab. Best served fried, the pau combines the crispness of fried mantou and tanginess of chilli crab. You can also opt to steam the pau. Savour heavenly chilli crab within a bite, without battling with tough shells and pincers.</p>
+			<p>A modern interpretation of Singapore's national dish - the Chilli Crab. Best served fried, the pau combines the crispness of fried mantou and tanginess of chilli crab. You can also opt to steam the pau. Savour heavenly chilli crab within a bite, without battling with tough shells and pincers.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
