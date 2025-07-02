@@ -11,7 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>OTG Enterprise Pte Ltd</b></h4>
-			<p>Tong Garden, a trailblazing brand in Asia known for wholesome snacking, is renowned for its delectable and health-conscious assortment of nuts, seeds, and snacks. With a legacy dating back several decades, Tong Garden has steadfastly upheld its commitment to providing consumers with premium quality and innovative flavors. Tong Garden products encompass a diverse range, spanning from classic roasted nuts to inventive fusion blends, catering to various palates and dietary preferences.</p>
+			<p>Tong Garden has been producing and distributing quality nuts and snacks since 1963. With a wide variety products that cater to every budget and taste.</p>
+			<p>Tong Garden's best-selling nuts have found their way into the homes and hearts of many families and across multiple generations.</p>
 			<p><a target="_blank" href="https://www.tonggarden.com">www.tonggarden.com</a></p>
 		</div>
 	</div>
@@ -28,13 +29,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Thailand, Malaysia, Indonesia, Vietnam, Philippines, India, China, Korea,UAE, Canada, Myanmar, Cambodia
+				<b>Certifications: </b>FSSC 22000, GMP, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Thailand, Malaysia, Indonesia, Vietnam, Philippines, India, China, Korea, UAE, Canada, Myanmar, Cambodia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors
 			</p>
 		</div>
 	</div>
@@ -42,9 +46,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Ong Hui Qi</b>
-				<br>Business Development Manager<br>+65 8721 8826<br>
-				<a style="color: white;" href="mailto:onghuiqi@tonggarden.com">onghuiqi@tonggarden.com</a>
+				<b>Tararat Thongkum</b>
+				<br>Export Manager<br>+66 81 921 2244<br>
+				<a style="color: white;" href="mailto:tararat@tonggarden.com">tararat@tonggarden.com</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +63,8 @@ variant: markdown
 			<img src="/images/OTG%20Enterprise/otg_enterprise_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sungift Chilli Mango</h6>
-			<p>Sungift Chilli Mango from Thailand is more than just a snack – it's a culinary journey that embodies the essence of a tropical paradise. The infusion of zesty lime adds a refreshing and citrusy twist, perfectly complementing the mango's natural sweetness. To elevate the experience, a subtle hint of chili provides a tantalizing kick that gradually builds, enhancing the overall flavor profile. The chili's gentle heat entwines with the other elements, enhancing the mango and lime with a touch of complexity and a dash of excitement.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tropical snack - Oven roasted macadamias &amp; cashewnuts with sesame &amp; coconut</h6>
+			<p>Rich aromatic coconut flakes coat these high-quality baked macadamias. Each one bursts with tropical nutty flavors.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +72,18 @@ variant: markdown
 			<img src="/images/OTG%20Enterprise/otg_enterprise_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tong Garden Wasabi Green Peas</h6>
-			<p>Wasabi Green Peas, a tantalizing creation in the realm of savory snacks, combine the wholesome goodness of green peas with the bold kick of wasabi seasoning. The fiery essence of wasabi and the wholesome allure of green peas unite to create a snack that is both audacious and satisfying.</p>
+			<h6 style="text-transform: uppercase; color: black;">Seaweed Rice Crispy (Salted Egg Yolk Flavour)</h6>
+			<p>Tasty snacks for those who love their health. Crispy seaweed with salted egg flavour, with the aroma and richness of salted eggs, perfectly contrasting with the spices and combined with the Crispy seaweed.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/OTG%20Enterprise/otg_enterprise_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Funstix</h6>
+			<p>TFunStix- Our signature combination pack features sticks in four distinct and dynamic tastes. Sweet potato, Taro  purple potato and original salted potato stick. All made from real ingredients.</p>
+			<p>A flavourful explosion of Crunchable Fun.</p>
 		</div>
 	</div>
 </div>
