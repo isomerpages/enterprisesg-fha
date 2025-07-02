@@ -11,10 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Leong Guan Food Manufacturer Pte Ltd</b></h4>
-			<p>LG Foods, a brand by Leong Guan Food Manufacturer, is Singapore's leading fresh noodle and beancurd producer.</p>
-			<p>Leveraging food science, it offers export-ready, preservative-free noodles and beancurd with long shelf life.</p>
-			<p>The range includes local and international noodles, soy products, and dietary-friendly options like high-fiber, low-GI, vegetarian, and gluten-free noodles.</p>
-			<p>Recent launches include ready-to-eat microwavable meals and convenient food kits for easy home cooking.</p>
+			<p>Leong Guan is Singapore's leading fresh noodle and beancurd producer, known for preservative-free, long shelf-life products. Its range spans local noodles, international styles, and specialty options like low-GI and gluten-free. Now offering ready-to-eat meals, LG Foods serves retail, foodservice, and export markets.</p>
 			<p><a target="_blank" href="https://www.lgfoods.co">www.lgfoods.co</a></p>
 		</div>
 	</div>
@@ -34,13 +31,13 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>Gluten Free, HACCP, HALAL, ISO 22000
+				<b>Certifications: </b>Gluten Free, GMP, HACCP, HALAL, ISO 22000, Kosher
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, UK, China, Dubai, East Timor, Hong Kong
+				<b>Export Markets: </b>Middle East, Europe, Oceania, Asia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -48,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Bella Chua</b>
-				<br>International Sales<br>+65 8063 4099<br>
-				<a style="color: white;" href="mailto:eeearnc@leongguan.com">eeearnc@leongguan.com</a>
+				<b>Felicia Chew</b>
+				<br>Export Sales<br>+65 9114 8805<br>
+				<a style="color: white;" href="mailto:chaihongc@leongguan.com">chaihongc@leongguan.com</a>
 			</p>
 		</div>
 	</div>
@@ -65,8 +62,8 @@ variant: markdown
 			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ready Meal Series</h6>
-			<p>Discover the essence of Asia in just minutes! LG Foods now crafts beloved classics using only the freshest ingredients. Each meal brings you the authentic Asian flavours, without compromising taste, perfect for those looking for a quick satisfying dining option without sacrificing quality.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready to Eat Meals</h6>
+			<p>Halal-certified, freshly prepared from scratch in small batches for premium quality—not from paste. Ready-to-eat and full of authentic flavour, with a shelf life of 1 year frozen or 21 days chilled. Available in 4 delicious modern Asian flavours for quick, satisfying meals.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -74,8 +71,8 @@ variant: markdown
 			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fresh Rice Noodles</h6>
-			<p>Our rice noodles come in a variety of widths, offering a silky texture and authentic taste. Gluten-free and suitable for vegans and vegetarians, they’re perfect for dishes like Pad Thai and Pad See Ew. Enjoy versatility and tradition in every bite.</p>
+			<h6 style="text-transform: uppercase; color: black;">Wonton Crisps</h6>
+			<p>Halal-certified Wanton Crisps in Smoked Wood and Seaweed flavours, made from upcycled wonton trimmings to reduce waste. These ready-to-eat snacks offer a rich, smoky taste and crispy texture—perfect for on-the-go snacking or as a flavourful side dish.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -83,8 +80,8 @@ variant: markdown
 			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Beancurd Products</h6>
-			<p>Made with the finest non-GMO beans, with a distinct bean fragrance, our tofu is the perfect companion to your favourite vegan/vegetarian dishes. They are available in different levels of firmness to best suit your cooking style, including its signature Nigari tofu made from Japanese natural nigari.</p>
+			<h6 style="text-transform: uppercase; color: black;">LG Kway Teow</h6>
+			<p>Vegan, gluten-free, and halal-certified rice noodles with a silky texture and fragrant aroma. Pasteurised for safety and freshness without preservatives. Shelf life: 1 month ambient, 3 months chilled. Available in 420g and 1kg. Great for Char Kway Teow, Fishball Kway Teow &amp; more.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -92,8 +89,8 @@ variant: markdown
 			<img src="/images/Leong%20Guan%20Food/leong_guan_food_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Wholegrain Series</h6>
-			<p>As a healthier spin on the favourite Singaporean noodles, LG's fresh wholegrain noodle series leads the industry with 20% wholegrain content. The wholegrain noodles are authentically formulated, with suitable wholegrain alternatives that do not compromise in taste and texture.</p>
+			<h6 style="text-transform: uppercase; color: black;">LG Fresh Taukwa</h6>
+			<p>Vegan and halal-certified fresh taukwa made with natural, preservative-free ingredients. Must be kept chilled with a 60-day shelf life. Ideal for braising, stir-frying, or deep-frying—perfect for adding rich texture and protein to a variety of dishes.</p>
 		</div>
 	</div>
 </div>
