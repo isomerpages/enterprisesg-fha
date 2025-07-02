@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Growers Agri Pte Ltd</b></h4>
-			<p>Growers Agri Pte Ltd is a Singapore-based agrifood company specializing in contract farming and processing of premium quality rice in Vietnam, Thailand, and India. With a commitment to providing the finest quality rice, we have established ourselves as a trusted supplier in the industry.</p>
+			<p>Growers Agri, based in Singapore with operations in Vietnam, specialises in premium rice and diverse consumer food products. Distributed locally and globally—including markets like North America, Europe, and the Middle East—our products are featured in major chains such as Walmart. Committed to sustainability, they ensure high standards with MRL-free offerings that promote healthier lifestyles and deliver added value to customers.</p>
 			<p><a target="_blank" href="https://www.growersagri.com">www.growersagri.com</a></p>
 		</div>
 	</div>
@@ -34,7 +34,7 @@ variant: markdown
 				<b>Certifications: </b>BRC, EU Certified, FSSC 22000, Gluten Free, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Asia, Australia, EU, US, Canada, Middle East
+				<b>Export Markets: </b>North America, Europe, the Middle East, Australia, and select parts of Asia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
@@ -62,7 +62,7 @@ variant: markdown
 			<img src="/images/Growers%20Agri/growers_agri_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">RAKKI Premium Japonica Sushi Rice</h6>
+			<h6 style="text-transform: uppercase; color: black;">RAKKI® Premium Sushi Rice (Koshihikari Short Grain Japonica Rice)</h6>
 			<p>RAKKI® Premium Sushi Rice (Koshihikari Short Grain Japonica) is a top-quality, non-GMO rice known for its natural sweetness and soft, silky texture. Introduced by Japan to the Mekong Delta in the 1990s, it's ideal for authentic sushi.</p>
 		</div>
 	</div>
@@ -71,7 +71,7 @@ variant: markdown
 			<img src="/images/Growers%20Agri/growers_agri_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">RAKKI Japonica Sweet Rice (Glutinous Rice)</h6>
+			<h6 style="text-transform: uppercase; color: black;">RAKKI® Premium Japonica Sweet Rice (Glutinous Rice)</h6>
 			<p>Rakki® Premium Japonica Sweet Rice (glutinous rice), also known as Mochi Rice, features short, round, opaque grains. Its low amylose content makes it sticky and soft, perfect for desserts, mochi, and Osenbei rice crackers.</p>
 		</div>
 	</div>
@@ -80,8 +80,8 @@ variant: markdown
 			<img src="/images/Growers%20Agri/growers_agri_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Highland Premium Jasmine Rice</h6>
-			<p>Highland Premium Long Grain Jasmine Rice is aromatic, fluffy, and non-sticky. Its soft texture and floral aroma enhance dishes, making it ideal for Southeast Asian cuisines like Thai and Vietnamese. Perfect for stir-fries, curries, pilafs, or as a side.</p>
+			<h6 style="text-transform: uppercase; color: black;">Highland® Premium Jasmine Long Grain Rice</h6>
+			<p>Highland® Premium Long Grain Jasmine Rice is aromatic, fluffy, and non-sticky. Its soft texture and floral aroma enhance dishes, making it ideal for Southeast Asian cuisines like Thai and Vietnamese. Perfect for stir-fries, curries, pilafs, or as a side.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,7 +89,7 @@ variant: markdown
 			<img src="/images/Growers%20Agri/growers_agri_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Gora Gora Mie Goreng Instant Noodles</h6>
+			<h6 style="text-transform: uppercase; color: black;">Gora Gora® Mie Goreng Instant Noodles</h6>
 			<p>Gora Gora® Mie Goreng is a delicious Indonesian-style instant fried noodle, loved across Southeast Asia. With a sweet-savory balance, it's easy to prepare and perfect with chicken, prawns, veggies, or egg. Enjoy a rich, flavorful street food experience at home.</p>
 		</div>
 	</div>
