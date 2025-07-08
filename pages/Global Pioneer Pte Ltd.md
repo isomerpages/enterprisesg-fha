@@ -11,8 +11,8 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Global Pioneer Pte Ltd</b></h4>
-			<p>Global Pioneer Pte Ltd, we specialize in bringing quality and trusted products to our customers, with a primary focus on the renowned PRAN brand. Operating from Singapore, we are dedicated to offering a diverse range of PRAN products that cater to the needs of individuals, families, and businesses.</p>
-			<p><a target="_blank" href="https://www.pranfoods.net">www.pranfoods.net</a></p>
+			<p>Global Pioneer Pte Ltd is a leading FMCG distributor based in Singapore that specializes in PRAN products. Our dedication to quality and reliability has earned us the trust of prominent business partners.</p>
+			<p><a target="_blank" href="https://www.globalpioneer.sg">www.globalpioneer.sg</a></p>
 		</div>
 	</div>
 </div>
@@ -25,13 +25,19 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Rice and Noodles, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>Over 145 countries worldwide, including USA, Canada, Australia, New Zealand, UK, Netherlands, Germany, France, India, Malaysias, Singapore, Saudi Arabia, UAE, Oman, Qatar, Kuwait, Philippines, Vietnam, Laos, Cambodia, Somalia, Somaliland, Ghana, Kenya, Sierra Leone, Mali
+				<b>Product Storage Requirements: </b>Ambient, Frozen
+			</p>	
+			<p>
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Dubai, Malaysia, Ghana, Saudi Arabia, Africa, Australia, USA, Nepal, France, EU
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -56,9 +62,8 @@ description: ""
 			<img src="/images/Global%20Pioneer/global_pioneer_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PRAN Frooto Mango Juice</h6>
-			<p>PRAN Frooto Mango Juice is one of the most beloved and trusted healthy beverages among Bangladeshi consumers. Renowned for its rich mango flavor, Frooto is made from garden-picked ripe mangoes and high-quality ingredients to ensure maximum freshness and taste in every sip. It is packed with essential nutrients like Vitamin A and Vitamin C, which play a vital role in boosting immunity, enhancing vision, and maintaining healthy skin. Additionally, Frooto is enriched with minerals that help replenish energy and keep the body active and hydrated throughout the day.</p>
-			<p>Frooto is available in convenient serving SKUs of 250 ml, 330 ml, 500 ml, and 1000 ml, making it suitable for both individual consumption and sharing with family and friends.</p>
+			<h6 style="text-transform: uppercase; color: black;">Pran Noodles</h6>
+			<p>PRAN noodles caters to the diverse taste of our global consumers instantly which are properly packaged to ensure its quality and goodness providing different flavor for different taste buds.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -66,8 +71,26 @@ description: ""
 			<img src="/images/Global%20Pioneer/global_pioneer_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PRAN Dry Cake</h6>
-			<p>PRAN Dry Cake is a delicious and wholesome snack, perfect for any time of the day. Made with high-quality ingredients, it offers a soft, rich texture and delightful taste that pairs wonderfully with tea or coffee. Loved by consumers of all ages, PRAN Dry Cake is ideal for family gatherings, tea breaks, or quick hunger pangs. It is available in convenient pack sizes of 40 gm, 250 gm, and 500 gm, making it suitable for both individual indulgence and sharing with loved ones. Its premium quality and irresistible flavor make it a must-have snack for every occasion.</p>
+			<h6 style="text-transform: uppercase; color: black;">Pran Potata Spicy Biscuit</h6>
+			<p>An exceptional biscuit with the sway of potato and heavy punch of herbs, which tastes like chips and biscuit both. It can be enjoyed as an afternoon snack and also during leisure times. A complete value for money product for the people who love to try something different.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Global%20Pioneer/global_pioneer_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Drinko Float</h6>
+			<p>Drinko Float is a unique drink that consists of nata jelly and flavored drinks awesome mix for youngsters who can bite during consumption. At present, 4 flavors are available in the market- Litchi, Pineapple, Mango, and Strawberry.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Global%20Pioneer/global_pioneer_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Bisk Club Shero Cream Biscuit</h6>
+			<p>Experience heavenly delight with Bisk Club Shero Cream Biscuit. Each biscuit is made with a perfectly balanced creamy fillings. Enriched in milk and cocoa, it is a perfect snack that children and adults can enjoy by dunking it in the milk as breakfast.</p>
 		</div>
 	</div>
 </div>

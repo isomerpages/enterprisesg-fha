@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tai Hua Food Industries Pte Ltd</b></h4>
-			<p>Founded in 1947, Tai Hua Food Industries Pte Ltd is one of the leading manufacturer of soy sauce in Singapore, Tai Hua soy sauce is a traditional Chinese flavoured soy sauce, naturally brewed from selected premium ingredients.</p>
+			<p>Founded in 1947, Tai Hua Food Industries is one of the leading manufacturers of soy sauce in Singapore. Tai Hua soy sauce is a traditional Chinese-flavored soy sauce, naturally brewed from selected premium ingredients. The company also manufactures a wide range of braising sauces, Ready-to-cook sauces, oyster sauces and condiments etc. It is HACCP, ISO22000 and FSSC22000 certified.</p>
 			<p><a target="_blank" href="https://www.taihua.biz">www.taihua.biz</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Bahrain, Brunei, China, Cambodia, Egypt, France, Hong Kong, India, Indonesia, Kuwait, Kingdom of Saudi arabia, Lebanon, Mexico, Myanmar, Netherlands, New Zealand, Philippines, Russia, Spain, Taiwan, Tahiti, UAE, USA
+				<b>Certifications: </b>FSSC 22000, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, Brunei, Bahrain, China, Egypt, Hong Kong, India, Indonesia, Lebanon, Kuwait, Myanmar, New Zealand, Philippines, Russia, Spain, Mexico, Saudi Arabia, Taiwan,  Tahiti, The Netherlands, UK, UAE, USA
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers
 			</p>
 		</div>
 	</div>
@@ -59,8 +62,8 @@ variant: markdown
 			<img src="/images/Tai%20Hua%20Food/tai_hua_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tai Hua Braising &amp; Japanese Sauces</h6>
-			<p>It is a collection of easy to use Chinese &amp; Japanese cooking sauces prepared from premium soy sauce and other natural ingredients.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tai Hua Light Soy Sauce</h6>
+			<p>Tai Hua light soy sauce is naturally brewed from the traditional recipe, with no artificial flavoring or colorings, beautiful color, rich and subtle aroma.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,8 @@ variant: markdown
 			<img src="/images/Tai%20Hua%20Food/tai_hua_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tai Hua Light Soy Sauce</h6>
-			<p>Tai Hua soy sauce is a traditional chinese flavoured soy sauce, naturally brewed from selected premium Non-GMO soy beans, and other natural ingredients.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tai Hua Dark Soy Sauce</h6>
+			<p>Tai Hua dark soy sauce is naturally brewed from the traditional recipe, with no artificial flavoring or colorings, beautiful color, rich and subtle aroma.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -77,8 +80,8 @@ variant: markdown
 			<img src="/images/Tai%20Hua%20Food/tai_hua_food_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tai Hua Dark Soy Sauce</h6>
-			<p>100% naturally brewed, NON-GMO soy beans, high protein, 3-MCPD not detected.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tai Hua Light Soy Sauce, Reduced Salt</h6>
+			<p>Tai Hua reduced salt light soy sauce contains 35% lower sodium than regular light soy sauce.  It is a traditional Chinese-flavored soy sauce, naturally brewed from selected premium ingredients.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -86,8 +89,8 @@ variant: markdown
 			<img src="/images/Tai%20Hua%20Food/tai_hua_food_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tai Hua light soy sauce, reduced salt</h6>
-			<p>100% naturally brewed, NON-GMO soy beans, 35% less sodium than standard soy sauce, 3-MCPD not detected.</p>
+			<h6 style="text-transform: uppercase; color: black;">Tai Hua Seafood Soy Sauce</h6>
+			<p>Tai Hua seafood soy sauce is an ideal soy sauce for steamed seafood such as fish, crab, cuttlefish, and prawns.  It is 25% lower in sodium as compared to regular light soy sauce.</p>
 		</div>
 	</div>
 </div>

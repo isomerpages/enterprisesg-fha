@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ha Li Fa Pte Ltd</b></h4>
-			<p>Ha Li Fa exports its products to 20 countries. The company has a daily production capacity of more than 500,000 fish balls, achieved through its investment in automation and technology. Ha Li Fa has also digitalised its customer orders and inventory system by implementing an electronic ordering system, improving efficiency and reducing waste. The company integrated its production, inventory, and sales system to enhance operational efficiency, making it more responsive to customer needs. Ha Li Fa remains committed to innovation and excellence in the seafood industry, addressing global food supply chain challenges, and contributing to food security challenges.</p>
-			<p>Ha Li Fa has received ISO 22000 and HACCP certifications, demonstrating its commitment to food safety and quality. It has formed a HACCP team to monitor critical process points and ensure consistency in product quality. Additionally, the company has obtained Singapore Halal Certification, expanding its customer base to the Muslim community.</p>
+			<p>Ha Li Fa Pte Ltd, founded in 1987, embodies Mrs. Ang's vision of family prosperity through happiness. Under BoBo, it grew into a trusted snack brand with in-house manufacturing and strict quality control. From daily meals to festive gatherings like CNY, BoBo creates joyful #BoBoMoments with delicious, evolving flavors.</p>
 			<p><a target="_blank" href="https://www.halifa-bobo.com">www.halifa-bobo.com</a></p>
 		</div>
 	</div>
@@ -26,13 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Seafood</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Cooked Food, Plant-Based / Alternative Proteins, Seafood</span>
 			</p>
 			<p>
-				<b>Certifications: </b>FSSC 22000 Certified, Halal Certified, bizSAFE Level 3 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE,Qatar, Saudi, Europe, USA, China, Philipines, Myanmar, Cambodia, Hongkong, Indonesia, Mauritius, Australia, Malaysia，Panama,Canada, UK, Thailand, Nigeria
+				<b>Certifications: </b>EU Certified, FSSC 22000, GMP, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>USA, Canada, Panama, Nigeria, UK, Austria, China, Vietnam, Thailand, Philippine, Indonesia, Australia, Dubai, Saudi Arabia, Qatar, Myanmar, Laos, Cambodia, HongKong, Brunei, Mauritius
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -61,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Premium White Fish Ball</h6>
-			<p>Our Premium White Fish Ball, crafted from the finest threadfin bream surimi. Savor the exceptional texture and taste that only the highest grade surimi can deliver. These fish balls boast a delightful bounciness and an exquisite, pure whiteness that sets them apart. It's no wonder that our Premium White Fish Balls are considered our best export product. Elevate your dining experience with the pinnacle of seafood perfection.</p>
+			<p>Experience the finest quality with our Premium White Fish Ball, crafted for superior texture and authentic taste. Made from 100% fresh, high-grade fish meat, each bite delivers a springy, smooth consistency that's unmatched.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -69,10 +71,8 @@ variant: markdown
 			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Plant Based Vegetable Roll</h6>
-			<p>Our newly launched Plant-Based Vegetable Roll, a true culinary breakthrough that stands as the crown jewel of our product range.</p>
-			<p>Our commitment to innovation shines through in every bite of this remarkable roll, which boasts an exceptional texture and taste that's simply unparalleled. What sets it apart is its ability to capture the authentic taste of traditional fish rolls while incorporating a delightful blend of fresh vegetables. It's the perfect harmony of flavors and textures.</p>
-			<p>This isn't just another plant-based option; it's a delicious innovation that sets a new standard in the market. Embrace the extraordinary and elevate your plant-based dining experience with our Plant-Based Vegetable Roll. It's a taste sensation you won't find anywhere else.</p>
+			<h6 style="text-transform: uppercase; color: black;">Plant Based Mushroom Ball</h6>
+			<p>Savor the delicious, sustainable alternative with our Plant-Based Mushroom Ball—crafted for a seafood-like texture and rich, umami taste. Made from premium mushrooms and natural plant proteins, it’s a guilt-free delight that's both nutritious and eco-friendly.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,10 +80,18 @@ variant: markdown
 			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Small Fish Roll Kikiam</h6>
-			<p>Discover the irresistible taste of Small Fish Roll Kikiam, one of our finest fish-based products! Wrapped in golden fried beancurd and filled with a delightful mixture of fish and vegetables, this dish offers a perfect balance of flavors and textures.</p>
-			<p>As one of our best-selling items, Kikiam is not just a crowd favorite but also a must-try dish beloved across Southeast Asia. It holds a special place in Filipino cuisine, often considered a national food that embodies the region's rich culinary heritage.</p>
-			<p>Whether served as a snack, side dish, or part of a hearty meal, Small Fish Roll Kikiam is guaranteed to elevate your dining experience. Try it today and savor the authentic flavors of Southeast Asia!</p>
+			<h6 style="text-transform: uppercase; color: black;">Laksa Soup Paste</h6>
+			<p>Singapore Laksa Soup Paste – OEM Soup and Sauce</p>
+			<p>Experience authentic Singapore Laksa flavor with our premium soup paste, crafted from traditional spices, coconut milk, and aromatic herbs. Perfect for restaurants, food brands, and retailers, our paste delivers rich, balanced flavors instantly.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Ha%20Li%20Fa/ha_li_fa_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">RTE Meal</h6>
+			<p>Savor authentic Singaporean flavors instantly with BoBo's premium RTE noodles — just add water! Choose creamy Laksa or savory dry noodles. Perfect for busy lives, retail &amp; foodservice. OEM options available.</p>
 		</div>
 	</div>
 </div>
