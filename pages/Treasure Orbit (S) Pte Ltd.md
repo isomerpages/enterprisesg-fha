@@ -61,8 +61,24 @@ variant: markdown
 			<img src="/images/Treasure%20Orbit/treasure_orbit_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chocolates</h6>
-			<p>Milka brand Chocolates from Mondelez-Egypt.</p>
+			<h6 style="text-transform: uppercase; color: black;">Milka Chocolates</h6>
+			<p>Leading authorized distributor, supplier, and exporter of Milka chocolates worldwide. Sourced directly from Mondelez, we offer genuine Swiss-quality Milka products in full-load containers. Experience rich, creamy flavor with exceptional service and reliable global delivery.</p>
+		</div>
+	</div><div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Treasure%20Orbit/treasure_orbit_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Masterfood Chocolates (Twix, Bounty, Snickers and Mars)</h6>
+			<p>Worldwide exporter of Masterfood Chocolates from the Netherlands and Russia. English and Arabic text available. Twix features a crunchy biscuit, caramel, and chocolate—plus other Mars products like Snickers and Bounty.</p>
+		</div>
+	</div><div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Treasure%20Orbit/treasure_orbit_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Nescafe</h6>
+			<p>Global distributor and supplier of Nescafe. We deal with full container load quantities of Nescafe varieties with reliable delivery, competitive pricing, and exceptional service for wholesale buyers.</p>
 		</div>
 	</div>
 </div>
