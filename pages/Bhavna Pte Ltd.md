@@ -29,6 +29,9 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
+				<b>Product Storage Requirements: </b>Ambient
+			</p><p>
+			</p><p>
 				<b>Export Markets: </b>Philippines, Hong Kong, India, Bangladesh, Australia, New Zealand, Maldives, LATAM, Iraq, Libya, GCC, Africa
 			</p>
 			<p style="margin-bottom: 10px;">
