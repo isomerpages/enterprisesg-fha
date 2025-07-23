@@ -26,12 +26,12 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 9001:2015, ISO 14001:2015, ISO 45001:2018, BizSafe Level 3, SS 620 2016 (GDP MDS)
-			</p>
-			<p>
+				<b>Product Storage Requirements: </b>Ambient
+			</p><p>
+			</p><p>
 				<b>Export Markets: </b>Philippines, Hong Kong, India, Bangladesh, Australia, New Zealand, Maldives, LATAM, Iraq, Libya, GCC, Africa
 			</p>
 			<p style="margin-bottom: 10px;">
