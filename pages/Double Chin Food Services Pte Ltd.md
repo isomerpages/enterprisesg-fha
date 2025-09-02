@@ -40,9 +40,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Vaelene Wong</b>
-				<br>+65 9819 0954<br>
-				<a style="color: white;" href="mailto:vaelene.wong@doublechinfs.com">vaelene.wong@doublechinfs.com</a>
+				<b>Abbel Yeo</b>
+				<br>+65 9273 1444<br>
+				<a style="color: white;" href="mailto:abbel.yeo@doublechinfs.com">abbel.yeo@doublechinfs.com</a>
 			</p>
 		</div>
 	</div>

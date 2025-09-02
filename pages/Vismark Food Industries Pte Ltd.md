@@ -56,12 +56,12 @@ variant: markdown
 </h4> 
 <div class="flex-paragraph"> 
 <p style="padding: 10px; color: white;">
-<b>Steve Tan
+<b>Mark Tan
 </b>
-<br>Director
+<br>Director of Sales &amp; Marketing
 <br>+65 6552 2161
 <br>
-<a href="mailto:steve.tan@vismark.com.sg" style="color: white;">steve.tan@vismark.com.sg
+<a href="mailto:mark.tan@vismark.com.sg" style="color: white;">mark.tan@vismark.com.sg
 </a>
 </p> 
 </div> 
