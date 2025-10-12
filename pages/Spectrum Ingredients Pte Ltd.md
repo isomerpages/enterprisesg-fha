@@ -43,7 +43,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Devi Nanda</b>
-				<br>HR/Operations Manager<br>+65 6474 6491 / +65 9155 7591<br>
+				<br>HR/Operations Manager<br>+65 6474 6491<br>
 				<a style="color: white;" href="mailto:devi@spectrum-ingredients.com.sg">devi@spectrum-ingredients.com.sg</a>
 			</p>
 		</div>
