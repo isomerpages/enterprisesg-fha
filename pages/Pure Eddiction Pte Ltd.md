@@ -65,7 +65,7 @@ variant: markdown
 <b>Jen
 </b>
 <br>Manager
-<br>+65 98750411
+<br>+65 6746 2747
 <br>
 <a href="mailto:admin@pure-eddiction.com" style="color: white;">admin@pure-eddiction.com
 </a>
