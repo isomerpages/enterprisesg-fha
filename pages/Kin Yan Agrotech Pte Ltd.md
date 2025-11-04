@@ -7,12 +7,11 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/kin_yan_agrotech_logo.png">
+			<img src="/images/Kin%20Yan%20Agrotech/kin_yan_agrotech_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kin Yan Agrotech Pte Ltd</b></h4>
-			<p>"Good Lady" specialises in powder-based wholegrain beverage products with international hygiene and safety standards since 1983. Starting from brown rice products and with constant innovation and improvement, "Good Lady" diversified to the current core product, 22 Complete Nutrimix.</p><p>
-			</p>22 Complete Nutrimix is produced in a fully automated large-scale factory with international certifications including GMP (Good Manufacturing Practice), ISO 9001 Quality Management, ISO 22000 Food Safety Management and HACCP Food Production Processing. The factory is also certified to produce halal food products. With such complete facilities and excellent technology, the factory produces over million canisters of various kinds of Complete Nutrimix for countries like Singapore, Malaysia, Vietnam, China and etc a year.<p></p>
+			<p>22 Complete Nutrimix is manufactured in a fully automated, large-scale facility that holds prestigious international certifications, including GMP, ISO 9001, ISO 22000, and HACCP for food production and processing. The factory is also certified to produce halal food products. Equipped with advanced technology and comprehensive facilities, the factory produces over a million canisters of various types of Complete Nutrimix annually for export to countries such as Malaysia, Vietnam and China.</p>
 			<p><a target="_blank" href="https://www.goodlady.com.sg">www.goodlady.com.sg</a></p>
 		</div>
 	</div>
@@ -29,10 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Vietnam, Malaysia
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>GMP, HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Vietnam, China, Hong Kong, Indonesia, Cambodia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Retailers, Wholesalers, Importers
+				<b>Looking for: </b>Wholesalers, Importers
 			</p>
 		</div>
 	</div>
@@ -40,7 +45,7 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Chan Shao Jie Ernest</b>
+				<b>Ernest Chan</b>
 				<br>Deputy General Manager<br>+65 9271 4556<br>
 				<a style="color: white;" href="mailto:ernest.chan@kinyan.sg">ernest.chan@kinyan.sg</a>
 			</p>
@@ -54,20 +59,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/kin_yan_agrotech_product_01.jpg">
+			<img src="/images/Kin%20Yan%20Agrotech/kin_yan_agrotech_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">22 Complete Nutrimix (Chia Seed)</h6>
-			<p>22 Complete Nutrimix (Chia Seed) is a multi-grain beverage which uses 22 kinds of grain ingredients. With modern technology production, every batch of 22 Complete Nutrimix tastes richer and finer as compared to other common multi-grain beverages! It is a better choice of healthier, delicious and nutritious multi-grain beverage that suits all ages!</p>
+			<p>Good Lady 22 Complete Nutrimix is a multi-grain beverage with 22 kinds of grain ingredients. With modern technology production, every batch of 22 Complete Nutrimix tastes richer and finer as compared to other common multi-grain beverages!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/kin_yan_agrotech_product_02.jpg">
+			<img src="/images/Kin%20Yan%20Agrotech/kin_yan_agrotech_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">22+ Complete Nutrimix (Organic Avocado)</h6>
-			<p>22+ Complete Nutrimix (Organic Avocado) is a multi-grain beverage which uses more than 22 kinds of organic premium grains, beans, oats and seeds. With modern technology production, every batch of 22 Complete Nutrimix tastes richer and finer as compared to other common multi-grain beverages! It is a better choice of healthier, delicious and nutritious multi-grain beverage that suits all ages!</p>
+			<p>22+ Complete Nutrimix (Organic Avocado) is a multi-grain beverage which uses more than 22 kinds of organic premium grains, beans, oats and seeds. With modern technology production, every batch of 22 Complete Nutrimix tastes richer and finer as compared to other common multi-grain beverages!</p>
 		</div>
 	</div>
 </div>
