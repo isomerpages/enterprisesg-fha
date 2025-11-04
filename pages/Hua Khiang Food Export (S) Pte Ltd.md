@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Hua Khiang Food Export (S) Pte Ltd</b></h4>
-			<p>Exporting of fresh chilled soy bean/protein products. Condolidator of gourmet sauces and condiments.</p>
+			<p>A wide range of high quality tofu products, such as extra smooth silken tofu to tau kwa (firm tofu), pressed tofu made from non-GMO soy beans manufactured under the strict FSSC22000 system and Halal certified.</p>
 			<p><a target="_blank" href="https://www.huakhiang.com">www.huakhiang.com</a></p>
 		</div>
 	</div>
@@ -31,10 +31,10 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Chilled
 			</p>
 			<p>
-				<b>Certifications: </b>EU Certified, FSSC 22000, HALAL, ISO 22000, Kosher
+				<b>Certifications: </b>FSSC 22000, HALAL, ISO 22000, Kosher
 			</p>
 			<p>
-				<b>Export Markets: </b>Europe, Middle East
+				<b>Export Markets: </b>Middle East, Africa, Europe
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Hua%20Khiang/hua_khiang_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fortune Tau Kwa</h6>
-			<p>Firm tofu that is suitable for many forms of cooking methods. Stir fry, deep fried.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fortune Pressed Tofu</h6>
+			<p>Medium tofu ideal for pan frying and mapo tofu dishes.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Hua%20Khiang/hua_khiang_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fortune Pressed Tofu</h6>
-			<p>Medium firm tofu suitable for pan-frying. Ideal for mapo tofu dishes.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fortune Tau Kwa - Original</h6>
+			<p>MFirm tofu ideal for frying and tossing in salads. High protein and suitable for protien replacements.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -81,7 +81,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fortune Extra Smooth Silken Tofu</h6>
-			<p>Softest and most silken tofu. Ideal for soups and hot pot dishes.</p>
+			<p>Extra smooth silken tofu ideal for steaming and soups.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -90,7 +90,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fortune Japanese Silken Tofu</h6>
-			<p>Soft silken tofu use for Japanese cuisine. Ideal for Miso soups.</p>
+			<p>Silken tofu ideal for miso soups and hotpots. Can be simply garnish with soy sauce for a quick meal.</p>
 		</div>
 	</div>
 </div>
