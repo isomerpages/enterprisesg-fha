@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Future Enterprises Pte Ltd</b></h4>
-			<p>POTATO CHIPS specialist manufacture with modern, state-of-the-art technology alongside stringent standard of food safety accreditation system to adhering our company's ideal of striving for excellence.</p>
+			<p>SGX Mainboard-listed Food Empire Holdings (Food Empire) is a multinational food and beverage manufacturing and distribution group headquartered in Singapore. With a portfolio spanning instant beverages, snack food, and a growing presence in food ingredients.</p>
 			<p><a target="_blank" href="https://www.foodempire.com">www.foodempire.com</a></p>
 		</div>
 	</div>
@@ -25,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Food Ingredients / Flavourings, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, FSSC 22000 Certified, GMP Certified, BRC Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Hong Kong, Taiwan, Indonesia, Philippines, Thailand, Australia, New Zealand, Middle East, Africa, Europe, USA, Latin America
+				<b>Certifications: </b>BRC, FSSC 22000, GMP, HACCP, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>ASEAN, Asia, Middle East, Africa, Europe, South America
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Retailers, Wholesalers, Importers, E-commerce, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -42,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Goo Yok Peng</b>
-				<br>Sales &amp; Marketing Manager<br>+60149111206<br>
-				<a style="color: white;" href="mailto:yokpeng@foodexcellence.com.my">yokpeng@foodexcellence.com.my</a>
+				<b>Julie Tiu</b>
+				<br>Manager<br>+65 6622 6962<br>
+				<a style="color: white;" href="mailto:zunee@foodempire.com">zunee@foodempire.com</a>
 			</p>
 		</div>
 	</div>
@@ -60,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
-			<p>Potato Crisps</p>
+			<p>Bursting with flavor in every bite, we dedicate our craft to bringing combinations of the finest ingredients from field to canister for you to enjoy real, great-tasting crisps and love every minute of it!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,8 @@ variant: markdown
 			<img src="/images/Future%20Enterprises/future_enterprises_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chizzpa Chips</h6>
-			<p>Potato Crisps</p>
+			<h6 style="text-transform: uppercase; color: black;">Non-Dairy Creamer</h6>
+			<p>Stringent quality checking to ensure highest standard of food safety is met.</p>
 		</div>
 	</div>
 </div>
