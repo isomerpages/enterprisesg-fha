@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>MWD Beverages Pte Ltd</b></h4>
-			<p>Manufacturer and brand owner of premium beverages.</p>
+			<p>MWD Beverages Pte Ltd is the headquarters of Mark Walker Drinks Sdn Bhd, specializing in premium, functional, and excitement-driven beverages—both carbonated and non-carbonated, enriched with vitamins. We are committed to delivering products that offer greater variety and better choices for today’s dynamic market and health-conscious consumers.</p>
 			<p><a target="_blank" href="https://www.markwalkerdrinks.com">www.markwalkerdrinks.com</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, GMP Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>China, South Korea, Malaysia, Middle East, Africa, EU, UK, Canada, USA, Mexico
+				<b>Certifications: </b>GMP, HACCP, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>UAE, Iran, Qatar
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>HoReCa, Retailers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -59,17 +62,35 @@ variant: markdown
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Vitamin C</h6>
-			<p>Enriched with1000mg Vitamin C, D3, B2, B3 and B6.</p>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Vitamin C 150ml &amp; 250ml</h6>
+			<p>Lifestyle beverage that combines delicious taste with added health benefits (Contains Vitamin C and Bs).</p>
 		</div>
-	</div>
+	</div>		
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Chill POP</h6>
-			<p>Carbonated Flavoured Drink.</p>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Chill POP 275ml (carbonated flavoured drink)</h6>
+			<p>Chill POP is designed to resonate with Gen Z consumers, and its growth highlights its potential to make a significant impact on the global beverage market.</p>
+		</div>
+	</div>		
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/MWD%20Beverages/mwd_beverages_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Walker's Japanese Sparkling Soda 290ml</h6>
+			<p>Walker's Japanese Sparkling Soda is a culture-inspired drink; with 0% sugar, calories, fat, and artificial colouring, it provides a tasty option for health-conscious consumers.</p>
+		</div>
+	</div>		
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/MWD%20Beverages/mwd_beverages_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Walker's Ginger Beverages 250ml</h6>
+			<p>A non-alcoholic carbonated beverage with a crisp profile and a well-balanced ginger taste that delivers a bold kick to the palate. Available in three refreshing variants: Original Ginger, Ginger with Lemon, and Ginger Honey.</p>
 		</div>
 	</div>
 </div>
