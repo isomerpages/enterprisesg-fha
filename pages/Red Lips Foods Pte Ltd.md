@@ -11,9 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Red Lips Foods Pte Ltd</b></h4>
-			<p>For over 20 years, Red Lips Foods has been Singapore's leading manufacturer of traditional Peranakan Kueh Pie Tee Cups.</p>
-			<p>We believe in choosing only the best ingredients, blending tradition with technology and innovation.   Our slogan of "Building Trust Through Quality" underlies our dedication to serving up delicacies of impeccable quality.</p>
-			<p>We are an ISO 22000:2018 and Halal certified company with clients from Australia, Dubai, Hong Kong, Japan, South East Asia, the UK and many more.  These customers include restaurants, hotels, resorts, caterers and food-service establishments.</p>
+			<p>For over 20 years, Red Lips Foods has been Singapore's leading manufacturer of traditional Peranakan Kueh Pie Tee Cups and Gourmet Shells.</p>
+			<p>We believe in choosing only the best ingredients, blending tradition with technology and innovation.   Our slogan of ""Building Trust Through Quality"" underlies our dedication to serving up delicacies of impeccable quality.</p>
 			<p><a target="_blank" href="https://www.redlipsfoods.com">www.redlipsfoods.com</a></p>
 		</div>
 	</div>
@@ -36,10 +35,10 @@ variant: markdown
 				<b>Certifications: </b>HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Dubai, Hong Kong, Japan, Taiwan, Malaysia, Vietnam, Indonesia, UK
+				<b>Export Markets: </b>Australia, Brunei, Dubai, Hong Kong, Japan, Taiwan, Malaysia, UK
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -65,7 +64,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Kueh Pie Tee Cups</h6>
-			<p>A Peranakan 'Straits Chinese' heritage appetizer, the Kueh Pie Tee (Tee Cups) is often prepared during the Lunar New Year or on special occasions such as birthdays and anniversaries.  They are a thin, crispy tart shell served with a spicy and sweet mixture of thinly sliced Jicama, carrot and prawns.</p>
+			<p>A popular Peranakan 'Straits Chinese' heritage appetizer, the Kueh Pie Tee (Tee Cups) is often prepared during festive periods like the Lunar New Year or on special occasions such as birthdays and anniversaries.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -74,7 +73,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Gourmet Shells</h6>
-			<p>Gourmet Shells (by Red Lips Foods) are beautifully formed to help you create the perfect canapé.</p>
+			<p>Gourmet Shells (by Red Lips Foods) are beautifully formed to help you create the perfect canapé. Inspired by floral shapes the 5-petal Sakura and 8-petal Rosette Shells are delicately crafted to accentuate flavours of any cuisine.</p>
 		</div>
 	</div>
 </div>
