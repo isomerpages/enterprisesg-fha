@@ -28,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
+				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
 				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE, Indonesia
+				<b>Export Markets: </b>UAE, Australia, Indonesia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers, Food Service Suppliers / Players
@@ -63,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chicken Siew Mai</h6>
-			<p>Steamed chicken dumpling formed in cylindrical shape pleated yellow skin wrapper.</p>
+			<p>Steamed chicken dumpling formed in cylindrical shape with pleated yellow skin wrapper.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -73,24 +73,6 @@ variant: markdown
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">BBQ Chicken Bun</h6>
 			<p>Steamed chicken bun with slow roasted chicken seasoned in BBQ sauce.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/KG%20Food/kgfood_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Yam Pau</h6>
-			<p>The Yam is slow cooked with the right amount of sugar until the right texture is achieved, encased within a springy bun.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/KG%20Food/kgfood_product_04.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Nasi Briyani</h6>
-			<p>A popular seasoned basmati rice with a delightful concoction of Indian spices,vegetables and marinated chicken meat. Authentic flavourful aroma and spiciness to tickle the taste buds as a fulfiing meal.</p>
 		</div>
 	</div>
 </div>
