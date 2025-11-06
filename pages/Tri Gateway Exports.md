@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tri Gateway Exports</b></h4>
-			<p>Established in 1997, Tri Gateway Exports is a family owned business based in Singapore. Tri Gateway Exports started off as a trading company exporting various products globally. Besides trading, in 2005 Tri Gateway Exports diversified and expanded its business introducing its own brand of products - Perfect Choice. Perfect Choice manufactures a wide range of food and beverage items including: potato chips, biscuits and cookies as well as dairy products.</p>
+			<p>Established in 1997, Tri Gateway Exports, family-owned business based in Singapore started as a trading company exporting various products globally. In 2005 we diversified introducing our own brand of products - Perfect Choice. Perfect Choice manufactures food and beverage items including potato chips, biscuits, cookies as well as dairy products.</p>
 			<p><a target="_blank" href="https://www.perfectchoice.com.sg">www.perfectchoice.com.sg</a></p>
 		</div>
 	</div>
@@ -28,10 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE, India, Philippines, Jordan, Saudi Arabia, Qatar, Bangladesh, New Zealand, Australia
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Australia, New Zealand, UK, UAE, Lebanon, Saudi Arabia, Jordan, Libya, Surinam, Guyana
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers
 			</p>
 		</div>
 	</div>
@@ -41,7 +47,7 @@ variant: markdown
 			<p style="padding: 10px; color: white;">
 				<b>Lachman U Babani</b>
 				<br>Manager<br>+65 9690 1759<br>
-				<a style="color: white;" href="mailto:lbabani@trigateway.com">lbabani@trigateway.com</a>
+				<a style="color: white;" href="mailto:lachman@trigateway.com">lachman@trigateway.com</a>
 			</p>
 		</div>
 	</div>
@@ -56,8 +62,8 @@ variant: markdown
 			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Potato Chips</h6>
-			<p>Perfect Choice Potato Chips manufactured in china, are thin and crisp, the perfect combination that everybody loves. With six appetizing flavours – Original, Paprika, Salt &amp; Vinegar, Sour Cream &amp; Onion Cheese and BBQ to choose form one will be spoilt for choice.</p>
+			<h6 style="text-transform: uppercase; color: black;">Perfect Choice Potato Chips</h6>
+			<p>Our chips manufactured in China. Made from the finest ingredients, with a freshness seal to ensure the product stays crisp. Available in 2 sizes with 6 flavours: Original, Paprika, Salt &amp; Vinegar, Sour Cream &amp; Onion Cheese and BBQ.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -65,8 +71,8 @@ variant: markdown
 			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Cheese Flavoured Snack</h6>
-			<p>Perfect Choice Cheese Flavoured Corn Snack is made in Philippines and comes in three varities of Rings, Twirls and Curls.</p>
+			<h6 style="text-transform: uppercase; color: black;">Sweetened Condensed Milk</h6>
+			<p>Perfect Choice Sweetened Condensed filled Milk is perfect for baking and creating sweet treats. It can also be used as a sweetener for a variety of beverages.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -74,8 +80,8 @@ variant: markdown
 			<img src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Coffee</h6>
-			<p>Perfect Choice Coffee is made from 100% pure coffee and nothing else. This refreshing blend made from rich Brazilian coffee beans guarantees to be a great way to start your day. Perfect Choice coffee is available in three variations, Original, Classic and Gold.</p>
+			<h6 style="text-transform: uppercase; color: black;">Perfect Choice Honey</h6>
+			<p>This deep amber honey with pleasant aroma is harvested from deciduous forests of Indian Rosewood flowers that are grown in the organic belts of Northern India.</p>
 		</div>
 	</div>
 </div>

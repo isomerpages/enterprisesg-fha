@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Suvai Foods Pte Ltd</b></h4>
-			<p>Suvai Foods is an ISO certified food production company and its products are 100% vegetarian and Halal certified. For over a decade, it has been producing more than 60 healthy foods products across Singapore, UK, Hong Kong &amp; Malaysia. Suvai Foods' vision is to serve society by providing traditional and super tasty foods.</p>
+			<p>Singapore-based food manufacturing company established in 2012. Proud to be pioneers in providing MUIS Halal-certified, 100% vegetarian, and ISO-certified products. Suvai Foods began its journey with Dosa (Thosai) batter and has since expanded to offer over 80 healthy food products. The name 'Suvai' means 'Tasty' in Tamil, reflecting our commitment to delicious and wholesome offerings.</p>
 			<p><a target="_blank" href="https://www.suvaifoods.com">www.suvaifoods.com</a></p>
 		</div>
 	</div>
@@ -25,16 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Cooked Food, Food Ingredients and Flavourings, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Vietnam, Indonesia, Japan, South Korea, Taiwan
+				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Shahul Hameed</b>
-				<br>Founder, Director<br>+65 9448 4000<br>
+				<br>Director<br>+65 9448 4000<br>
 				<a style="color: white;" href="mailto:suvaifoodspteltd@gmail.com">suvaifoodspteltd@gmail.com</a>
 			</p>
 		</div>
@@ -59,17 +59,8 @@ variant: markdown
 			<img src="/images/Suvai%20Foods/suvai_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Quinoa &amp; Brown Rice Dosa Batter</h6>
-			<p>Quinoa &amp; Brown Rice Idli &amp; Dosa (Thosai) batter is naturally Low in Saturated Fat and Gluten Free. Traditionally Stone Ground, 0% preservative and 100% Natural.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Suvai%20Foods/suvai_foods_product_02.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Premix 3in1 Masala Chai</h6>
-			<p>Premix 3in1 Masala Chai is an instant Karak Tea with Spices such as Cloves, Cinnnamom, Cardamom &amp; Black pepper.</p>
+			<h6 style="text-transform: uppercase; color: black;">Karak Chai Ranges</h6>
+			<p>Our Karak Masala Chai and other Chai ranges are uniquely made loaded with health benefits and rich authentic taste. It has long shelf-life and very much demand in Gulf countries.</p>
 		</div>
 	</div>
 </div>

@@ -1,28 +1,28 @@
 ---
-title: SIAL Paris 2024
-permalink: /sial-paris-2024/
+title: Gulfood 2026
+permalink: /gulfood-2026/
 variant: markdown
 description: ""
 ---
-<p>Singapore Food Manufacturers’ Association and Enterprise Singapore are proud to lead 13 Singapore companies to exhibit under the Singapore pavilion at the SIAL Paris 2024.</p>
+<p>Companies exhibiting under the Singapore pavilion at the Gulfood 2026 lead by Singapore Food Manufacturers’ Association and Enterprise Singapore.</p>
 
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chinatown%20Food/chinatown_food_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Enhance%20SG/enhance_sg_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Chinatown Food Corporation Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Enhance SG Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufactuer of both Oriental and non-Oriental frozen food products under the worldwide trademarks, 'Chinatown' and 'Amstar'.</small>
+			<small>Singapore-based halal manufacturer specialising in the production of premium Dendeng (jerky) and Serunding (meat floss).</small>
 		</p>
 		<p>
-			<a target="_blank" href="/chinatown-food">
+			<a target="_blank" href="/enhance-sg">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -32,18 +32,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Dieumot/dieumot_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Future%20Enterprises/future_enterprises_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Dieumot Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Future Enterprises Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialise in Agro Commodities, Dairy Products and Oils / Fats.</small>
+			<small>A multinational food and beverage manufacturing and distribution group headquartered in Singapore.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/dieumot">
+			<a target="_blank" href="/future-enterprises">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -53,18 +53,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Eatnuf/eatnuf_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gold%20Roast%20Food/gold_roast_food_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Eatnuf Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Gold Roast Food Industry Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Singapore Brand of Premium Nut and Seed paste.</small>
+			<small>Manufacturer and distributor of instant beverages and oatmeal.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/eatnuf">
+			<a target="_blank" href="/gold-roast-food">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -74,7 +74,28 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/hua_khiang_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hock%20Seng/hock_seng_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Hock Seng Food Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of canned food and chocolate.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/hock-seng">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hua%20Khiang/hua_khiang_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -95,18 +116,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/KG%20Food/kgfood_logo.jpg">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Kim Guan Guan Coffee Trading Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>KG Food Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Supplier of coffee powders to beverages outlets.</small>
+			<small>Manufacturer and distributor of halal certified buns and dim sum.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/kim-guan-guan">
+			<a target="_blank" href="/kgfood">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -116,7 +137,7 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/kin_yan_agrotech_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kin%20Yan%20Agrotech/kin_yan_agrotech_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -124,10 +145,31 @@ description: ""
 			<p style="text-transform: uppercase;"><strong>Kin Yan Agrotech Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>22 complete nutmix (3-in-1 wholegrain beverage)</small>
+			<small>22 complete nutmix (3-in-1 wholegrain beverage).</small>
 		</p>
 		<p>
 			<a target="_blank" href="/kin-yan-agrotech">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Lam Kee Fisheries Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Importer and distributor of frozen seafood products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/lam-kee-fisheries">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -158,27 +200,6 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Listen%20Up/listen_up_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Listen Up Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of instant and ready to drink oat milk.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/listen-up">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/MWD%20Beverages/mwd_beverages_logo.png">
 		</figure>
 	</div>
@@ -200,18 +221,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ngo%20Chew%20Hong/ngo_chew_hong_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Red%20Lips/red_lips_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Ngo Chew Hong Edible Oil Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Red Lips Foods Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer and exporter of all types of edible oils and fats products.</small>
+			<small>Manufacturer of Traditional Peranakan Kueh Pie Tee Cups and Gourmet Shells.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ngo-chew-hong">
+			<a target="_blank" href="/red-lips">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -221,18 +242,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Orient%20Foods/orient_foods_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Suvai%20Foods/suvai_foods_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Orient Foods Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Suvai Foods Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Specialise in noodles, sauces, canned products, ready meal kits and snack products.</small>
+			<small>Manufacturer of tasty and healthy Indian food products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/orient-foods">
+			<a target="_blank" href="/suvai-foods">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -242,18 +263,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/OTG%20Enterprise/otg_enterprise_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tri%20Gateway%20Exports/tri_gateway_exports_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>OTG Enterprise Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Tri Gateway Exports</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of nuts and assorted snack products.</small>
+			<small>Products include potato chips, biscuits, cookies as well as dairy products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/otg-enterprise">
+			<a target="_blank" href="/tri-gateway-exports">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -263,18 +284,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Tat%20Hui/tat_hui_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yeo%20Hiap%20Seng/yeo_hiap_seng_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Tat Hui Foods Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Yeo Hiap Seng Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of instant noodles.</small>
+			<small>Manufacturer of the Yeo's brand food and beverages.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/tat-hui">
+			<a target="_blank" href="/yeo-hiap-seng">
 				<small>Visit their page</small>
 			</a>
 		</p>
