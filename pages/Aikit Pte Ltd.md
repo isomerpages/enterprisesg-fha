@@ -43,8 +43,8 @@ description: ""
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Steve Tan</b>
-				<br>Commercial Manager<br>+65 9625 6396<br>
-				<a style="color: white;" href="mailto:steve.tan@dwi.sg">steve.tan@dwi.sg</a>
+				<br>Commercial Manager<br>+65 3123 7336<br>
+				<a style="color: white;" href="mailto:hello@instachef24.com">hello@instachef24.com</a>
 			</p>
 		</div>
 	</div>
