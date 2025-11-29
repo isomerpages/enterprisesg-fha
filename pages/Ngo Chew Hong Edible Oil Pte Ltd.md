@@ -11,9 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ngo Chew Hong Edible Oil Pte Ltd</b></h4>
-			<p>Ngo Chew Hong Edible Oil Pte. Ltd. is the leading manufacturer and exporter of all types of edible oils and fats products with over 70 years of history and experience.</p>
-			<p>We offer a comprehensive range of quality products - ranging from palm based vegetable cooking oils, vegetable ghee, soft oils, lauric oils, to bakery and confectionery fats, etc. Ever aware of the changing needs of our clientele, we have also extended our product range to other food and beverage categories i.e. sweetened condensed milk, tomato paste, premixes and rice. We can also offer non food items like beauty soap, laundry soap, soap noodles and refined glycerine. Products are supplied in various packing types to cater to the needs of industrial, institution, food service and retail marketplace.</p>
-			<p>Our global customer base spans over 100 countries in Africa, Asia Pacific, Europe, the Middle East and Indian Subcontinent, etc.</p>
+			<p>For over 70 years, Ngo Chew Hong has been the trusted name behind quality food solutions. From edible oils to a diverse portfolio in dairy, rice, and specialty ingredients, we empower growth for our partners worldwide. As part of Mewah Group, our 16 advanced facilities deliver scale, speed, and reliability. With globally recognized brands like OKI &amp; Mona, our reach spans 100+ countries. Decades of reliability make us a future-ready partner, simplifying sourcing and building tomorrow’s solutions.</p>
 			<p><a target="_blank" href="https://www.nchoil.com">www.nchoil.com</a></p>
 		</div>
 	</div>
@@ -27,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Condiments and Sauces, Edible Oils and Fats, Rice and Noodles</span>
+				<span style="background-color: pink; border-radius: 10px;">Bakery, Beverage, Edible Oils and Fats, Rice and Noodles</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Africa, USA, Mexico, Colombia, Brazil, China, Japan, South East Asia, India, Middle East, Germany, Europe, Turkey, Australia, New Zealand, Oceania
+				<b>Certifications: </b>HACCP, HALAL, Kosher
+			</p>
+			<p>
+				<b>Export Markets: </b>Africa, Aisa Pacific, CIS, Europe, Middle East, Indian subcontinent
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -61,8 +62,8 @@ variant: markdown
 			<img src="/images/Ngo%20Chew%20Hong/ngo_chew_hong_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Vegetable Cooking Oil</h6>
-			<p>Choosing the right cooking oil is one of the keys to adding nutritional benefits to the food you are preparing.  We offer a wide variety of cooking oils, ranging from healthier choice options for a balanced diet to heavy-duty frying oil.</p>
+			<h6 style="text-transform: uppercase; color: black;">Cooking Oil</h6>
+			<p>Elevate every dish with our premium cooking oils—crafted for taste, quality, and consistency. Trusted worldwide, we deliver quality and confidence for kitchens of every scale, backed by decades of expertise.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,7 +72,16 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Bakery Fats</h6>
-			<p>We offer different types of bakery fats for the professional users to create the best product whether it is a biscuit, wafer, bread, bun, cake or pastry. There will be something suitable from our range of Shortening, Margarine and Milk Fat Blend Products for any baking needs.</p>
+			<p>We offer bakery fats such as shortening, margarine, and milk fat blends, crafted for professional bakers. Designed for biscuits, bread, cakes, and pastries, each product ensures quality, reliability, and exceptional results.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Ngo%20Chew%20Hong/ngo_chew_hong_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Premix</h6>
+			<p>Discover convenient, tasty premixes from crispy chicken coatings to tempura batter and seasoning powders, crafted to enhance flavour, texture, and aroma. Each bite guarantees satisfaction, crunch, and effortless cooking.</p>
 		</div>
 	</div>
 </div>
