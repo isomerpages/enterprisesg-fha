@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tat Hui Foods Pte Ltd</b></h4>
-			<p>Founded in 1986, Tat Hui Foods is the leading manufacturer of instant noodles in Singapore, with our global brand KOKA being exported to over 50 countries.</p>
+			<p>Incorporated in 1985, over the years we have grown from a local noodle brand with just a few classic flavours, to one that now brings over 100 different products to millions of households across the globe. Today, KOKA noodles are enjoyed in over 40 countries in the Asia Pacific region, North America, the Middle East, and Europe.</p>
 			<p><a target="_blank" href="https://www.kokanoodles.com">www.kokanoodles.com</a></p>
 		</div>
 	</div>
@@ -31,13 +31,13 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Certifications: </b>BRC, HACCP, HALAL
+				<b>Certifications: </b>BRC, GMP, HACCP, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Europe, Middle East, USA, Asia, Australia
+				<b>Export Markets: </b>UK, Ireland, Portugal, Spain, France, Netherlands, UAE, Qatar, Oman, Kuwait, China, Malaysia, Indonesia, Australia, India, Philippines, Japan, Taiwan, Africa
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors
 			</p>
 		</div>
 	</div>
@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Jerrold Lim</b>
-				<br>Business Development Manager<br>+65 9658 7686<br>
+				<br>Business Development Manager<br>+65 6261 1010<br>
 				<a style="color: white;" href="mailto:jerroldlim@tathui.com">jerroldlim@tathui.com</a>
 			</p>
 		</div>
@@ -62,35 +62,9 @@ variant: markdown
 			<img src="/images/Tat%20Hui/tat_hui_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Original Chicken</h6>
-			<p>Best seller Chicken flavour.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Tat%20Hui/tat_hui_product_02.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain Purple Corn</h6>
-			<p>Steamed &amp; baked, no added MSG, clean label.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Tat%20Hui/tat_hui_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain Oats &amp; Barley</h6>
-			<p>Steamed &amp; baked, no added MSG, clean label.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Tat%20Hui/tat_hui_product_04.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KOKA Spicy Broad Noodle</h6>
-			<p>Broad and bouncy noodle.</p>
+			<h6 style="text-transform: uppercase; color: black;">KOKA Multigrain Baked Noodles</h6>
+			<p>100% Baked, Low In Fat, No Artificial Additives, No Flavour Enhancers.</p>
+			<p>Made the unconventional way, boosted by a nutritious mix of whole grains and naturally seasoned, every bite is a perfect balance of taste and texture.</p>
 		</div>
 	</div>
 </div>
