@@ -11,7 +11,9 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Vega Foods Corp Pte Ltd</b></h4>
-			<p>Our mission, encapsulated in our motto "Better Food for Better Life" reflects our commitment to providing high-quality food and beverage offerings that cater to diverse daily needs. Our products are enjoyed across Africa, Middle East &amp; Asia and are appreciated for excellent quality and competitive pricing.</p>
+			<p>Vega Foods was founded in 1995 as a division in Grupo Kaybee, a multinational group, that originated in Osaka, Japan in 1958 and operates in more than 50 countries worldwide.</p>
+			<p>In our quest to provide better food for better life, we have designed a wide product portfolio to serve the daily needs of the society.</p>
+			<p>Today, Vega brand is patronized by more than 2 million people Worldwide every day and is appreciated for premium quality at competitive prices.</p>
 			<p><a target="_blank" href="https://www.vegafoods.com">www.vegafoods.com</a></p>
 		</div>
 	</div>
@@ -25,16 +27,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified, FSSC 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Philippine, Vietnam, Brunei, Mauritania, Sengal, Gambia, Conakry, Liberia, Ghana, Ivory Coast, Mali, Burkina Faso, Niger, Nigeria, Benin, Cameroon, Drc, Roc, Car, Gabon, Angola, Botswana, Guinea, Malawi, Mozambique, Kenya, UAE
+				<b>Certifications: </b>HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Asean, Middle East, Africa
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Retailers, Wholesalers, E-commerce, Importers
 			</p>
 		</div>
 	</div>
@@ -43,7 +48,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Ketan Vaghela</b>
-				<br>AVP<br>+65 9855 2500<br>
+				<br>Associate Vice President, Sales<br>+65 9855 2500<br>
 				<a style="color: white;" href="mailto:ketan.v@vegafoods.com">ketan.v@vegafoods.com</a>
 			</p>
 		</div>
@@ -59,8 +64,8 @@ variant: markdown
 			<img src="/images/Vega%20Foods/vega_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Vega French Fries</h6>
-			<p>7mm shoestring cut</p>
+			<h6 style="text-transform: uppercase; color: black;">Corn Sticks</h6>
+			<p>Comes in 4 flavours: Cheese / Roasted Corn / Veggie &amp; Spicy Chicken</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,17 +73,8 @@ variant: markdown
 			<img src="/images/Vega%20Foods/vega_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Vega Popcorn Kernels</h6>
-			<p>Butterfly Yellow Popcorn</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Vega%20Foods/vega_foods_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">VEGA Sparkling Flavoured Water</h6>
-			<p>Lemon / Green Apple / Lychee / Orange</p>
+			<h6 style="text-transform: uppercase; color: black;">Popcorn</h6>
+			<p>Comes in 4 flavours: Coco / Cheese / Salted Egg / Caramel</p>
 		</div>
 	</div>
 </div>
