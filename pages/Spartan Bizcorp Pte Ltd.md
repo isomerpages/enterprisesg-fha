@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Spartan Bizcorp Pte Ltd</b></h4>
-			<p>Exporter Of Branded Consumer Goods To Over 80 Countries Since 2015.</p>
+			<p>Based in Singapore, Spartan Bizcorp has been exporting renowned Consumer Packaged Goods (CPGs) brands into over 80 markets since 2015. We work in the food, beverages, beauty &amp; personal care and household cleaning categories. Our goal is to promote products into markets that lack an efficient supply-chain infrastructure.</p>
 			<p><a target="_blank" href="https://www.spartanbizcorp.com">www.spartanbizcorp.com</a></p>
 		</div>
 	</div>
@@ -25,10 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>Bahrain, Brunei, Czech Republic, Ghana, Guinea, Hong Kong, Indonesia, Iraq, Lebanon, Malaysia, Myanmar, Nepal, Saudi Arabia, Seychelles, UAE, USA, Vietnam
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>UAE, Iraq, Lebanon
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Importers
@@ -40,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Nitin Khanchandani</b>
-				<br>Director<br>+65 6336 2847<br>
+				<br>Director<br>+65 8278 2792<br>
 				<a style="color: white;" href="mailto:nitin@spartanbizcorp.com">nitin@spartanbizcorp.com</a>
 			</p>
 		</div>
@@ -56,17 +62,8 @@ variant: markdown
 			<img src="/images/Spartan%20Bizcorp/spartan_bizcorp_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ovaltine Chocolate Drink</h6>
-			<p>Nutrition supplement drink mix that includes many essential vitamins and minerals.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Spartan%20Bizcorp/spartan_bizcorp_product_02.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Nescafe Gold Coffee</h6>
-			<p>Premium instant coffee with a range of blends and roasts to suit your taste.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ovlatine Chocolate 400G</h6>
+			<p>Ovaltine chocolate is a unique blend of malt and cocoa, offered in various formats.</p>
 		</div>
 	</div>
 </div>
