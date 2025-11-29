@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Oh Chin Hing Sesame Oil Factory</b></h4>
-			<p>For over 100 years, Oh Chin Hing specialised in Sesame Oil making using cold-pressed method to provide the highest quality sesame oil to our customers around the world.</p>
+			<p>Oh Chin Hing Sesame Oil Factory, founded in the 1920s, is a fourth-generation Singapore heritage brand known for authentic toasted sesame oil. Using traditional roasting and quality seeds, the Double Elephant Brand delivers rich aroma and consistent flavour. With FSSC 22000 and Halal certification, the company supplies supermarkets, distributors, and foodservice partners across Asia and global markets.</p>
 			<p><a target="_blank" href="https://www.ohchinhing.com.sg">www.ohchinhing.com.sg</a></p>
 		</div>
 	</div>
@@ -25,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Edible Oils and Fats</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Edible Oils and Fats</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, FSSC22000 Certified, Healthier Choice Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Europe, Asia, North America
+				<b>Certifications: </b>FSSC 22000, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>EU, Middle East, Asia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players
 			</p>
 		</div>
 	</div>
@@ -43,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Alastair Aw</b>
-				<br>Business Manager<br>+65 6481 3990<br>
+				<br>Business Manager<br>+65 8322 6877<br>
 				<a style="color: white;" href="mailto:ohchinhing@gmail.com">ohchinhing@gmail.com</a>
 			</p>
 		</div>
@@ -59,17 +62,8 @@ variant: markdown
 			<img src="/images/Oh%20Chin%20Hing/oh_chin_hing_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Double Elephant Brand Pure Sesame Oil</h6>
-			<p>100% Pure Toasted Sesame Oil using Cold-Pressed Method of extraction.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Oh%20Chin%20Hing/oh_chin_hing_product_02.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Double Elephant Brand Blended Sesame Oil</h6>
-			<p>Blended Sesame Oil, a healthier cooking oil replacement.</p>
+			<h6 style="text-transform: uppercase; color: black;">Double Elephant Brand Sesame Oil</h6>
+			<p>Double Elephant Brand toasted sesame oil, crafted from quality roasted sesame seeds. Rich aroma, deep flavour, and versatile for cooking, seasoning, and marinades. Available in retail bottles and foodservice jerry cans.</p>
 		</div>
 	</div>
 </div>
