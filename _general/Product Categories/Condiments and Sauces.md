@@ -222,27 +222,6 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gourmet%20Supplies/gourmet_supplies_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Gourmet Supplies Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacture and distribution of beverages.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/gourmet-supplies">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ha%20Li%20Fa/ha_li_fa_logo.png">
 		</figure>
 	</div>
@@ -327,18 +306,18 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ngo%20Chew%20Hong/ngo_chew_hong_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Oh%20Chin%20Hing/oh_chin_hing_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Ngo Chew Hong Edible Oil Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Oh Chin Hing Sesame Oil Factory</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer and exporter of all types of edible oils and fats products.</small>
+			<small>Manufacturer of sesame oil.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ngo-chew-hong">
+			<a target="_blank" href="/oh-chin-hing">
 				<small>Visit their page</small>
 			</a>
 		</p>

@@ -34,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>GMP, HACCP, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE, Iran, Qatar
+				<b>Export Markets: </b>UAE, Qatar, Saudi Arabia, China, UK, EU, USA
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Vitamin C 150ml &amp; 250ml</h6>
-			<p>Lifestyle beverage that combines delicious taste with added health benefits (Contains Vitamin C and Bs).</p>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Vitamin C</h6>
+			<p>A refreshing sparkling drink to boost your immunity.</p>
 		</div>
 	</div>		
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Chill POP 275ml (carbonated flavoured drink)</h6>
-			<p>Chill POP is designed to resonate with Gen Z consumers, and its growth highlights its potential to make a significant impact on the global beverage market.</p>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Ginger Beer</h6>
+			<p>A sparkling ginger drink made to our original UK recipe.</p>
 		</div>
 	</div>		
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,17 +80,8 @@ variant: markdown
 			<img src="/images/MWD%20Beverages/mwd_beverages_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Japanese Sparkling Soda 290ml</h6>
-			<p>Walker's Japanese Sparkling Soda is a culture-inspired drink; with 0% sugar, calories, fat, and artificial colouring, it provides a tasty option for health-conscious consumers.</p>
-		</div>
-	</div>		
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/MWD%20Beverages/mwd_beverages_product_04.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Walker's Ginger Beverages 250ml</h6>
-			<p>A non-alcoholic carbonated beverage with a crisp profile and a well-balanced ginger taste that delivers a bold kick to the palate. Available in three refreshing variants: Original Ginger, Ginger with Lemon, and Ginger Honey.</p>
+			<h6 style="text-transform: uppercase; color: black;">Walker's Chill Pop</h6>
+			<p>A fresh, trendy drink for Gen Z &amp; Millennials.</p>
 		</div>
 	</div>
 </div>
