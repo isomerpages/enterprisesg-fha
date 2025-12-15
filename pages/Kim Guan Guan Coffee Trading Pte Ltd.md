@@ -11,8 +11,8 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kim Guan Guan Coffee Trading Pte Ltd</b></h4>
-			<p>Kim Guan Guan Coffee (KGG) is a leading purveyor of quality Singapore traditional coffee since 1988. Today, we are Singapore’s first FSSC 22000 certified traditional coffee roastery, offering comprehensive services including food service, wholesale, and OEM solutions to over 1,500 F&amp;B operators. Recently, we launched Kim’s Duet, a health-focused range of Singapore steep coffee and tea bags. Combining traditional taste with the convenience of single servings, it's the perfect choice for those wanting an authentic, fuss-free coffee or tea experience anytime, anywhere.</p>
-			<p><a target="_blank" href="https://www.kimguanguan.com.sg">www.kimguanguan.com.sg</a></p>
+			<p>Kim Guan Guan Coffee (KGG), founded in 1988, is Singapore's first FSSC 22000-certified traditional coffee roastery. Serving over 1,500 partners across HoReCa, retail, and catering, KGG blends heritage with innovation through Kim's Duet—premium single-serve steep coffee and tea bags in reduced-sugar and no-sugar-added options, crafted for modern convenience and travel retail.</p>
+			<p><a target="_blank" href="https://www.kimsduet.com">www.kimsduet.com</a></p>
 		</div>
 	</div>
 </div>
@@ -34,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, China, Hong Kong,  Indonesia, Korea, Philippines
+				<b>Export Markets: </b>China, Taiwan, Macau, Korea, Philipines
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -45,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Nigel Soon</b>
-				<br>Brand Partnerships and Growth Manager<br>+65 6281 5055<br>
-				<a style="color: white;" href="mailto:nigel@kimguanguan.com">nigel@kimguanguan.com</a>
+				<b>Tracy Low</b>
+				<br>Business Development Director<br>+65 9613 0607<br>
+				<a style="color: white;" href="mailto:tracylow@kimguanguan.com">tracylow@kimguanguan.com</a>
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kim Guan Guan Singapore Traditional Coffee Power</h6>
-			<p>KGG Singapore Traditional Coffee is a full-bodied brew made from Robusta beans, roasted with sugar and margarine, and brewed using the traditional "hand-pulling" method for a silky-smooth texture. Bold and strong, it offers a distinctive bittersweet flavor and an aromatic, rich taste.</p>
+			<h6 style="text-transform: uppercase; color: black;">Black Coffee without Sugar (Kopi O Kosong)</h6>
+			<p>Characterised by its full body and bittersweet profile, the Kopi-O Kosong yields a distinctive ashy flavour that gives a punch and the familiar taste of Singapore traditional coffee.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KIM'S DUET Singapore Steep Coffee</h6>
-			<p>Kim's Duet, by Kim Guan Guan Coffee, roasts Robusta beans in small batches at their FSSC 22000 certified roastery to achieve the distinctive bittersweet flavor Singaporeans love. With a lower sugar formula and quality ingredients, these single-serve bags offer a fresh, fuss-free way to enjoy authentic coffee anywhere.</p>
+			<h6 style="text-transform: uppercase; color: black;">Nanyang Traditional Coffee with Creamer &amp; Less Sugar (Kopi -C)</h6>
+			<p>Enjoy a smooth and aromatic cup of full-bodied traditional coffee with Kim's Duet Kopi-C sachet. All it takes is just 3 minutes to STEEP and PRESS for that perfect cup of authentic traditional coffee.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +80,17 @@ variant: markdown
 			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">KIM'S DUET Decaf Kopi-O Kosong</h6>
-			<p>Experience the first-ever caffeine-free Singapore Traditional Coffee! Specially built for those who may be sensitive to caffeine, this Kim's Duet Decaf Kopi-O Kosong yields a distinctive ashy flavour that gives the rich and robust taste of traditional black coffee. Contact us to discuss OEM possibilities.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kim's Duet Variety Pack 5s</h6>
+			<p>This Variety Pack contains 5 different types of coffee and tea brewing sachets.It's the perfect gift for traditional coffee and tea lovers!</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Kim%20Guan%20Guan/kim_guan_guan_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Black Coffee without Sugar 15s (Kopi O Kosong Family Pack)</h6>
+			<p>Enjoy the bold flavour of KD's Kopi-O Kosong, a traditional Singapore black coffee with a full-bodied, bittersweet profile. Each cup reflects authentic local coffee culture, highlighted by its signature ashy note and rich depth.</p>
 		</div>
 	</div>
 </div>
