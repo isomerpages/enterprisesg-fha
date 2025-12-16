@@ -7,12 +7,12 @@ variant: markdown
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Litat%20Import%20Export/litat_import_logo.jpg">
+			<img src="/images/Mr%20Popiah/mr_popiah_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Litat Import &amp; Export Pte Ltd</b></h4>
-			<p>Manufacturer of beverages (carbonated, asian drinks, fruit juices) and breadspread (fruit jam, coconut jam, peanut butter).</p>
-			<p><a target="_blank" href="https://www.icecool.com.sg">www.icecool.com.sg</a></p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Mr Popiah Pte Ltd</b></h4>
+			<p>Mr Popiah Pte Ltd is a Singapore-based food manufacturer specialising in spring roll pastry, tortilla pastry, and ready-to-eat frozen wraps. It is the world’s first and only producer of naturally coloured spring roll pastry, including green tea, turmeric, charcoal, and beetroot variants. Manufactured in Singapore under strict quality standards, Mr Popiah supplies scalable, innovative Asian food solutions to retail, foodservice, and export markets worldwide.</p>
+			<p><a target="_blank" href="https://www.mrpopiah.com.sg">www.mrpopiah.com.sg</a></p>
 		</div>
 	</div>
 </div>
@@ -25,16 +25,16 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Others</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Cooked Food: </b>Ambient
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>HACCP Certified
+				<b>Certifications: </b>EU Certified, FSSC 22000, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Asia, Middle East, USA
+				<b>Export Markets: </b>UK, Netherlands, India, Cyprus, Italy
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -45,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Wayne Chua</b>
-				<br>Business Development Manager<br>+65 8288 8726<br>
-				<a style="color: white;" href="mailto:waynechua@icecool.com.sg">waynechua@icecool.com.sg</a>
+				<b>Lewis Tan</b>
+				<br>Director<br>+65 9226 4548<br>
+				<a style="color: white;" href="mailto:lewistan.zm@mrpopiah.com.sg">lewistan.zm@mrpopiah.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -59,29 +59,20 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Litat%20Import%20Export/litat_import_product_01.jpg">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ice Cool Young Coconut Juice with pulp</h6>
-			<p>As the perfect thirst quencher for hot summer days, Ice Cool is the fastest selling coconut juice in the Middle East and South-East Asia. Every can of Ice Cool contains up to 70% of fresh young coconut juice with tender pulp intact. With natural isotonic properties, the drink also helps hydrate the human body and replenish lost nutrients.</p>
+			<h6 style="text-transform: uppercase; color: black;">Spring Roll Pastry Sheet</h6>
+			<p>Made in Singapore and designed for deep frying, delivering excellent crispness and easy handling. Available in natural colours and multiple sizes, they help create visually distinctive, high-quality spring rolls for global markets.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/Litat%20Import%20Export/litat_import_product_02.jpg">
+			<img src="/images/Mr%20Popiah/mr_popiah_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ice Cool 100% Coconut Water</h6>
-			<p>With the global trend moving towards healthier choice of living, consumers are more aware and health-conscious of their food choices. With the newly launched "Pure Coconut Water" available in both 500ml and 1L, we are committed to provide consumers with an alternative to sweetened beverages such as carbonates. With zero sugar added, it maintains the natural properties of coconut water and this is as fresh as you can get off a coconut. "Any fresher, you might have to cut the coconut yourself".</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Litat%20Import%20Export/litat_import_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Golden Light Breadspread</h6>
-			<p>40% Fruit Jam, 60% Fruit Jam, Coconut Jam (Kaya), Peanut Butter Spread.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready to Eat Microwave Wraps</h6>
+			<p>Fully cooked and frozen for convenience, heating in just minutes. Made in Singapore with quality ingredients, they are ideal for retail, foodservice, and vending, delivering consistent taste, nutrition, and reliability.</p>
 		</div>
 	</div>
 </div>
