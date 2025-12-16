@@ -28,7 +28,7 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Cooked Food: </b>Ambient, Chilled, Frozen
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
 				<b>Certifications: </b>EU Certified, FSSC 22000, HACCP, HALAL, ISO 22000
