@@ -28,6 +28,9 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Others</span>
 			</p>
 			<p>
+				<b>Cooked Food: </b>Ambient
+			</p>
+			<p>
 				<b>Certifications: </b>HACCP Certified
 			</p>
 			<p>
