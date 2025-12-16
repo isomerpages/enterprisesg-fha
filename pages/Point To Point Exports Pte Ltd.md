@@ -28,10 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Export Markets: </b>Jordan, Saudi Arabia, UAE, Iraq, Mauritius, Maldives
+				<b>Cooked Food: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Middle East
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Wholesalers, Importers, OEM Manufacturer
+				<b>Looking for: </b>Wholesalers, Food Service Suppliers / Players
 			</p>
 		</div>
 	</div>
@@ -57,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">EIGHTY8 Energy Drinks</h6>
-			<p>Energy Drink</p>
+			<p>Manufactured in europe with less sweet with affordable price and great taste.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -65,8 +71,8 @@ variant: markdown
 			<img src="/images/Point%20To%20Point/point_to_point_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">BELAMONTI Coffee</h6>
-			<p>Instant Coffee</p>
+			<h6 style="text-transform: uppercase; color: black;">Pleasant Valley Coffee</h6>
+			<p>It's a good and tasty coffee with affordable price.</p>
 		</div>
 	</div>
 </div>
