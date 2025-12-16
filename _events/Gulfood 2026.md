@@ -11,6 +11,27 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Bhavna/bhavna_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Bhavna Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>A market expansion service provider that helps companies launch and distribute consumer goods in markets worldwide.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/bhavna">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Enhance%20SG/enhance_sg_logo.png">
 		</figure>
 	</div>
@@ -44,6 +65,27 @@ description: ""
 		</p>
 		<p>
 			<a target="_blank" href="/future-enterprises">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Gold%20Kili/gold_kili_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Gold Kili Trading Enterprise (S) Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of instant coffee, tea and ginger beverage.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/gold-kili">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -200,6 +242,27 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kim%20Guan%20Guan/kim_guan_guan_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Kim Guan Guan Coffee Trading Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier of coffee powders to beverages outlets.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/kim-guan-guan">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Kin%20Yan%20Agrotech/kin_yan_agrotech_logo.png">
 		</figure>
 	</div>
@@ -221,27 +284,6 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lam%20Kee%20Fisheries/lam_kee_fisheries_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Lam Kee Fisheries Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Importer and distributor of frozen seafood products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/lam-kee-fisheries">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Leong%20Guan%20Food/leong_guan_food_logo.png">
 		</figure>
 	</div>
@@ -254,6 +296,48 @@ description: ""
 		</p>
 		<p>
 			<a target="_blank" href="/leong-guan-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Litat%20Import%20Export/litat_import_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Litat Import &amp; Export Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of beverages (carbonated, asian drinks, fruit juices) and breadspread (fruit jam, coconut jam, peanut butter).</small>
+		</p>
+		<p>
+			<a target="_blank" href="/litat-import-export">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mr%20Popiah/mr_popiah_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Mr Popiah Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of Pastry sheets and ready to eat wraps.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/mr-popiah">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -326,18 +410,18 @@ description: ""
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Red%20Lips/red_lips_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Point%20To%20Point/point_to_point_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Red Lips Foods Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>Point To Point Exports Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of Traditional Peranakan Kueh Pie Tee Cups and Gourmet Shells.</small>
+			<small>Wholesale trading of a variety of food and beverage products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/red-lips">
+			<a target="_blank" href="/point-to-point">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -443,6 +527,27 @@ description: ""
 		</p>
 		<p>
 			<a target="_blank" href="/tat-hui">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/TGI%20Technology/tgi_technology_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>TGI Technology Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Trading company specialises in mineral water and fruit flavored sparkling drink.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/tgi-technology">
 				<small>Visit their page</small>
 			</a>
 		</p>

@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Mr Popiah Pte Ltd</b></h4>
-			<p>Singapore Manufacturer of quality spring roll pastry sheets. First in the world natural colored spring roll pastry sheets. Frozen Ready to eat wraps and Frozen pastries.</p>
+			<p>Mr Popiah Pte Ltd is a Singapore-based food manufacturer specialising in spring roll pastry, tortilla pastry, and ready-to-eat frozen wraps. It is the world’s first and only producer of naturally coloured spring roll pastry, including green tea, turmeric, charcoal, and beetroot variants. Manufactured in Singapore under strict quality standards, Mr Popiah supplies scalable, innovative Asian food solutions to retail, foodservice, and export markets worldwide.</p>
 			<p><a target="_blank" href="https://www.mrpopiah.com.sg">www.mrpopiah.com.sg</a></p>
 		</div>
 	</div>
@@ -28,16 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Cooked Food: </b>Ambient, Chilled, Frozen
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>FSSC 22000, HACCP, HALAL, ISO 22000
+				<b>Certifications: </b>EU Certified, FSSC 22000, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Middle East, Europe, Asia
+				<b>Export Markets: </b>UK, Netherlands, India, Cyprus, Italy
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Mr%20Popiah/mr_popiah_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Natural Colored Spring Roll Pastry Sheets</h6>
-			<p>Naturally colored spring roll pastry in vibrant green (green tea) and yellow (turmeric). Thin, easy to peel, and durable for wrapping. Fries light and crispy, not oily, and stays crunchy even when cooled or refried — perfect for eye-catching, delicious creations.</p>
+			<h6 style="text-transform: uppercase; color: black;">Spring Roll Pastry Sheet</h6>
+			<p>Made in Singapore and designed for deep frying, delivering excellent crispness and easy handling. Available in natural colours and multiple sizes, they help create visually distinctive, high-quality spring rolls for global markets.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,26 +71,8 @@ variant: markdown
 			<img src="/images/Mr%20Popiah/mr_popiah_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Frozen Microwave Ready To Eat Wraps</h6>
-			<p>Fully cooked and frozen wraps ready in 2 minutes. Packed with bold Asian and global flavors like Chicken Rice, Nyonya Curry, and western flavors like chicken burrito. No hassle, no mess — just heat, eat, and go. Perfect for home, office, or on-the-go meals.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Mr%20Popiah/mr_popiah_product_03.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tortilla Wraps</h6>
-			<p>Tortilla Wraps with different flavours and colours. Comes in 10 inch and 12 inch.</p>
-		</div>
-	</div>
-	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-		<div style="display: block;" class="flex-image">
-			<img src="/images/Mr%20Popiah/mr_popiah_product_04.jpg">
-		</div>
-		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Peking Duck Pastry</h6>
-			<p>Peking Duck Pastry. Comes in 10 cm and 14 cm.</p>
+			<h6 style="text-transform: uppercase; color: black;">Ready to Eat Microwave Wraps</h6>
+			<p>Fully cooked and frozen for convenience, heating in just minutes. Made in Singapore with quality ingredients, they are ideal for retail, foodservice, and vending, delivering consistent taste, nutrition, and reliability.</p>
 		</div>
 	</div>
 </div>
