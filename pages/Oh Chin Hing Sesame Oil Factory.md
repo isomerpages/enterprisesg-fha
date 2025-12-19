@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Alastair Aw</b>
-				<br>Business Manager<br>+65 8322 6877<br>
+				<br>Business Manager<br>+65 6481 3990<br>
 				<a style="color: white;" href="mailto:ohchinhing@gmail.com">ohchinhing@gmail.com</a>
 			</p>
 		</div>
