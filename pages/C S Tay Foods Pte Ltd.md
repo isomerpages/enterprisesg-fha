@@ -11,9 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>C S Tay Foods Pte Ltd</b></h4>
-			<p>It started out with almost an impossible dream - Bringing the world's finer selection to Singapore.</p>
-			<p>By only working with the best in the industry and countless hours spent sourcing and refining each items taste, C S Tay never disappoints.</p>
-			<p>Bringing in only top quality products that suit all ages from young to the young at heart. Quality is always our primary with pricing secondary, we stand by our consistent quality with no comparison.</p>
+			<p>Importer and Trader for fresh and frozen meat products. OEM supplier , Brand distributor and channel marketer. C S Tay covers a wide range of products and can tailor make the product to suit each customer's needs.</p>
 			<p><a target="_blank" href="https://www.cstay.com">www.cstay.com</a></p>
 		</div>
 	</div>
@@ -30,13 +28,13 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat</span>
 			</p>
 			<p>
-				<b>Product Storage Requirements: </b>Frozen
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>BRC, HALAL
+				<b>Certifications: </b>Partner factory has BRC, FSSC, HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, E-commerce
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce
 			</p>
 		</div>
 	</div>
@@ -61,8 +59,8 @@ description: ""
 			<img src="/images/C%20S%20Tay/c_s_tay_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Japanese Crispy Chicken Seaweed</h6>
-			<p>Since 1990, our Japanese Crispy Chicken Seaweed has been a top seller due to its unique and satisfying blend of chicken thigh meat and crispy seaweed.</p>
+			<h6 style="text-transform: uppercase; color: black;">Skinless Chicken Whole Breast Fillet</h6>
+			<p>High protein, low in calories and ready to eat. Perfect snack or protein for any meal of the day. Skinless and boneless and slightly charred for your convenience.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -70,8 +68,8 @@ description: ""
 			<img src="/images/C%20S%20Tay/c_s_tay_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Steamed Boneless Chicken Breast</h6>
-			<p>This chicken breast is fat-less, boneless and pre-portioned to suit a person's meat content for one meal. What is even more amazing about this item is the fact that you can eat it cold!</p>
+			<h6 style="text-transform: uppercase; color: black;">Japanese Crispy Chicken Seaweed</h6>
+			<p>Since 1990, our Japanese Crispy Chicken Seaweed has been a top seller due to its unique and satisfying blend of chicken thigh meat and crispy seaweed.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -79,9 +77,17 @@ description: ""
 			<img src="/images/C%20S%20Tay/c_s_tay_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">S-Pure Skinless Boneless Chicken Breast</h6>
-			<p>S-Pure Super Hygienic fresh chicken is super delicious, succulent, juicy, tender and tasty.</p>
-			<p>Product Info:<br>- Cage Free Chickens Inside A Smart Farm<br>- Vegetarian Grain-Feed Contains Probiotics &amp; Prebiotic<br>- No Growth Hormones<br>- No Growth Promoters<br>- No Added Antibiotics</p>
+			<h6 style="text-transform: uppercase; color: black;">Tatumoto Japanese Pork Sausage Original</h6>
+			<p>Now with an improved formula, our sausages now contain NO added MSG and NO Sodium Nitrate,. Our sausages not only use one of the highest meat content in the market, but also uses our extra lean formula.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/C%20S%20Tay/c_s_tay_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Hainanese Chicken Thigh</h6>
+			<p>Marinated Whole Boneless Chicken Thigh with skin, cooked to perfection. Each bite is succulent, juicy and tasty. We have concocted the most fragrant sesame soya sauce to pair with our chicken to give it that traditional flavor!</p>
 		</div>
 	</div>
 </div>
