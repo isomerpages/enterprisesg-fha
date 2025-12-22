@@ -33,13 +33,13 @@ description: ""
 				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Certifications: </b>HACCP
+				<b>Certifications: </b>HACCP, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Malaysia, Vietnam
+				<b>Export Markets: </b>Malaysia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -47,8 +47,8 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Alan</b>
-				<br>Manager<br>+65 9101 4979<br>
+				<b>Alan Tan</b>
+				<br>Manager<br>+65 9117 9599<br>
 				<a style="color: white;" href="mailto:contact@everythinggood.com.sg">contact@everythinggood.com.sg</a>
 			</p>
 		</div>
@@ -64,8 +64,17 @@ description: ""
 			<img src="/images/Everything%20Good/everything_good_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Confectionary Pastilles</h6>
-			<p>Low in Natural Sugar Fruit Pastilles</p>
+			<h6 style="text-transform: uppercase; color: black;">Loquat</h6>
+			<p>Mint Chewy Candy</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Everything%20Good/everything_good_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Sour Plum With Orange Peel</h6>
+			<p>Sour Plum Candy</p>
 		</div>
 	</div>
 </div>
