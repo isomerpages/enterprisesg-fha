@@ -7,11 +7,11 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/Ee%20Hui%20Food/ee_hui_food_logo.jpg">
+			<img src="/images/Ee%20Hui%20Food/ee_hui_food_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ee Hui Food Manufacture Pte Ltd</b></h4>
-			<p>Food manufacturer that specialise in fish balls, fish cake and yong tau foo.</p>
+			<p>We manufacture a wide range of surimi products from fresh and handmade products to Yong Tau Foo and frozen varieties, distributing to a loyal customer base from around the world. We remain committed to producing exceptional quality products, without compromising food safety, and always towards the highest satisfaction of our customers.</p>
 			<p><a target="_blank" href="https://www.eehuifood.com">www.eehuifood.com</a></p>
 		</div>
 	</div>
@@ -25,16 +25,19 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Eggs and Fresh Produce, Meat, Seafood</span>
+				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Seafood</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Hong Kong, Mauritius
+				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Hong Kong, Australia, Mauritius, Brunei
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -59,8 +62,8 @@ description: ""
 			<img src="/images/Ee%20Hui%20Food/ee_hui_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Korean Fish Cake</h6>
-			<p>Korean shaped fishcake with singapore's flavour.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fishball</h6>
+			<p>Singapore Style Fish ball</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,8 @@ description: ""
 			<img src="/images/Ee%20Hui%20Food/ee_hui_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Xiao Yu Xiang</h6>
-			<p>Singapore style fish finger.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fried Fish Cake</h6>
+			<p>Singapore Style Fish Cake</p>
 		</div>
 	</div>
 </div>
