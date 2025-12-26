@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Lam Kee Fisheries Pte Ltd</b></h4>
-			<p>Lam Kee Fisheries, established in the 1970s, is Singapore's leading importer and exporter of premium frozen seafood. Renowned for consistent quality and reliability, we deliver exceptional value by balancing superior quality with competitive pricing. We pride ourselves on fostering long-term partnerships, offering dedicated sales support, and driving collaborative growth.</p>
+			<p>Lam Kee Fisheries, established in the 1970s, is Singapore's leading importer and exporter of premium frozen seafood. Renowned for consistent quality and reliability, we deliver exceptional value by balancing superior quality with competitive pricing. We pride ourselves on fostering long-term partnerships, offering dedicated sales support, and driving collaborative growth. Discover how our premium seafood solutions can elevate your business at the expo.</p>
 			<p><a target="_blank" href="https://www.lamkeeseafood.com">www.lamkeeseafood.com</a></p>
 		</div>
 	</div>
@@ -31,10 +31,10 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>Aquaculture Stewardship Council, ISO 22000, Marine Stewardship Council
+				<b>Certifications: </b>Aquaculture Stewardship Council, HACCP, ISO 22000, Marine Stewardship Council
 			</p>
 			<p>
-				<b>Export Markets: </b>South East Asia, Asia, Middle East 
+				<b>Export Markets: </b>South East Asia, Middle East, China
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
