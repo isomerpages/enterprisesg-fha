@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Garden Picks Food Manufacturing LLP</b></h4>
-			<p>Garden Picks is a major importer, wholesaler, OEM manufacturer and packer of dried fruits, nuts, grains, superfoods &amp; alternative snacks. Our clientele includes renowned restaurant chains, hotels, airlines and retailers across Singapore.</p>
+			<p>Garden Picks is a major importer, distributor and OEM packer of dried fruits, nuts, grains and wholesome snacks here in Singapore. A trusted supplier since 2009, our clientele includes hundreds of renowned restaurant chains, bakeries hotels, airlines and retailers across Singapore. With hundreds of pallets of freshly imported products in our cold room at any time, no order is too big or small for us to handle.</p>
 			<p><a target="_blank" href="https://www.gardenpicks.com.sg">www.gardenpicks.com.sg</a></p>
 		</div>
 	</div>
@@ -26,6 +26,9 @@ variant: markdown
 			<p>
 				<b>Product Category: </b>
 				<span style="background-color: pink; border-radius: 10px;">Snacks and Confectionery</span>
+			</p>
+			<p>
+				<b>Product Storage Requirements: </b>Ambient, Chilled
 			</p>
 			<p>
 				<b>Export Markets: </b>Malaysia
@@ -57,7 +60,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Nuts &amp; Seeds</h6>
-			<p>Whether you're a seasoned chef or an adventurous home cook, our Nuts and Seeds provides a canvas for culinary exploration. Whether toasted to perfection or used raw, they add a satisfying element that can turn a simple salad, pasta, or stir-fry into a gourmet sensation.</p>
+			<p>Our range of nuts and seeds are sourced from the top growers overseas with the highest reliability and quality. Items are specially crafted for chefs, bakers, and foodservice professionals who value quality and consistency.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -66,7 +69,25 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Dried Fruits</h6>
-			<p>Discover a world of flavour, nutrition, and versatility with our dried fruit. Whether incorporated into breakfast cereals, baked goods, salads, or trail mixes, these versatile delights add a burst of flavor and nutritional goodness.</p>
+			<p>Choose from wide range of dried fruits for your next OEM snack recipe or for your baking needs. Ideal for baking, cooking, blending, and garnishing, create your next signature recipe with our highest quality dried fruits ingredients.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Garden%20Picks%20Food/garden_picks_food_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Cereals &amp; Grains</h6>
+			<p>Ideal for caterers and restaurants, we carry one of the widest selection of grains in the market suitable for flexibility in menu creation. Check out our in house made granola too which is perfect for breakfast, yogurt or acai toppings.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Garden%20Picks%20Food/garden_picks_food_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Snack Foods</h6>
+			<p>Our irresistible range of snack foods promises to deliver satisfaction in every bite. From flavored nuts and mouthwatering soya crisps our snacks turn ordinary moments into flavorful experiences. Perfect for hotel lounges &amp; bar uses.</p>
 		</div>
 	</div>
 </div>
