@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Hotbake Innovations Pte Ltd</b></h4>
-			<p>Manufacturer of healthier choice sandwiches.</p>
+			<p>We are a food manufacturer specializing in freshly made sandwiches. Our production focuses on quality, safety, and consistency, delivering reliable ready-to-eat sandwich solutions for our clients.</p>
 			<p><a target="_blank" href="https://www.hobie.com.sg">www.hobie.com.sg</a></p>
 		</div>
 	</div>
@@ -28,10 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Bakery, Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, SS590 Certified
+				<b>Product Storage Requirements: </b>Chilled
+			</p>
+			<p>
+				<b>Certifications: </b>HACCP, HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -56,7 +59,8 @@ variant: markdown
 			<img src="/images/Hotbake%20Innovations/hotbake_innovations_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sandwich, Wrap &amp; Trail Mix</h6>
+			<h6 style="text-transform: uppercase; color: black;">Sandwiches</h6>
+			<p>Handcrafted sandwiches made with premium ingredients, offering consistent quality, great flavour, and ready-to-eat convenience.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -64,7 +68,17 @@ variant: markdown
 			<img src="/images/Hotbake%20Innovations/hotbake_innovations_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Trail Mix</h6>
+			<h6 style="text-transform: uppercase; color: black;">Wrap</h6>
+			<p>Freshly made wraps filled with quality ingredients, offering a light, tasty, and convenient meal option.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Hotbake%20Innovations/hotbake_innovations_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Cooked Salad</h6>
+			<p>Freshly prepared cooked salads made with quality ingredients, offering hearty flavours and a convenient ready-to-eat meal.</p>
 		</div>
 	</div>
 </div>
