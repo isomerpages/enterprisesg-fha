@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Global Oceanlink Pte Ltd</b></h4>
-			<p>We operate a streamlined supply chain including our very own ISO 22000 - certified processing plant and warehousing facilities in Woodlands Loop and an on-site sourcing/procurement department based in Jurong Fishery Port, closely cooperating with raw seafood merchants from within the South East Asian region.</p>
+			<p>Global Oceanlink Pte Ltd is a well-established seafood company in Singapore since 2005. We operate a streamlined supply chain including our very own ISO 22000-certified processing plant and warehousing facilities in Woodlands Loop and an on-site sourcing / procurement department based in Jurong Fishery Port, closely cooperating with seafood merchants.</p>
 			<p><a target="_blank" href="https://www.globaloceanlink.com.sg">www.globaloceanlink.com.sg</a></p>
 		</div>
 	</div>
@@ -31,13 +31,10 @@ description: ""
 				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>Aquaculture Stewardship Council, HACCP, ISO 22000
-			</p>
-			<p>
-				<b>Export Markets: </b>Malaysia
+				<b>Certifications: </b>HACCP, ISO 22000, Marine Stewardship Council
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Wholesalers, Food Service Suppliers / Players, OEM Manufacturer
+				<b>Looking for: </b>OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -46,7 +43,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Jasmond Loh</b>
-				<br>Director<br>+65 8322 7646<br>
+				<br>Sales Director<br>+65 8322 7646<br>
 				<a style="color: white;" href="mailto:jasmondloh@etravelite.com">jasmondloh@etravelite.com</a>
 			</p>
 		</div>
@@ -63,7 +60,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Live Oyster</h6>
-			<p>In 1890, Our family began farming shellfish in the waters of the Puget Sound.</p>
+			<p>IOur #1 oyster, famous for its sweet-and-salty cucumber flavor. Originating from the Matsashima Bay on the Pacific coast of central Japan, the Pacific Oyster is now the most widely farmed oyster in the world.</p>
 		</div>
 	</div>
 </div>

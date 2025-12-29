@@ -54,6 +54,27 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chee%20Seng/chee_seng_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Chee Seng Oil Factory Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of Sesame Oil.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/chee-seng">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Chefmaster/chefmaster_logo.png">
 		</figure>
 	</div>
@@ -369,6 +390,27 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Origins%20Healthcare/origins_healthcare_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Origins Healthcare Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Origins Healthcare Pte Ltd is the export entity for the FairPrice Group.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/origins-healthcare">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Prima%20Food/prima_food_logo.png">
 		</figure>
 	</div>
@@ -612,6 +654,27 @@ third_nav_title: Product Categories
 		</p>
 		<p>
 			<a target="_blank" href="/wahyu-brand">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/yen-food-solutions">
 				<small>Visit their page</small>
 			</a>
 		</p>

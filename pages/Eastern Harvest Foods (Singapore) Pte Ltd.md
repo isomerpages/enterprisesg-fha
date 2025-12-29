@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Eastern Harvest Foods (Singapore) Pte Ltd</b></h4>
-			<p>Established in 2006 as an importer and distributor of frozen seafood and Japanese cuisine, we have evolved over the years to expand our catalogue to include meats, seafood, dairy, sauces, and more. Today, our offerings range from essentials such as beef and fresh fish to high-end items like Carabinero shrimp and caviar. Additionally, we have recently introduced desserts and a variety of dairy products to cater to the growing and diverse demands of our customers.</p>
+			<p>Eastern Harvest is a leading Singapore supplier of seafood, meats, and specialty foods. Established in 2006, we import from over 20 countries to deliver high-quality, reliable products to our customers. With strong partnerships and a commitment to safety and innovation, we continuously expand our offerings to meet the evolving needs of the food industry.</p>
 			<p><a target="_blank" href="https://www.easternharvest.com.sg">www.easternharvest.com.sg</a></p>
 		</div>
 	</div>
@@ -28,16 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Meat, Seafood</span>
 			</p>
 			<p>
-				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Certifications: </b>HALAL, ISO 22000
+				<b>Certifications: </b>Aquaculture Stewardship Council, ISO 22000, Marine Stewardship Council
 			</p>
 			<p>
 				<b>Export Markets: </b>Indonesia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, E-commerce, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -45,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Ho Jiajun</b>
-				<br>Marketing Executive<br>+65 9363 2822<br>
-				<a style="color: white;" href="mailto:jiajun.ho@easternharvest.com.sg">jiajun.ho@easternharvest.com.sg</a>
+				<b>Regina</b>
+				<br>Creative Marketing Junior Associate<br>+65 6933 2919<br>
+				<a style="color: white;" href="mailto:regina.siva@easternharvest.com.sg">regina.siva@easternharvest.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Beef Tomahawk</h6>
-			<p>Our premium Beef Tomahawk is a show-stopping cut, renowned for its tenderness and rich marbling. Sourced from quality farms, it’s perfect for grilling or roasting, delivering a bold, juicy flavor with every bite. Ideal for special occasions or indulgent feasts.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fisher's Catch Cod Portion</h6>
+			<p>Fisher's Catch Cod Portion offers premium, flaky white fish that’s mild in flavour and perfect for everyday cooking. Ideal for baking, grilling, or pan-searing, it provides a convenient, versatile option for healthy, delicious meals.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fresh Fish (Amadai)</h6>
-			<p>Our Fresh Amadai (Tilefish) is prized for its delicate, sweet flavor and tender texture. Perfect for sashimi, grilling, or steaming, this premium fish elevates any dish with its refined taste. Sourced for freshness and quality, it’s a favorite among seafood connoisseurs.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fukuyama Hokkaido Scallop</h6>
+			<p>Fukuyama Scallops are premium, sashimi-grade Hokkaido shellfish known for their natural sweetness, tender yet firm texture, and delicate ocean flavour. Ideal for sushi, searing, or gourmet seafood dishes.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +80,8 @@ variant: markdown
 			<img src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Caviar (Sturgeon)</h6>
-			<p>Our premium Sturgeon Caviar offers a luxurious burst of flavor, with rich, buttery notes and a smooth finish. Perfect for gourmet dishes or indulgent pairings, it’s sourced for exceptional quality to elevate any dining experience. A true delicacy for refined palates.</p>
+			<h6 style="text-transform: uppercase; color: black;">Okeanoss Unagi Kabayaki</h6>
+			<p>Premium eel, expertly filleted and grilled, then glazed in a sweet soy mirin kabayaki sauce. Rich, buttery texture and authentic Japanese flavour, perfect over rice, noodles or enjoyed on its own.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +89,8 @@ variant: markdown
 			<img src="/images/Eastern%20Harvest%20Foods/eastern_harvest_foods_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Hyogo Oyster</h6>
-			<p>Our fresh oysters are a delicacy, offering a briny sweetness and a creamy texture with every bite. Perfect for serving grilled, or baked, they are carefully selected to ensure premium quality and freshness. Ideal for seafood lovers and elegant dining occasions.</p>
+			<h6 style="text-transform: uppercase; color: black;">Fukuyama Cooked King Crab Cluster</h6>
+			<p>Sweet, succulent king crab legs fully cooked for convenience. Enjoy premium crab meat with firm texture and rich flavour, perfect for salads, pasta, grilling or dipping in butter. Ready to serve for any seafood feast.</p>
 		</div>
 	</div>
 </div>

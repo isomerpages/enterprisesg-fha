@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chee Seng Oil Factory Pte Ltd</b></h4>
-			<p>Chee Seng Oil Factory, started since 1943, is the No.1 Sesame Oil Brand in Singapore, made in Singapore. Chee Seng is a household brand in Singapore and most parts of Asia as well as Europe. Distributing in more than 35 countries, Chee Seng Sesame Oil continues to build its clientele and market shares. Produced with advanced and efficient technology while retaining traditional fragrance in a clean and hygienic environment with FSSC 22000 Certified Factory Facilities.</p>
+			<p>Chee Seng Oil Factory Pte Ltd, founded in 1943, is Singapore's pioneer in sesame oil production. Renowned for its flagship Chee Seng, Double Pagoda, and Golden Ox brands, the company upholds FSSC 22000, Halal, and Kosher standards. With modern automation and sustainability practices, Chee Seng continues to craft premium sesame oils and flavoured oils loved across Asia, Europe, and beyond.</p>
 			<p><a target="_blank" href="https://www.cheeseng-oil.com">www.cheeseng-oil.com</a></p>
 		</div>
 	</div>
@@ -25,7 +25,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Edible Oils and Fats</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Edible Oils and Fats</span>
 			</p>
 			<p>
 				<b>Product Storage Requirements: </b>Ambient
@@ -34,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, HALAL, Kosher
 			</p>
 			<p>
-				<b>Export Markets: </b>South East Asia, Europe, Australia, New Zealands, USA, Hong Kong
+				<b>Export Markets: </b>Indonesia, Malaysia, Europes, Australia, New Zealand, US
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Lim Kay Kheng</b>
-				<br>Sales &amp; Marketing Director<br>+65 9825 9279<br>
+				<br>Director<br>+65 6797 0858<br>
 				<a style="color: white;" href="mailto:lim_kaykheng@cheeseng.com.sg">lim_kaykheng@cheeseng.com.sg</a>
 			</p>
 		</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Chee%20Seng/chee_seng_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chee Seng 100% Pure Sesame Oil</h6>
-			<p>CHEE SENG Pure Sesame Oil is a premium-quality oil made from 100% roasted sesame seeds, carefully selected and expertly processed to deliver a rich, nutty aroma and deep, authentic flavour.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chee Seng Sesame Oil</h6>
+			<p>CHEE SENG Pure Sesame Oil is a premium-quality oil made from 100% roasted sesame seeds, carefully selected and expertly processed to deliver a rich, nutty aroma and deep, authentic flavor.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,7 +72,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Double Pagoda Mala Sesame Oil</h6>
-			<p>Elevate your dishes with the bold and authentic kick of Mala Sesame Oil — a fiery blend of premium roasted sesame oil infused with the unmistakable mala flavor, featuring the numbing heat of Szechuan peppercorns and aromatic chili. Carefully crafted oil delivers the signature mala sensation.</p>
+			<p>Double Pagoda Mala Sesame Oil — a fiery blend of premium roasted sesame oil infused with the unmistakable mala flavor, featuring the numbing heat of Szechuan peppercorns and aromatic chili.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -90,7 +90,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Double Pagoda Ginger Oil</h6>
-			<p>Warm, spicy, and aromatic. Ginger Oil brings the natural zest of ginger to your kitchen in a convenient and versatile form. Using natural ginger extract to deliver the familiar kick of fresh ginger without the need to slice, grate, or sauté.</p>
+			<p>Natural zest of ginger to your kitchen in a convenient and versatile form. The oil is infused with natural ginger extract in high-quality vegetable oil, delivering the kick of fresh ginger without the need to slice, grate, or sauté.</p>
 		</div>
 	</div>
 </div>

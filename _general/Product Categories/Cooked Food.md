@@ -117,6 +117,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/DK%20Food/dk_food_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>DK Food Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supply premium and safe selections of Halal-certified meat as well as a wide variety of high-quality foods.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/dk-food">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Dotzu/dotzu_logo.png">
 		</figure>
 	</div>
@@ -516,6 +537,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Lee%20Wee%20Brothers/lee_wee_brothers_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Lee Wee &amp; Brothers Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Specialise in Singapore cuisine such as Otah, Nasi Lemak &amp; Local Delights.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/lee-wee-brothers">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/leo_satay_logo.png">
 		</figure>
 	</div>
@@ -612,6 +654,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/mr-popiah">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Origins%20Healthcare/origins_healthcare_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Origins Healthcare Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Origins Healthcare Pte Ltd is the export entity for the FairPrice Group.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/origins-healthcare">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -906,6 +969,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/xin-jia-fu">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/yen-food-solutions">
 				<small>Visit their page</small>
 			</a>
 		</p>

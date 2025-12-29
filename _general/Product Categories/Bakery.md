@@ -117,6 +117,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Biga%20Italian/biga_italian_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Biga Italian Bakery Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Artisan producer of frozen pizza bases, focaccia, and flatbreads made with authentic Italian sourdough.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/biga-italian">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/cooking_art_logo.jpg">
 		</figure>
 	</div>
@@ -222,6 +243,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Foodedge%20Gourmet/foodedge_gourmet_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Foodedge Gourmet Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Wholesale bakery and kitchen supplying food to key food and beverage clients.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/foodedge-gourmet">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Homes%20Favourite/homes_favourite_logo.png">
 		</figure>
 	</div>
@@ -255,6 +297,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/hotbake-innovations">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mdm%20Ling%20Bakery/mdm_ling_bakery_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Mdm Ling Bakery Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of artisanal cookies, mooncakes, and festive delicacies.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/mdm-ling-bakery">
 				<small>Visit their page</small>
 			</a>
 		</p>

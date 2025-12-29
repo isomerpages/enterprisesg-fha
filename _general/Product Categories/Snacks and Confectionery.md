@@ -621,6 +621,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hong%20Wun/hong_wun_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Hong Wun Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Supplier of seafood and snack.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/hong-wun">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Hougang%20Otah/hougang_otah_logo.png">
 		</figure>
 	</div>
@@ -726,6 +747,27 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mdm%20Ling%20Bakery/mdm_ling_bakery_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Mdm Ling Bakery Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of artisanal cookies, mooncakes, and festive delicacies.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/mdm-ling-bakery">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/mhy_logo.png">
 		</figure>
 	</div>
@@ -822,6 +864,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/orient-foods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Origins%20Healthcare/origins_healthcare_logo.jpg">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Origins Healthcare Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Origins Healthcare Pte Ltd is the export entity for the FairPrice Group.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/origins-healthcare">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -1209,27 +1272,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vintage%20Venture/vintage_venture_logo.jpg">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Vintage Venture Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Specialise in beverage, snacks and confectionery.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/vintage-venture">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/wahyu_logo.jpg">
 		</figure>
 	</div>
@@ -1263,6 +1305,90 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/win-win">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/yen-food-solutions">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/yen-food-solutions">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Zenko%20Superfoods/zenko_superfoods_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Zenko Superfoods Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Singapore-based healthy snack company.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/zenko-superfoods">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Zixin%20Enterprise/zixin_enterprise_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Zixin Enterprise (Singapore) Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Global enterprise specialising in FMCG distribution.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/zixin-enterprise">
 				<small>Visit their page</small>
 			</a>
 		</p>

@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Kaimay Trading Pte Ltd</b></h4>
-			<p>Established in 1985, is a leading distributor in the Asia Pacific Region, specializing in global FMCG partnerships. Our extensive network spans duty-free, airlines, wholesalers, modern trade, retailers, and e-commerce. With a focus on the specialty store concept, we operate two retail shops in prime Singapore locations, Jewel Changi and IMM, offering a curated selection of international and local brands.</p>
+			<p>Established in 1985, Kaimay Trading is a leading distributor in the Asia Pacific region, specializing in global FMCG partnerships. Kaimay's diverse portfolio features partnerships with leading global brands such as Nestlé, Ferrero, Lindt, Beam Suntory, Pernod Ricard, and William Grant &amp; Sons. Our extensive network spans across airport shops, border shops, downtown duty-free outlets, seaports, in-flight services, cruise supplies, wholesales, modern trade, and e-commerce.</p>
 			<p><a target="_blank" href="https://www.kaimay.com.sg">www.kaimay.com.sg</a></p>
 		</div>
 	</div>
@@ -31,13 +31,13 @@ description: ""
 				<b>Product Storage Requirements: </b>Ambient, Chilled
 			</p>
 			<p>
-				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+				<b>Certifications: </b>Gluten Free, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan
+				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan, Australia, USA
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, Importers, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -45,9 +45,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Tan Yi Sin</b>
-				<br>Deputy Director<br>+65 6425 0363<br>
-				<a style="color: white;" href="mailto:enquiry@kaimay.com.sg">enquiry@kaimay.com.sg</a>
+				<b>Desmond Tan</b>
+				<br>Sales Director<br>+65 6425 0363<br>
+				<a style="color: white;" href="mailto:destan@kaimay.com.sg">destan@kaimay.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ description: ""
 			<img src="/images/Kaimay%20Trading/kaimay_trading_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Danisa Butter Cookies (454g)</h6>
-			<p>Harvest Moon, Butter Pretzel, Sugar Slice, Vanilla Ring, Currant Crunch. Authentic Danish Recipe. Danisa is made using authentic Danish recipe and fine quality ingredient. It is loved for its perfectly baked golden crisp, great buttery aroma and delicious butter cookies that melts in the mouth.</p>
+			<h6 style="text-transform: uppercase; color: black;">pH Balancer Ocean Alkaline Ion Water</h6>
+			<p>With a pH value ranging from 8 to 9.5, this water boasts a smooth and gentle texture on the palate, making it the perfect choice for rehydration and restoring your body's optimal pH balance while neutralizing acidic waste.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,26 @@ description: ""
 			<img src="/images/Kaimay%20Trading/kaimay_trading_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">TTL Sweet Touch Lychee Fruit Beer (330ml)</h6>
-			<p>The Sweet Touch Series from Taiwan Beer enhances your taste experience, a wonderful fermentation of juice and beer. Without the bitterness of beer or the taste of spirits, it satisfies our craving for a little dessert sweetness and quench our thirst for some drinks.</p>
+			<h6 style="text-transform: uppercase; color: black;">Gomee Gummies</h6>
+			<p>GOMEE: Go with me! Gomee create a sense of excitement, inviting consumers to take Gomee along wherever they go. Gomee can be the go-to-snack for on-the-go fun. A perfect companion for any adventures, parties, trips, and everyday enjoyment.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Kaimay%20Trading/kaimay_trading_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">pH balancer Magnesium Ocean Ion Water</h6>
+			<p>pH balancer Magnesium Ocean Ion Water is a drinking water enriched with magnesium ions, added through an advanced mineral extraction system. It's higher magnesium level making it a healthier and more effective option for daily hydration.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Kaimay%20Trading/kaimay_trading_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Maikom Bagel Chips</h6>
+			<p>Maikom Bagel Chips are premium oven-baked, low-calorie snacks with a light crunch. Made with quality ingredients and tasty flavours, they are a healthy alternative for guilt-free everyday snacking.</p>
 		</div>
 	</div>
 </div>

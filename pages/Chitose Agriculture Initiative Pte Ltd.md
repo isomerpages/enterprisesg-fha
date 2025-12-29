@@ -11,8 +11,8 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chitose Agriculture Initiative Pte Ltd</b></h4>
-			<p>Chitose Agriculture, promotes "a thousand years of agriculture", focusing on soil health and sustainable farming practices. By enhancing farmland ecosystems and reducing reliance on chemicals, the company ensures the consistent production of nutritious crops. Chitose Agriculture collaborates with like-minded partners, sharing knowledge and innovative methods to address challenges like soil degradation and food security. Our mission is to expand sustainable agriculture worldwide, balancing productivity with environmental preservation for future generations.</p>
-			<p><a target="_blank" href="https://www.agriculture.chitose-bio.com">www.agriculture.chitose-bio.com</a></p>
+			<p>Chitose Agriculture Initiative Pte. Ltd.,  is part of the CHITOSE Group, applies advanced Japanese agricultural technology and biotechnology to develop sustainable, high-quality farming in Southeast Asia. Producing premium crops like Japanese strawberries and vegetables, we focuses on eco-friendly, soil-enriching methods that promote long-term environmental health, innovation, and community-driven agriculture for a sustainable future.</p>
+			<p><a target="_blank" href="https://agriculture.chitose-bio.com">agriculture.chitose-bio.com</a></p>
 		</div>
 	</div>
 </div>
@@ -30,6 +30,9 @@ description: ""
 			<p>
 				<b>Product Storage Requirements: </b>Ambient, Chilled
 			</p>
+			<p>
+				<b>Certifications: </b>MYGAP
+			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
@@ -40,7 +43,7 @@ description: ""
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Nickaila Hau</b>
-				<br>Regional Relationship Manager<br>+65 6980 7207<br>
+				<br>Regional Relationship Manager<br>+65 8896 5039<br>
 				<a style="color: white;" href="mailto:nickaila.hau@chitose-bio.com">nickaila.hau@chitose-bio.com</a>
 			</p>
 		</div>
@@ -56,8 +59,8 @@ description: ""
 			<img src="/images/Chitose%20Agriculture/chitose_agriculture_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Japanese Strawberries</h6>
-			<p>Grown in the highlands of Malaysia, available year round. Sweet and aromatic with a balanced tartness.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chitose Strawberries</h6>
+			<p>Chitose strawberries are premium Japanese-variety berries grown with advanced Japanese technology and sustainable methods, offering exceptional sweetness, aroma, and freshness for a pure, high-quality taste of Japan in Southeast Asia.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -65,8 +68,8 @@ description: ""
 			<img src="/images/Chitose%20Agriculture/chitose_agriculture_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Japanese Cherry Tomato</h6>
-			<p>Sweet and juicy cherry tomatoes even kids will enjoy.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chitose Cherry Tomatoes</h6>
+			<p>Chitose cherry tomatoes are grown with advanced Japanese technology and sustainable methods, offering vibrant color, rich sweetness, and exceptional freshness for a premium taste experience.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -74,8 +77,8 @@ description: ""
 			<img src="/images/Chitose%20Agriculture/chitose_agriculture_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">White Sweet Corn</h6>
-			<p>So fresh and so sweet, you can even eat it raw.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chitose Sweet Corn</h6>
+			<p>Chitose Sweet Corn is grown with advanced Japanese technology and sustainable farming, offering crisp texture, natural sweetness, and rich flavor for a fresh, premium taste experience.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -83,8 +86,8 @@ description: ""
 			<img src="/images/Chitose%20Agriculture/chitose_agriculture_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Japanese Vegetables</h6>
-			<p>Range from daikon to mizuna, horenso, shishito, toronasu, shungiku and even oba leaves. Selected from hundreds of varieties, we chose those whose taste can be loved and enjoyed by everyone.</p>
+			<h6 style="text-transform: uppercase; color: black;">Japan Pavilion Spirulina Miso Soup</h6>
+			<p>Japan Pavilion Freeze-Dried Spirulina Miso Soup combines authentic Japanese miso with nutrient-rich spirulina, offering a convenient, flavorful, and healthy soup made using advanced freeze-drying technology to preserve taste and nutrition.</p>
 		</div>
 	</div>
 </div>

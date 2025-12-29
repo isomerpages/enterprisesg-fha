@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - FHA 2026.md
       - Gulfood 2026.md
       - Anuga 2025.md
       - FHA 2025.md

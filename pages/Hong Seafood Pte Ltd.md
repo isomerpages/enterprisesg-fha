@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Hong Seafood Pte Ltd</b></h4>
-			<p>HSF Group is a leading frozen seafood supplier dedicated to our mission of providing high quality seafood and exceptional service to the market. Through our extensive global network which gives us direct access to diverse seafood sources, we maintain competitive pricing and simplify the process of seafood procurement for our retail, foodservice, wholesale and export customers.</p>
+			<p>HSF Group is a leading frozen seafood supplier committed to delivering high-quality products and exceptional service. With an extensive global network and direct access to diverse seafood sources, we offer competitive pricing and simplify procurement for retail, foodservice, wholesale, and export customers.</p>
 			<p><a target="_blank" href="https://www.hongseafood.com">www.hongseafood.com</a></p>
 		</div>
 	</div>
@@ -34,7 +34,7 @@ variant: markdown
 				<b>Certifications: </b>Aquaculture Stewardship Council, BRC, GMP, HACCP, HALAL, ISO 22000, Marine Stewardship Council, Organic
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, ASEAN, Hong Kong, Japan, Mexico, Singapore, Taiwan, USA
+				<b>Export Markets: </b>Australia, ASEAN, Japan, Hong Kong, Taiwan, Mexico, US
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, OEM Manufacturer
@@ -63,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Australian Scallop</h6>
-			<p>Delicious frozen Australian scallops, sweet and tender with a fresh, natural flavor. Perfect for quick, easy meals—grill, pan-sear, or add to your favorite dishes. Sustainably sourced and flash-frozen to lock in quality and taste. Simple, wholesome, and ready to enjoy!</p>
+			<p>Sweet, tender Australian scallops with fresh natural flavor. Perfect for quick meals—grill, pan-sear, or add to any dish. Sustainably sourced and flash-frozen to lock in quality, they’re simple, wholesome, and always ready to enjoy.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,7 +72,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Cooked Prawn</h6>
-			<p>Premium live-cooked prawns, Halal-certified and sustainably sourced for guilt-free indulgence. Fresh, succulent, and bursting with natural flavor, perfect for any meal. Responsibly farmed to protect our oceans—deliciously ethical seafood you can trust!</p>
+			<p>Premium live-cooked prawns, Halal-certified and sustainably sourced for guilt-free enjoyment. Fresh, succulent, and full of natural flavor—perfect for any meal. Responsibly farmed for delicious, ethical seafood you can trust.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -81,7 +81,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Fish Maw</h6>
-			<p>Discover our fish maw in two exciting varieties: dried for timeless recipes or ready-to-cook for quick, flavorful meals! Packed with collagen for radiant skin and strong joints, it’s a delicious, nutritious choice that adds a rich, indulgent touch to soups and stews!</p>
+			<p>Discover our fish maw in two varieties: dried for classic recipes or ready-to-cook for quick, flavorful meals. Rich in collagen and amino acids, it supports skin and joints while adding a delicious, indulgent touch to soups and stews.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -90,7 +90,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Red Sea Prawn</h6>
-			<p>Our sustainable shrimp farming taps into the pristine waters of the Red Sea, enriched by desert conditions and high salinity, creating prawns bursting with exceptional flavor and quality! Halal-certified and Aquaculture Stewardship Council-approved, we’re proud to deliver responsibly farmed excellence.</p>
+			<p>Sustainably farmed in the pristine, high-salinity waters of the Red Sea, our prawns boast exceptional flavor and quality. Halal-certified and ASC-approved, they offer responsibly farmed excellence you can trust in every bite.</p>
 		</div>
 	</div>
 </div>
