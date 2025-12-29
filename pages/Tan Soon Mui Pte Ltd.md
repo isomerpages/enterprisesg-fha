@@ -10,8 +10,8 @@ variant: markdown
 			<img src="/images/Tan%20Soon%20Mui/tan_soon_mui_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Tan Soon Mui Food Industries</b></h4>
-			<p>Tan Soon Mui Food Industries traces its humble beginnings since 1974, where our popularity and demand for producing delicious traditional Asian desserts steadily grew with time. From premium top quality products to well-loved favourites, the team behind Tan Soon Mui Food Industries is dedicated to serving our clients with the absolute highest level of commitment and integrity. Our continuing passion has now proudly positioned us as one of Singapore's Leading Asian Desserts Manufacturer.</p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Tan Soon Mui Pte Ltd</b></h4>
+			<p>Tan Soon Mui, founded in 1974, crafts authentic Asian desserts using heritage recipes and quality ingredients. Known for premium traditional favourites and customised products for global markets, we uphold strict quality control at every stage. Our meticulous production and dedication to excellence have established us as one of Singapore’s leading Asian dessert manufacturers.</p>
 			<p><a target="_blank" href="https://www.tsmfood.com">www.tsmfood.com</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage, Others</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Australia, Brunei, Europe, Vietnam, New Zealand
+				<b>Certifications: </b>HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Indonesia, China, Thailand, Germany, Norway, Hong Kong
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -42,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Roy Tan</b>
-				<br>Manager<br>+65 9007 7110<br>
-				<a style="color: white;" href="mailto:acc@tsmfood.com">acc@tsmfood.com</a>
+				<b>Tan Hao Xiang</b>
+				<br>Manager<br>+65 9199 0467<br>
+				<a style="color: white;" href="mailto:sales@tlefood.com">sales@tlefood.com</a>
 			</p>
 		</div>
 	</div>
@@ -56,21 +59,38 @@ variant: markdown
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tan_soon_mui_product_01.jpg">
+			<img src="/images/Tan%20Soon%20Mui/tan_soon_mui_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Sensoh Grass Jelly &amp; Ice Jelly SlurpUp</h6>
-			<p>The new generation of enjoying grass jelly in a cup. Just Pop it. Slurp it.</p>
-			<p>Awarded the 'Healthier Choice'. Contains 25% Lower in Sugar than other regular jellies.</p>
+			<h6 style="text-transform: uppercase; color: black;">Nanyang Roast Black Coffee</h6>
+			<p>Our Nanyang Roast Black Coffee delivers rich, bold flavours honed through four decades of roasting traditions. Using premium Robusta beans and true Nanyang craftsmanship, it offers an authentic and aromatic coffee brew.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 		<div style="display: block;" class="flex-image">
-			<img src="/images/tan_soon_mui_product_02.jpg">
+			<img src="/images/Tan%20Soon%20Mui/tan_soon_mui_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tan Soon Mui Jelly Series</h6>
-			<p>Singapore's leading grass jelly manufacturer since 1974. Tan Soon Mui's classic jelly series such as Grass Jelly, Ice Jelly, Chestnut Green Bean cake and Pandan Chendol. Available in variable size. Be it to enjoy instantly or DIY your own dessert bowl, we got you covered! It can be served with fruits, toppings, soya milk and even coffee!</p>
+			<h6 style="text-transform: uppercase; color: black;">Nanyang Roast Black Coffee (Kopi-O-Kosong Capsules)</h6>
+			<p>The authentic taste of Nanyang heritage. Singapore's best Nanyang Roast Black Coffee, locally roasted and manufactured. Experience our tradition in a 100% fully recyclable capsule.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Tan%20Soon%20Mui/tan_soon_mui_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Sensoh Slurp Up Grass Jelly</h6>
+			<p>Grab-and-go grass jelly! SENSOH SLURPUP is the new generation of enjoyment. Simply pop it and slurp it, guilt-free and healthier-choice certified with 25% lower in sugar than regular jellies.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Tan%20Soon%20Mui/tan_soon_mui_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Chin Chow Dessert</h6>
+			<p>An all-time's favourite, timeless and refreshing, cooling Chin Chow dessert perfect for Singapore’s heat. Enjoy it on its own or elevate it with your favourite toppings for a fun, and guilt-free treat.</p>
 		</div>
 	</div>
 </div>
