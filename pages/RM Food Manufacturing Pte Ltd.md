@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>RM Food Manufacturing Pte Ltd</b></h4>
-			<p>RM Food Manufacturing Ptd Ltd is a subsidiary of Select Group, with more than 30 years of experience in the F&amp;B industry.</p>
-			<p>Taste Asia, home brand of RM Food Manufacturing embodies the visionary move of convenience food in Singapore. Taste Asia believes in "Bring Restaurant Home", bringing restaurant quality, Ready-To-Eat meals with no added preservatives, wherever customers maybe be.</p>
+			<p>RM Food Manufacturing Pte Ltd, a subsidiary of Select Group, brings over 30 years of expertise in the F&amp;B industry. Specialising in diverse offerings including halal certified ready-to-eat (RTE) meals, bakery products, vending &amp; retort solutions, original equipment manufacturer (OEM) private label, and contract manufacturing.</p>
 			<p><a target="_blank" href="https://www.readymealstasteasia.com">www.readymealstasteasia.com</a></p>
 		</div>
 	</div>
@@ -29,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified, FSSC 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>UAE, Philiphines, USA, Canada
+				<b>Certifications: </b>FSSC 22000, HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -43,9 +42,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Delphine Lim</b>
-				<br>Senior Business Development Executive<br>+65 9278 0132<br>
-				<a style="color: white;" href="mailto:delphine_lim@select.com.sg">delphine_lim@select.com.sg</a>
+				<b>Eileen Ewe</b>
+				<br>Business Development Manager<br>+65 9727 3338<br>
+				<a style="color: white;" href="mailto:eileen_ewe@select.com.sg">eileen_ewe@select.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -60,8 +59,8 @@ variant: markdown
 			<img src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Tomyum and Kimchi Rice</h6>
-			<p>Now you can try Taste Asia's various fried rice cuisines anytime, anywhere, and EVERYDAY! Pair them with proteins and vegetables for your perfect meal.</p>
+			<h6 style="text-transform: uppercase; color: black;">Frozen Ready Meals</h6>
+			<p>Experience the convenience of frozen ready-to-eat meals without compromising on taste or quality. Every dish is prepared with care using fresh ingredients, then frozen to lock in flavour and nutrients.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -69,8 +68,8 @@ variant: markdown
 			<img src="/images/RM%20Food%20Manufacturing/rm_food_manufacturing_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Singapore Curry Chicken with Rice</h6>
-			<p>Skip the queue because we know every minute counts! Indulge in your favorite Curry Chicken Rice, ready in a flash. This dish is packed conveniently in single portions, containing everything you need for a complete meal!</p>
+			<h6 style="text-transform: uppercase; color: black;">Ambient Ready Meals</h6>
+			<p>Using Retort Technology, our retort meals are steamed under high pressure to make it sterile and shelf stable. This allows our products to have increased shelf life with less loss of nutrients without added preservatives.</p>
 		</div>
 	</div>
 </div>
