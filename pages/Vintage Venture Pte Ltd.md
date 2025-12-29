@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Vintage Venture Pte Ltd</b></h4>
-			<p>We are specializing in global FMCG partnerships. Our extensive network spans duty-free, airlines, wholesalers, modern trade, retailers, and e-commerce. With a focus on the specialty store concept, we operate two retail shops in prime Singapore locations, Jewel Changi and IMM, offering a curated selection of international and local brands.</p>
+			<p>Vintage Venture specializing in global FMCG partnerships. It's diverse portfolio features partnerships with leading global brands such as Nestlé, Ferrero, Lindt, Beam Suntory, Pernod Ricard, and William Grant &amp; Sons. Our extensive network spans across airport shops, border shops, downtown duty-free outlets, seaports, in-flight services, cruise supplies, wholesales, modern trade, and e-commerce.</p>
 			<p><a target="_blank" href="https://www.kaimay.com.sg">www.kaimay.com.sg</a></p>
 		</div>
 	</div>
@@ -25,19 +25,19 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage, Snacks and Confectionery</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
 				<b>Product Storage Requirements: </b>Ambient, Chilled
 			</p>
 			<p>
-				<b>Certifications: </b>HACCP, HALAL, ISO 22000
+				<b>Certifications: </b>Gluten Free, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan
+				<b>Export Markets: </b>China, Myanmar, Vietnam, Malaysia, Indonesia, Laos, Thailand, Taiwan, Australia, USA, Cambodia, East Timor
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, Importers, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -47,7 +47,7 @@ description: ""
 			<p style="padding: 10px; color: white;">
 				<b>Tan Yi Sin</b>
 				<br>Deputy Director<br>+65 6425 0363<br>
-				<a style="color: white;" href="mailto:enquiry@kaimay.com.sg">enquiry@kaimay.com.sg</a>
+				<a style="color: white;" href="mailto:yisin@kaimay.com.sg">yisin@kaimay.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ description: ""
 			<img src="/images/Vintage%20Venture/vintage_venture_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PH Balancer Ocean Alkaline Ion Water (1500ml)</h6>
-			<p>With a pH value ranging from 8 to 9.5, this water boasts a smooth and gentle texture on the palate, making it the perfect choice for rehydration and restoring your body's optimal pH balance while neutralizing acidic waste. It stands as the sole Ocean Alkaline Ion Water available in Singapore.</p>
+			<h6 style="text-transform: uppercase; color: black;">TTL Taiwan Beer - Sweet Touch Series</h6>
+			<p>Taiwan Beer's Sweet Touch Series, where juice meets brew in a playful fusion! With 9% real fruit juice, it is sweet, smooth, and lightly boozy at 3.5% ABV. No bitterness—just a refreshing, dessert-like sip that’s fun, and thirst-quenching!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,17 @@ description: ""
 			<img src="/images/Vintage%20Venture/vintage_venture_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Gomee Gummies (150g)</h6>
-			<p>GOMEE: Go with me! Gomee Gummies create a sense of excitement, inviting consumers to take Gomee along wherever they go. Gomee gummies can be the go-to-snack for on-the-go fun. A perfect companion for any adventures, parties, trips, and everyday enjoyment.</p>
+			<h6 style="text-transform: uppercase; color: black;">TTL Omar Whisky</h6>
+			<p>OMAR—meaning "amber" in Gaelic—is Taiwan's distinguished single malt, born in the lush mountains of Nantou. Crafted with pure spring water, non-chill filtered, and free from caramel, it reveals a refined tropical character and golden hue.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Vintage%20Venture/vintage_venture_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Pechery Pistachio Cream Liqueur</h6>
+			<p>Go nuts for PECHERY—an exquisite creamy green liqueur made with the shores of Mediterranean with macerated toasted pistachios. Silky, nutty, and oh-so-smooth. Enjoy it straight, on the rocks, or in a dreamy cocktail!</p>
 		</div>
 	</div>
 </div>
