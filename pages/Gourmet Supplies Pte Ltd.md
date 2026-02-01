@@ -11,8 +11,9 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Gourmet Supplies Pte Ltd</b></h4>
-			<p>Founded in 2013, Gourmet Supplies Pte Ltd has been at the forefront of innovation in Singapore’s beverage industry. We have evolved into a prominent player, excelling in distribution, OEM beverage production, smart vending solutions, and food concepts.</p>
-			<p><a target="_blank" href="https://linktr.ee/gourmetsupplies">linktr.ee/gourmetsupplies</a></p>
+			<p>Gourmet Supplies is a Singapore F&amp;B manufacturer specialising in OEM bottled drinks, private labels and premium house brands. With in-house plant and low MOQs, we deliver customised, high-quality beverages.</p>
+			<p>Our brands—Haus Brew, TropicFarmers, Golden Trishaw, Elements, DreamRice, Killiney and Kopi Haus—are backed by robust retail and export networks for wide market reach.</p>
+			<p><a target="_blank" href="https://www.gourmetsupplies.com.sg">www.gourmetsupplies.com.sg</a></p>
 		</div>
 	</div>
 </div>
@@ -34,10 +35,10 @@ description: ""
 				<b>Certifications: </b>HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Southeast Asia, China, Hong Kong, USA
+				<b>Export Markets: </b>USA, Canada, Netherlands, China, Malaysia, Thailand, South Korea, Hong Kong, Philippines, Brunei, Indonesia, Australia, Solomon Islands
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -45,9 +46,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Colin Quek</b>
-				<br>Asst Director - Business Development<br>+65 9382 1884<br>
-				<a style="color: white;" href="mailto:colinquek@gourmetsupplies.com.sg">colinquek@gourmetsupplies.com.sg</a>
+				<b>Chin Hong</b>
+				<br>Projects Manager<br>+65 8024 5485<br>
+				<a style="color: white;" href="mailto:chinhong@gourmetsupplies.com.sg">chinhong@gourmetsupplies.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -63,7 +64,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Haus Brew</h6>
-			<p>Haus Brew is Singapore brewed &amp; bottled, a selection of crafted beverages representative of the Singapore culture.</p>
+			<p>Haus Brew embodies the art of refreshment. Brewed and bottled at our production facility, each drink is freshly brewed and chilled to preserve the freshness. Haus Brew is redefining artisanal beverages with its 22 unique flavours.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,7 +73,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">TropicFarmers</h6>
-			<p>TropicFarmers is a brand of exquisitely designed beverages that represent the traditional Southeast Asian flavors.</p>
+			<p>TropicFarmers offers vibrant Southeast Asian juices crafted for global markets. With bold tropical flavours, it delivers premium, high-appeal beverages ideal for partners targeting fast-growing refreshment segments.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +81,17 @@ description: ""
 			<img src="/images/Gourmet%20Supplies/gourmet_supplies_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Killiney Classic Singapore Milk Coffee/Tea</h6>
-			<p>Developed with Killiney Kopitiam, Singapore's oldest Hainanese coffeeshop, this is Nanyang Milk Coffee/Tea in a convenient RTD format.</p>
+			<h6 style="text-transform: uppercase; color: black;">Golden Trishaw</h6>
+			<p>Golden Trishaw is a premium creamer brand that brings heritage and luxury to your daily. Crafted from the finest ingredients, our creamers are designed to enrich your beverage, elevating your experience with each indulgent sip.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Gourmet%20Supplies/gourmet_supplies_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Killiney Singapore</h6>
+			<p>Bring The Killiney Experience to your market– iconic fresh brewed kopi &amp; crispy kaya toast since 1919. Partner with Singapore’s trusted brand to grow your F&amp;B portfolio and delight customers with bold, authentic Singapore heritage flavours.</p>
 		</div>
 	</div>
 </div>
