@@ -42,9 +42,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Regina</b>
-				<br>Creative Marketing Junior Associate<br>+65 6933 2919<br>
-				<a style="color: white;" href="mailto:regina.siva@easternharvest.com.sg">regina.siva@easternharvest.com.sg</a>
+				<b>Norman Bong</b>
+				<br>Marketing Manager<br>+65 6933 2956<br>
+				<a style="color: white;" href="mailto:norman.bong@easternharvest.com.sg">norman.bong@easternharvest.com.sg</a>
 			</p>
 		</div>
 	</div>
