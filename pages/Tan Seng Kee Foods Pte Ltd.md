@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tan Seng Kee Foods Pte Ltd</b></h4>
-			<p>Tan Seng Kee Foods Pte Ltd (TSK), heritage brand since 1936, manufacturing fresh rice-based, fresh cooked and raw wheat-based noodles. As the noodle maker to pioneer Singapore’s first pasteurized fresh noodles back in 2010, Kang Kang noodles provides modern consumers convenience and peace of mind through its preservative-free, “springier” and tastier noodles with an extended shelf life from mere days to months. ISO 22000 &amp; Halal Certified.</p>
+			<p>Tan Seng Kee Foods Pte Ltd (TSK), a heritage brand since 1936, staying true to its authentic and wholesome flavours, manufactures fresh rice-based, fresh cooked and raw wheat-based noodles. As the noodle maker to pioneer Singapore’s first pasteurized fresh noodles back in 2010, Kang Kang noodles provides modern consumers convenience and peace of mind through its preservative-free, "springier" and tastier noodles with an extended shelf life from mere days to months. ISO 22000 &amp; Halal Certified</p>
 			<p><a target="_blank" href="https://www.tskfood.com">www.tskfood.com</a></p>
 		</div>
 	</div>
@@ -31,13 +31,13 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Chilled
 			</p>
 			<p>
-				<b>Certifications: </b>HALAL, ISO 22000, Kosher
+				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>New Zealand, Netherlands, Philippines, UK, Middle East
+				<b>Export Markets: </b>New Zealand, Netherlands, Philippines, UAE, Dubai
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Microwaveable Noodle Box (Ready to eat series)</h6>
-			<p>Rich, authentic flavors made with Grandma's traditional recipes, all natural pounded spices, fresh noodles, and premium condiments - all in microwave-ready single servings that can be ready in just 2 minutes.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Microwaveable Noodle Box</h6>
+			<p>Rich, authentic flavours made with Grandma's traditional recipes, all natural pounded spices, fresh noodles, and premium condiments - microwave-ready single serving that is ready in 2 min. Convenience, taste, and health are more accessible.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Express Meal Kits Series (Soup Version)</h6>
-			<p>Fresh cooked noodles with freshly ground paste - in three tasty, authentic hawker flavors. Ready to serve in three simple steps, this convenient ready-to-use express meal kit is easy to prepare and to share with family and loved ones.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Range &amp; Ramen</h6>
+			<p>Singapore's 1st pasteurized fresh noodles, offers preservative-free, springy and tasty noodles. Our fresh and cooked wheat and rice noodles deliver quick, convenient solutions for caterers and home cooks in stir-fries, soups and salads.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +80,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Classic Noodles</h6>
-			<p>Singapore's first pasteurized Kang Kang fresh noodles provides modern consumers convenience and peace of mind through its preservative-free, "springier" and tastier noodles.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Krunch Up</h6>
+			<p>A crunchy, flavourful topping made from dumpling dough trimmings. Perfect on noodles or rice, it offers authentic taste and convenience. Packaged in a resealable shaker, Krunch-Up supports sustainability and reduces food waste.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +89,8 @@ variant: markdown
 			<img src="/images/Tan%20Seng%20Kee/tan_seng_kee_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Kang Kang Krunch Up</h6>
-			<p>A crunchy, flavorful topping made from repurposed raw dough trimmings from dumpling wrapper production. Offering authentic taste and convenience, it’s perfect for adding to noodles or rice for added flavors.</p>
+			<h6 style="text-transform: uppercase; color: black;">Kang Kang Treasure Bowl Dessert</h6>
+			<p>Kang Kang Treasure Bowl Dessert delivers a convenient, ready-to-enjoy Asian sweet treat made with quality ingredients. Its authentic flavours, no prep and consistent taste make it a delightful, hassle-free dessert for any occasion.</p>
 		</div>
 	</div>
 </div>
