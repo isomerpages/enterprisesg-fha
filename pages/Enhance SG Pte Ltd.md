@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Enhance SG Pte Ltd</b></h4>
-			<p>Laaziiz is a Singapore-based halal manufacturer specialising in the production of premium Dendeng (jerky) and Serunding (meat floss). We prioritise the use of only the finest ingredients, ensuring our products not only meet but consistently exceed consumer expectations. Our unwavering commitment to quality is evident in every stage of the manufacturing process—from sourcing raw materials to the meticulous preparation and packaging of our signature Dendeng and Serunding.</p>
+			<p>Enhance SG is a halal manufacturer with highly experienced staff specialising in the production of premium Dendeng (beef and chicken) and Serunding (beef and chicken). We are dedicated to providing high-quality, halal food products.</p>
 			<p><a target="_blank" href="https://www.enhancefood.com.sg">www.enhancefood.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +28,10 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Meat, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Product Storage Requirements: </b>Ambient
+				<b>Product Storage Requirements: </b>Ambient, Frozen
 			</p>
 			<p>
 				<b>Certifications: </b>HALAL
-			</p>
-			<p>
-				<b>Export Markets: </b>Hong Kong
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -47,7 +44,7 @@ description: ""
 			<p style="padding: 10px; color: white;">
 				<b>Mion Teng</b>
 				<br>Sales &amp; Marketing Manager<br>+65 9181 9511<br>
-				<a style="color: white;" href="mailto:mion@enhancefood.com.sg">mion@enhancefood.com.sg</a>
+				<a style="color: white;" href="mailto:yee_meau@chcfi.com.sg">yee_meau@chcfi.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -62,8 +59,8 @@ description: ""
 			<img src="/images/Enhance%20SG/enhance_sg_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">BBQ Chicken</h6>
-			<p>Handcrafted on a traditional bamboo weave tray, each slice of chicken is skillfully shaped into a circular coin and carefully barbecued over charcoal fire to perfection, ensuring the retention of delectable moisture in every piece of meat.</p>
+			<h6 style="text-transform: uppercase; color: black;">BBQ Chicken Coin</h6>
+			<p>Meticulously handcrafted on a traditional bamboo weave tray, each slice of chicken is skillfully shaped into a circular coin and carefully barbecued over charcoal fire to perfection.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,7 +69,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">BBQ Rendang Beef</h6>
-			<p>Handcrafted on a traditional bamboo weave tray, each slice of our rendang beef is skillfully shaped into a circular coin and infused with our special rempah — a harmonious blend of aromatic spices.</p>
+			<p>Meticulously handcrafted on a traditional bamboo weave tray, each slice of our rendang beef is skillfully shaped into a circular coin and infused with our special rempah.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +77,8 @@ description: ""
 			<img src="/images/Enhance%20SG/enhance_sg_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chicken Floss</h6>
-			<p>Crafted with the finest chicken and roasted to perfection for a fluffy cotton texture, our Chicken Floss not only boasts a mouth-watering appearance but also offers an exquisite taste.</p>
+			<h6 style="text-transform: uppercase; color: black;">Sambal Chicken Floss</h6>
+			<p>Crafted from the finest chicken and roasted to perfection for a fluffy cotton texture, our Sambal Chicken Floss is both fiery and aromatic, creating a tantalizing symphony of heat and flavour that excites the palate.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +86,8 @@ description: ""
 			<img src="/images/Enhance%20SG/enhance_sg_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Rendang Beef Floss</h6>
-			<p>Crafted with premium beef and roasted to perfection for a fluffy cotton texture, our Rendang Beef Floss is infused with our special rempah — a harmonious blend of aromatic spices that is sure to receive a stamp of approval from any Makcik.</p>
+			<h6 style="text-transform: uppercase; color: black;">Beef Floss</h6>
+			<p>Crafted with premium beef and roasted to perfection for a fluffy cotton texture, our Beef Floss not only boasts a mouth-watering appearance but also offers an exquisite taste.</p>
 		</div>
 	</div>
 </div>
