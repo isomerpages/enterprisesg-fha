@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Wanin Industries Pte Ltd</b></h4>
-			<p>Established in 1986, Pere Ocean is one of Singapore's trusted bottled water, water dispensing &amp; purification system providers for corporate offices &amp; homes. We produce high-quality natural mineral water, pure distilled water, carbonated/ sparkling beverages, isotonic sports drink as well as health-fortified vitaminised drink. As the major OEM bottled water supplier in Singapore, our products are sold at big supermarkets &amp; distributed to airline passengers.</p>
+			<p>Pere Ocean is a Singapore-owned beverage company established in 1986, specialising in natural mineral water and healthier beverage solutions. With our own mineral water source in Malaysia, we ensure consistent quality, safety, and international compliance. Our portfolio includes mineral water, sparkling beverages, functional drinks, and private-label solutions. We partner distributors and brand owners seeking reliable, scalable, long-term beverage supply.</p>
 			<p><a target="_blank" href="https://www.pereocean.com">www.pereocean.com</a></p>
 		</div>
 	</div>
@@ -31,13 +31,13 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Certifications: </b>HALAL, ISO 22000
+				<b>Certifications: </b>ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Hong Kong, Japan
+				<b>Export Markets: </b>Japan, Malaysia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Eugene Tan</b>
-				<br>Manager<br>+65 3157 1646<br>
+				<br>Manager<br>+65 9696 2869<br>
 				<a style="color: white;" href="mailto:eugenetan@pereocean.com">eugenetan@pereocean.com</a>
 			</p>
 		</div>
@@ -63,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Pere Ocean Natural Mineral Water</h6>
-			<p>Our natural source of mineral water is tucked away in the lush greenery of Malaysia. Every drop of our Natural Mineral Water is drawn from a deep spring producing all-natural &amp; fresh mineral water retaining its natural mineral composition.</p>
+			<p>Naturally sourced mineral water with balanced mineral composition for everyday hydration. Clean taste, reliable quality, and available in 500ml and 1.5L bottles for retail, HoReCa, and corporate use.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,17 @@ variant: markdown
 			<img src="/images/Wanin%20Industries/wanin_industries_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Pere Ocean Fruitty Sparkling Soda Flavoured Water</h6>
-			<p>Fruitty Sparkling Soda Flavoured Water is a healthier carbonated drink. Every sip has zero per cent of sugar, calories and fat with natural fruits flavours in peach, citrus and lime.</p>
+			<h6 style="text-transform: uppercase; color: black;">Boozt Isotonic Sports Drink</h6>
+			<p>BOOZT Isotonic Sports Drink supports hydration and energy replenishment with essential electrolytes. Designed for active lifestyles, it helps replace fluids lost during exercise while offering a refreshing, balanced taste.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Wanin%20Industries/wanin_industries_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Fruitty Vitaminised Drink</h6>
+			<p>Fruitty Vitaminised Drink combines essential vitamins with refreshing fruit flavours for everyday hydration and wellness. A lighter alternative to sugary drinks, suitable for retail, schools, and family consumption.</p>
 		</div>
 	</div>
 </div>

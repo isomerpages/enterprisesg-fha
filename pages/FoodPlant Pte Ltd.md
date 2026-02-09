@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>FoodPlant Pte Ltd</b></h4>
-			<p>FoodPlant is Singapore's first shared facility for small-batch food production. We support SMEs and startups in developing and scaling up new food products. FoodPlant provides access to advanced food processing technologies, expert guidance and industrial equipment. With SFA licensing and ISO certifications, we empower businesses through R&amp;D, pilot production, and commercial manufacturing on a pay-per-use model.</p>
+			<p>FoodPlant is Singapore's first shared facility for small-batch food production. We support SMEs and startups in developing and scaling up new food products. FoodPlant provided access to advanced food processing technologies, expert guidance and industrial equipment. With SFA licensing and ISO certifications, we empower businesses through R&amp;D, pilot production, and commercial manufacturing on a pay-per-use model.</p>
 			<p><a target="_blank" href="https://www.foodplant.com.sg">www.foodplant.com.sg</a></p>
 		</div>
 	</div>
@@ -31,7 +31,7 @@ description: ""
 				<b>Certifications: </b>ISO 22000
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Retailers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>HoReCa, Retailers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -39,9 +39,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Rachel Loh</b>
-				<br>Project Executive<br>+65 9726 4669<br>
-				<a style="color: white;" href="mailto:rachel.loh@singaporetech.edu.sg">rachel.loh@singaporetech.edu.sg</a>
+				<b>Poh Pei Si</b>
+				<br>Senior Industry Development Manager<br>+65 8839 6849<br>
+				<a style="color: white;" href="mailto:peisi.poh@singaporetech.edu.sg">peisi.poh@singaporetech.edu.sg</a>
 			</p>
 		</div>
 	</div>
@@ -66,7 +66,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Spray Drying Service</h6>
-			<p>Transform feed from a fluid state into a dried particulate form. Products include milk powder, instant coffee and various powdered products.</p>
+			<p>Transform feed from fluid state into a dried particulate form. Products include milk powder, instant coffee and various powdered products.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -75,7 +75,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Twin Screw Extrusion Service</h6>
-			<p>Uses High Moisture Extrusion (HME) and Low Moisture Extrusion (LME) technology to texturise plant-based protein into viable meat alternatives or snacks.</p>
+			<p>Uses High Moisture (HME) and Low Moisture (LME) technology to texturise plant-based protein into viable meat alternatives or snacks.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
