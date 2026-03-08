@@ -10,9 +10,8 @@ variant: markdown
 			<img src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_logo.jpg">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
-			<h4 style="text-transform: uppercase; color: black;"><b>Chuen Cheong Food Industries Pte Ltd</b></h4>
-			<p>Chuen Cheong Food Industries (Pte) Ltd, established in Singapore in 1930, renowned for its "TIGER BRAND" condiments. The company produces a variety of products, including Soya Sauce, Chilli Sauce and other condiments. Our soya sauce is brewed naturally using traditional Chinese recipes passed down through generations.</p>
-			<p>We are awarded "Asia Super Brand" title and certify with ISO9001, ISO22000, HACCP, HALAL, Singapore Healthier Choice, Tasty Singapore Product, and Singapore Heritage Brand Awards.</p>
+			<h4 style="text-transform: uppercase; color: black;"><b>Chuen Cheong Food Industries (Pte) Ltd</b></h4>
+			<p>Chuen Cheong Food Industries (Pte) Ltd, founded in 1930 in Singapore, produces TIGER BRAND condiments using traditional brewing methods. Its Malaysian subsidiary operates a modern plant in Senai, Johor. ISO, HACCP and HALAL certified, the company exports globally and offers private label services.</p>
 			<p><a target="_blank" href="https://www.chuencheong.com">www.chuencheong.com</a></p>
 		</div>
 	</div>
@@ -35,7 +34,7 @@ variant: markdown
 				<b>Certifications: </b>HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Nepal, Middle East, South East Asia
+				<b>Export Markets: </b>Dubai, Egypt, Nepal, Australia, Taiwan, Cambodia, Philippines, Indonesia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
@@ -64,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Soya Sauce</h6>
-			<p>Naturally brewed soy sauce: rich, savory flavor, thick, light &amp; dark, made with high-quality ingredients &amp; slow fermentation. Enhances dish flavors.</p>
+			<p>Traditional brewed Light and Dark Soya Sauce are naturally fermented using premium soybeans and time-honoured methods. Light sauce is savoury and aromatic for seasoning, while dark sauce is richer, thicker and adds deep colour to dishes.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,8 +71,8 @@ variant: markdown
 			<img src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Black pepper Sauce</h6>
-			<p>Black pepper sauce: savory, pungent, slightly spicy, rich &amp; creamy. Pairs well with pasta, steak &amp; veggies, adding depth &amp; warmth.</p>
+			<h6 style="text-transform: uppercase; color: black;">Black Pepper Sauce</h6>
+			<p>Black Pepper Sauce is crafted with premium ingredients and bold, aromatic black pepper. Rich, savoury and slightly spicy, it delivers a robust flavour that enhances meats, seafood and stir-fries with a smooth, well-balanced finish.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -81,8 +80,8 @@ variant: markdown
 			<img src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Oyster Sauce</h6>
-			<p>Oyster sauce: savory, umami-rich condiment with thick texture, adds depth &amp; complexity to dishes, commonly used in Asian cuisine.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chilli Sauce W/Garlic &amp; Ginger</h6>
+			<p>Chilli Sauce with Garlic &amp; Ginger is made from fresh ingredients for a vibrant, zesty kick. Blending spicy heat with fragrant garlic and ginger, it’s perfect for dipping, chicken rice and adding bold flavour to stir-fries.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -90,8 +89,8 @@ variant: markdown
 			<img src="/images/Chuen%20Cheong%20Food/chuen_cheong_food_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chilli Sauce</h6>
-			<p>Fresh chili sauce: spicy condiment made with fresh chilies, garlic &amp; spices. Vibrant flavor, adjustable heat, bright color &amp; varied texture. Adds burst of heat &amp; flavor to dishes.</p>
+			<h6 style="text-transform: uppercase; color: black;">Oyster Sauce</h6>
+			<p>Oyster Sauce is rich, savoury and full-bodied, ideal for enhancing stir-fries, vegetables and meats. Vegetarian Oyster Sauce delivers the same deep umami flavour using plant-based ingredients, perfect for vegetarian dishes and sauces.</p>
 		</div>
 	</div>
 </div>
