@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Tai Hua Food Industries Pte Ltd</b></h4>
-			<p>Founded in 1947, Tai Hua Food Industries is one of the leading manufacturers of soy sauce in Singapore. Tai Hua soy sauce is a traditional Chinese-flavoured soy sauce, naturally brewed from selected premium ingredients. The company also manufactures a wide range of braising sauces, Ready-to-cook sauces, oyster sauces and condiments etc. It is HACCP, ISO22000 and FSSC22000 certified.</p>
+			<p>Founded in 1947, Tai Hua Food Industries is one of the leading manufacturers of soy sauce in Singapore. Tai Hua soy sauce is a traditional Chinese-flavored soy sauce, naturally brewed from selected premium ingredients. The company also manufactures a wide range of braising sauces, Ready-to-cook sauces, oyster sauces, and condiments, etc. It is HACCP, ISO22000, and FSSC22000 certified.</p>
 			<p><a target="_blank" href="https://www.taihua.biz">www.taihua.biz</a></p>
 		</div>
 	</div>
@@ -34,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Brunei, Bahrain, China, Egypt, Hong Kong, India, Indonesia, Kuwait, Myanmar,  Netherlands, Philippines, Spain, Saudi Arabia, Mexico, Taiwan, USA, UAE
+				<b>Export Markets: </b>Australia, Brunei, Bahrain, China, Egypt, Hong Kong, India, Indonesia, Kuwait, Myanmar, Lebanon, Philippines, Spain, Saudi Arabia, Mexico, Taiwan, The Netherlands, Tahiti, UAE, USA
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Importers
+				<b>Looking for: </b>Food Distributors, HoReCa
 			</p>
 		</div>
 	</div>
