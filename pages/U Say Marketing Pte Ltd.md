@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>U Say Marketing Pte Ltd</b></h4>
-			<p>Established in 2001, U SAY MARKETING PTE LTD has evolved from a fruits and vegetables importer and distributor into a manufacturer of the minimally processed fruits and vegetables over the years. We specialize in fresh cut fruits and vegetables: preparing Ready-To-Eat (RTE) cut fruits and Ready-To-Cook (RTC) vegetables for our clients.</p>
-			<p>Our production plant occupies a total area of 40,000 sqf with 11,000sqf built-up area. Having HACCP and HALAL certification, you can be ensured that our food safety and hygiene are of the highest standards.</p>
+			<p>Founded in 2001, U SAY MARKETING PTE LTD grew from a fruits and vegetables importer into a minimally processed fruits and vegetables manufacturer. U Say specialize in Ready To Eat cut fruits and Ready To Cook vegetables, produced in our 40,000 sqf facility with 11,000 sqf built up area. Certified HACCP and HALAL, U Say uphold strict food safety standards. Trusted by SATS, Starbucks, RWS, and Suntec Convention, U Say has earned recognition through prestigious quality awards.</p>
 			<p><a target="_blank" href="https://www.usaymarketing.com">www.usaymarketing.com</a></p>
 		</div>
 	</div>
@@ -29,13 +28,13 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Eggs and Fresh Produce</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Malaysia
+				<b>Certifications: </b>HACCP, HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Service Suppliers / Players
+				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Food Service Suppliers / Players, B2B Partners
 			</p>
 		</div>
 	</div>
@@ -43,9 +42,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Low Say Eam</b>
-				<br>Managing Director<br>+65 9109 5992<br>
-				<a style="color: white;" href="mailto:sayeam@usaymarketing.com">sayeam@usaymarketing.com</a>
+				<b>Ivy Toh</b>
+				<br>Operation Manager<br>+65 9233 4568<br>
+				<a style="color: white;" href="mailto:ivy@usaymarketing.com">ivy@usaymarketing.com</a>
 			</p>
 		</div>
 	</div>
@@ -60,8 +59,8 @@ variant: markdown
 			<img src="/images/U%20Say%20Marketing/u_say_marketing_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Soursop</h6>
-			<p>Frozen Soursop Puree.</p>
+			<h6 style="text-transform: uppercase; color: black;">Cut Fruit</h6>
+			<p>U Say transforms fruit preparation into convenience—saving you time while ensuring quality and hygiene. From selecting premium fruits to washing, peeling, cutting, and packing, U Say ensures every bite is fresh and ready to serve.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -69,8 +68,26 @@ variant: markdown
 			<img src="/images/U%20Say%20Marketing/u_say_marketing_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fresh Cut Fruits</h6>
-			<p>Ready To Eat Cut Fruits Packed in individual packs or bulk packs.</p>
+			<h6 style="text-transform: uppercase; color: black;">Cut Vegetables</h6>
+			<p>U Say makes vegetable preparation effortless by managing the washing, peeling, and chopping, so your kitchen can focus on creating meals and serving them fast. Our Ready To Cook (RTC) range ideal for central kitchens and catering services.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/U%20Say%20Marketing/u_say_marketing_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Prune Powder</h6>
+			<p>U Say Prune Powder adds a tangy, sweet savoury twist makes fresh fruit an irresistible treat. Ideal for pairing with guava, pineapple, mango, or any cut fruit, it instantly elevates taste and creates a refreshing snacking experience.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/U%20Say%20Marketing/u_say_marketing_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Frozen Fruit</h6>
+			<p>U Say Frozen Fruit is harvested at peak ripeness and frozen quickly to preserve flavour, nutrients, and vibrant colour. Perfectly portioned and ready to use, our fruits make smoothies, yogurt drinks, cocktails, and desserts effortless.</p>
 		</div>
 	</div>
 </div>
