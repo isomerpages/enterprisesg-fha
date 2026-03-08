@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Listen Up Pte Ltd</b></h4>
-			<p>Oatbedient offers both powdered and ready-to-drink oat milk beverages that are authentically delicious and nutritious. Their range of sustainable plant-based products are crafted with quality ingredients that are not only beneficial for consumers but also environmentally friendly. With a commitment to clean-labelling, consumers are assured that there are no nasty ingredients, but just wholesome, oaty-goodness. Oatbedient strives to empower consumers to make better food choices with tasty products created with love for families and loved ones, who deserve only the best.</p>
+			<p>Oatbedient is a clean-label beverage brand creating simple, honest plant-based alternatives made from quality oats. We replace traditional non-dairy creamers often filled with hydrogenated oils and additives with oat powder for a cleaner, creamier solution. It blends smoothly into coffee and other beverages. Shelf-stable and practical, oat powder requires no refrigeration and reduces packaging waste, delivering a smarter, more sustainable way to enjoy everyday drinks.</p>
 			<p><a target="_blank" href="https://www.oatbedient.com">www.oatbedient.com</a></p>
 		</div>
 	</div>
@@ -34,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, GMP, HACCP, HALAL, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>Malaysia, Thailand, Philippines, China, Macau, Hong Kong, Australia, Mongolia, Mauritius, Vietnam, USA (Amazon Global)
+				<b>Export Markets: </b>Malaysia, Brunei, Philippines, China, Taiwan, Macau, U.S.A, Australia, Mongolia, Mauritius
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers
+				<b>Looking for: </b>Food Distributors, Retailers, E-commerce, Importers
 			</p>
 		</div>
 	</div>
@@ -62,8 +62,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Oat Milk Powders (Multiple Flavours)</h6>
-			<p>Oatbedient offers both powdered and ready-to-drink oat milk beverages that are authentically delicious and nutritious. Their range of sustainable plant-based products are crafted with quality ingredients that are not only beneficial for consumers but also environmentally friendly.</p>
+			<h6 style="text-transform: uppercase; color: black;">Oat Milk Powders (single serve)</h6>
+			<p>Oatbedient oat powder replaces conventional nondairy creamers in instant beverages, offering cleaner, healthier alternative with familiar flavors like Original, Chocolate, Latte, and Matcha, it delivers creamy taste with better ingredients.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Chocolate Oat Milk (Powder)</h6>
-			<p>Isn't life more fun with chocolate? Oatbedient Chocolate Oat Milk blends the rich, indulgent taste of premium chocolate with the natural sweetness &amp; malty finish of Oat Milk. Give yourself a treat. You deserve it!</p>
+			<h6 style="text-transform: uppercase; color: black;">Oat Milk</h6>
+			<p>Oatbedient Oat Milk Ready-to-Drink is a clean-label, plant-based beverage made from quality oats, naturally creamy without fillers or additives. Its familiar flavor works alone, or in coffee and tea as a healthier, convenient alternative.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +80,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Ready To Drink Oat Milk</h6>
-			<p>Looking for some surprises in life? Oatbedient Oat M!lk Barista is here to give you a wholesome spin! It's so smooth and creamy with a tinge of natural sweetness from the oats, which you can enjoy on its own or even create yummy recipes with it!</p>
+			<h6 style="text-transform: uppercase; color: black;">Oatbedient Instant Beverages</h6>
+			<p>Oatbedient Instant Oat Milk is a clean-label, plant-based beverage made from quality oats. It dissolves easily in hot or cold water, giving a smooth, creamy texture without fillers. A healthier, versatile alternative to non-dairy creamers.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +89,8 @@ variant: markdown
 			<img src="/images/Listen%20Up/listen_up_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Cafe Series Oat Milk Matcha</h6>
-			<p>Just made for each other. The fresh, subtle umami of powdered green tea. Paired with the mellow, creamy, natural sweetness of oat milk. Perfect company for days when we're in search of calm &amp; peace-of-mind.</p>
+			<h6 style="text-transform: uppercase; color: black;">Oatmilk Latte and Matcha</h6>
+			<p>Oatbedient Oatmilk Matcha and Latte blend creamy oat milk with familiar café flavors. Clean-label, free from fillers and hydrogenated oils, Matcha is earthy, Latte is roasted. Healthier, indulgent, convenient, and easy to enjoy anytime.</p>
 		</div>
 	</div>
 </div>
