@@ -11,7 +11,7 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>The Kebabsmith Pte Ltd</b></h4>
-			<p>We are a gourmet frozen kebabs &amp; snacks manufacturing company based out of singapore. Our range of products are made without any preservatives, MSG or artificial fillers.</p>
+			<p>Kebabsmith is a Singapore-based food brand bringing authentic, preservative free, ready-to-cook kebabs to modern kitchens. Using premium ingredients and traditional recipes, the brand offers a range of high-protein meat, vegetarian, and gluten-free kebabs designed for convenience without compromising on flavor. Available in select supermarkets and online platforms, Kebabsmith makes restaurant-quality kebabs easy to enjoy at home.</p>
 			<p><a target="_blank" href="https://www.thekebabsmith.com">www.thekebabsmith.com</a></p>
 		</div>
 	</div>
@@ -28,13 +28,13 @@ description: ""
 				<span style="background-color: pink; border-radius: 10px;">Meat</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified
+				<b>Product Storage Requirements: </b>Chilled, Frozen
 			</p>
 			<p>
-				<b>Export Markets: </b>Malaysia, Hong Kong, Indonesia, Thailand
+				<b>Certifications: </b>HALAL
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, E-commerce, Food Service Suppliers / Players, OEM Manufacturer
 			</p>
 		</div>
 	</div>
@@ -60,7 +60,7 @@ description: ""
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Chicken Seekh Kebab</h6>
-			<p>Soft and flavourful cylindrical  kebabs made without any preservatives, MSG or fillers. They can be eaten with a sauce on the side or in a wrap or sandwich. They are gluten free.</p>
+			<p>Kebabsmith Chicken Seekh Kebab is made with chicken, blended with traditional spices for authentic flavor. Juicy, smoky, and high in protein, it’s a quick, ready-to-cook kebab perfect for wraps, rice bowls, or as a delicious appetizer.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +68,26 @@ description: ""
 			<img src="/images/The%20Kebabsmith/the_kebabsmith_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Jackfruit Shami Kebab</h6>
-			<p>Made from raw jackfruit, these kebabs are not only high in antioxidants but are also delicious. They are moderately spicy and flavoured with our secret blend of herbs and spices. These vegan and glutenfree kebabs are made in small batches without any preservatives, artificial flavours or MSG.</p>
+			<h6 style="text-transform: uppercase; color: black;">Chicken Tikka </h6>
+			<p>Kebabsmith Chicken Tikka on Skewers features tender chicken pieces marinated in aromatic spices and yogurt, threaded onto skewers for easy cooking. Juicy, smoky, and high in protein, it’s perfect for grilling, air frying, or pan cooking.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/The%20Kebabsmith/the_kebabsmith_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Jackfruit Kebabs</h6>
+			<p>Kebabsmith Jackfruit (Kathal) Kebab is a delicious plant-based kebab made with tender young jackfruit blended with aromatic spices and herbs. Packed with flavor and texture, it’s a satisfying vegetarian option that’s perfect for any meal.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/The%20Kebabsmith/the_kebabsmith_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Mutton Shami Kebab</h6>
+			<p>Kebabsmith Mutton Shami Kebab is made with tender minced mutton blended with lentils, herbs, and spices. Soft, flavorful, and protein-rich, these classic kebabs are ready to cook and perfect as a snack, appetizer, or in wraps and sandwiches.</p>
 		</div>
 	</div>
 </div>

@@ -117,6 +117,48 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Brikt/brikt_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Brik't Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer of freeze dried fruit teas.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/brikt">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Carefirst/carefirst_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Carefirst Singapore Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Importer and distributor of frozen food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/carefirst">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Carrara/carrara_logo.png">
 		</figure>
 	</div>
@@ -726,27 +768,6 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Leong%20Guan%20Food/leong_guan_food_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Leong Guan Food Manufacturer Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Manufacturer of noodles and beancurd products.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/leong-guan-food">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Mdm%20Ling%20Bakery/mdm_ling_bakery_logo.png">
 		</figure>
 	</div>
@@ -1305,69 +1326,6 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/win-win">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/yen-food-solutions">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/yen-food-solutions">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Zenko%20Superfoods/zenko_superfoods_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Zenko Superfoods Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Singapore-based healthy snack company.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/zenko-superfoods">
 				<small>Visit their page</small>
 			</a>
 		</p>

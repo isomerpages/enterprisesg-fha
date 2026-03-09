@@ -12,6 +12,27 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Alphico%20Marketing/alphico_marketing_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Alphico Marketing Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Singapore Style/Herbal Bak Kut Teh soup spices, Char Siew and Black Pepper cooking sauces made from selected premium quality ingredients.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/alphico-marketing">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/amigo_logo.png">
 		</figure>
 	</div>
@@ -621,7 +642,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/vismark_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Vismark%20Food%20Industries/vismark_food_industries_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -629,7 +650,7 @@ third_nav_title: Product Categories
 			<p style="text-transform: uppercase;"><strong>Vismark Food Industries Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of authentic Asian cooked and raw pastes, premium handmade dim sum &amp; snacks, pre-mixed spices, sauces and desserts, provisional dried food.</small>
+			<small>Asian food manufacturer and purveyor.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/vismark-food-industries">
@@ -654,27 +675,6 @@ third_nav_title: Product Categories
 		</p>
 		<p>
 			<a target="_blank" href="/wahyu-brand">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Yen%20Food%20Solutions/yen_food_solutions_logo.png">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Yen Food Solutions Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Offer a wide range of exported &amp; locally produced foods, beverages, chilled &amp; frozen foods.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/yen-food-solutions">
 				<small>Visit their page</small>
 			</a>
 		</p>
