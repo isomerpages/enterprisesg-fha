@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Cheung Wo Food Supply SG Pte Ltd</b></h4>
-			<p>Hey! Chips, an award-winning brand by CWF, offers fruit and vegetable snacks made from natural ingredients—free from added sugar, artificial flavours, colours, or preservatives. With multiple international awards and endorsements from top chefs, we ensure every bite is simple and delicious.</p>
-			<p>CWF, a trusted food distributor with 20+ years of experience, specialises in healthy products with a focus on authenticity and transparency. We leverage technology to enhance cost efficiency, digital marketing, e-commerce, and brand growth.</p>
+			<p>At Hey! Chips, we keep it real by crafting great tasting snacks, using only simple, real ingredients. We offer fruit and vegetable snacks made from natural ingredients—free from added sugar, artificial flavours, colours, or preservatives. With multiple international awards and endorsements from top chefs, we ensure every bite is simple and delicious.</p>
 			<p><a target="_blank" href="https://www.heychips.com">www.heychips.com</a></p>
 		</div>
 	</div>
@@ -35,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>BRC, Gluten Free, HACCP, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, China, Hong Kong, Malaysia, South Korea, Malta EU, Maldives, US
+				<b>Export Markets: </b>Hong Kong, Philippines, South Korea, Malaysia, UAE, Malta EU, Maldives, US
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, Retailers, Importers, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Importers
 			</p>
 		</div>
 	</div>
@@ -64,7 +63,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Premium Broccoli Crisps</h6>
-			<p>Hey! Chips Broccoli Crisps is a Great Taste Award-winning snack from Hey! Chips’ signature collection. They are hand-made to perfection with whole broccoli florets and dehydrated at low temperatures with no sugar added. No artificial flavour, sugar or preservative added. A best-seller for all ages!</p>
+			<p>Hey! Chips Broccoli Crisps - Great Taste Award winner. Whole broccoli florets, crafted using only simple, real ingredients. Free from added sugar, artificial flavours, colours, or preservatives.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -73,7 +72,7 @@ variant: markdown
 		</div>
 		<div class="flex-paragraph">
 			<h6 style="text-transform: uppercase; color: black;">Premium Mango Crisps</h6>
-			<p>Hey! Chips Mango Crisps is a Great Taste Award-winning snack from Hey! Chips’ signature collection. They are hand-made to perfection with whole mango slices and dehydrated at low temperatures with no sugar added. No artificial flavour, sugar or preservative added. Vegan &amp; Gluten-free.</p>
+			<p>Hey! Chips Mango Crisps - Great Taste Award winner. Whole mango slices, crafted using only simple, real ingredients. Free from added sugar, artificial flavours, colours, or preservatives.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -81,8 +80,8 @@ variant: markdown
 			<img src="/images/Cheung%20Wo/cheung_wo_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Premium Fruit Bites Collection</h6>
-			<p>Crunchy, creamy, and fruity, Hey! Chips Fruit Bites deliver a delightful crunch that melts in your mouth. Made with New Zealand whole milk and real fruits with no added sugar, every bite is bursting with delicious flavours, and packed with probiotics and superfood nutrients. Flavours include Strawberry, Mixed Berries, Mango Passion, and Mango Banana.</p>
+			<h6 style="text-transform: uppercase; color: black;">Freeze-dried Probiotic Fruit Bites</h6>
+			<p>Hey! Chips Fruit Bites deliver a delightful crunch that melts in your mouth. Made with New Zealand whole milk and real fruits with no added sugar. Flavours include Strawberry, Mixed Berries, Mango Passion, and Mango Banana.</p>
 		</div>
 	</div>
 </div>
