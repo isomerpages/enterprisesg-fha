@@ -14,7 +14,7 @@ description: ""
 			<p>Zixin Enterprise SG is a global enterprise specialising in FMCG distribution, ecosystem portfolio investment, and international trade financing. Our integrated approach provides scalable solutions that strengthen the global supply chain for brands, distributors, and investors.</p>
 			<p>We also operate iLoveSweetPotato, a consumer platform that connects products with digital retail experiences and builds engaged brand communities.</p>
 			<p>We empower businesses to grow and succeed in international markets.</p>
-			<p><a target="_blank" href="www.zixinenterprise.com">www.zixinenterprise.com</a></p>
+			<p><a target="_blank" href="https://www.zixinenterprise.com">www.zixinenterprise.com</a></p>
 		</div>
 	</div>
 </div>
