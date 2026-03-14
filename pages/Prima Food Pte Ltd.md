@@ -11,8 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Prima Food Pte Ltd</b></h4>
-			<p>A division of Prima Food, Prima Taste is Prima Group's flagship B2C brand and was launched in 1998. It was the culmination of our passion to preserve the heritage and tradition of Singapore food and to offer authentic, easy-to-make Singapore cuisine to the world, without compromise.</p>
-			<p>Prima Taste offers a wide range of gourmet Singapore dishes through our LaMian, Meal Sauce Kits, Complete Sauce, and Cooking Sauces. Today, Prima Taste products are widely distributed to major supermarkets and online stores in more than 40 global markets.</p>
+			<p>Prima Taste was launched in 1998, a Singaporean household name that takes Singapore cuisine and turn them global. It was the culmination of their passion to preserve the heritage and tradition of Singapore food and to offer easy-to-make, authentic and gourmet Singapore cuisine to the world, without compromise. They offer a wide range of Singapore dishes through its all-in-one Complete Sauces, Meal Sauce Kits, Cooking Sauces and LaMian. Prima Taste is distributed in more than 30 global markets.</p>
 			<p><a target="_blank" href="https://www.primataste.com">www.primataste.com</a></p>
 		</div>
 	</div>
@@ -35,10 +34,10 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, HALAL
 			</p>
 			<p>
-				<b>Export Markets: </b>USA, Canada, UK, Europe, Mauritius, Australia, New Zealand, China, Hong Kong, Taiwan, Japan, Korea, Philippines, Indonesia, Brunei
+				<b>Export Markets: </b>Australia, Brunei, Canada, China, Europe, Hong Kong, Indonesia, Japan, Korea, Mauritius, New Zealand, Philippines, Sri Lanka, Taiwan, UK, USA, Vietnam
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, Importers, Food Service Suppliers / Players
+				<b>Looking for: </b>Food Distributors, HoReCa, E-commerce
 			</p>
 		</div>
 	</div>
@@ -46,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Gina Lau</b>
-				<br>Assistant Business Development Manager<br>+65 9738 9040<br>
-				<a style="color: white;" href="mailto:order.export@prima.com.sg">order.export@prima.com.sg</a>
+				<b>Low Fatt Mun</b>
+				<br>Business Development Manager<br>+65 6277 6812 / +65 8969 8496<br>
+				<a style="color: white;" href="mailto:fmlow@prima.com.sg">fmlow@prima.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -63,8 +62,8 @@ variant: markdown
 			<img src="/images/Prima%20Food/prima_food_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Prima Taste LaMian</h6>
-			<p>Our Number 1 Seller: Prima Taste LaMian is a reowned steamed non-fried premium noodle in aromatic broth made from premium paste, not seasoning powder. Available in 6 flavours - Laksa, Singapore Curry, Prawn Soup, Chilli Crab, Black Pepper Crab and Fish Soup.</p>
+			<h6 style="text-transform: uppercase; color: black;">Laksa LaMian</h6>
+			<p>Prima Taste Laksa LaMian features premium non-fried noodles in an aromatic, mildly spicy coconut broth. Crafted from cooking paste rather than powder, it delivers an authentic flavour that is good for creating gourmet meals.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -72,8 +71,26 @@ variant: markdown
 			<img src="/images/Prima%20Food/prima_food_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Prima Taste Complete Sauce</h6>
-			<p>Created to appeal to a wide international audience and palate, Prima Taste Complete Sauce is a convenient all-in-one base sauce to prepare authentic Singapore dishes. Available in 13 flavours - they are Convenient and Easy to Use, Taste Equal or Better than before, and Value for Money.</p>
+			<h6 style="text-transform: uppercase; color: black;">Curry LaMian</h6>
+			<p>Prima Taste Curry LaMian features premium non-fried noodles in an aromatic smooth rich gravy infused with coconut milk. Crafted from cooking paste rather than powder, it delivers an authentic flavour that is good for creating gourmet meals.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Prima%20Food/prima_food_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Singapore Curry Meal Sauce Kit</h6>
+			<p>Prima Taste Singapore Curry Meal Sauce Kit comes complete with a curry paste and coconut premix, bringing you authentic flavours complemented by convenience. Whip up this dish anytime and anywhere with the easy cooking steps.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Prima%20Food/prima_food_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Black Pepper Crab Complete Sauce</h6>
+			<p>Prima Taste Black Pepper Crab Complete Sauce is an all-in-one sauce featuring the finest selection of black pepper and spices, making it easy to recreate this dish at home.</p>
 		</div>
 	</div>
 </div>
