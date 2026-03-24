@@ -43,9 +43,8 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Tiffany Seah</b>
-				<br>Sales Engineer<br>+65 9297 5511<br>
-				<a style="color: white;" href="mailto:sales@bffdistribution.com.sg">sales@bffdistribution.com.sg</a>
+				+65 6755 0993<br>
+				<a style="color: white;" href="mailto:sales@minhiang.com">sales@minhiang.com</a>
 			</p>
 		</div>
 	</div>
