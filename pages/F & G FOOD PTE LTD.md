@@ -28,7 +28,10 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Cooked Food, Meat</span>
 			</p>
 			<p>
-				<b>Certifications: </b>ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>ISO 22000
 			</p>
 			<p>
 				<b>Export Markets: </b>Malaysia, Indonesia
