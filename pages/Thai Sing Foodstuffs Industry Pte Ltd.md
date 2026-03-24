@@ -28,7 +28,10 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified, Tasty Singapore
+				<b>Product Storage Requirements: </b>Ambient
+			</p>
+			<p>
+				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
 			<p>
 				<b>Export Markets: </b>Australia, China, Hong Kong, Indonesia, Malaysia, Qatar, Vietnam
