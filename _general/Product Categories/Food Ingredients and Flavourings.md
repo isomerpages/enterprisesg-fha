@@ -12,18 +12,18 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/2NutsGuy/2nutsguy_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/2NutGuys/2nutguys_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>2NutsGuy Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>2NutGuys Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Manufacturer of premium natural nut butters and nut pastes, supplying bakeries, cafés, hotels, and distributors across Asia.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/2nutsguy">
+			<a target="_blank" href="/2nutguys">
 				<small>Visit their page</small>
 			</a>
 		</p>
