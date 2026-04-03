@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Fragrance Foodstuff Pte Ltd</b></h4>
-			<p>Established in 1969, Fragrance Foodstuff Pte Ltd has grown from a humble pushcart business into a leading food brand in Singapore. With a commitment to quality and innovation, Fragrance specializes in Bak Kwa (barbecued pork), pork floss, and a variety of traditional snacks, delighting customers for over five decades. Today, Fragrance operates 40 retail stores island-wide and serves B2B clients, including hotels, corporate customers, and export partners. The brand is well-recognized for its dedication to authentic flavors, high-quality ingredients, and excellent products.</p>
+			<p>Established in 1969, Fragrance Foodstuff Pte Ltd has grown from a humble pushcart into a leading food brand in Singapore. Committed to quality and innovation, it specializes in Bak Kwa (barbecued pork), pork floss, and a wide range of traditional snacks enjoyed for over five decades. Today, Fragrance operates about 41 retail outlets island-wide and serves B2B clients, including hotels, corporate partners, and export markets, earning a strong reputation for authentic flavors and premium products.</p>
 			<p><a target="_blank" href="https://www.fragrance.com.sg">www.fragrance.com.sg</a></p>
 		</div>
 	</div>
@@ -34,7 +34,7 @@ variant: markdown
 				<b>Certifications: </b>FSSC 22000, HACCP, ISO 22000
 			</p>
 			<p>
-				<b>Export Markets: </b>USA, Canada, Australia, Hong Kong, Indonesia
+				<b>Export Markets: </b>USA, Australia, China, Hong Kong, Indonesia
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, Retailers, Wholesalers, Importers, B2B Partners
@@ -71,8 +71,8 @@ variant: markdown
 			<img src="/images/Fragrance%20Foodstuff/fragrance_foodstuff_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Nyonya Pastries</h6>
-			<p>Fragrance Bak Kwa's Nyonya pastries are handcrafted with authentic flavors and delicate textures, bringing a taste of tradition in every bite. Made with premium ingredients, each pastry is fragrant, buttery, and rich, perfect for sharing or enjoying as a treat.</p>
+			<h6 style="text-transform: uppercase; color: black;">Singapore Snacks</h6>
+			<p>Experience the taste of Singapore with our delicious local snacks! From Salted Egg Fish Skin to Truffle Potato Chips and Chilli Crab Snacks, each bite is bursting with authentic flavors. Perfect for gifting or indulging anytime!</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +89,8 @@ variant: markdown
 			<img src="/images/Fragrance%20Foodstuff/fragrance_foodstuff_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Singapore Snacks</h6>
-			<p>Experience the taste of Singapore with our delicious local snacks! From Salted Egg Fish Skin to Truffle Potato Chips and Chilli Crab Snacks, each bite is bursting with authentic flavors. Perfect for gifting or indulging anytime!</p>
+			<h6 style="text-transform: uppercase; color: black;">Nyonya Pastries</h6>
+			<p>Fragrance Bak Kwa’s Nyonya pastries are handcrafted with authentic flavors and delicate textures. Made with premium ingredients, each pastry is fragrant, buttery, and rich—perfect for sharing or enjoying as a delicious treat.</p>
 		</div>
 	</div>
 </div>
