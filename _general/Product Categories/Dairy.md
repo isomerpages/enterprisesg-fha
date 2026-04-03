@@ -138,6 +138,27 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ninja%20Logistics/ninja_logistics_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ninja Logistics Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Last-mile logistics company backed by investors including GeoPost, Alibaba Group, and B Capital Group.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ninja-logistics">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/ice_cream_cookie_logo.png">
 		</figure>
 	</div>
@@ -159,18 +180,18 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ninja%20Logistics/ninja_logistics_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/The%20French%20Farm/the_french_farm_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Ninja Logistics Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>The French Farm Co Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Last-mile logistics company backed by investors including GeoPost, Alibaba Group, and B Capital Group.</small>
+			<small>Milk and processed Sliced Cheese.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/ninja-logistics">
+			<a target="_blank" href="/the-french-farm">
 				<small>Visit their page</small>
 			</a>
 		</p>
