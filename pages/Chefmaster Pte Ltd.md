@@ -11,8 +11,8 @@ description: ""
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Chefmaster Pte Ltd</b></h4>
-			<p>Brand owner of range of pastes and sauces.</p>
-			<p><a target="_blank" href="https://www.facebook.com/DancingChefOnline">www.facebook.com/DancingChefOnline</a></p>
+			<p>Chefmaster is the brand owner of Dancing Chef Pastes &amp; Sauces. Dancing Chef offers a range of ready-to-cook pastes and sauces from 6 Asian countries, including Singapore, Indonesia, Thailand, China, India and South Korea. Made with an emphasis on quality ingredients, authenticity and great taste, Dancing Chef pastes contain no MSG, no preservatives and no artificial colouring. Dancing Chef pastes and sauces are made in our BRC Grade-A certified factory in Thailand.</p>
+			<p><a target="_blank" href="https://www.instagram.com/dancingchef_sg">www.instagram.com/dancingchef_sg</a></p>
 		</div>
 	</div>
 </div>
@@ -31,7 +31,7 @@ description: ""
 				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Certifications: </b>BRC, HALAL
+				<b>Certifications: </b>BRC
 			</p>
 			<p>
 				<b>Export Markets: </b>Malaysia, China, Indonesia
@@ -62,8 +62,8 @@ description: ""
 			<img src="/images/Chefmaster/chefmaster_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Dancing Chef Green Curry Paste</h6>
-			<p>Ready-to-cook green curry paste with no MSG, preservatives or artificial colouring. Green Curry is the quintessential Thai dish made with fresh green chillies and scented with an aromatic blend of herbs and spices.</p>
+			<h6 style="text-transform: uppercase; color: black;">Green Curry Paste</h6>
+			<p>Dancing Chef Green Curry Paste is a best-seller, known for its great taste and authenticity. The paste is easy to use in just a few steps. It contains no MSG, preservatives or artificial colouring.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -71,8 +71,8 @@ description: ""
 			<img src="/images/Chefmaster/chefmaster_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Dancing Chef Singapore Laksa Paste</h6>
-			<p>Ready-to-cook Singapore style Laksa paste with no MSG, preservatives or artificial colouring. Laksa is a popular noodle soup from Peranakan culture, which is a merger of Malay and Chinese elements, found in Singapore and Malaysia.</p>
+			<h6 style="text-transform: uppercase; color: black;">Singapore Laksa Paste</h6>
+			<p>One of the most popular noodle dishes in Singapore, the Singapore Laksa Paste contains no MSG, preservatives or artificial colouring. It provides all the taste and aroma of traditional Laksa easily and quickly.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,8 +80,8 @@ description: ""
 			<img src="/images/Chefmaster/chefmaster_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Dancing Chef Padang Rendang Paste</h6>
-			<p>Ready-to-cook Padang Rendang Paste with no MSG, preservatives or artificial colouring. Padang Rendang is a dry simmered meat curry, rich in the flavours of herbs, spices and coconut that define West Sumatran cuisine.</p>
+			<h6 style="text-transform: uppercase; color: black;">Butter Chicken Paste</h6>
+			<p>Rich yet balanced in the aroma of spices, the Butter Chicken Paste contains no MSG, preservatives or artificial colouring. It makes a full-flavoured dish of one of the most popular curry dishes.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -89,8 +89,8 @@ description: ""
 			<img src="/images/Chefmaster/chefmaster_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Dancing Chef Butter Chicken Paste</h6>
-			<p>Ready-to-cook Butter Chicken Paste with no MSG, preservatives or artificial colouring. This is a creamy, tomato-based dish which has become one of the most popular curries the world over.</p>
+			<h6 style="text-transform: uppercase; color: black;">Hainanese Chicken Rice Paste</h6>
+			<p>Made with no MSG, preservatives or artificial colouring, the paste  is easy and quick to use in making an authentically flavourful and aromatic Hainanese Chicken Rice, commonly considered the national dish of Singapore.</p>
 		</div>
 	</div>
 </div>

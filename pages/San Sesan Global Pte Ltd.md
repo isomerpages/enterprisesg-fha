@@ -7,12 +7,11 @@ description: ""
 <div class="flex-paragraph">
 	<div style="display: flex; flex-wrap: wrap;" class="flex-container">
 		<div style="flex: 1 1 40%; display: block;" class="card sgds">
-			<img src="/images/San%20Sesan/san_sesan_logo.jpg">
+			<img src="/images/San%20Sesan/san_sesan_logo.png">
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>San Sesan Global Pte Ltd</b></h4>
-			<p>A passion in introducing food brands to Singapore has grown San SeSan into an iconic player in the distributor landscape. An all-encompassing framework of services and solutions has led to successful brands in the market.</p>
-			<p>San SeSan is leading high-performance distributor that constantly evolves its solutions through technology.</p>
+			<p>A Singapore-based food distributor and brand builder, established in 2003, specializing in wholesale trade and the introduction of international food brands into Singapore's retail landscape. The company is known for its strong retail network and two decades of experience in brand development. A committed team offering tailored solutions for partners and retailers, as well as supporting marketing campaigns, product localization, and consumer engagement.</p>
 			<p><a target="_blank" href="https://www.sansesan.com">www.sansesan.com</a></p>
 		</div>
 	</div>
@@ -26,16 +25,19 @@ description: ""
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces</span>
+				<span style="background-color: pink; border-radius: 10px;">Condiments and Sauces, Food Ingredients / Flavourings</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, HACCP Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Australia, Brunei, Canada, China, Hong Kong, Indonesia, South Korea, New Zealand, Philippines, Taiwan, USA, United Kingdom, Vietnam
+				<b>Certifications: </b>HACCP, HALAL
+			</p>
+			<p>
+				<b>Export Markets: </b>Brunei, Hong Kong, China, Korea, Australia, Canada, UK
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players
+				<b>Looking for: </b>Food Distributors, HoReCa, Food Service Suppliers / Players
 			</p>
 		</div>
 	</div>
@@ -43,9 +45,9 @@ description: ""
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Christine Lim</b>
-				<br>Managing Director<br>+65 9859 0103<br>
-				<a style="color: white;" href="mailto:christine@sansesan.com">christine@sansesan.com</a>
+				<b>Amanda Wong</b>
+				<br>Brand Manager<br>+65 6532 3839<br>
+				<a style="color: white;" href="mailto:amanda@sansesan.com">amanda@sansesan.com</a>
 			</p>
 		</div>
 	</div>
@@ -60,8 +62,8 @@ description: ""
 			<img src="/images/San%20Sesan/san_sesan_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Crispy Prawn Chilli</h6>
-			<p>Ready-to-eat Chilli Condiments</p>
+			<h6 style="text-transform: uppercase; color: black;">Heng's Flounder Fish and Prawn Stock Powder</h6>
+			<p>Heng's Flounder Fish and Prawn Stock deliver rich, authentic seafood flavour in a convenient powder form, crafted for professional kitchens to enhance soups, broths, and dishes with consistent taste, efficiency, and ease of preparation.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -69,8 +71,17 @@ description: ""
 			<img src="/images/San%20Sesan/san_sesan_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Fried Shallot in Canola Oil</h6>
-			<p>Ready-to-eat Condiments</p>
+			<h6 style="text-transform: uppercase; color: black;">Heng's Crispy Chilli</h6>
+			<p>Heng's Crispy Chilli blends crunchy texture with bold heat, crafted for professional kitchens to elevate dishes with authentic Asian flavour. Convenient and versatile, it adds consistency, efficiency, and irresistible taste to every recipe.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/San%20Sesan/san_sesan_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Heng's Fried Onion &amp; Shallots</h6>
+			<p>Heng's Fried Onion &amp; Shallots bring rich aroma and crisp texture to dishes, crafted for professional kitchens to ensure authentic flavour, consistency, and convenience, enhancing stir-fries, rice, noodles, and soups effortlessly.</p>
 		</div>
 	</div>
 </div>

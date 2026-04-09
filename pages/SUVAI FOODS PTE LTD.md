@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Suvai Foods Pte Ltd</b></h4>
-			<p>Singapore-based food manufacturing company established in 2012. Proud to be pioneers in providing MUIS Halal-certified, 100% vegetarian, and ISO-certified products. Suvai Foods began its journey with Dosa (Thosai) batter and has since expanded to offer over 80 healthy food products. The name 'Suvai' means 'Tasty' in Tamil, reflecting our commitment to delicious and wholesome offerings.</p>
+			<p>Suvai Foods commenced operations in Singapore in 2012 and has since grown into a trusted name in the food manufacturing industry. As a proudly local company, we are committed to delivering high-quality, fully vegetarian products that cater to diverse consumer needs. We operate with stringent quality and compliance standards, holding Halal certification and internationally recognized ISO certifications, ensuring that our products meet the highest benchmarks of safety, hygiene, and consistency.</p>
 			<p><a target="_blank" href="https://www.suvaifoods.com">www.suvaifoods.com</a></p>
 		</div>
 	</div>
@@ -25,16 +25,19 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p>
 				<b>Product Category: </b>
-				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
+				<span style="background-color: pink; border-radius: 10px;">Beverage, Cooked Food, Snacks and Confectionery</span>
 			</p>
 			<p>
-				<b>Product Storage Requirements: </b>Ambient
+				<b>Product Storage Requirements: </b>Ambient, Chilled, Frozen
 			</p>
 			<p>
 				<b>Certifications: </b>HALAL, ISO 22000
 			</p>
-			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Wholesalers, Importers, B2B Partners
+			<p>
+				<b>Export Markets: </b>Hong Kong
+			</p>
+			<p style="margin-bottom: 10px;">Food Distributors, HoReCa, Retailers, Wholesalers, Importers, B2B Partners
+				<b>Looking for: </b>
 			</p>
 		</div>
 	</div>
@@ -42,7 +45,7 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Shahul Hameed</b>
+				<b>Shahul Hameed Wavoo</b>
 				<br>Director<br>+65 9448 4000<br>
 				<a style="color: white;" href="mailto:suvaifoodspteltd@gmail.com">suvaifoodspteltd@gmail.com</a>
 			</p>
@@ -59,8 +62,35 @@ variant: markdown
 			<img src="/images/Suvai%20Foods/suvai_foods_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">Karak Chai Ranges</h6>
-			<p>Our Karak Masala Chai and other Chai ranges are uniquely made loaded with health benefits and rich authentic taste. It has long shelf-life and very much demand in Gulf countries.</p>
+			<h6 style="text-transform: uppercase; color: black;">Masala Chai Premix (3 in 1)</h6>
+			<p>A convenient, ready-to-make masala tea blend combining dairy whitener, sugar, tea extract, and spice extracts. Just add hot water to enjoy flavorful cup of authentic Indian masala tea anytime, without the need for additional ingredients.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Suvai%20Foods/suvai_foods_product_02.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Qunioa &amp; Brown Rice Dosa (Thosai)</h6>
+			<p>Wholesome and nutritious dosa batter made from premium healthy ingredients. Naturally fermented to create a smooth, ready-to-cook batter for crispy, golden dosas with a soft interior. Perfect for a healthy breakfast.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Suvai%20Foods/suvai_foods_product_03.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Pappadum</h6>
+			<p>Crispy and authentic Indian pappadums made from premium urad dal flour, rice flour, salt, and coconut oil. Perfect for frying or roasting, these appalams add a crunchy, flavorful accompaniment to any meal.</p>
+		</div>
+	</div>
+	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+		<div style="display: block;" class="flex-image">
+			<img src="/images/Suvai%20Foods/suvai_foods_product_04.jpg">
+		</div>
+		<div class="flex-paragraph">
+			<h6 style="text-transform: uppercase; color: black;">Freshly Cooked Chapati</h6>
+			<p>Freshly cooked chapati made from premium whole wheat flour, lightly seasoned with salt and blended with water and canola &amp; oilve oil for a soft, pliable texture. Ready-to-eat, these chapatis are perfect for everyday meals or wholegrain wrap.</p>
 		</div>
 	</div>
 </div>

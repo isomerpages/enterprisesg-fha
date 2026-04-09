@@ -411,27 +411,6 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Origins%20Healthcare/origins_healthcare_logo.jpg">
-		</figure>
-	</div>
-	<div class="sgds-card-content">
-		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Origins Healthcare Pte Ltd</strong></p>
-		</figure>
-		<p>
-			<small>Origins Healthcare Pte Ltd is the export entity for the FairPrice Group.</small>
-		</p>
-		<p>
-			<a target="_blank" href="/origins-healthcare">
-				<small>Visit their page</small>
-			</a>
-		</p>
-	</div>
-</div>
-
-<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
-	<div style="margin-top: 15px" class="sgds-card-image">
-		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
 			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Prima%20Food/prima_food_logo.png">
 		</figure>
 	</div>
@@ -474,7 +453,7 @@ third_nav_title: Product Categories
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/San%20Sesan/san_sesan_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/San%20Sesan/san_sesan_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
@@ -482,10 +461,31 @@ third_nav_title: Product Categories
 			<p style="text-transform: uppercase;"><strong>San Sesan Global Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Distributor of Heng's of seasoning, condiments and paste.</small>
+			<small>Food distributor and brand builder, specializing in wholesale trade and the introduction of international food brands into Singapore's retail landscape.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/san-sesan">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Seahs%20Spices/seahs_spices_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Seah's Spices Food Industries Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and supplier of authentic Singapore Style Oriental Taste mixes.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/seahs-spices">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -633,6 +633,27 @@ third_nav_title: Product Categories
 		</p>
 		<p>
 			<a target="_blank" href="/thai-sing-foodstuffs">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/TopChoice/topchoice_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>TopChoice Food Industries (S) Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Manufacturer and distributor of premium quality ready-to-eat food products.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/topchoice">
 				<small>Visit their page</small>
 			</a>
 		</p>

@@ -12,18 +12,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/2NutsGuy/2nutsguy_logo.png">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/2NutGuys/2nutguys_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>2NutsGuy Pte Ltd</strong></p>
+			<p style="text-transform: uppercase;"><strong>2NutGuys Pte Ltd</strong></p>
 		</figure>
 		<p>
 			<small>Manufacturer of premium natural nut butters and nut pastes, supplying bakeries, cafés, hotels, and distributors across Asia.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/2nutsguy">
+			<a target="_blank" href="/2nutguys">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -96,18 +96,18 @@ variant: markdown
 <div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
 	<div style="margin-top: 15px" class="sgds-card-image">
 		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
-			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/bakers_oven_logo.jpg">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Bakers%20Oven/bakers_oven_logo.png">
 		</figure>
 	</div>
 	<div class="sgds-card-content">
 		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
-			<p style="text-transform: uppercase;"><strong>Baker's Oven Patisseries</strong></p>
+			<p style="text-transform: uppercase;"><strong>Baker's Oven Pattisieries</strong></p>
 		</figure>
 		<p>
 			<small>Manufacturer of frozen dough, bakery and confectionery products.</small>
 		</p>
 		<p>
-			<a target="_blank" href="/bakers-oven-pattisieries">
+			<a target="_blank" href="/bakers-oven">
 				<small>Visit their page</small>
 			</a>
 		</p>
@@ -318,6 +318,27 @@ variant: markdown
 		</p>
 		<p>
 			<a target="_blank" href="/hotbake-innovations">
+				<small>Visit their page</small>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
+	<div style="margin-top: 15px" class="sgds-card-image">
+		<figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;" class="sgds-image">
+			<img style="object-fit: scale-down; max-width: 100%; max-height: 100%;" src="/images/Ipraise/ipraise_logo.png">
+		</figure>
+	</div>
+	<div class="sgds-card-content">
+		<figure style="display: flex;justify-content: center;flex-direction: column;" class="sgds-content">
+			<p style="text-transform: uppercase;"><strong>Ipraise Pte Ltd</strong></p>
+		</figure>
+		<p>
+			<small>Artisan confectionery and frozen desserts feature Singapore's most iconic symbols in precision 3D form.</small>
+		</p>
+		<p>
+			<a target="_blank" href="/ipraise">
 				<small>Visit their page</small>
 			</a>
 		</p>

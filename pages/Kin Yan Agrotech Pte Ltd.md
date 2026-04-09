@@ -46,7 +46,7 @@ variant: markdown
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
 				<b>Ernest Chan</b>
-				<br>Deputy General Manager<br>+65 9271 4556<br>
+				<br>Deputy General Manager<br>
 				<a style="color: white;" href="mailto:ernest.chan@kinyan.sg">ernest.chan@kinyan.sg</a>
 			</p>
 		</div>

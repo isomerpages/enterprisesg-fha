@@ -11,7 +11,7 @@ variant: markdown
 		</div>
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Unifood International (S) Pte Ltd</b></h4>
-			<p>Manufactuer and Distributor of instant Soy Milk Powder.</p>
+			<p>Established in 1994, the company started as a wholesale trading company, specialising in the supply of 7th Month Festival food packages and hampers. Since then, Unifood International has becomes a customer-centric company to serve customer everyday needs with our homegrown FMCG brands like UNISOY, LeSOY and the others distribution services to businesses. All these we do so that our products can be a better choice of nutritious food and beverage that impact billion lives for a better health.</p>
 			<p><a target="_blank" href="https://www.unisoy.com.sg">www.unisoy.com.sg</a></p>
 		</div>
 	</div>
@@ -28,13 +28,16 @@ variant: markdown
 				<span style="background-color: pink; border-radius: 10px;">Beverage</span>
 			</p>
 			<p>
-				<b>Certifications: </b>Halal Certified, ISO 22000 Certified
+				<b>Product Storage Requirements: </b>Ambient
 			</p>
 			<p>
-				<b>Export Markets: </b>Brunei, Malaysia, Indonesia,Philippines, Cambodia, Myanmar, Vietnam, Austalia, New Zealand, China, HongKong, Taiwan, Kuwait, Nigeria
+				<b>Certifications: </b>HALAL, ISO 22000
+			</p>
+			<p>
+				<b>Export Markets: </b>Malaysia, New Zealand, Australia, Vietnam, China, Indonesia
 			</p>
 			<p style="margin-bottom: 10px;">
-				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Importers, Food Service Suppliers / Players, B2B Partners, OEM Manufacturer
+				<b>Looking for: </b>Food Distributors, Retailers, Importers
 			</p>
 		</div>
 	</div>
@@ -42,9 +45,9 @@ variant: markdown
 		<h4 style="color: white; margin-top: 10px; margin-left: 10px;">CONTACT</h4>
 		<div class="flex-paragraph">
 			<p style="padding: 10px; color: white;">
-				<b>Jasmine Lin</b>
-				<br>Business Development Manager<br>+65 9766 7790<br>
-				<a style="color: white;" href="mailto:jasmine.lin@unifood.com.sg">jasmine.lin@unifood.com.sg</a>
+				<b>David Chua</b>
+				<br>Commercial Head<br>+65 9646 4333<br>
+				<a style="color: white;" href="mailto:david.chua@unifood.com.sg">david.chua@unifood.com.sg</a>
 			</p>
 		</div>
 	</div>
@@ -59,8 +62,8 @@ variant: markdown
 			<img src="/images/Unifood%20International/unifood_international_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">UNISOY Nutritious Soya Milk Powder</h6>
-			<p>A perfect blend of soy goodness made from 100% non-GMO de-skinned soybeans to reduce beanny taste. UNISOY Soya Milk Powder is creamy in taste and texture without compromising on nutrition which are suitable for people who are lactose intolerant.</p>
+			<h6 style="text-transform: uppercase; color: black;">UNISOY Nutritious Soy Milk Powder</h6>
+			<p>UNISOY Nutritious Soy Milk Powder is made from 100% non-GMO deskinned soybeans, providing you with a high-quality product that is rich in calcium and smooth in taste. Cholesterol-free, Lactose-Free &amp; Trans-Fat-Free.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,8 +71,8 @@ variant: markdown
 			<img src="/images/Unifood%20International/unifood_international_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">UNISOY Gold Black Soy Milk Powder</h6>
-			<p>A perfect blend of soy goodness made from 100% non-GMO de-skinned black soybeans to reduce beanny taste. Black beans are a rich source of antioxidants and contains Vitamin E and magnesium that helps protect cells in the body.  It's the perfect choice for a cup of wholesome and creamy soy milk that delights your soy experience every time.</p>
+			<h6 style="text-transform: uppercase; color: black;">UNISOY GOLD Nutritious Black Soy Milk</h6>
+			<p>Black soybeans work wonders as antioxidants, helping to protect body cells. It's made from 100% premium non-GMO de-skinned black soybeans, enriching your life with VitaminE and Magnesium, which aid in the absorption and retention of calcium.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -77,8 +80,8 @@ variant: markdown
 			<img src="/images/Unifood%20International/unifood_international_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">UNISOY Instant Nutritious Soy Oatmeal</h6>
-			<p>Fuel your body with the energy it needs to get work done with UNISOY Instant Nutritious Soy Oatmeal. This beverage is made with 100% non-GMO de-skinned soybeans and 40% wholegrains with a perfect balance of rich flavour and creamy texture. Healthier never tasted so good!</p>
+			<h6 style="text-transform: uppercase; color: black;">UNISOY Soy Pudding Premix</h6>
+			<p>Discover the goodness of soy pudding premixed made from 100% de-skinned non-GMO soybeans, with lower sugar content and naturally cholesterol-free. Perfect for those who enjoy the nutritional benefits of soy in a delicious and convenient way.</p>
 		</div>
 	</div>
 </div>

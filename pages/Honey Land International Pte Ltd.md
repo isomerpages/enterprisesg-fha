@@ -31,7 +31,7 @@ variant: markdown
 				<b>Product Storage Requirements: </b>Ambient, Chilled
 			</p>
 			<p>
-				<b>Certifications: </b>HALAL
+				<b>Certifications: </b>Gluten Free, HALAL, Kosher
 			</p>
 			<p style="margin-bottom: 10px;">
 				<b>Looking for: </b>Food Distributors, HoReCa, Retailers, Wholesalers, E-commerce, Food Service Suppliers / Players, B2B Partners
@@ -59,8 +59,8 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_01.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PARAGON Timur Berry Cordial</h6>
-			<p>This Nepalese pepper is picked from small trees from the Zanthoxylum armatum species, which grow in the wild in the Mahabharat mountain range. With its fresh and citrus notes it is easy to see why some call it the grapefruit pepper.</p>
+			<h6 style="text-transform: uppercase; color: black;">MONIN Earl Grey Syrup</h6>
+			<p>A smooth and elegant blend that captures the delicate essence of black tea infused with fragrant bergamot. It's subtly floral and gently citrusy, adding depth and character sophisticatedly to a variety of creations.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -68,11 +68,8 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_02.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PARAGON Rue Berry Cordial</h6>
-			<p>Rue comes from the Ruta chalepensis plant, grown in tropical Africa and more specifically in Ethiopia where it's used as an herb or medicinal plant.</p>
-			<p>This shrub which can reach up to 1.5m, grows best at altitudes of between 1,500 and 2,000m in full sunlight. The foliage has a powerful aromatic and sweet scent; whilst the berries have a stronger and spicier taste.</p>
-			<p>The "kuti", an infusion using coffee leaves, is traditionally flavoured with fresh Ruta chalepensis leaves and some local cheeses are made using these leaves to add flavour to the milk. The berries are used in the renowned Ethiopian berbere blend of spices.</p>
-			<p>The leaves, once dried and crushed, make an excellent insect repellent.</p>
+			<h6 style="text-transform: uppercase; color: black;">MONIN Pistachio Syrup</h6>
+			<p>A perfect balance of creamy sweetness and roasted depth. Crafted from authentic pistachio extract, it captures the true essence of the beloved nut, adding sophistication to any creation.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -80,12 +77,8 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_03.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">PARAGON White Penja Pepper Cordial</h6>
-			<p>White Penja Pepper is harvested when ripe in the province of Moungo (Cameroon) and then dried in the sun.</p>
-			<p>All the production stages (harvesting, retting, washing, drying, sorting) are entirely carried out by hand mainly by the experienced hands of the local village women. Penja Pepper has gained worldwide gastronomic reputation.</p>
-			<p>In 2014 it became the first product of the African continent to obtain Protected Geographic Indication status (PGI).</p>
-			<p>The volcanic soils of Penja give the white pepper its fresh aromas of menthol and camphor.</p>
-			<p>Hand-picked and then fermented white peppers with singular animal notes, growing on the volcano soils of the Penja valley in Cameroun.</p>
+			<h6 style="text-transform: uppercase; color: black;">MONIN Vanilla Sugar-Free Syrup</h6>
+			<p>MONIN Vanilla Sugar-Free Syrup captures the warm, inviting aroma of Madagascar vanilla beans, bottled like a magic potion to elevate coffee, tea, desserts, and more without the added sugar.</p>
 		</div>
 	</div>
 	<div style="flex: 1 1 47%; margin: 10px; display: block;" class="card sgds">
@@ -93,9 +86,8 @@ variant: markdown
 			<img src="/images/Honey%20Land%20International/honey_land_international_product_04.jpg">
 		</div>
 		<div class="flex-paragraph">
-			<h6 style="text-transform: uppercase; color: black;">MONIN Vanilla Sugar-Free Syrup</h6>
-			<p>Indulge in the pure, creamy essence of vanilla without the added sugar thanks to MONIN Vanilla Sugar-Free Syrup.</p>
-			<p>This delightful syrup captures the warm, inviting aroma of Madagascar vanilla beans, bottled like a magic potion to elevate your coffee, tea, desserts, and more.</p>
+			<h6 style="text-transform: uppercase; color: black;">PARAGON Rue Berry Cordial</h6>
+			<p>Rue comes from the Ruta chalepensis plant, grown in tropical Africa and more specifically in Ethiopia. The foliage has a powerful aromatic and sweet scent; whilst the berries have a stronger and spicier taste.</p>
 		</div>
 	</div>
 </div>
