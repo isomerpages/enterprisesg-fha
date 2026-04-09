@@ -692,7 +692,7 @@ variant: markdown
 			<p style="text-transform: uppercase;"><strong>OTS International Pte Ltd</strong></p>
 		</figure>
 		<p>
-			<small>Manufacturer of luncheon meat and Chinese-style cured sausages.</small>
+			<small>Manufacturer of processed food - Chinese waxed sausages, canned meat, Taiwanese-style sausages, European-style chilled sausages, hams and cold cut.</small>
 		</p>
 		<p>
 			<a target="_blank" href="/ots-international">
