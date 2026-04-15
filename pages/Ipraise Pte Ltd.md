@@ -12,7 +12,7 @@ description: ""
 		<div style="flex: 1 1 58%; display: block; margin-left: 3px" class="card-sgds">
 			<h4 style="text-transform: uppercase; color: black;"><b>Ipraise Pte Ltd</b></h4>
 			<p>IPRAISE PTE. LTD. is a Singapore-based IP commercialisation company transforming cultural and tourism IPs into premium creative food products. Our artisan confectionery and frozen desserts feature Singapore's most iconic symbols in precision 3D form. Products are retailed at Resorts World Sentosa, Universal Studios Singapore, Singapore Cable Car, Gardens by the Bay, and Mandai Wildlife Reserve. From IP to Product.</p>
-			<p><a target="_blank" href="https://www.ipraises.sg">www.ipraises.sg</a></p>
+			<p><a target="_blank" href="https://www.ipraise.sg">www.ipraise.sg</a></p>
 		</div>
 	</div>
 </div>
